@@ -1,2 +1,4 @@
-# Bridging sustainability and digital development - the book
+# Bridging sustainability and digital development
+
+The manuscript for the book. 
 

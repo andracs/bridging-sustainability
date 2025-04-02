@@ -6,3 +6,12 @@
 3-The-impact-of-digitalization.md
 4_Part-two.md
 4-Digital-design-with-sustainability.md
+5-Sustainability-as-a-guiding-principle-in-software development.md
+6-Not-quite-sustainable-hardware-and-IT-operations.md
+7-Wellness-well-being-and-digitalization.md
+8_Part-three.md
+8-Digital-counter-growth.md
+9-Sustainable-digital-business.md
+10-Towards-a-greener-healthier-and-brighter-digital-future.md
+11-Appendix.md
+12-Bibliography.md

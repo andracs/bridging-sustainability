@@ -1,4 +1,4 @@
-4. Digital design with sustainability
+# 4. Digital design with sustainability
 This chapter discusses how we can design and develop digital solutions that both fulfill their purpose and are sustainable in the long term according to the five dimensions of the Karlskrona Manifesto.
 Design that does good - also in the long term
 Digital projects often begin with an idea, which through design, engineering and innovation becomes digital solutions or products. It is in the design phase where many of the products' characteristics are pre-determined and where a foundation for the digital product is built. Therefore, it is crucial to address the five dimensions of sustainability already in the design phase of a product so that sustainability becomes an inherent, built-in and organic part of it, rather than just an add-on later. It's also a fact that it's cheaper and more efficient to design a digital product with sustainability built in from the start than trying to rebuild the product in a more sustainable direction later.

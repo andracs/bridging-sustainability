@@ -1,4 +1,4 @@
-2. Critical thinking, systems theory and network theory
+# 2. Critical thinking, systems theory and network theory
 In this chapter, we will delve into systems thinking and network theory. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. Systems thinking and network theory help us to think holistically and include the most important sustainability aspects when developing digital technologies. Critical thinking helps us find essential connections and details in our work.
 We go through some selected and general aspects of both systems theory and network theory to give you tools that you can use in your work with digital sustainability. At the same time, we invite you to bring your intellect into play by thinking critically, analytically and systemically in relation to your practice with digital and sustainability issues.
 Systems theory

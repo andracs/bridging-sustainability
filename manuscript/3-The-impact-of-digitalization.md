@@ -1,4 +1,4 @@
-3. The impact of digitalization on environment and society
+# 3. The impact of digitalization on environment and society
 This chapter discusses the connection between the negative effects of digitalization on the one hand and its benefits to society on the other. It provides an insight into how IT and digitalization affect the environment and society today.
 The chapter is structured to start with hardware, move on to networks and cloud and finish with software, exploring their relation to sustainability. As an introduction to the chapter, you can read a concrete example of how modern technology has transformed the space around the Earth from a pristine area to a kind of explosive landfill in just a few decades.
 The world space, which was contaminated on shortly

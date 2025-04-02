@@ -1,28 +1,23 @@
-# Introduction to sustainability
+# 1. Sustainability: basic concepts
 
-Sustainability: basic concepts
 In order to base our digital work on solid and proven science, we need to understand some selected fundamental concepts sustainability. In this first chapter, we will therefore go through the concepts that can provide us with a sustainability foundation and a vocabulary that can qualify our work with the subject.
+
 At the same time, the ambition of the chapter is to give you insight into the great complexity that you must be able to handle when working with sustainability. There are concepts from many different scientific fields, such as biology, geology, physics, chemistry, law, economics and social sciences. In sustainability work, these different areas are intertwined, which requires a holistic approach from those of us working with the digital aspects of sustainability.  
-[A graphic insert page about the concepts. NOTE - check that concepts match the headings after proofreading]
-The age of the Anthropocene
-Sixth great mass extinction
-The big acceleration
-The planetary boundaries
-Climate change
-Information technology and digitization
-The individual's responsibility
  
-Why is sustainability hot right now?
-The age of the Anthropocene
+## Why is sustainability hot right now?
+
+### The age of the Anthropocene
 The Anthropocene is the name given to the epoch from the 20th century onwards, where human activities are now affecting life on Earth to such an extent that it is causing both local and global changes in the state of the Earth.  The human emission of greenhouse gases is a case in point. The consequences are enormous for soil, plant and animal life, and thus also human life.
+
 In the past, geological processes had the greatest influence on life on Earth and the shape of the planet, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape to a degree comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The Anthropocene Age heralds new times where humanity is not only responsible for its own future, but also holds the future of the entire planet in its hands.
-Sixth great mass extinction
+### Sixth great mass extinction
 In biology and ecology, we are also witnessing a historical and global event that scientists call the sixth great mass extinction , a process in which the majority of the Earth's different animal species go extinct (within centuries). This can be compared to the period when the dinosaurs went from being the dominant species on Earth to mass extinction.
 The Sixth Great Extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear (Urban 2024). As with the Anthropocene Age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
-The big acceleration
-[Figure inserted from file with all figures]
- 
-Figure 1.1 The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.
+### The great acceleration
+
+![alt text](resources/1.1.png "Figure 1.1 The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.")
+
+
 Some scientists believe that global change began with industrialization in the 1800s, but only accelerated after the 1950s. That global change is accelerating and that we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes (Steffen et al. 2015).
 The theory is called the Great Acceleration , and the researchers behind the theory see the Earth as a system , where everything is connected and where one change requires another, as shown in Figure 1.1. Over the past many thousands of years, the Earth's systems have been able to balance between states that were mainly favorable to life on Earth, but many fear that the Earth's systems will become seriously out of balance if we continue to accelerate development.
 The planetary boundaries

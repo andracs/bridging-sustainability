@@ -5,4 +5,5 @@
 - Migrate stuff to Codeberg
 - Clarify intentions - better introduction! 
 - Remove Tweet this book
+
 - Eftergå og link referencer

@@ -1,4 +1,4 @@
-# PART 2
+# Part two
 
 The second part of the book, chapters 4 to 7, looks ahead and outlines practical approaches on how sustainability can be mastered and promoted in digital projects. Among other things, you'll get answers to the following questions:
 

@@ -127,9 +127,13 @@ Santini, Z.I., Thygesen, L.C., Andersen, S. et al. (2024). Social media addictio
 Shrimangale, V. (2024). Project Stargate By Microsoft and OpenAI. Medium, June 11. https://medium.com/@shrimangalevallabh789/project-stargate-by-microsoft-and-openai-fe97e41fca57
 Silberman, M.S. & Tomlinson, B. (2010). Precarious Infrastructure and Postapocalyptic Computing. Examining Appropriation, Re-use, and Maintenance for Sustainability, workshop at CHI 2010.
 Sobolev, M. & Lesic, V. (2022). Online Choice Architecture: The Good, The Bad, and The Complicated. CPI, October 31. https://www.competitionpolicyinternational.com/online-choice-architecture-the-good-the-
-Steffen, W., Broadgate, W., Deutsch, L. and others (2015). The trajectory of the Anthropocene: The Great Acceleration. The Anthropocene Review, 2(1), 81-98. https://doi.org/10.1177/2053019614564785
+
+!!OK!! Steffen, W., Broadgate, W., Deutsch, L. and others (2015). The trajectory of the Anthropocene: The Great Acceleration. The Anthropocene Review, 2(1), 81-98. https://doi.org/10.1177/2053019614564785
+
 Stern, B. (2013). The Ethics of Saving Lives With Autonomous Cars Are Far Murkier Than You Think. Wired.Com, 1-7.
-Stockholm Resilience Center (2012). Planetary boundaries. September 19. https://www.stockholmresilience.org/research/planetary-boundaries.html
+
+!!OK!!  Stockholm Resilience Center (2012). Planetary boundaries. September 19, 2024. https://www.stockholmresilience.org/research/planetary-boundaries.html
+
 Strarup, B. (2022). 37 websites under Russian media are now blocked. Mediawatch, March 18. https://mediawatch.dk/Medienyt/Web/article13842095.ece
 SustainableIT.org (n.d.). IT Standards for Environmental, Social, and Governance Sustainability. https://www.sustainableit.org/standards/it-esg-standards
 Switzer, J., Marcano, G., Kastner, R., et al. (2023). Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon. Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, 400-412. https://doi.org/10.1145/3575693.3575710
@@ -140,7 +144,9 @@ United Nations (n.d.). Big Data for Sustainable Development. Big Data for Sustai
 United Nations (2024). Global Course 'Is Unsustainable', Secretary-General Stresses to General Assembly, But with Dialogue, Compromise 'We Can Choose the Future We Want'. Meetings Coverage and Press Releases. https://press.un.org/en/2024/sgsm22378.doc.htm (accessed 01.03.25).
 United Nations University (2024). Global E-Waste Surging: Up 21% in 5 Years. Press release, February 20. https://unu.edu/press-release/global-e-waste-surging-21-5-years
 University of Glasgow (n.d.). Low carbon and sustainable computing. School of Computing Science. https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/ (accessed 09.05.24).
-Urban, M.C. (2024). Climate change extinctions. Science, 386(6726), 1123-1128.
+
+!!OK!! Urban, M.C. (2024). Climate change extinctions. Science, 386(6726), 1123-1128.
+
 U.S. Surgeon General (2023). Social Media and Youth Mental Health. https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf
 Vanderbauwhede, W. (2023). Frugal Computing - On the need for low-carbon and sustainable computing and the path towards zero-carbon computing. No. arXiv:2303.06642. http://arxiv.org/abs/2303.06642
 Videnskab.dk (2024, June 27). What does green growth mean? And who came up with it? https://videnskab.dk/kultur-samfund/hvad-betyder-groen-vaekst-og-hvem-fandt-paa-det/

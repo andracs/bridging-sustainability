@@ -1,8 +1,7 @@
-Frontpage
+
+
+- Frontpage Credit 
 https://unsplash.com/photos/a-close-up-view-of-a-patch-of-grass-cn8bE9Tvsac
-
-
-
 - Remove Tweet this book
 
 - Clarify intentions - better introduction! 

@@ -7,7 +7,17 @@ The goal of this chapter is to give you a glimpse of the great complexity which 
 When working with sustainability, these different disciplines are intertwined, requiring a holistic approach from those of us working with the digital aspects of sustainability.
 ## Why is sustainability important right now?
 
-Let's go through some weighty theories that empasize the urgency of taking action for sustainability in all areas, including the digital.
+Let's go through some weighty theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
+
+- [The Anthropocene](#Anthropocene)
+- [Mass extinction](#mass-extinction)
+- Great Acceleration
+- Planetary boundaries
+- Climate change
+- Digital transformation
+- Your responsibility
+
+{#Anthropocene}
 ### 🛣️ This is the age of the Anthropocene
 The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to such an extent that they are causing both local and global changes in the global state of the Earth.  
 
@@ -16,6 +26,8 @@ In the past, geological processes had the greatest influence on life on Earth an
 This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The Anthropocene Age heralds new times where humanity is not only responsible for its own future, but also holds the future of the entire planet in its hands.
 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
+
+{#mass-extinction} 
 ### Sixth  mass extinction on the horizon 🦖
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
@@ -34,33 +46,41 @@ Scientists have estimated limits for Earth's planetary subsystems in which human
 
 Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect these limits as soon as possible.
 ### Climate change 🌪️
-Current global development is neither durable nor sustainable. In the coming decades, we must turn all industrial (and digital) development in a sustainable direction to enable people to live a good life. We must be able to continuously improve and develop our world without fearing the long-term consequences of our actions in the form of droughts, floods, destruction of rainforests and landscapes, major political challenges, migration, and loss of life. We have an ethical obligation to protect nature, which is our origin and our future.
+Current global development is neither durable nor sustainable. In the coming decades, we must turn all industrial (and digital) development in a sustainable direction to enable people to live a good life. 
 
-With the help of scientists who continuously monitor this trend, a number of actions are underway globally that aim to change the trend to something more sustainable. But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
+We must be able to continuously improve and develop our world without fearing the long-term consequences of our actions in the form of droughts, floods, destruction of rainforests and landscapes, major political challenges, migration, and loss of life. We have an ethical obligation to protect nature, which is our origin and our future.
 
-### Information technology and digitization
-Information technology and digitization are amazing entities that day after day surprise us with the latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
+With the help of scientists who continuously monitor global climate change, a number of actions are underway globally that aim to change the trend to something more sustainable ([Science Based Targets initiative](https://sciencebasedtargets.org/)). But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
+### Information technology and digital transformation 📡
+Information technology and digital transformation are amazing entities that surprise us every day with the latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
-Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science.. All these IT concepts have emerged in recent years and are still evolving - while changing our world.
+Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
 
-Modern IT is accelerating science and research, and the computing power of processors and the efficiency of algorithms is growing year after year. It is now the pace of human cognition that is limiting the speed of development.
+Modern IT is accelerating science and research, and the computing power of processors and the efficiency of algorithms are increasing every year. It is now the speed of human cognition that limits the speed of development.
 
-IT and digitalization are two sides of the same coin. Digitalization focuses on people, organizations and their processes, and information technology focuses on the digital technologies themselves.
+Information technology and digital transformation are two sides of the same coin. Digital transformation focuses on people, organizations and their processes, and information technology focuses on the digital technologies themselves.
 
-- Digitization is the use of information technology by people and organizations.
-- Information technology is hardware, software and networks. Electronics, algorithms and systems.
+- Digital transformation is the use of information technology by people and organizations.
+- Information technology consists of hardware, software and networks: Electronics, algorithms and systems.
 
-There is no digitalization without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such it is in direct opposition to nature and the environment.
-Nevertheless, technology and nature must be able to coexist in a mutual and positive interaction. And this is where sustainability must help create an inventive balance and exchange between technology, people, nature and the environment.
+![Technology and nature are opposites. But they shouldn't have to be.](resources/1.2.png "Technology and nature are opposites. But they shouldn't have to be.")
 
-### The individual's responsibility
-As an information technology and digitalization professional, what is your role in this global equation? Can IT and digitalization contribute to a better world and a more sustainable future if we use technology with long-term thinking?
+There is no digital transformation without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such is in direct opposition to nature and the environment.
+
+However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability must help create an inventive balance and exchange between technology, people, nature and the environment.
+### Your responsibility
+As an information technology and digital professional, what is your role in this global equation? Can IT and digital development contribute to a better world and a more sustainable future if we use technology with long-term thinking?
 
 You may not be able to solve the sixth mass extinction event and balance nature in the Anthropocene era overnight, but many small steps - including your professional contribution to the sustainability agenda - will contribute to positive change in the world.
- 
 ## Sustainability concepts
-Let's continue by reviewing the key concepts that form the basis for working with sustainable digitalization in general. You may already be familiar with some of the concepts, but hopefully you can also read up on something new and exciting.
+Let's continue by reviewing the key concepts that form the basis for working with sustainable digital development in general. You may already be familiar with some of the concepts, but hopefully you can also read up on something new and exciting.
 
+- [Definition of sustainability](#Definition-of-sustainability)
+- Unsustainability
+- The hurdles to sustainability
+- ...
+
+{#Definition-of-sustainability}
 ### Definition of sustainability
 We can see sustainability as a path towards a brighter and more stable world both on an individual, societal and environmental level. Sustainability is a kind of long-term development where nature and the environment are respected and thrive.
 
@@ -68,44 +88,47 @@ Sustainable development helps us avoid major disasters in the future by addressi
 
 There are different definitions of sustainability, but one of the newer and more recognized definitions comes from the UN, which in 1983 established a World Commission on Environment and Development headed by the then Norwegian Prime Minister Gro Harlem Brundtland. The Commission's work resulted in a publication entitled Our Common Future - The Brundtland Commission Report on Environment and Development. 
 
-The report defines sustainable development as *"development that meets the needs of the present without compromising the ability of future generations to meet their own needs"* (Brundtland Commission 1987: XX). This definition is a good starting point for our work, but in the following we will also look at sustainable development from other angles. If sustainability is something that protects the possibilities of future generations, what is the opposite? Let's take a look at "unsustainability".
+The report defines sustainable development as *development that meets the needs of the present without compromising the ability of future generations to meet their own needs*. This definition is a good starting point for our work, but in the following we will also look at sustainable development from other angles. If sustainability is something that protects the possibilities of future generations, what is the opposite? Let's take a look at "unsustainability".
 ### Unsustainability
-Unsustainable products and services are defined by the fact that they often have serious, unwanted and far-reaching adverse impacts.
+Unsustainable products and services are defined by the fact that, despite their good value, they often have serious, unintended and far-reaching negative impacts in the long term.
 
-![Unsustainability](1.2.png "Unsustainability. The figure shows the short-term benefits and long-term problems that can be associated with unsustainable products.")
+|                                      | **Short-term (here and now) gain**                       | **Serious problems in the long term**                                                                                   |
+| ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Pesticides such as glyphosate**    | Weed-free areas                                          | Poisoned drinking water, destroyed biodiversity                                                                         |
+| **Fossil fuels**                     | Efficient and cheap energy source                        | Climate change, natural disasters                                                                                       |
+| **Plastic materials**                | Inexpensive and versatile material for many applications | Plastic waste and microplastics are flooding the world's ecosystems                                                     |
+| **Cryptocurrencies such as Bitcoin** | Decentralized, international digital currency            | Huge energy consumption and emissions, and available for criminal application                                           |
+| **Smartphones**                      | Effective and entertaining communication tool            | Environmental and social issues related to the extraction and recycling of materials; addiction-like problems for users |
+The table above provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term.
 
-Figure 1.2 provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term.
+For example, herbicides are effective in controlling weeds, but over the years they can leak into the groundwater and poison our drinking water. It may not happen immediately, but over decades they can poison the water we depend on as people and as a society (Faartoft 2024).
 
-Take herbicides, for example, which on the one hand are effective for managing plant areas, but on the other hand, over the years they seep into the groundwater and thereby poison our drinking water. It may not happen immediately, but over decades it can poison the water that we depend on as humans and society (Faartoft 2024).
-
-The use of fossil fuels is another example of unsustainable products, partly because we will run out of them at some point in the future and partly because their use contributes to climate change. Climate change does not happen immediately, but over many decades. Perhaps we can already sense the consequences, not least when we experience record high temperatures, record rainfall and record wind speeds (Jungersen & Stiesdal 2024). Other examples of unsustainable practices are:
+The use of fossil fuels is another example of an unsustainable product, partly because we will run out of them at some point in the future, and also because their use contributes to climate change. Climate change does not happen immediately, but over many decades. We may already be feeling the effects, not least as we experience record high temperatures, record rainfall and record wind speeds (Jungersen & Stiesdal 2024). Other examples of unsustainable practices are:
 
 - Using more energy than necessary
-- Consuming the earth's resources such as water and minerals without thinking of alternatives
+- Consuming the earth's resources such as water and minerals without considering alternatives
 - Draining nature's resources without ensuring that the equivalent is returned to nature.
 
-Making short-term solutions is like peeing your pants because you're cold: it'll warm you up a bit at first, but it'll be even colder in the long run. So from a holistic point of view, it's a good idea not to do it.
-
-All in all, it is unsustainable to create short-term solutions that have unwanted repercussions in the long run, even if these repercussions appear much later, or in places other than where the solutions work (for example, smartphone use in Europe leads to pollution in Africa and Asia).
-
-### The hurdles of sustainability
+Short-term solutions are like taking painkillers for a broken leg without addressing the fracture — they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. So from a holistic point of view, it's better to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., smartphone use in Europe leads to pollution in Africa and Asia).
+### The hurdles to sustainability
 But why aren't we all working sustainably if it's so smart? There are several reasons - here are four selected examples of obstacles to sustainable development:
 
-1. It is difficult to predict the long-term and far-reaching consequences of our activities. Many of the behaviors we have developed throughout history turn out to be fundamentally unsustainable. Innovations that seem groundbreaking and beneficial on the surface - such as pesticides or materials like asbestos - have proven to be seriously harmful in the long run. Over time, however, we can become better at thinking more long-term and learning from past mistakes. This accumulated insight is valuable and can be actively used and integrated into decision-making processes to promote a sustainable future.
+1. **It is difficult to predict the long-term and far-reaching consequences of our actions.** 
+   Many of the behaviors we have developed throughout history are proving to be fundamentally unsustainable. Innovations that seem groundbreaking and beneficial on the surface - such as pesticides or materials like asbestos - have turned out to be seriously harmful in the long run. Over time, however, we can become better at taking the long view and learning from past mistakes. This accumulated knowledge is valuable and can be actively used and integrated into decision-making processes to promote a sustainable future.
    
-2. Working sustainably is more cost-effective in the short term than not. For example, IT companies can choose to build data centers connected to renewable energy sources, which means that the data center will have no direct greenhouse gas emissions. Great solution, but it's immediately more expensive than connecting the data center to the electricity grid, which doesn't require an investment in its own power plant. Conversely, if the renewable energy plant works well, the data center will get cheap power in the future and the profit on the data center will increase over the years if its own wind turbines, solar panels, hydrogen plants or batteries manage to produce cheaper power than the market price.
+2.  **In the short term, working sustainably is more cost-effective than not working sustainably.** For example, IT companies can choose to build data centers together with renewable energy sources, which means the data center doesn't have any direct greenhouse gas emissions. That's a great solution, but it's initially more expensive than connecting the data center to the regular power grid, which doesn't require an investment in its own power plant. Conversely, if the renewable energy plant works well, the data center will get cheap electricity in the future, and the data center's profit will increase over the years as its own wind turbines, solar panels or other renewable sources manage to produce electricity cheaper than the market price.
    
-3. There are a record number of people on the planet and everyone wants a better standard of living. This is leading to unprecedented growth in production and consumption, which we can only address if we can reduce this increased (and still growing) environmental footprint.
+3. **There are a record number of people on the planet and everyone wants a better standard of living.** This is leading to unprecedented growth in production and consumption, which we can only manage if we can reduce this increased (and still growing) environmental footprint.
    
-4. It's more altruistic to work sustainably, i.e. it requires respect and consideration for all other people on the planet, but unfortunately not everyone cares about their fellow human beings, future generations - or the environment for that matter. The negative effects of a company's operations are often far removed from the everyday life of the organization in terms of both time and place, making them easy to overlook or neglect.
+4. **It is more altruistic to work sustainably**, i.e. it requires respect and consideration for the benefit of the planet, but unfortunately not everyone cares equally about the planet, fellow humans, future generations - or the environment. The negative impacts of a company's operations are often far removed from the everyday life of the organization, both in terms of time and place, making them easy to overlook or neglect.
    
-Let's look at an example from the digital world where the above comes to life: a smartphone. Using a smartphone has become an everyday occurrence for most people, and this simple everyday action has far-reaching global consequences, as smartphones are made from naturally occurring minerals (see Figure 1.3).
+Let's look at an example from the digital world where the above comes to life: a smartphone. Using a smartphone has become an everyday occurrence for most people, and this simple everyday action has far-reaching global consequences, as smartphones are made from naturally occurring minerals (see Figure 3).
 
-![Smartphones are made of stone](1.3.png "It's fascinating to think that a smartphone is made up of refined minerals extracted from nature and powered by energy. Ultimately, all technology is a collection of minerals and energy. The more circular the production and use of technology becomes, the more sustainable the future can be.")
+![Smartphones are made of stone](1.3.png "It's fascinating to think that a smartphone is made up of refined stones (minerals) extracted from nature and powered by energy from nature. Ultimately, all technology is a collection of minerals and energy. The more circular the production and use of technology becomes, the more sustainable the future can be.")
 
-The extraction of the minerals used in smartphones involves environmental pollution, child labor, deforestation and health problems associated with working in mines in Africa. Assembly line work in Asia can take place in poor working conditions. Not least, the applications that run on smartphones can have a bad impact on smartphone users. But this is not something we think about. When owning a smartphone has become commonplace, it's hard to consider the long-term consequences because it's relatively vague and far removed from your own reality. So it's easier not to think about it.
+The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on smartphone users. But this is not something we often think about. When owning a smartphone has become commonplace, it's hard to think about the long-term consequences because it's relatively vague and far removed from your own reality. So it's easier not to think about it.
 
-In an ideal world, the manufacturer and legislation would try to concretize the resulting problems and try to do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit (Angela 2023). Are they obligated to do so? No, they are not. They are doing it primarily for the sake of the Congolese, and in return, Fairphone can position its smartphone as a greener and fairer phone. However, these actions are not free and their phones are therefore relatively expensive compared to the competition.
+In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the Congolese people, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively expensive compared to the competition.
 
 ### Recognizing and accepting risks for the future
 It is clear that we cannot fully guard against all future unintended consequences when developing new solutions. By its very nature, you cannot devise and develop measures against risks that you are not able to foresee.
@@ -121,7 +144,7 @@ It is also the most visible aspect of sustainability at the moment because socie
 
 Velux's plan is both forward-thinking and sympathetic. There is no law obliging companies to compensate for their past emissions or to become CO2-neutral by 2031, yet Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and to sequester equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
 
-Although the Velux example is not directly related to IT and digitalization, the company demonstrates an action that digital companies can also benefit from trying. As a hosting company, you can, for example, compensate for the greenhouse gas emissions you have emitted over time.
+Although the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies can also benefit from trying. As a hosting company, you can, for example, compensate for the greenhouse gas emissions you have emitted over time.
 
 ### Greenwashing
 Are Velux's initiatives really having an impact on a global scale or are they drowning in the big picture? Velux's initiatives can be seen as a small step in the right direction, but much more is needed to reverse the trend.
@@ -147,7 +170,7 @@ Other important concepts in sustainability work are ecology and ecosystems . In 
 
 Ecosystems form the basis of all life on earth and without them we cannot survive as humans. We are part of the ecosystem whether we like it or not. Without this biosphere  we cannot easily exist as humans.
 
-This is why it is essential to be able to think in ecosystems when working with sustainable digitalization ; to see the development of company products in an ecological context. Ecology and understanding the interconnectedness of ecosystems provides useful knowledge about how our actions affect the environment on a systemic level.
+This is why it is essential to be able to think in ecosystems when working with sustainable digital development ; to see the development of company products in an ecological context. Ecology and understanding the interconnectedness of ecosystems provides useful knowledge about how our actions affect the environment on a systemic level.
 
 Some of the principles of ecology can be found in sustainability work in information technology. Both ecosystems and IT systems require a systemic understanding, and in IT we can also talk about "ecosystems". Just as apple trees cannot reproduce without the insects that pollinate them, the Android smartphone operating system cannot succeed without its own digital ecosystem . What this means is that Android would not be the same without the many phone types, apps and users that make up the product's unique ecosystem, and Android smartphones would lose essential features without the many developers who provide millions of apps for the phones.
 
@@ -310,7 +333,7 @@ In a circular economy, products and materials are kept in circulation through pr
 The coming decades call for the production of information technology to become so circular that the use and reuse of, for example, a mobile phone has no greater environmental impact than picking a fruit from a tree. The life cycle of our IT equipment must be carefully designed to follow the "cradle to cradle " (cradle to cradle) principle. The cradle to cradle concept is that end-of-life products should form the basis for new ones, without becoming waste (Hauschild 2021). While a life cycle in the traditional sense refers to a cradle-to-grave process, the cradle-to-cradle concept is without a "grave" because the end of one product becomes the beginning of a new one. In other words, the materials that go into the production of our hardware in digital systems must be reused all the way to the creation of new products.
 
 ### Beware of the rebound effect
-Digitalization often creates a lot of value because it can streamline many processes. Something that takes a long time to complete manually can be done in a snap with the right IT solutions. But not all streamlining can pay off.
+digital development often creates a lot of value because it can streamline many processes. Something that takes a long time to complete manually can be done in a snap with the right IT solutions. But not all streamlining can pay off.
 
 The rebound effect is the name given to the phenomenon that efficiency improvements can lead to increased consumption. In other words, making a technology more efficient, for example, is not sustainable in itself - as long as this efficiency improvement leads to increased consumption. You can see this phenomenon play out in many contexts: For example, the dramatic increase in access to storage space has not led to us using less memory to store our images, videos and texts - but to us increasing the resolution of the images we take, filming more and saving more documents.
 
@@ -387,12 +410,12 @@ From a sustainability perspective, it is essential that we recognize that the in
 ### Sustainable information technology
 Information technology has both dark sides, such as environmental impact and dependence on social media, and good sides in the form of the opportunities that information technology opens up.
 
-Information technology as such cannot be called sustainable. There is no such thing as sustainable IT or sustainable digitalization. Modern digital technology is not circular, so far we have to constantly add new resources such as minerals and fossil energy to keep the internet running. However, we can see positive changes and more and more IT can run on renewable energy, and the material cycle hardware manufacturing and recycling is also improving. We already recycle a small portion of hardware components, but not yet in ways that ensure the reuse of materials year after year.
+Information technology as such cannot be called sustainable. There is no such thing as sustainable IT or sustainable digital development. Modern digital technology is not circular, so far we have to constantly add new resources such as minerals and fossil energy to keep the internet running. However, we can see positive changes and more and more IT can run on renewable energy, and the material cycle hardware manufacturing and recycling is also improving. We already recycle a small portion of hardware components, but not yet in ways that ensure the reuse of materials year after year.
 
-The extent to which digitalization can become a driving force and key component in solving the current climate crisis is an ongoing discussion, but we, the authors of this book, are optimists because we believe that digitalization can make a positive difference. The following three ideas permeate our (and the book's) approach to sustainable digitalization: the Karlskrona Manifesto, twin transition and digitainability.
+The extent to which digital development can become a driving force and key component in solving the current climate crisis is an ongoing discussion, but we, the authors of this book, are optimists because we believe that digital development can make a positive difference. The following three ideas permeate our (and the book's) approach to sustainable digital development: the Karlskrona Manifesto, twin transition and digitainability.
 
 ### The Karlskrona Manifesto
-Sustainable digitalization is about developing modern technological solutions and products without compromising the living conditions of future generations. It's a complicated issue that we can better address if we can break this goal down into some concrete areas of action.
+Sustainable digital development is about developing modern technological solutions and products without compromising the living conditions of future generations. It's a complicated issue that we can better address if we can break this goal down into some concrete areas of action.
 The Karlskrona Manifesto's sustainable system design guidelines set out five different dimensions of sustainability (Becker et al. 2015):
 
 1.	Individual sustainability refers to positive impact on human capital (e.g. health, education, skills, knowledge, leadership and access to services).
@@ -415,16 +438,16 @@ While the ESG concept targets all kinds of organizations regardless of what they
 ### Twin transition
 The connection between sustainability and IT can be described as a kind of twin transition. Henrik Skaug Sætra, a researcher at the University of Oslo, is working to explore the connection between digital development and green development (Sætra 2023). According to Sætra, we are "in the middle of two different but simultaneous transitions: The digital transition and the green transition". The green transition describes the process of trying to combat environmental issues on a global scale. The digital transition refers to the development that is pulling our society in an increasingly digital direction.
 
-The idea that digitalization can help us solve our sustainability challenges in a simultaneous and dual transition is gaining traction both in the EU and internationally. "Twin transition" is thought to have the potential to create positive synergies between digital and green development. For example, a district heating plant can retrieve automatic forecasts for weather, energy prices and heat consumption and can, through digital control, optimize the operation of production so that district heating can be produced in the most efficient way (Danish District Heating 2023).
+The idea that digital development can help us solve our sustainability challenges in a simultaneous and dual transition is gaining traction both in the EU and internationally. "Twin transition" is thought to have the potential to create positive synergies between digital and green development. For example, a district heating plant can retrieve automatic forecasts for weather, energy prices and heat consumption and can, through digital control, optimize the operation of production so that district heating can be produced in the most efficient way (Danish District Heating 2023).
 
 The big challenge with the "twin transition" is that all digital development also has a negative climate footprint from the hardware and energy used. So in digital projects with a positive sustainability aim, the positive impact of the project must be significantly greater than the negative effects of the technology used. In the case of the district heating plant, the optimization gains must be significantly greater than the derived negative environmental effects of the new digital control system. In addition, it is also important to take into account the rebound effect and make it likely that increased efficiency will not ultimately lead to even higher consumption.
 
 ### Digitainability
-While "twin transition" focuses on exploring the connection between green and digital development, the concept of "digitainability" goes further by presenting the idea that we can combine the development of sustainability and digitalization in practice and, in this way, contribute to a more sustainable future.
+While "twin transition" focuses on exploring the connection between green and digital development, the concept of "digitainability" goes further by presenting the idea that we can combine the development of sustainability and digital development in practice and, in this way, contribute to a more sustainable future.
 
-The term digitainability is a contraction of the words digitalization and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN 's Sustainable Development Goals with digital tools (Gupta et al. 2020). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
+The term digitainability is a contraction of the words digital development and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN 's Sustainable Development Goals with digital tools (Gupta et al. 2020). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
 
-Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He has presented a simple tool called DSM (Digitalization-Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios (Gupta et al. 2020).
+Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He has presented a simple tool called DSM (digital development-Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios (Gupta et al. 2020).
 
 ## Summary: What can you take away from this chapter?
 We've reached the end of the first chapter and you can breathe a sigh of relief. You've been introduced to the broad outlines of sustainable development and hopefully learned some new concepts and refreshed some others.
@@ -446,4 +469,4 @@ Ask yourself questions like:
 - How can I improve what I do today to make it climate neutral and/or ethically sound?
 - How can my activity support the criteria of the Karlskrona Manifesto or some relevant UN Global Goals?
 
-The upcoming chapters will provide you with knowledge and tools that you can bring into play in your daily work. In the next chapter, we will look at theories on how systems work in general and how we can model, understand and influence systems in a desired direction. This is the final theory chapter, after which we will focus more on the professional practice digitalization and information technology.
+The upcoming chapters will provide you with knowledge and tools that you can bring into play in your daily work. In the next chapter, we will look at theories on how systems work in general and how we can model, understand and influence systems in a desired direction. This is the final theory chapter, after which we will focus more on the professional practice digital development and information technology.

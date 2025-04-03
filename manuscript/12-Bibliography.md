@@ -5,7 +5,9 @@ Abbing, R.R. (2021) 'This is a solar-powered website, which means it sometimes g
 Andersen, H. (2024). Systems theory. The Great Danish, March 5. https://denstoredanske.lex.dk/systemteori
 Andersen, L.H. (2021). Russia is ready to cut itself off from the global internet. Version2, February 2. version2.dk/artikel/rusland-er-klar-til-afskaere-sig-fra-det-globale-internet
 Andre, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
-Angela (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/
+
+!!OK!! Angela (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/
+
 Apple (2024). Apple 2030 - A plan as innovative as our products. https://www.apple.com/environment/
 Balslev, J., Carlsen, S. & Tolstrup, P. (2024). Do Make me Think - Towards an Integrated Model for Sustainable UX Design. DTRS14 Proceedings.
 Barabási, A.-L. & Pósfai, M. (2016). Network Science. Cambridge University Press.
@@ -45,7 +47,9 @@ Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://eur
 European Commission (2024). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
 European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Patterns in Social Media Platform Interfaces: How to Recognize and Avoid Them. https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en
 European Environment Agency (2021/2023). Sustainability: What are the alternatives to economic growth? https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives"https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives
-Faartoft, M. B. (2024, March 5). See the map: How often pesticide residues are found in drinking water wells in your municipality. Danish Society for Nature Conservation. https://www.dn.dk/nyheder/se-kortet-sa-ofte-bliver-der-fundet-pesticidrester-i-drikkevandsboringer-i-din-kommune/
+
+!!OK!! Faartoft, M. B. (2024, March 5). See the map: How often pesticide residues are found in drinking water wells in your municipality. Danish Society for Nature Conservation. https://www.dn.dk/nyheder/se-kortet-sa-ofte-bliver-der-fundet-pesticidrester-i-drikkevandsboringer-i-din-kommune/
+
 Fairphone Community (2024). Fairphone Community - On a Journey to Change the Electronics Industry. Fairphone.com. https://www.fairphone.com/en/community/
 Flyverbom, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
 UN Sustainable Development Goals (2020). The 17 Global Goals. https://www.verdensmaalene.dk/maal
@@ -79,7 +83,9 @@ Jensen, A. (2024). Are you alarmed or indifferent? New study reveals Danes' atti
 Jevons, W.S. (1866). The Coal Question; An Inquiry Concerning the Progress of the Nation and the Probable Exhaustion of Our Coal Mines. Macmillan.
 josephranseth (2015). Gandhi didn't actually say "Be the change you want to see in the world." Here's the real quote... Joseph Ranseth, August 27. https://josephranseth.com/gandhi-didnt-say-be-the-change-you-want-to-see-in-the-world/
 Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
-Jungersen, R. & Stiesdal, P. (2024). Global temperatures have now broken heat records for 12 months in a row. DR, June 4. https://www.dr.dk/nyheder/viden/klima/globale-temperaturer-har-nu-slaaet-varmerekord-12-maaneder-i-traek
+
+!!OK!! Jungersen, R. & Stiesdal, P. (2024). Global temperatures have now broken heat records for 12 months in a row. DR, June 4. https://www.dr.dk/nyheder/viden/klima/globale-temperaturer-har-nu-slaaet-varmerekord-12-maaneder-i-traek
+
 Kastner Research Group (2023). Junkyard Computing. April 2. https://kastner.ucsd.edu/junkyard-computing/.
 Kato, J. & Shimakage, K. (2020). Rethinking Programming "Environment": Technical and Social Environment Design Toward Convivial Computing. Programming '20: Companion Proceedings of the 4th International Conference on Art, Science, and Engineering of Programming, 149-157. https://doi.org/10.1145/3397537.3397544
 Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, March.

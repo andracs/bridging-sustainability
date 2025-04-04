@@ -1,5 +1,4 @@
 0-Introduction.md
-0.1-Reading-guide.md
 1_Part-one.md
 1-Introduction-to-sustainability.md
 2-Critical-thinking-and-systems-theory.md

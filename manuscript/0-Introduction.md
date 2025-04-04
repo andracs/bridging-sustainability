@@ -1,31 +1,55 @@
+# Getting started
+*Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The continuous development of society has come under considerable pressure in our time. It is up to us to change the way we live and work, both in real life and in the digital space. This book is about how we can change ourselves and drive change in our digital work within the digital, technological domain.* 
+##### Climate pessimism, climate optimism, climate realism and climate activism
+If you’re in touch with digital technologies and you are ready for expanding your knowledge of digital sustainability, then this book is for you. It’s a must-read for anyone curious about technology's impact on the environment and society and the opportunities for digital sustainability. The book offers insights into current concepts and tools for working with practical digital sustainability. It will support your professional development and help anchor your future practices in more sustainable approaches. 
 
-# Introduction
+You may be a climate pessimist, concerned about the future, or a climate optimist who believes that technological and social progress will lead us toward a more sustainable world. You may be a realist preparing for deep adaptation, or an activist already working for a better future. Whether you’re a sustainability advocate or a skeptic, a realist or an activist, this book will equip you to engage in digital sustainability projects and make a positive impact.
+##### Digital development, digital sustainability, twin transition, sustainable digital 
+The twin transition refers to the idea that two distinct but intertwined transitions are taking place in society: the digital transition and the green transition. Society is moving from analog to digital, and from unsustainable to sustainable. One is optional, the other is essential: we _can_ live simple lives without digital technologies, but we _must_ turn development in a sustainable direction.
 
-__Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The ongoing development of society has faced significant pressure in our time. It is up to us to change the way we live and work, both in real life and in the digital space.__
+Digital technology is far from sustainable right now - and it won't become sustainable anytime soon. It's depleting the earth's resources, polluting the environment, and affecting its users in negative ways. Still, there _is_ a path to sustainable digital practices, even if it's a long and challenging one. We must begin to work more sustainably today and embrace daily practices that push development in increasingly sustainable directions. Only then, perhaps decades or even centuries from now, can we hope to achieve anything resembling sustainable digital technology.
 
-You may be a climate pessimist, voicing your concerns about the future, or a climate optimist, believing that technological and social advancements will provide us with a more sustainable world. You may be an activist already working for a better future. Whether you're a sustainability advocate or a skeptic, this book will equip you with the knowledge and tools to make a real impact. 
+Design is key, sustainability must be built into digital products from their very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in an increasingly sustainable way?*
+##### Written by dedicated academics 
+This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject that goes beyond superficial clichés and overused expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach the work in concrete terms.
 
-##### This book is for you
+As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), many of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. (We may be updating references with corresponding English sources in a next edition.)
 
-This book is for you, who want to expand your knowledge of the sustainability aspects of the digital field.  It is a must-read for anyone interested in digital technologies and their impact on the environment and society. It provides a comprehensive overview of knowledge and tools for practical sustainability in the digital domain. 
+Digitalization and the fight against climate change are evolving rapidly, so the practical chapters of this book reflect the situation as of 2025. However, digital sustainability is a continuously developing field, which is why we intend to keep the book updated online.
+#### Chapter overview 
+_Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can also be read independently.
 
-The book will help you develop professionally and anchor your future practices within digital sustainability. It  synthesizes the latest knowledge within IT and sustainability, and will hopefully inspire you to work with sustainability in the context of digital technologies in both theory and practice.
+In a teaching context, educators can combine various chapters to form the basis of a course or training program. However you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
+##### From theory to practice and perspectives
+The book is divided into three main parts and a practical appendix. The first part of the book consists of three chapters that together form a theoretical foundation for sustainability work. This part introduces a number of key concepts in both information sustainability and technology.
 
-##### Digital transformation across all sectors
+- **Chapter 1** focuses particularly on definitions - not only of the concept of sustainability, but also of terms related to green and digital transformation.
+    
+- **Chapter 2** introduces systems thinking and critical thinking as methods that can be applied both in working with information systems and in addressing environmental, societal, and economic challenges.
+    
+- **Chapter 3** provides an overview of the current state of sustainability in information technology and serves as an introduction to the specific challenges associated with the digital domain.
 
-Digital transformation has the potential to influence sustainability across all industry and service sectors. Your digital work can be an important contribution to the creation of a more sustainable future for society as a whole. If you work in IT, you can influence your own and your colleagues' practices with more sustainable and long-term approaches, transforming our ways to produce, consume and live. 
+The second part of the book, Chapters 4–7, looks ahead and outlines practical approaches to promoting sustainability in digital projects.
 
-##### Written by dedicated academics
+- **Chapter 4** discusses digital design and explores how it can be enriched with sustainability elements.
+    
+- **Chapter 5** focuses on software development and provides practical examples of sustainability measures in digital systems.
+    
+- **Chapter 6** examines sustainability in hardware and networks, offering examples of how digital infrastructure can be made more sustainable.
+    
+- **Chapter 7** explores the connection between well-being and digital technologies, discussing concepts such as digital well-being and socially sustainable UX through concrete examples.
 
-This book is the product of two dedicated academics from Denmark who are active in research and teaching in the field of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject that goes beyond superficial clichés and trite expressions.  Their goal is to provide a methodical and thorough review of how digital actors can relate to sustainability and how they can concretely approach the work. 
+The third and final part of the book discusses digital sustainability from some general angles.
 
-##### Beyond 2025
-Digitalization and the climate fight are evolving rapidly, so the practical chapters of the book reflect the current situation as of 2025. 
+- Chapter 8 describes "digital counter-growth" as an alternative to traditional growth thinking and reviews examples of it.
+  
+- Chapter 9 summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
+  
+- The appendix contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. 
 
-However, the field of digital sustainability is in an ongoing concern, and that is why we intend to keep the book updated online, and the hence the book is commentable, debatable and editable on GitHub.
+You can also access the appendix on the book's Git page: [Link to Codeberg will be here](Codeberg). Here you will also find an overview of various online resources that support this book.
 
-##### Appendix 
-The books last chapter contains an appendix with [checklists for sustainable digital practices](https://github.com/andracs/Sustainable-Digital). We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. 
+📖 The following chapters aims to inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. Happy reading!
 
-The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+%% and the hence the book is commentable, debatable and editable on GitHub. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.%%
 

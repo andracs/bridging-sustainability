@@ -1,6 +1,6 @@
 # 1. Sustainability: Basic concepts
 
-In order to base your sustainability work on solid and proven science, you must first understand some selected basic concepts. This first chapter covers the key ideas and vocabulary.
+In order to base our work on solid and proven science, we must first understand some selected sustainability concepts. This first chapter covers the key ideas and vocabulary.
 
 The goal of this chapter is to give you a glimpse of the great complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. 
 
@@ -79,6 +79,7 @@ Let's continue by reviewing the key concepts that form the basis for working wit
 - Unsustainability
 - The hurdles to sustainability
 - ...
+%% Review when chapter finished %%
 
 {#Definition-of-sustainability}
 ### Definition of sustainability
@@ -109,7 +110,7 @@ The use of fossil fuels is another example of an unsustainable product, partly b
 - Consuming the earth's resources such as water and minerals without considering alternatives
 - Draining nature's resources without ensuring that the equivalent is returned to nature.
 
-Short-term solutions are like taking painkillers for a broken leg without addressing the fracture — they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. So from a holistic point of view, it's better to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., smartphone use in Europe leads to pollution in Africa and Asia).
+Short-term solutions are like taking painkillers for a broken leg without addressing the fracture - they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. So from a holistic point of view, it's better to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., smartphone use in Europe leads to pollution in Africa and Asia).
 ### The hurdles to sustainability
 But why aren't we all working sustainably if it's so smart? There are several reasons - here are four selected examples of obstacles to sustainable development:
 
@@ -130,32 +131,36 @@ The extraction of minerals used in smartphones involves pollution, child labor, 
 
 In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the Congolese people, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively expensive compared to the competition.
 
-### Recognizing and accepting risks for the future
-It is clear that we cannot fully guard against all future unintended consequences when developing new solutions. By its very nature, you cannot devise and develop measures against risks that you are not able to foresee.
+### 	Embracing uncertainty for a sustainable future
+It is clear that we cannot fully guard against all  unintended future consequences when developing new solutions. By its very nature, it is impossible to design and develop measures for risks that cannot be foreseen.
 
-However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true when working with sustainability, where we must accept that we can never have complete control over the future. Even if we plan and execute our activities with care, unforeseen difficulties - such as environmental, social or economic challenges - will always arise that can negatively impact sustainability.
+However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.
 
-We must be able to live with the realization that the world around us can be influenced and shaped to some extent, but never completely controlled. This unpredictability should not be seen as a barrier, but as a fundamental premise for working towards sustainable solutions. Despite our best efforts, the world can still surprise us - both positively and negatively.
+We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working toward sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
+
+%% Harmuth Rosa reference? %%
 
 ### Green sustainability
-Environmental sustainability can also be called green sustainability . Green sustainability is one of the most pressing dimensions IT development work.
+Environmental sustainability can also be referred to as green sustainability. Green sustainability is one of the most pressing dimensions of IT development work.
 
-It is also the most visible aspect of sustainability at the moment because society is focusing on it - at least in the western part of the world. One example of a Danish company actively working with green sustainability is the window manufacturer Velux . Like most responsible companies, Velux focuses on making its activities more green and sustainable in the long term. The company has announced in 2023 that it will fund forestry projects that capture carbon equivalent to its emissions from its founding in 1941 until 2041 (Petersson 2023). The company also plans to reduce its operational carbon emissions by 100% by improving energy efficiency and switching to renewable electricity.
+It is also the most visible aspect of sustainability at the moment, as it is the focus of society - at least in some parts of the world. One example of a Danish company actively working with green sustainability is the window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
 
-Velux's plan is both forward-thinking and sympathetic. There is no law obliging companies to compensate for their past emissions or to become CO2-neutral by 2031, yet Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and to sequester equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
+Velux has announced in 2023 that it will fund forestry projects to capture carbon equivalent to its emissions from its founding in 1941 until 2041 ([Petersson 2023](https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting)). The company also plans to reduce its operational carbon emissions by 100% by improving energy efficiency and switching to renewable electricity.
 
-Although the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies can also benefit from trying. As a hosting company, you can, for example, compensate for the greenhouse gas emissions you have emitted over time.
+Velux's plan is both forward-thinking and compassionate. There is no law requiring companies to compensate for their past emissions or to become carbon neutral by 2031, but Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and offset equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
+
+While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies can also benefit from trying. As a hosting company, you can, for example, compensate for the greenhouse gas emissions you have emitted over time.
 
 ### Greenwashing
-Are Velux's initiatives really having an impact on a global scale or are they drowning in the big picture? Velux's initiatives can be seen as a small step in the right direction, but much more is needed to reverse the trend.
+Are Velux's initiatives really having an impact on a global scale or are they drowning in the big picture? Velux's initiatives can be seen as a step in the right direction, but much more is needed to reverse the trend.
 
-If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean that the company has become a "sustainable company" overnight. The company must also address other dimensions of sustainability in order to start calling itself sustainable.
+If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a "sustainable company" overnight. The company needs to address other dimensions of sustainability before it can call itself sustainable.
 
-When a company sends out marketing communications about its green initiatives, there is always a danger that the company's brand is portrayed as more green than it really is. It is not always easy to distinguish between sustainability projects and greenwashing, i.e. empty green promises without substance behind the communication.
+When a company sends out marketing communications about its green initiatives, there is always a risk that the company's brand will be portrayed as more green than it actually is. It is not always easy to distinguish between sustainability achievements and greenwashing, i.e. empty green promises with no substance behind the communication.
 
-In the case of Velux, is this a real environmental initiative with significant impact, or is it greenwashing ? Only time will tell.
+In the case of Velux, is this a genuine environmental initiative with significant impact, or is it greenwashing? Only time will tell.
 
-There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. For the same reason, there are companies that deliberately avoid talking about their environmental improvement activities for fear of being perceived as greenwashers. This behavior is called greenhushing .
+There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The EU is working on regulation which should stop companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)), but there are companies that deliberately avoid talking about their environmental improvement activities for fear of being perceived as greenwashers. This behavior is called greenhushing.
 
 Fortunately, there are some benchmarks that can help us determine if a company or product is truly green or if it is simply "greenwashed". One of these indicators is the company's (manufacturer's) documentation of environmental and social considerations, such as an ESG report . 
 
@@ -434,6 +439,8 @@ The manifesto (which can be read in full online) outlines a set of sustainable d
 
 The ESG criteria and the Karlskrona Manifesto dimensions overlap in their focus on environmental sustainability and social issues, but the Karlskrona Manifesto broadens the ESG perspective by including technical and individual sustainability. The ESG "Governance" element of ESG relates in part to the Karlskrona dimension "Economic Sustainability," especially in relation to responsible governance and long-term economic viability. The Karlskrona Manifesto is broader and is more applicable in digital contexts as it focuses on both technological implications and individual accountability - concepts not directly addressed by the ESG criteria.
 While the ESG concept targets all kinds of organizations regardless of what they do, the Karlskrona Manifesto guidelines are specifically aimed at the development of digital systems. You can see a comparison between the focus areas of the two concepts in Figure 1.11. In the coming chapters, we will mainly rely on the sustainability dimensions of the Manifesto because they are more specific to the digital domain.
+
+%% - Digital transition vs transformation
 
 ### Twin transition
 The connection between sustainability and IT can be described as a kind of twin transition. Henrik Skaug Sætra, a researcher at the University of Oslo, is working to explore the connection between digital development and green development (Sætra 2023). According to Sætra, we are "in the middle of two different but simultaneous transitions: The digital transition and the green transition". The green transition describes the process of trying to combat environmental issues on a global scale. The digital transition refers to the development that is pulling our society in an increasingly digital direction.

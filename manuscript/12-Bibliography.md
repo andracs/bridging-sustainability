@@ -1,3 +1,5 @@
+
+%%Replace først !!OK!! og så !!OK%%
 # Bibliography
 Several online sources are included in the bibliography. Unless otherwise stated, please refer to the source as it appeared in December 2024.
 
@@ -61,6 +63,9 @@ Freewheeling Apps (n.d.). Website. http://akkartik.name/freewheeling-apps (acces
 Forskninsportalen.dk (2025). https://forskningsportal.dk/green-research/
 Gartner (2024). Gartner Hype Cycle Research Methodology. https://www.gartner.com/en/research/methodologies/gartner-hype-cycle (accessed 03.11.24).
 Georgiou, S., Kechagia, M., Louridas, P. and others (2018). What are Your Programming Language's Energy- Delay Implications? 2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR), 303-313. https://ieeexplore.ieee.org/document/8595213
+
+!!OK!! Green claims (2025). European Comission. https://environment.ec.europa.eu/topics/circular-economy/green-claims_en (accessed 03.03.25).
+
 Green Software Foundation (2024a). SCI Specification Achieves ISO Standard Status, April 25https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status. https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status "
 Green Software Foundation (2024b). Impact Framework. https://if.greensoftware.foundation
 Green Software Foundation (2024c). Green Software Practitioner. https://patterns.greensoftware.foundation//catalog/cloud/
@@ -120,9 +125,11 @@ Nodder, C. (2013). Evil by Design: Interaction Design to Lead Us into Temptation
 OECD (n.d.). Inclusive, Green and Digital Transformation. https://www.oecd.org/en/topics/sub-issues/inclusive-green-and-digital-transformation.html (accessed 18.08.24).
 Olifent, L. (2024). Society's AI ambitions have a hidden downside: "Training the systems requires a huge amount of energy". Ingeniøren, March 12. https://pro.ing.dk/datatech/artikel/samfundets-ai-ambitioner- has-a-hidden-backside-training-the-systems-requires-an-enormous-amount
 Orlowski, J. (Instructor) (2020). The Social Dilemma. Netflix.
-Patel, N. (2024). Enabling software longevity. Framework, April 16. https://frame.work/dk/en/blog/enabling-software-longevity
+Patel, N. (2024). Enabling software longevity. Framework, April 16 2024. https://frame.work/dk/en/blog/enabling-software-longevity
 Permacomputing (2024). Website. (accessed 09.05.24).
-Petersson, L. (2023). Velux Sustainability Report 2023, Velux.
+
+!!OK!! Petersson, L. (2023). Velux Sustainability Report 2023, Velux. https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting
+
 Radack, S.M. (2009). The System Development Life Cycle (SDLC). NIST, April 29. https://www.nist.gov/publications/system-development-life-cycle-sdlc
 Government (2021). Towards a better society with tech giants. White Paper June 2021. https://kum.dk/fileadmin/user_upload/Hvidbog_techgiganter.pdf
 Research Portal Denmark (n.d.). Analytical Overview of Green Research, Development & Innovation: Introduction and Method. https://forskningsportal.dk/green-research/ (accessed 26.04.24).

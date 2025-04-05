@@ -1,3 +1,4 @@
+%% Noget %% 
 # Getting started
 *Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The continuous development of society has come under considerable pressure in our time. It is up to us to change the way we live and work, both in real life and in the digital space. This book is about how we can change ourselves and drive change in our digital work within the digital, technological domain.* 
 ##### Climate pessimism, climate optimism, climate realism and climate activism

@@ -17,7 +17,7 @@ Let's go through some weighty theories that empasize the urgency of taking actio
 - Digital transformation
 - Your responsibility
 
-{#Anthropocene}
+{id: Anthropocene}
 ### 🛣️ This is the age of the Anthropocene
 The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to such an extent that they are causing both local and global changes in the global state of the Earth.  
 
@@ -27,7 +27,7 @@ This change is comparable to the major geological impacts on Earth in the past, 
 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
 
-{#mass-extinction} 
+{id: mass-extinction} 
 ### Sixth  mass extinction on the horizon 🦖
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 

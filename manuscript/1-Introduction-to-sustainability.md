@@ -131,7 +131,7 @@ The extraction of minerals used in smartphones involves pollution, child labor, 
 
 In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the Congolese people, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively expensive compared to the competition.
 
-### 	Embracing uncertainty for a sustainable future
+### Embracing uncertainty for a sustainable future
 It is clear that we cannot fully guard against all  unintended future consequences when developing new solutions. By its very nature, it is impossible to design and develop measures for risks that cannot be foreseen.
 
 However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.

@@ -9,15 +9,15 @@ When working with sustainability, these different disciplines are intertwined, r
 
 Let's go through some weighty theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
 
-- [The Anthropocene](#Anthropocene)
+- [The Anthropocene](#anthropocene)
 - [Mass extinction](#mass-extinction)
-- Great Acceleration
-- Planetary boundaries
-- Climate change
-- Digital transformation
-- Your responsibility
+- [Great Acceleration](#great-acceleration)
+- [Planetary boundaries](#planetary-boundaries)
+- [Climate change](#climate-change)
+- [Digital transformation](#digital-trasnformation)
+- [Your responsibility](#your-responsibility)
 
-{id: Anthropocene}
+{id: anthropocene}
 ### 🛣️ This is the age of the Anthropocene
 The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to such an extent that they are causing both local and global changes in the global state of the Earth.  
 
@@ -32,6 +32,8 @@ The human emission of greenhouse gases is one example, and the consequences for 
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
 The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the Anthropocene Age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
+
+{id: great-acceleration} 
 ### 🏎️ We are pushing the Great Acceleration 
 
 ![The Great Acceleration](resources/1.1.png "The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.")
@@ -39,18 +41,24 @@ The sixth mass extinction is expected to be as pervasive for nature as the dinos
 Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and  we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
 
 This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past many thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will become seriously out of balance if we continue to accelerate development.
+
+{id: planetary-boundaries} 
 ### Pushing the planetary boundaries 🌎 
 The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University that describes the nine major planetary subsystems that regulate the Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
 
 Scientists have estimated limits for Earth's planetary subsystems in which humanity can continue to evolve and thrive for generations to come, without causing irreparable damage to Earth as we know it. If the limits are exceeded, the systems may become unbalanced, leading the planet to a new and different reality. 
 
 Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect these limits as soon as possible.
+
+{id: climate-change} 
 ### Climate change 🌪️
 Current global development is neither durable nor sustainable. In the coming decades, we must turn all industrial (and digital) development in a sustainable direction to enable people to live a good life. 
 
 We must be able to continuously improve and develop our world without fearing the long-term consequences of our actions in the form of droughts, floods, destruction of rainforests and landscapes, major political challenges, migration, and loss of life. We have an ethical obligation to protect nature, which is our origin and our future.
 
 With the help of scientists who continuously monitor global climate change, a number of actions are underway globally that aim to change the trend to something more sustainable ([Science Based Targets initiative](https://sciencebasedtargets.org/)). But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
+
+{id: digital-transformation} 
 ### Information technology and digital transformation 📡
 Information technology and digital transformation are amazing entities that surprise us every day with the latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
@@ -68,6 +76,8 @@ Information technology and digital transformation are two sides of the same coin
 There is no digital transformation without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such is in direct opposition to nature and the environment.
 
 However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability must help create an inventive balance and exchange between technology, people, nature and the environment.
+
+{id: your-responsibility} 
 ### Your responsibility
 As an information technology and digital professional, what is your role in this global equation? Can IT and digital development contribute to a better world and a more sustainable future if we use technology with long-term thinking?
 
@@ -75,13 +85,13 @@ You may not be able to solve the sixth mass extinction event and balance nature 
 ## Sustainability concepts
 Let's continue by reviewing the key concepts that form the basis for working with sustainable digital development in general. You may already be familiar with some of the concepts, but hopefully you can also read up on something new and exciting.
 
-- [Definition of sustainability](#Definition-of-sustainability)
+- [Definition of sustainability](#definition-of-sustainability)
 - Unsustainability
 - The hurdles to sustainability
 - ...
 %% Review when chapter finished %%
 
-{#Definition-of-sustainability}
+{id: definition-of-sustainability}
 ### Definition of sustainability
 We can see sustainability as a path towards a brighter and more stable world both on an individual, societal and environmental level. Sustainability is a kind of long-term development where nature and the environment are respected and thrive.
 

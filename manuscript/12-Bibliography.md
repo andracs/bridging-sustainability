@@ -17,7 +17,8 @@ Balslev, J., Carlsen, S. & Tolstrup, P. (2024). Do Make me Think - Towards an In
 Barabási, A.-L. & Pósfai, M. (2016). Network Science. Cambridge University Press.
 B Corp (2024). About B Corp Certification: Measuring a Company's Entire Social and Environmental Impact. https://www.bcorporation.net/en-us/certification/
 Becker, C. (2023). Insolvent. MIT Press.
-Becker, C., Chitchyan, R., Duboc, L., et al. (2015). The Karlskrona Manifesto for Sustainability Design. Report no. arXiv:1410.6968.
+
+!!OK Becker, C., Chitchyan, R., Duboc, L., et al. (2015). The Karlskrona Manifesto for Sustainability Design. https://arxiv.org/abs/1410.6968.
 
 !!OK Bendell, J. (2017). Deep Adaptation: A Map for Navigating Climate Tragedy. IFLAS Occasional Paper 2. University of Cumbria. https://jembendell.com/2019/05/15/deep-adaptation-versions/
 
@@ -31,7 +32,10 @@ Center of Humane Technology (n.d.). Ledger of Harms. https://ledger.humanetech.c
 climateaction.tech (2021, January 2). Reduce the carbon emissions of your website. https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/
 CPSR - Computer Professionals for Social Responsibility (2024). Website. http://cpsr.org/ (accessed 03.11.24).
 Crawford, K. (2021). The Atlas of AI. Yale University Press.
-Danish District Heating (2023). Digitalization and data-driven operations in Danish district heating companies. https://danskfjernvarme.dk/viden-vaerktoejer/analyser/digitalisering-og-datadreven-drift-i-danske-fjernvarmeselskaber
+
+!!OK Dansk Fjernvarme (2023). Digitalization and data-driven operations in Danish district heating companies. https://danskfjernvarme.dk/viden-vaerktoejer/analyser/digitalisering-og-datadreven-drift-i-danske-fjernvarmeselskaber
+
+
 Confederation of Danish Industry (2022). Understand the Greenhouse Gas Protocol and how to start working with Scope 3. https://www.danskindustri.dk/brancher/di-digital/nyhedsarkiv/nyheder/2022/10/forsta-drivhusgasprotokollen-og-hvordan-du-begynder-at-arbejde-med-scope-3/
 Danish Standards (2024). DS/INF 179:2024 Data and circular economy - Getting started. https://www.ds.dk/da/download/data-og-cirkulaer-oekonomi-kom-godt-i-gang
 DaSilva, B., Dhar, J., Rafiq, S. et al. (2022). Nudging Consumers Toward Sustainability. BCG Global, May 17. https://www.bcg.com/publications/2022/nudging-consumers-to-make-sustainable-choices
@@ -42,13 +46,16 @@ Dähnert, S. (2021a). Mother Nature as a Persona (incl. template). Green the Web
 Dähnert, S. (2021b). Environment Centered User Journey Maps. Green the Web, August 16. https://greentheweb.com/environment-centered-user-journey-maps-incl-example-and-template/
 Ecovadis (2024) About EcoVadis. https://ecovadis.com/about-us
 Eisele, M. (2022). 5 ways to build sustainability into your software architecture. Red Hat, July 5. redhat.com/architect/sustainable-software-architecture
-Ellen MacArthur Foundation (2024). Circular Economy Introduction: What is a Circular Economy? https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview
+
+!!OK Ellen MacArthur Foundation (2024). Circular Economy Introduction: What is a Circular Economy? https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview
+
 Encyclopædia Britannica (2024). Moore's Law. https://www.britannica.com/technology/Moores-law (accessed 10.01.25).
 Engholm, I. (2023). Design for the New World. Intellect Books.
 Danish Business Authority ( 2024 a). CSRD - Legal requirements for corporate sustainability reporting | Company Guide. https://virksomhedsguiden.dk/content/temaer/baeredygtig-omstilling/ydelser/csrd-lovkrav-til-virksomheders-baeredygtighedsrapportering/62c314cd-4e5f-422c-9f55-6f43873fd25e/
 Danish Business Authority (2024 b). New and upcoming legal requirements for corporate sustainability. Virksomhedsguiden. https://virksomhedsguiden.dk/content/temaer/baeredygtig-omstilling/ydelser/nye-og-kommende-lovkrav-til-virksomheders-baeredygtighed/120c19d1-1bf7-4298-9bbe-a1502a3eeafe/
 
-Eurofound (2024). Working Conditions and Sustainable Work. European Foundation for the Improvement of Living and Working Conditions. https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work#key-policy-messages
+!!OK Eurofound (2024). Working Conditions and Sustainable Work. European Foundation for the Improvement of Living and Working Conditions. https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work 
+
 Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/
 European Commission (2024a). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
 
@@ -62,7 +69,9 @@ European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Pa
 
 Fairphone Community (2024). Fairphone Community - On a Journey to Change the Electronics Industry. Fairphone.com. https://www.fairphone.com/en/community/
 Flyverbom, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
-UN Sustainable Development Goals (2020). The 17 Global Goals. https://www.verdensmaalene.dk/maal
+
+
+
 Foxconn suicides (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Foxconn_suicides
 Framework (n.d.). Website. https://frame.work/sustainability (accessed 23.01.25).
 Frank, L. (2023). The threat from space (27/02/2023). 24 Questions for the Professor (Podcast). https://www.weekendavisen.dk/podcast/24sporgsmaal
@@ -71,6 +80,8 @@ Freewheeling Apps (n.d.). Website. http://akkartik.name/freewheeling-apps (acces
 Forskninsportalen.dk (2025). https://forskningsportal.dk/green-research/
 Gartner (2024). Gartner Hype Cycle Research Methodology. https://www.gartner.com/en/research/methodologies/gartner-hype-cycle (accessed 03.11.24).
 Georgiou, S., Kechagia, M., Louridas, P. and others (2018). What are Your Programming Language's Energy- Delay Implications? 2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR), 303-313. https://ieeexplore.ieee.org/document/8595213
+
+!!OK Müller, M., Lang, S. and Stöber, L.-F.-. (2024). Twin Transition – Hidden Links Between the Green and Digital Transition. Journal of Innovation Economics & Management, 45(3), 57-94. https://shs.cairn.info/journal-of-innovation-economics-2024-3-page-57?lang=en.
 
 !!OK!! Green claims (2025). European Comission. https://environment.ec.europa.eu/topics/circular-economy/green-claims_en (accessed 03.03.25).
 
@@ -81,9 +92,13 @@ Greenpeace International (2017). Clicking Clean. https://www.greenpeace.org/inte
 Google (n.d.). Google Digital Wellbeing. Digital Wellbeing through technology. (accessed 03.11.24).
 Google (2023). A look at how we're building more sustainable hardware. Google, April 6. 
 Gordillo, A., Calero, C., Moraga, M.Á. et al. (2024). Programming languages ranking based on energy measurements. Software Quality Journal, 1-42.
-Gupta, S., Motlagh, M. & Rhyner, J. (2020). The digitalization sustainability matrix: A participatory research tool for investigating digitainability. Sustainability, 12(21), 9283. https://www.mdpi.com/2071-1050/12/21/9283
+
+!!OK Gupta, S.; Motlagh, M.; Rhyner, J. The Digitalization Sustainability Matrix: A Participatory Research Tool for Investigating Digitainability. _Sustainability_ **2020**, _12_, 9283. https://doi.org/10.3390/su12219283
+
 Hansen, C. (2023). Moore's Law. https://lex.dk/Moores_lov
-Hauschild, M. (2021). Cradle to cradle. The Great Danish, October 12. https://denstoredanske.lex.dk/vugge_til_vugge
+
+!!OK  Hauschild, M. (2021). Vugge til vugge, Den Store Danske. https://denstoredanske.lex.dk/vugge_til_vugge
+
 Hochschule Trier (2022). First Blue Angel for Resource- and Energy-efficient Software Goes to Open-source Document Viewer Okular. March 9. https://www.umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-details/first-blue-angel-for-software
 Hu, C. (2023). Inside the lab that's growing mushroom computers. Popular Science, February 27. https://www.popsci.com/technology/unconventional-computing-lab-mushroom/
 Illich, I. (1973). Tools for Conviviality. Equinox.
@@ -101,7 +116,9 @@ Jakobsen, T.G. (2023). New rules will give you the right to repair. World's Best
 
 
 Jevons, W.S. (1866). The Coal Question; An Inquiry Concerning the Progress of the Nation and the Probable Exhaustion of Our Coal Mines. Macmillan.
+
 josephranseth (2015). Gandhi didn't actually say "Be the change you want to see in the world." Here's the real quote... Joseph Ranseth, August 27. https://josephranseth.com/gandhi-didnt-say-be-the-change-you-want-to-see-in-the-world/
+
 Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
 
 !!OK!! Jungersen, R. & Stiesdal, P. (2024). Global temperatures have now broken heat records for 12 months in a row. DR, June 4. https://www.dr.dk/nyheder/viden/klima/globale-temperaturer-har-nu-slaaet-varmerekord-12-maaneder-i-traek
@@ -130,7 +147,7 @@ Mala, F.A. & Ali, R. (2022). The Big-O of Mathematics and Computer Science. Jour
 Martin, B. (2023). HTTP Response Header Field: Carbon-Emissions-Scope-2 (Internet Draft No. draft- martin-http-carbon-emissions-scope-2-00). Internet Engineering Task Force. https://datatracker.ietf.org/doc/draft-martin-http-carbon-emissions-scope-2-00
 Mehlsen, C. (2024). The theft of attention. Information Publishers.
 Microsoft ( 2024). Microsoft Inclusive Design. https://inclusive.microsoft.design/ (accessed 03.11.24).
-Danish Environmental Protection Agency (2024). Streamlined waste sorting. https://mst.dk/borger/affald-og-forurening/sortering-af-affald/stroemlinet-affaldssortering
+!!OK Miljøstyrelsen, Danish Environmental Protection Agency (2024). Streamlined waste sorting. https://mst.dk/borger/affald-og-forurening/sortering-af-affald/stroemlinet-affaldssortering
 
 
 Monique (2024). Don't read our 2023 Impact Report. Read this instead. Fairphone, June 7. https://www.fairphone.com/en/2024/06/07/dont-read-our-2023-impact-report-read-this-instead/
@@ -169,10 +186,14 @@ Stern, B. (2013). The Ethics of Saving Lives With Autonomous Cars Are Far Murkie
 Strarup, B. (2022). 37 websites under Russian media are now blocked. Mediawatch, March 18. https://mediawatch.dk/Medienyt/Web/article13842095.ece
 SustainableIT.org (n.d.). IT Standards for Environmental, Social, and Governance Sustainability. https://www.sustainableit.org/standards/it-esg-standards
 Switzer, J., Marcano, G., Kastner, R., et al. (2023). Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon. Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, 400-412. https://doi.org/10.1145/3575693.3575710
+!!OK 
 Sætra, H.S. (2023). The Twin Transition Explored. University of Oslo, dScience - Center for Computational and Data Science. https://www.
+
 The National (2012). Facebook and Twitter key to Arab Spring uprisings: Report. May 16. https://web.archive.org/web/20120516161234/http://www.thenational.ae/news/uae-news/facebook-and-twitter-key-to-arab-spring-uprisings-report
 The Royal Society (2017). Data Management and Use: Governance in the 21st Century. https://royalsociety.org/%7e/media/policy/projects/data-governance/data-management-governance.pdf
-United Nations (n.d.). Big Data for Sustainable Development. Big Data for Sustainable Development. https://www.un.org/en/global-issues/big-data-for-sustainable-development (accessed 03.11.24).
+
+!!OK UN Sustainable Development Goals (2020). The 17 Global Goals. https://sdgs.un.org/goals
+
 United Nations (2024). Global Course 'Is Unsustainable', Secretary-General Stresses to General Assembly, But with Dialogue, Compromise 'We Can Choose the Future We Want'. Meetings Coverage and Press Releases. https://press.un.org/en/2024/sgsm22378.doc.htm (accessed 01.03.25).
 United Nations University (2024). Global E-Waste Surging: Up 21% in 5 Years. Press release, February 20. https://unu.edu/press-release/global-e-waste-surging-21-5-years
 University of Glasgow (n.d.). Low carbon and sustainable computing. School of Computing Science. https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/ (accessed 09.05.24).

@@ -5,8 +5,9 @@ TODO THIS CHAPTER
 2. Migrate to codeberg
 3. Overvej contribution - hvordan? Contributors... 
 4. This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-5. There is always a more urgent problem: covid, war, tarifs... What if we obliged our politicians, that they should always thrive to support sustinable development? Sustainable healthcare, sustainable warfare, sustainable  economy
-6. ...
+5. +There is always a more urgent problem: covid, war, tarifs... What if we obliged our politicians, that they should always thrive to support sustinable development? Sustainable healthcare, sustainable warfare, sustainable  economy
+6. Se "Rester som måske kan bruges"
+7. + Digital transition vs transformation 
 %%
 # Getting started
 

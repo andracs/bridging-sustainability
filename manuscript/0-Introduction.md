@@ -1,10 +1,12 @@
+# Towards sustainable digital (transformation)
 %% 
 TODO THIS CHAPTER 
 1. Update chapter descriptions
 2. Migrate to codeberg
 3. Overvej contribution - hvordan? Contributors... 
 4. This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-5. ...
+5. There is always a more urgent problem: covid, war, tarifs... What if we obliged our politicians, that they should always thrive to support sustinable development? Sustainable healthcare, sustainable warfare, sustainable  economy
+6. ...
 %%
 # Getting started
 

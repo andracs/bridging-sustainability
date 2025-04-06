@@ -1,12 +1,14 @@
 
-%%Replace først !!OK!! og så !!OK%%
+%%Replace først !!OK!! og så !!OK.  %%
 # Bibliography
 Several online sources are included in the bibliography. Unless otherwise stated, please refer to the source as it appeared in December 2024.
 
 Abbing, R.R. (2021) 'This is a solar-powered website, which means it sometimes goes offline': A design inquiry into degrowth and ICT. Computing within Limits. https://doi.org/10.21428/bf6fb269.e78d19f6
 Andersen, H. (2024). Systems theory. The Great Danish, March 5. https://denstoredanske.lex.dk/systemteori
 Andersen, L.H. (2021). Russia is ready to cut itself off from the global internet. Version2, February 2. version2.dk/artikel/rusland-er-klar-til-afskaere-sig-fra-det-globale-internet
-Andre, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
+
+
+!!OK Andre, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
 
 !!OK!! Angela (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/
 
@@ -16,7 +18,9 @@ Barabási, A.-L. & Pósfai, M. (2016). Network Science. Cambridge University Pre
 B Corp (2024). About B Corp Certification: Measuring a Company's Entire Social and Environmental Impact. https://www.bcorporation.net/en-us/certification/
 Becker, C. (2023). Insolvent. MIT Press.
 Becker, C., Chitchyan, R., Duboc, L., et al. (2015). The Karlskrona Manifesto for Sustainability Design. Report no. arXiv:1410.6968.
-Bendell, J. (2017). Deep Adaptation: A Map for Navigating Climate Tragedy. IFLAS Occasional Paper 2. University of Cumbria.
+
+!!OK Bendell, J. (2017). Deep Adaptation: A Map for Navigating Climate Tragedy. IFLAS Occasional Paper 2. University of Cumbria. https://jembendell.com/2019/05/15/deep-adaptation-versions/
+
 Blue Angel (2020). Resource and Energy-Efficient Software Products (DE-UZ 215). https://www.blauer-engel.de/en/productworld/software
 Blevis, E. (2007). Sustainable interaction design: Invention & disposal, renewal & reuse. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 503-512. https://doi.org/10.1145/1240624.1240705
 Brandtzæg, O.P., van Diepen, A., Piepenbrink, R. and others (2023). Comparing the Energy Consumption of Web Frameworks. SustainableSE, March 3. https://luiscruz.github.io/course_sustainableSE
@@ -46,9 +50,13 @@ Danish Business Authority (2024 b). New and upcoming legal requirements for corp
 
 Eurofound (2024). Working Conditions and Sustainable Work. European Foundation for the Improvement of Living and Working Conditions. https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work#key-policy-messages
 Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/
-European Commission (2024). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
+European Commission (2024a). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
+
+!!OK European Commission (2024b). Green Transiotion https://reform-support.ec.europa.eu/what-we-do/green-transition_en
+
 European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Patterns in Social Media Platform Interfaces: How to Recognize and Avoid Them. https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en
-European Environment Agency (2021/2023). Sustainability: What are the alternatives to economic growth? https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives"https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives
+
+!!OK European Environment Agency (2021/2023). Sustainability: What are the alternatives to economic growth? https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives
 
 !!OK!! Faartoft, M. B. (2024, March 5). See the map: How often pesticide residues are found in drinking water wells in your municipality. Danish Society for Nature Conservation. https://www.dn.dk/nyheder/se-kortet-sa-ofte-bliver-der-fundet-pesticidrester-i-drikkevandsboringer-i-din-kommune/
 
@@ -79,12 +87,19 @@ Hauschild, M. (2021). Cradle to cradle. The Great Danish, October 12. https://de
 Hochschule Trier (2022). First Blue Angel for Resource- and Energy-efficient Software Goes to Open-source Document Viewer Okular. March 9. https://www.umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-details/first-blue-angel-for-software
 Hu, C. (2023). Inside the lab that's growing mushroom computers. Popular Science, February 27. https://www.popsci.com/technology/unconventional-computing-lab-mushroom/
 Illich, I. (1973). Tools for Conviviality. Equinox.
-IPCC (2023). AR6 Synthesis Report: Climate Change 2023. https://www.ipcc.ch/report/ar6/syr/
+
+!!OK IPCC (2023). AR6 Synthesis Report: Climate Change 2023. https://www.ipcc.ch/report/ar6/syr/
+
 IT-Branchen (2024a). 9 recommendations for your company's green IT transition. https://itb.dk/policyboards/groenomstilling/
 IT-Branchen (2024b). About IT-Branchen. https://itb.dk/om-it-branchen/
-Jacobsen, A.V., Erenbjerg, A., Törnfelt, C. and others (2024). Publication: It-anvendelse i befolkningen 2023. Statistics Denmark, December 15. https://www.dst.dk/da/Statistik/nyheder-analyser-publ/Publikationer/VisPub?cid=49775
+
+!!OK Jacobsen, A.V., Erenbjerg, A., Törnfelt, C. and others (2024). Publication: It-anvendelse i befolkningen 2023. Danmarks Statistik. https://www.dst.dk/da/Statistik/nyheder-analyser-publ/Publikationer/VisPub?cid=49775
+
 Jakobsen, T.G. (2023). New rules will give you the right to repair. World's Best News, April 2. https://verdensbedstenyheder.dk/nyheder/nye-regler-vil-give-dig-ret-til-at-reparere/
-Jensen, A. (2024). Are you alarmed or indifferent? New study reveals Danes' attitudes to the climate. Videnskab.dk, March 13. https://videnskab.dk/naturvidenskab/er-danskerne-alarmerede-eller-ligeglade-nyt-studie-afsloerer-vores-holdninger-til-klimaet/
+
+!!OK Jensen, A. (2024). Are you alarmed or indifferent? New study reveals Danes' attitudes to the climate. Videnskab.dk, March 13. https://videnskab.dk/naturvidenskab/er-danskerne-alarmerede-eller-ligeglade-nyt-studie-afsloerer-vores-holdninger-til-klimaet/
+
+
 Jevons, W.S. (1866). The Coal Question; An Inquiry Concerning the Progress of the Nation and the Probable Exhaustion of Our Coal Mines. Macmillan.
 josephranseth (2015). Gandhi didn't actually say "Be the change you want to see in the world." Here's the real quote... Joseph Ranseth, August 27. https://josephranseth.com/gandhi-didnt-say-be-the-change-you-want-to-see-in-the-world/
 Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
@@ -94,7 +109,9 @@ Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
 Kastner Research Group (2023). Junkyard Computing. April 2. https://kastner.ucsd.edu/junkyard-computing/.
 Kato, J. & Shimakage, K. (2020). Rethinking Programming "Environment": Technical and Social Environment Design Toward Convivial Computing. Programming '20: Companion Proceedings of the 4th International Conference on Art, Science, and Engineering of Programming, 149-157. https://doi.org/10.1145/3397537.3397544
 Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, March.
-Kirkegaard, F.K. (2024). ANALYSIS Here is hope amidst the gloomy predictions of climate scientists. DR, May 10. https://www.dr.dk/nyheder/viden/klima/analyse-her-er-haabet-midt-i-klimaforskeres-dystre-spaadom
+
+!!OK Kirkegaard, F.K. (2024). ANALYSIS Here is hope amidst the gloomy predictions of climate scientists. DR. https://www.dr.dk/nyheder/viden/klima/analyse-her-er-haabet-midt-i-klimaforskeres-dystre-spaadom
+
 Kristensen, T.V. (2024). The Increasing Carbon Footprint of AI is a Challenge. Here is What We Can Do About It. University of Copenhagen, Department of Computer Science, September 18. https://di.ku.dk/english/news/2023/what-can-we-do-about-the-increasing-carbon-footprint-of-ai/
 Lange, S., Kern, F., Peuckert, J. et al. (2021). The Jevons paradox unravelled: A multi-level typology of rebound effects and mechanisms. Energy Research & Social Science, 74, 101982.
 Lannelongue, L., Aronson, H.-E.G., Bateman, A. and others (2023). GREENER principles for environmentally sustainable computational science. Nature Computational Science, 3(6), 514-521. https://doi.org/10.1038/s43588-023-00461-y
@@ -106,7 +123,9 @@ Life-Centred Design Lab (2024). Our Framework. A Life-centred Design Framework t
 Lowe, D. (2012). Eroom's Law. Science, March 8. https://www.science.org/content/blog-post/eroom-s-law
 Lutz, D. (2023). 10 life-centered design approaches. Medium, September 26. https://uxdesign.cc/10-life-centred-design-approaches-b0f60ba0e002
 Lyngs, U., Lukoff, K., Slovak, P. et al. (2019). Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control Tools. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1-18. https://doi.org/10.1145/3290605.3300361
-Madsen, B.L. (2021). Ecology. The Great Danish, August 31. https://denstoredanske.lex.dk/%C3%B8kologi
+
+!!OK!! Madsen, B.L. (2021). Økologi. Den Store Danske, August 31. https://denstoredanske.lex.dk/%C3%B8kologi
+
 Mala, F.A. & Ali, R. (2022). The Big-O of Mathematics and Computer Science. Journal of Applied Mathematics and Compution, 6(1), 1-3.
 Martin, B. (2023). HTTP Response Header Field: Carbon-Emissions-Scope-2 (Internet Draft No. draft- martin-http-carbon-emissions-scope-2-00). Internet Engineering Task Force. https://datatracker.ietf.org/doc/draft-martin-http-carbon-emissions-scope-2-00
 Mehlsen, C. (2024). The theft of attention. Information Publishers.

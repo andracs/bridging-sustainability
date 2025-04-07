@@ -1,14 +1,17 @@
-# Towards sustainable digital (transformation)
-%% 
-TODO THIS CHAPTER 
+{frontmatter}
+{book: false, sample: false} 
+# TODO THIS CHAPTER 
 1. Update chapter descriptions
 2. Migrate to codeberg
-3. Overvej contribution - hvordan? Contributors... 
+3. Overvej future contribution - hvordan? Contributors... 
 4. This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-5. +There is always a more urgent problem: covid, war, tarifs... What if we obliged our politicians, that they should always thrive to support sustinable development? Sustainable healthcare, sustainable warfare, sustainable  economy
+5. There is always a more urgent problem: covid, war, tarifs... What if we obliged our politicians, that they should always thrive to support sustinable development? Sustainable healthcare, sustainable warfare, sustainable  economy
 6. Se "Rester som måske kan bruges"
-7. + Digital transition vs transformation 
-%%
+7. Uddy Digital transition vs transformation 
+8. Find en ny titel
+
+# Towards sustainable digital (transformation)
+
 # Getting started
 
 **Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The continuous development of society has come under considerable pressure in our time.**

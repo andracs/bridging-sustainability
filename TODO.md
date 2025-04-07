@@ -1,6 +1,4 @@
-OBS! Noget i den danske manus er ikke fjong!
 
-"Det er interessant at tænke på, at folk gladeligt betaler softwarelicenser for Microsofts Office-pakke, selvom lignende open source-software er gratis tilgængelig på internettet. Microsofts pakker har åbenbart haft nogle fordele, som mange millioner brugere fandt nyttige nok til at ville betale for dem. Så længe det forholder sig sådan, at folk betaler for den oplevede værdi, så er det ikke i sig selv problematisk, at virksomheder tjener mange penge på software. Den økonomiske vækst har imidlertid i mange tilfælde betydelige afledte og ødelæggelse konsekvenser for miljø og bæredygtighed. I kapitel 9 vil vi diskutere alternativer til den traditionelle økonomiske væksttanke."
 
 - Jesper vil i løbet af april forsøge at finde et forlag. Evt. snak med Samfundslitteratur
 

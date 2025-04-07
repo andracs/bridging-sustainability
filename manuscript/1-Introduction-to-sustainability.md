@@ -1,3 +1,5 @@
+{book: false, sample: false} 
+# TODO
 //Gennemgå hvordan du bruger *highlight* og **highlight**
 //Krydserefer kapitler fra teori og frem, fx sidst i et afsnit
 

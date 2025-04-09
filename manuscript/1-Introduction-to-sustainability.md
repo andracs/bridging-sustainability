@@ -1,7 +1,9 @@
 {book: false, sample: false} 
 # TODO
-//Gennemgå hvordan du bruger *highlight* og **highlight**
-//Krydserefer kapitler fra teori og frem, fx sidst i et afsnit
+- Gennemgå hvordan du bruger *highlight* og **highlight**
+- Krydserefer kapitler fra teori og frem, fx sidst i et afsnit
+- Add citation baddies black eddar 
+- Harmuth Rosa reference about the unpredictable
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 
@@ -61,7 +63,7 @@ With the help of scientists who continuously monitor global climate change, a nu
 
 {id: digital-transformation} 
 ### People in information tehcnology and digital services are both the baddies and the goodies 📡
-%% Citation baddies black eddar %%
+
 Information technology and digital transformation are amazing entities that surprise us every day with the latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
@@ -156,8 +158,6 @@ It is clear that we cannot fully guard against all unintended future consequence
 However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.
 
 We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working toward sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
-
-%% Harmuth Rosa reference? %%
 
 {id: green-sustainability}
 ### Green sustainability
@@ -550,7 +550,6 @@ While twin transition focuses on exploring the connection between green and digi
 The term **digitainability** is a contraction of the words digital development and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN 's Sustainable Development Goals with digital tools ([Gupta et al. 2020](https://doi.org/10.3390/su12219283)). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
 
 Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He and his teams propose a simple tool called DSM ( Digitalization–Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios.
-
 ## Key Takeaways from this Chapter
 You've reached the end of the first chapter, take a moment to appreciate your progress! You've explored the fundamental principles of sustainable development, learned new concepts, and refreshed your understanding of others.
 
@@ -568,14 +567,13 @@ In your professional role, you have the power to make meaningful choices. For ex
 - Support the Sustainable Development Goals (SDGs) relevant to your field.
 
 Whether your strengths lie in software development, UX design, project management, digital communication, or network technology, your greatest impact comes from integrating a long-term, sustainability-driven mindset into your daily work.
-
-### Reflective questions
-To foster sustainability in your professional practice, ask yourself regularly:
+### Reflect and rethink
+To promote sustainability in your everyday decisions in your profession, consider the following:
 
 1. Is my work as sustainable as possible?
 2. Does my work have a positive impact on the environment, climate, society, working conditions, and the health and well-being of individual users?
 3. How do my professional choices today affect future generations?
 4. What specific improvements can I make to ensure that my work is climate-neutral and ethically sound? 
-5. Does my work align with the principles of the Karlskrona Manifesto or relevant UN Global Goals?
+5. Does my work align with the principles of the Karlskrona Manifesto or relevant sustainable development goals?
 
 The following chapters will provide you with essential tools and knowledge to put these considerations into practice. Next, we'll explore how systems work and how to effectively understand, model, and influence them. After this foundational theory chapter, we'll delve deeper into practical applications, specifically in digital development and information technology.

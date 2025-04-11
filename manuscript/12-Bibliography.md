@@ -125,7 +125,8 @@ Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
 
 Kastner Research Group (2023). Junkyard Computing. April 2. https://kastner.ucsd.edu/junkyard-computing/.
 Kato, J. & Shimakage, K. (2020). Rethinking Programming "Environment": Technical and Social Environment Design Toward Convivial Computing. Programming '20: Companion Proceedings of the 4th International Conference on Art, Science, and Engineering of Programming, 149-157. https://doi.org/10.1145/3397537.3397544
-Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, March.
+
+!!OK Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/
 
 !!OK Kirkegaard, F.K. (2024). ANALYSIS Here is hope amidst the gloomy predictions of climate scientists. DR. https://www.dr.dk/nyheder/viden/klima/analyse-her-er-haabet-midt-i-klimaforskeres-dystre-spaadom
 

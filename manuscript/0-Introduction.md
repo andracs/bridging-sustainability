@@ -1,4 +1,3 @@
-{frontmatter}
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
 1. Update chapter descriptions, so it tells a story
@@ -7,12 +6,18 @@
 4. Uddyb Digital transition vs transformation 
 5. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
 6. Flere og bedre illustrationer, gennemgående 
-7. JESPER Find en ny titel
-8. JESPER Find en bedre udgiver
-9. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-   
-   Overvej future contribution - hvordan? Contributors...
-   ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+7. JESPER Omroker  kapitler → Er det svært at starte med teori? 
+	1. begynd med starten af 1
+	2. og så 3
+	3. og så 2
+	4. også resten af 1
+	5. 
+8. JESPER Publicer i 3 dele, sælge som bundle?
+9. JESPER Find en ny titel
+10. JESPER Find en bedre udgiver
+11. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
+12. Overvej future contribution - hvordan? Contributors...
+13. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 # Guide for  sustainable digital
 (vi skal nok have en anden titel, her kommer idéer til arbejdstitler)

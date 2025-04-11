@@ -1,5 +1,17 @@
-# Governing sustainability in digital projects 
+{book: false, sample: false} 
+# TODO
 
+- Digital value chain (McKinsey)
+- Industrial Internet Value Chain
+	- **Device Layer**: Sensors on production line equipment
+	- **Connectivity Layer**: 5G network transmits data 
+	- **Platform Layer**: Azure IoT Hub stores and organize
+	- **Analytics Layer**: AI detects inefficiencies
+	- **Application Layer**: Dashboard shows alerts; operator adjusts machine
+- Digital Ecosystem / ### **Digital Ecosystem Value Chain**
+
+
+# Governing sustainability in digital projects 
 
 ## Governing Sustainability
 What kind of opportunities do we have for governing digital projects in sustainable ways? First, we must consider whether we are aiming to create sustainable IT and support sustainable development, or whether we seek to enable sustainability through IT—also known as _"sustainability by IT."_

@@ -503,8 +503,8 @@ This belief is reflected in three key ideas that shape our approach-and the foun
 
 - [The Karlskrona Manifesto](#karlskrona-manifesto)
 - [Twin transition](#twin-transition)
-- [Digitainability](#Digitainability)
-- 
+- [Digitainability](#digitainability)
+
 {id: karlskrona-manifesto}
 ### The Karlskrona Manifesto
 Sustainable digital development is about developing modern technological solutions and products without compromising the living conditions of future generations. It's a complicated issue that we can better address if we can break this goal down into some concrete areas of action. 

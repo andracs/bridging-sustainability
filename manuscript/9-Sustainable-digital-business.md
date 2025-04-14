@@ -1,17 +1,82 @@
 {book: false, sample: false} 
 # TODO
+- Fra https://docs.google.com/document/d/1X6YyDJR1kg3fvPqmzVUoGgoWsC7cDyHVA4PD4CrB-8o/edit?tab=t.0#heading=h.eb44gal0g7s4 
+- https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoqR3ZD72biqWqVgbLAIqq9HnP-NCN1Xla4UwcYlM-5XWPA2V8n1YrFWhT7JD3T4oZ07l3V6dfuhxM3NnOT1q5RSFRKxQYCxb7bhjV7SoCLCrohLfpfWsM4KFQjayTQxXRjvI3S8pUcrRL9ZTLl4_Ljx8Z?key=10XbXAWtnQ0ZvvutixwTJA)
 
-- Digital value chain (McKinsey)
-- Industrial Internet Value Chain
-	- **Device Layer**: Sensors on production line equipment
-	- **Connectivity Layer**: 5G network transmits data 
-	- **Platform Layer**: Azure IoT Hub stores and organize
-	- **Analytics Layer**: AI detects inefficiencies
-	- **Application Layer**: Dashboard shows alerts; operator adjusts machine
-- Digital Ecosystem / ### **Digital Ecosystem Value Chain**
+# Chapter: Governing Sustainability in Digital Projects
+
+## 1. Why Governance Matters in Digital Sustainability
+
+- What is information tehcnology  good for?
+- Framing sustainability in digital contexts: from compliance to strategy
+- The shift from short-term profits to long-term value creation
+
+## 2. From Profits to Purpose: Governing Sustainability
+
+- Understanding sustainable profits
+- Governance structures for sustainability
+- The EU agenda and the twin transition (digital & green)
+- Key definitions:
+  - Sustainability
+  - Governance
+  - Digital ecosystems
+  - Digital Ecosystem Value Chain
+  - Twin transition
+
+## 3. Case Examples
+
+### 3.1. By IT / Of IT
+- **By IT**: Using digital tools to enable sustainability
+- **Of IT**: Making digital itself more sustainable
+
+### 3.2. The Power of Storytelling
+- Why stories matter: shaping values and decisions
+- “Bæredygtighedsrejsen” – The sustainability journey
+
+### 3.3. Case Studies
+- **Climaider**
+- **Nextværke**
+- **Others (m.fl.)**
+
+## 4. Sustainable Entrepreneurship
+
+### 4.1. Business Model Innovation
+- Business Model Canvas (BMC) & value proposition
+- “Stories are important, but value propositions are importanter”
+
+### 4.2. Funding Models
+- Attracting capital vs bootstrapping
+- ESG investing and impact funds
+
+### 4.3. Value Chains & Ecosystems
+- McKinsey’s digital value chain model
+- Industrial Internet value chain
+  - **Device Layer**: Sensors on production line equipment
+  - **Connectivity Layer**: 5G networks transmit data
+  - **Platform Layer**: Azure IoT Hub stores and organizes
+  - **Analytics Layer**: AI detects inefficiencies
+  - **Application Layer**: Dashboard and operator feedback
+- Open innovation & open source
+- Lifecycle assessment tools (e.g. OpenLCA)
+- Stakeholder mapping
+
+## 5. Leadership in Sustainable Digital Projects
+
+- Focus on core strengths
+- Regenerative leadership principles
+- Navigating standards and certifications
+- ESG dimensions - CSRD disclosure topics
+- Aligning leadership with ecosystem impact
+- The human factor
+
+## 7. Key Points & Takeaways
+
+- Sustainability requires intentional governance
+- Governance aligns people, policies, and technologies
+- Stories shape culture, but strategy sustains outcomes
+- Leadership sets direction; governance builds structure; entrepreneurship delivers impact
 
 
-# Governing sustainability in digital projects 
 
 ## Governing Sustainability
 What kind of opportunities do we have for governing digital projects in sustainable ways? First, we must consider whether we are aiming to create sustainable IT and support sustainable development, or whether we seek to enable sustainability through IT—also known as _"sustainability by IT."_
@@ -23,11 +88,17 @@ Karlskrona - Economical sustainabaility
 
 On one hand, we see that many unsustainable companies have grown large and profitable, so historically, sustainability has not been a prerequisite for success. On the other hand, there is growing research suggesting that sustainable companies may enjoy certain competitive advantages, such as improved brand reputation, customer loyalty, operational efficiency, and long-term risk management.
 
-### Starting a sustainable digital business
+## Starting a sustainable digital business
+
+**Digitalt entreprenørskab** refererer bredt set til processen med at skabe nye eller nyskabende internetbaserede virksomheder, produkter eller tjenester. Denne definition omfatter både startups, der introducerer nye digitale tilbud på markedet, og den digitale transformation af eksisterende forretningsaktiviteter inden for etablerede virksomheder eller den offentlige sektor. Digitalt entreprenørskab forbinder således entreprenørskab med teknologisk udvikling, kreativitet, innovation og tilegnelsen af digitale færdigheder. Det indebærer en omlægning af fysiske aktiver eller tjenester til det digitale domæne ved hjælp af elektronisk kommunikation. Kernen i digitalt entreprenørskab ligger i udnyttelsen af digitale værktøjer og platforme til at skabe værdi og muligheder, hvilket adskiller sig fundamentalt fra traditionelle, rent fysiske forretningsmodeller. Dette skifte muliggør en hidtil uset skalerbarhed og rækkevidde, hvilket har betydelige implikationer for den potentielle effekt af bæredygtige løsninger.
+
+I krydsfeltet mellem digitalt entreprenørskab og bæredygtig udvikling finder vi konceptet "digitalt bæredygtigt entreprenørskab", som kan ses som et forretningsmodelperspektiv, der integrerer digitale teknologier med henblik på at skabe social og miljømæssig værdi.
+
+
 Strategies for acquiring funding 
 Europe has seen a wave of tech startups combining digital innovation with green causes - from energy management to circular economy. In fact, Europe is home to roughly twice as many _climate tech_ startups as the US (30,000 vs. 14,300), despite struggling with limited venture funding
 https://www.worldfund.vc/knowledge/white-paper-climate-tech-for-european-resilience 
-#### Sustainable by it 
+## Sustainable by it 
 Digitale teknologier som AI, IoT og dataanalyse kan hjælpe andre industrier med at nedbringe deres CO₂-udledning; analyser peger på, at digitalisering kan muliggøre en reduktion på op mod 20% af de globale emissioner inden 2030​. [digitaleurope.org](https://www.digitaleurope.org/resources/digital-action-climate-action-8-ideas-to-accelerate-the-twin-transition/#:~:text=Studies%20have%20found%20that%20by,of%20global%20CO%202%20emissions)
 Dette gør tech-iværksættere til nøglespillere i den grønne omstilling, da de udvikler software, platforme og hardware, som forbedrer effektiviteten og reducerer miljøbelastningen på tværs af sektorer.
 
@@ -199,11 +270,11 @@ Selvom potentialet er stort, er der også velkendte barrierer og faldgruber, som
 
 Endelig er **menneskelige ressourcer** en potentiel begrænsning: Hvis ikke arbejdsstyrken har de nødvendige digitale færdigheder, eller hvis talent forlader Europa, bliver det svært at realisere twin transition. “Brain drain” og konkurrence om specialister (fx inden for AI, data science, cleantech ingeniører) kan hæmme Europas omstilling, hvis ikke uddannelsessystemer og virksomheder formår at opruste og fastholde talent i tilstrækkeligt omfang.
 
-**Digitalt entreprenørskab** refererer bredt set til processen med at skabe nye eller nyskabende internetbaserede virksomheder, produkter eller tjenester. Denne definition omfatter både startups, der introducerer nye digitale tilbud på markedet, og den digitale transformation af eksisterende forretningsaktiviteter inden for etablerede virksomheder eller den offentlige sektor. Digitalt entreprenørskab forbinder således entreprenørskab med teknologisk udvikling, kreativitet, innovation og tilegnelsen af digitale færdigheder. Det indebærer en omlægning af fysiske aktiver eller tjenester til det digitale domæne ved hjælp af elektronisk kommunikation. Kernen i digitalt entreprenørskab ligger i udnyttelsen af digitale værktøjer og platforme til at skabe værdi og muligheder, hvilket adskiller sig fundamentalt fra traditionelle, rent fysiske forretningsmodeller. Dette skifte muliggør en hidtil uset skalerbarhed og rækkevidde, hvilket har betydelige implikationer for den potentielle effekt af bæredygtige løsninger.
 
 
 
-I krydsfeltet mellem digitalt entreprenørskab og bæredygtig udvikling finder vi konceptet "digitalt bæredygtigt entreprenørskab", som kan ses som et forretningsmodelperspektiv, der integrerer digitale teknologier med henblik på at skabe social og miljømæssig værdi. Et beslægtet begreb er "bæredygtig digitalisering", som henviser til processen med at digitalisere økonomien på en langsigtet, grøn og organisk måde, og som har til formål at understøtte Europas dobbelte overgang til en grøn og digital økonomi. Bæredygtig digitalisering sigter mod at styrke Europas digitale suverænitet og hviler fundamentalt på tre søjler: bæredygtig B2B-digitalisering, grønnere teknologier og en cirkulær økonomi samt et innovationsfremmende politisk og regulatorisk rammeværk
+
+ Et beslægtet begreb er "bæredygtig digitalisering", som henviser til processen med at digitalisere økonomien på en langsigtet, grøn og organisk måde, og som har til formål at understøtte Europas dobbelte overgang til en grøn og digital økonomi. Bæredygtig digitalisering sigter mod at styrke Europas digitale suverænitet og hviler fundamentalt på tre søjler: bæredygtig B2B-digitalisering, grønnere teknologier og en cirkulær økonomi samt et innovationsfremmende politisk og regulatorisk rammeværk
 
 - **Søgemaskiner:** Ecosia er en søgemaskine baseret i Berlin, som donerer størstedelen af sit overskud fra reklamer til plantning af træer globalt. For hver søgning genereres indtægter, der bruges til at plante træer i over 35 lande i samarbejde med lokale organisationer. Ecosia har indtil videre plantet over 228 millioner træer og allokeret over 92 millioner euro til klimaindsats. Virksomheden fokuserer på at genoprette og beskytte biodiversitets-hotspots ved at dyrke over 500 forskellige hjemmehørende arter i områder, hvor der er størst behov.  
     

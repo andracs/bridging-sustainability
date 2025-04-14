@@ -44,6 +44,7 @@ Fundamentally, all IT systems consist of three core components: **hardware**, **
 
 All three parts have a role to play in the environmental impact of digital solutions. Digital systems work in the interaction between hardware, network, software and users, but sustainability can also be assessed for each component individually. The next sections review the sustainability aspects of hardware, network and software separately.
 
+# FORTSAT HER  ☺️ 
 ## Sustainability aspects of hardware
 
 There is no digitalization or information technology without hardware and electronics. Computers, smartphones and networking equipment are built from many different parts, such as printed circuit boards, microchips, plastic and electronic components.

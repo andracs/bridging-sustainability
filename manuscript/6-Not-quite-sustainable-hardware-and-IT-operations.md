@@ -1,3 +1,7 @@
+{book: false, sample: false} 
+# TODO
+
+- ...
 # 6. (Not quite) sustainable hardware and IT operations
 The waves of digitalization have - slowly but surely - washed over our everyday lives and society over the past decades. Computers that once took up an entire room have now become small personal devices. Technology is taking up less and less space and becoming more integrated into our lives. We now have laptops, smartphones, smartwatches, smart rings and even smart homes where our devices communicate with each other. But we also have huge data centers that take up multiple warehouses and suck energy similar to big cities.
 Electrification has also transformed our means of transportation, and today our cars can run on electricity from renewable energy sources. Information technology is playing an increasingly important role in virtually every sector and industry, including the automotive industry, where modern cars are now equipped with multiple digital screens and smart features. But it doesn't stop there.

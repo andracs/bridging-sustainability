@@ -16,35 +16,32 @@ For eons, the space above Earth was pristine. Then came the Space Age in the 195
 Currently, more than 8,000 satellites circle our planet, enabling modern communication, observation, and navigation. But this orbital infrastructure, along with future space endeavors, is increasingly endangered by debris from past missions. Hurtling around Earth at immense speeds, even small pieces of debris can cause devastating collisions.
 
 The most alarming possibility is a runaway chain reaction: collisions creating more debris, leading to more collisions, and so on. Such a cascade could potentially cripple essential services like GPS and global communications, and close off access to space for future generations ([Kelvey 2024](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)). Yet, hope remains that a shift towards more sustainable, long-view practices can help us manage this orbital challenge.
+### Towards sustainable operations in space
 
-# ☺️ HERFRA
-### Sustainable perspectives in space
+Recognizing the threat posed by space debris, the space industry has increasingly focused on sustainable, long-term solutions in recent years. The goal is to mitigate orbital hazards and ensure the continued safe use of space for satellite deployment (Frank 2023).
 
-In recent years, the space industry has been focused on more long-lasting solutions, including addressing the issue of space debris so that we can continue to send satellites into space safely (Frank 2023).
+Several different initiatives are underway to address this challenge and secure the future availability of satellite technologies:
 
-Several different initiatives are underway to solve the problem and ensure the long-term availability of satellite technologies for the future, such as
+* **_Lifecycle management_:** Satellites are now being designed with their **entire lifecycle** in mind. The satellites are now designed to prevent them from ending up as space debris at the end of their mission.
 
-●      _Lifecycle management_ . We have started designing satellites that do not leave waste in space. The satellites are designed to prevent them from ending up as space debris at the end of their mission.
+* **_Downsizing_:** We use smaller and cheaper micro- and nanosatellites, which are small and compact, use fewer resources overall, and are generally easier to manage.
 
-●      _Downsizing_ . We use smaller and cheaper micro- and nanosatellites, which are small and compact, use fewer resources and are generally easier to manage.
+* **_Iterative Development_:** Historically, satellites often had long development cycles (10-15 years) followed by equally long service lives (10-15 years), resulting in operational technology potentially being decades old. Given the rapid pace of technological advancement, the industry is moving towards shorter lifecycles. This approach allows deployed satellites to incorporate more current and efficient technologies, improving performance and potentially reducing mission duration.
 
-●      _Iterative development_ . In the beginning, satellites had ten to fifteen years of development time and ten to fifteen years of service life , which meant that the technology in space was up to 30 years old. A lot of technical development can happen in 30 years, which is why satellites with shorter lifespans are now being developed to ensure that the satellites in operation always have the most modern and up-to-date technologies.
+But what is the connection between satellites and sustainable IT? Satellites are crucial for numerous functions underpinning our digital world. These include enabling global **data transfer**, **global positioning (GPS)**, facilitating **Earth observation** (including imaging), and supporting vital scientific **research**, among other key applications. Key global communication services depend on this orbital infrastructure. Therefore, the destruction of satellites by space debris doesn't just affect space exploration; it could severely disrupt vital digital communication systems worldwide, highlighting a critical sustainability vulnerability.
+## What can we learn from the recent developments in satellite technology?
 
-But what do satellites have to do with sustainable IT? Well, satellites help with data transfer. Satellite phones have a global reach, while traditional mobile phones only cover a few kilometers. Global internet services rely on satellites for data transfer, so if satellites are destroyed by space debris, it could have fatal consequences for communication on a global scale.
+The story of satellite pollution powerfully illustrates how rapidly new technologies can generate global environmental problems. Yet, it also offers a crucial lesson: sustainable pathways become possible when we commit to addressing the long-term consequences of innovation. Core sustainability principles highlighted by the space debris challenge – including *Lifecycle Management*, *Downsizing*, and *Iterative Development* – offer valuable frameworks applicable across the entire information technology landscape.
 
-## From satellite pollution to sustainable IT development
+Space industry can inspire us in informatics to integrate these (and similar other) principles into the design and management of product lifecycles. All development must be grounded in sustainability, emphasizing circular economy approaches like cradle-to-cradle recycling.  Ultimately, we must actively mitigate the unintended negative consequences of IT by designing solutions with lifecycles, that deliver lasting benefits for users, the environment, and society.
 
-The satellite story shows us how quickly we can create pollution with global consequences. But the satellite example also shows that there are sustainable paths if we manage to focus on the long-term consequences of our development. "Lifecycle management ", "downsizing " and "iterative development" are sustainability principles that we can transfer to other areas of information technology.
+Fundamentally, all IT systems consist of three core components: **hardware**, **software**, and **network infrastructure.** Crucially, there is also the **human factor, the users,** who interact with these systems. As depicted in Figure 3.1, data flows and transforms within this ecosystem of components, ultimately facilitating information exchange with the user.
 
-The industry must continuously improve the design of the life cycle of IT products so that all development is permeated by sustainability principles and there is a better focus on circular processes such as cradle to cradle recycling. We must mitigate many of the unintended consequences of IT by seeking solutions that benefit users, the environment and society in both the short and long term.
+![Data flows in an IT system](resources/I_3.1.png " It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.")
+>  **Figure 3.1**
+>  It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.
 
-At a high level, all IT systems are made up of three components: hardware, software and network. In addition, there is the human factor, meaning that all systems have one or more users who interact with the system in one way or another. In digital systems, data flows between the components and is transformed into information that is exchanged with the user, as illustrated in Figure 3.1.
 
-[Figure inserted from file with all figures]
-
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.png)
-
-Figure 3.1 It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.
 
 All three parts have a role to play in the environmental impact of digital solutions. Digital systems work in the interaction between hardware, network, software and users, but sustainability can also be assessed for each component individually. The next sections review the sustainability aspects of hardware, network and software separately.
 
@@ -56,9 +53,7 @@ The production of hardware requires high-tech production lines and many differen
 
 The illustration below shows how the supply network for a smartphone works. Minerals and raw materials from all over the world end up in China, where they are assembled into a product that is eventually sold in Europe.
 
-[A section from this page will be made for the book's website - the authors do not make great demands on what is included. The most important thing is readability. https://open.sourcemap.com/maps/61a98acef1ddeb086156a529. Rights are being clarified!!!. Possibly. Link in footnote 10 be active in e-book]
-
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image003.png)
+![Figure 3.2](resources/I_3.2.png)
 
 Figure 3.2 From responsible raw material extraction to production and distribution: Fairphone's global supply chains visualized through Sourcemap. By focusing on the entire chain, Fairphone promotes fairer and more environmentally conscious production.[[1]](#_ftn1)
 
@@ -76,7 +71,7 @@ In order to move hardware production in a more sustainable direction, we need to
 
 [Figure inserted from file with all figures]
 
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image005.png)
+![Figure 3.3](resources/I_3.3.png)
 
 Figure 3.3 A sustainable hardware lifecycle recycles materials such as metals and plastics, utilizes renewable energy, and protects water, air and natural resources through purification. Knowledge and labor drive product development and create positive social development. Circularity binds the elements of the system together in a regenerative cycle .
 
@@ -138,9 +133,8 @@ Modern digital technology consists not only of computers, smartphones and printe
 
 Figure 3.4 illustrates how regular use of a computer (e.g. browsing or chatting) sends data out into the world and gets data back. Every click on a link in a browser will send data out into the world in this way and retrieve a response back. To understand the environmental impact of your information technology, you also need to consider the network's part in the carbon footprint.
 
-[Figure inserted from file with all figures]
 
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image007.png)
+![Figure 3.4](resources/I_3.4.png)
 
 Figure 3.4 Data flows through many different nodes on the network before it reaches the end user.
 
@@ -240,10 +234,7 @@ With the right software, we can optimize existing products and processes in a mo
 
 Software impacts the people who use it. Often these influences are beneficial and help us perform our activities more efficiently. For example, social media makes it easy to send messages to selected people. However, there are also side effects; for example, excessive use of digital media can lead to mental health issues. In the right hands, software can create positive change, but it's also easy to abuse it for reckless or harmful purposes. Software can be designed to utilize psychological tricks to get users to do what the designer wants - for better or worse.
 
-[Figure inserted from file with all figures]
-
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image009.png)
-
+![Figure 3.5](resources/I_3.5.png)
 Figure 3.5: Manipulative design can influence user decisions by highlighting certain choices as the "right" or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.
 
 A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ( Sobolev & Lesic 2022[[A4]](#_msocom_4) [[A5]](#_msocom_5)  ). Figure 3.5 shows how this trick can be used to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
@@ -260,9 +251,7 @@ So, it is possible to build sustainability aspects into existing software and it
 
 Another opportunity that digitalization and software solutions bring is that we can continuously monitor and show the impact of our sustainability work in a dashboard - see figure 3.6. Organizations can build systems that monitor given KPIs in real time (or close to real time), and these metrics can be visualized for continuous monitoring.
 
-[Figure inserted from file with all figures]
-
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image011.png)
+![Figure 3.6](resources/I_3.6.png)
 
 Figure 3.6 Example of a dashboard that visualizes sustainability goals in real-time and makes organizations' progress and areas of focus clear. Such visualizations can help monitor KPIs and motivate action by highlighting both positive results and improvement potentials.
 
@@ -304,10 +293,7 @@ In the book _Sustainable Business Studies_ 2024, we have outlined two basic stra
 
 Reactive strategies act as emergency solutions - they aim to minimize the harmful effects of the IT technologies we already use. When sustainability issues are discovered or unexpected consequences arise, these strategies come into play to mitigate the effects. Proactive strategies can be compared to a gardener carefully planning a plantation that can create long-term value. It's about developing new technologies and processes with sustainability in mind so that we are ready for the challenges of the future.
 
-[Figure inserted from file with all figures]
-
-![](file:////Users/anac/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image013.png)
-
+![Figure 3.7](resources/I_3.7.png)
 Figure 3.7. In the interaction of reactive and proactive strategies, more sustainable information technology can be developed.
 
 By combining reactive and proactive strategies, organizations can strengthen their sustainability. It is crucial to use both approaches simultaneously, as shown in Figure 3.7, as they complement each other and create a coherent strategy for sustainability.

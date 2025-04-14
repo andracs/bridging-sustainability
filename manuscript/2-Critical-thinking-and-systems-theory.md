@@ -1,7 +1,10 @@
 {book: false, sample: false} 
-# TODO THIS CHAPTER 
-1. Måske formater med breaks også i den forrige kapitel? 
-2. JESPER Hvad synes vi om denne formatering
+# TODO
+1. JESPER Hvad synes vi om denne formatering
+	1. Måske formater med breaks også i den forrige kapitel? 
+	2. Og fed skrift?
+	3. Og burbs? 
+	4. Og burbs som billedtekst?
 
 # 2. Critical thinking and systems theory
 
@@ -44,7 +47,7 @@ Systems thinking is a **scientific approach** that is particularly well suited t
 
 ## System interactions: video streaming as an example
 
-![[2.1.png]]
+![[I_2.1.png]]
 > **Figure 2.1**  
 > While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.
 
@@ -77,7 +80,7 @@ If you're new to systems thinking, don't worry. In general, thinking in systems 
 
 The illustration below (Figure 2.2) shows a simple model of a system consisting of several elements. The elements of a system can also be considered as **independent systems**, or **subsystems** that can be further analyzed.
 
-![[2.2.png]]
+![[I_2.2.png]]
 > **Figure 2.2**  
 > This generic system model illustrates how inputs are processed through the elements of the system and their interconnections to create outputs. The model is universally applicable and can be used to analyze and understand all types of systems.
 
@@ -160,7 +163,7 @@ An example of pervasive systems thinking from the world of sustainability is our
 
 After decades of work, scientists have developed models that identify trends and possible climate scenarios, though precise short-term predictions remain difficult. What they have found, however, is that man-made climate change is not only causing warmer temperatures, but also greater variability in weather systems, leading to increasing rates of rare or extreme weather events.
 
-![[2.3.png]]
+![[I_2.3.png]]
 > **Figure 2.3**  
 > Systems thinking helps us understand historical and anthropogenic climate change. Historical patterns show fairly stable variations over time, while anthropogenic changes result in more extreme and unpredictable fluctuations, resulting in record-breaking cold and heat.
 
@@ -211,7 +214,7 @@ We can consider all digital solutions as systems. For example, a smartphone is a
 
 As digital solution developers, we can see the system as a whole – turning on the phone and using its apps – but we can also zoom in on individual subsystems. For example, we can dive into the camera system and develop software to optimize its functions in new ways. The context or environment of the system is the usage situation in which the phone is used. In a broader perspective, the smartphone can contribute to societal systems by spreading messages on social media. Systems thinking helps us to zoom in and out of systems to understand information technology at different levels.
 
-![Figure 2.4](2.4.png)  
+![Figure 2.4](I_2.4.png)  
 >**Figure 2.4**  A lake and a data center are both systems where complex interactions create the whole – but their nature is very different. The lake acts as a natural, self-regulating ecosystem, while the data center requires constant control and resources. The smartphone brings the personal perspective into systems thinking, uniting data from global networks with the user's daily life. Fascinating how systems thinking can unite these worlds and inspire sustainable solutions.
 
 From a sustainability perspective, there are many non-digital systems that also need to be considered. For example, a lake can also be considered as a system, an ecosystem, which is affected if the lake water is used to cool a data center. The lake as a system consists not only of water, but also of organisms that live in and around the water. In addition, the lake is part of various cycles of energy and materials and has an impact on other systems through them. Without systems thinking, ill-considered use of freshwater can lead to environmental problems in the lake and thus sustainability issues.
@@ -225,7 +228,7 @@ To give a concrete example of how a system model can be brought into play in a d
 
 We can think of this webshop as a system with inputs and outputs. In the system diagram in figure 2.5, you can see a very simplified version of a webshop understood as a system. The system handles customers, orders, stock, deliveries and payments. Note that in traditional IT development you wouldn't consider environmental impact and societal effects as outputs of the system, but that's what makes our work different - that we include sustainability aspects in our system model.
 
-![[2.5.png]]
+![[I_2.5.png]]
  > Figure 2.5. As a system the webshop receives inputs such as IT systems and customer data, which through processing results in outputs such as finished deliveries and financial gain.
 
 In addition to developing the webshop and the processes that make it work, we also need to look at the five sustainability dimensions of the system that we know from the Karlskrona Manifesto.

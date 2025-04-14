@@ -1,5 +1,9 @@
+{book: false, sample: false} 
+# TODO
+
+- %%Replace først !!OK!! og så !!OK.  %%
+
 {backmatter}
-%%Replace først !!OK!! og så !!OK.  %%
 # Bibliography
 Several online sources are included in the bibliography. Unless otherwise stated, please refer to the source as it appeared in December 2024.
 
@@ -70,11 +74,11 @@ European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Pa
 Fairphone Community (2024). Fairphone Community - On a Journey to Change the Electronics Industry. Fairphone.com. https://www.fairphone.com/en/community/
 Flyverbom, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
 
-
-
 Foxconn suicides (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Foxconn_suicides
 Framework (n.d.). Website. https://frame.work/sustainability (accessed 23.01.25).
-Frank, L. (2023). The threat from space (27/02/2023). 24 Questions for the Professor (Podcast). https://www.weekendavisen.dk/podcast/24sporgsmaal
+
+!!OK Frank, L. (2023). Truslen fra rummet (27/02/2023). 24 spørgsmål til professoren (Podcast). https://www.weekendavisen.dk/podcast/24sporgsmaal
+
 Franklin, U. (1998). The Real World of Technology (5th edition). Canadian Broadcasting Corporation.
 Freewheeling Apps (n.d.). Website. http://akkartik.name/freewheeling-apps (accessed 24.06.24).
 Forskninsportalen.dk (2025). https://forskningsportal.dk/green-research/

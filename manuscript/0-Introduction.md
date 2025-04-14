@@ -20,13 +20,14 @@
 13. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 # Guide for  sustainable digital
+The computer professional's guide to social and planetary care
 (vi skal nok have en anden titel, her kommer idéer til arbejdstitler)
 
 # Introduction
 
-**Our society has been sustainable for centuries, but this is not guaranteed to continue in the future, and the future development of our society has come under considerable pressure in our time.**
+**Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure in our time.**
 
-We are living large and consuming earths resources beyond our means and beyond the planets limits. It is up to us now to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and routines in order to drive positive change in the world.*
+We are consuming earthly resources beyond our means and beyond the planet's limits. It is up to us to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and routines in order to drive positive change in the world.*
 
 If you’re in touch with digital technologies and you are ready for expanding your knowledge of digital sustainability, then this book is for you.  
 

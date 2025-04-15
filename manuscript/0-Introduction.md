@@ -17,9 +17,10 @@
 10. JESPER Publicer i 3 dele, sælge som bundle?
 11. JESPER Find en ny titel
 12. JESPER Find en bedre udgiver
-13. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-14. Overvej future contribution - hvordan? Contributors...
-15. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+13. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/
+14. JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
+15. Overvej future contribution - hvordan? Contributors...
+16. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 # Guide for  sustainable digital
 The computer professional's guide to social and planetary care

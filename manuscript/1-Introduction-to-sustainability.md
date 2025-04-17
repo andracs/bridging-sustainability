@@ -7,10 +7,10 @@
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 
-In order to base our work with sustainability on solid and proven science, we must first understand some selected fundamental sustainability concepts. This first chapter covers the key ideas and vocabulary. The goal of the chapter is to give you a glimpse of the great complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. When working with sustainability, these different disciplines are intertwined, requiring a holistic approach from those of us working with the digital aspects of sustainability.
+In order to base our work with sustainability on a solid ground, we must first understand some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability ask of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
 ## Why is sustainability urgently important right now?
 
-Let's go through some weighty theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
+Let's go through some substantial theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
 
 - [The Anthropocene](#anthropocene)
 - [Mass extinction](#mass-extinction)
@@ -22,7 +22,7 @@ Let's go through some weighty theories that empasize the urgency of taking actio
 
 {id: anthropocene}
 ### 🛣️ This is the age of the Anthropocene
-The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to such an extent that they are causing both local and global changes in the global state of the Earth.  
+The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the global state of the Earth.  
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
 
@@ -64,11 +64,11 @@ With the help of scientists who continuously monitor global climate change, a nu
 {id: digital-transformation} 
 ### People in information tehcnology and digital services are both the baddies and the goodies 📡
 
-Information technology and digital transformation are amazing entities that surprise us every day with the latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
+Information technology and digital transformation surprise us every day with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
 
-Modern IT is accelerating science and research, and the computing power of processors and the efficiency of algorithms are increasing every year. It is now the speed of human cognition that limits the speed of development.
+Modern IT is accelerating some dimensions of science and research, and the computing power of processors and the efficiency of algorithms are increasing every year. It is now the speed of human cognition that limits the speed of development.
 
 Information technology and digital transformation are two sides of the same coin. Digital transformation focuses on people, organizations and their processes, and information technology focuses on the digital technologies themselves.
 
@@ -79,13 +79,13 @@ Information technology and digital transformation are two sides of the same coin
 
 There is no digital transformation without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such is in direct opposition to nature and the environment.
 
-However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability must help create an inventive balance and exchange between technology, people, nature and the environment.
+However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability should help create a fruitful balance and exchange between technology, people, nature and the environment.
 
 {id: your-responsibility} 
 ### ⛑️ Accept, embrace and live up to your digital responsibility 
 As an information technology and digital professional, what is your role in this global equation? Can IT and digital development contribute to a better world and a more sustainable future if we use technology with long-term thinking?
 
-You may not be able to solve the sixth mass extinction event and balance nature in the Anthropocene era overnight, but many small steps - including your professional contribution to the sustainability agenda - will contribute to positive change in the world.
+You may not be able to solve the sixth mass extinction event and balance nature in the Anthropocene era overnight, but many small steps - including your professional contribution to the sustainability agenda - will contribute to positive changes in the world.
 ## Fundamental sustainability concepts
 Let's continue by reviewing some key concepts that form the basis for working with sustainable digital development. You may already be familiar with some of the concepts, but hopefully you can also read up on something new and exciting.
 
@@ -109,7 +109,7 @@ The report defines sustainable development as *development that meets the needs 
 
 {id: unsustainability}
 ### Unsustainability
-Unsustainable products and services are defined by the fact that, despite their good value, they often have serious, unintended and far-reaching negative impacts in the long term.
+Unsustainable products and services are defined by the fact that, despite their useful value in many contexts,  often have serious, unintended and far-reaching negative impacts in the long term.
 
 |                                      | **Short-term (here and now) gain**                       | **Serious problems in the long term**                                                                                   |
 | ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ Unsustainable products and services are defined by the fact that, despite their 
 | **Plastic materials**                | Inexpensive and versatile material for many applications | Plastic waste and microplastics are flooding the world's ecosystems                                                     |
 | **Cryptocurrencies such as Bitcoin** | Decentralized, international digital currency            | Huge energy consumption and emissions, and available for criminal application                                           |
 | **Smartphones**                      | Effective and entertaining communication tool            | Environmental and social issues related to the extraction and recycling of materials; addiction-like problems for users |
-The table above provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term, a.i. they are unsustainable (as for now).
+The table above provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term, i.e. they are unsustainable (as for now).
 
 For example, herbicides are effective in controlling weeds, but over the years they can leak into the groundwater and poison our drinking water. It may not happen immediately, but over decades they can poison the water we depend on as people and as a society (Faartoft 2024).
 
@@ -128,11 +128,11 @@ The use of fossil fuels is another example of an unsustainable product, partly b
 - Consuming the earth's resources such as water and minerals without considering alternatives
 - Draining nature's resources without ensuring that the equivalent is returned to nature.
 
-Short-term solutions are like taking painkillers for a broken leg without addressing the fracture - they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. So from a holistic point of view, it's better to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., smartphone use in Europe leads to pollution in Africa and Asia).
+Short-term solutions are like taking painkillers for a broken leg without addressing the fracture - they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. From a holistic point of view, it's makes more sense to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., when smartphone use in Europe leads to pollution in Africa and Asia).
 
 {id: hurdles-to-sustainability}
 ### The hurdles to sustainability
-But why aren't we all working sustainably if it's so smart? There are several reasons - here are four selected examples of obstacles to sustainable development:
+But why aren't we all working sustainably if it's so sensible? There are several reasons - here are four selected examples of obstacles to sustainable development:
 
 1. **It is difficult to predict the long-term and far-reaching consequences of our actions.** 
    Many of the behaviors we have developed throughout history are proving to be fundamentally unsustainable. Innovations that seem groundbreaking and beneficial on the surface - such as pesticides or materials like asbestos - have turned out to be seriously harmful in the long run. Over time, however, we can become better at taking the long view and learning from past mistakes. This accumulated knowledge is valuable and can be actively used and integrated into decision-making processes to promote a sustainable future.
@@ -149,11 +149,11 @@ Let's look at an example from the digital world where the above comes to life: a
 
 The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on smartphone users. But this is not something we often think about. When owning a smartphone has become commonplace, it's hard to think about the long-term consequences because it's relatively vague and far removed from your own reality. So it's easier not to think about it.
 
-In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the Congolese people, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively expensive compared to the competition.
+In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting the cobalt mines in Congo and launching a program to improve working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the Congolese people, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively more expensive compared to the competition.
 
 {id: uncertainty}
 ### Embracing uncertainty for a sustainable future
-It is clear that we cannot fully guard against all unintended future consequences when developing new solutions. By its very nature, it is impossible to design and develop measures for risks that cannot be foreseen.
+It is clear that we cannot fully guard ourselves against all the unintended future consequences when developing new solutions. By its very nature, it is impossible to design and develop measures for risks that cannot be foreseen.
 
 However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.
 
@@ -189,7 +189,7 @@ Every year, in an ESG report, companies publish information on how they apply up
 
 A good example of greenwashing is "biogasoline ", which you can buy at gas stations in Denmark. Here, 5% or 10% ethanol (alcohol) is mixed into the gasoline and called "biogasoline" (biodiesel), even though it is still 90-95% fossil, black gasoline. There is a lack of proportionality between the measure (mixing gasoline with ethanol) and the claim the product makes (i.e. that it is "bio", better than regular, black basoline). "Biofuel" sounds like some kind of environmentally friendly gasoline, but it's not. In reality, it's black, fossil gasoline that has been "masked" with the addition of ethanol.
 
-Detecting and avoiding greenwashing is not easy, and the beformentioned proposals at EU level will eventually regulate green marketing. We hope that by the time you read this book, this work will have progressed so that greenwashing becomes less of a problem when consumers want to choose green products over "black" ones.
+Detecting and avoiding greenwashing is not easy, and the beforementioned proposals at EU level will hopefully be instrumental in succesfully regulating green marketing. We hope that by the time you read this book, this work will have progressed so that greenwashing becomes less of a problem when consumers want to choose green products over "black" ones.
 
 {id: ecology-ecosystems}
 ### Ecology and ecosystems
@@ -225,7 +225,7 @@ But how can it be done? Let's identify some concepts about energy and materials 
 
 ![Energy can be transformed but not disappear.](I_1.4.png "The sun's thermal energy is converted through a chain of processes - the wind's kinetic energy, the wind turbine's mechanical energy and then electrical energy - into calculations and output in the computer. The computer outputs the energy as thermal energy, which often requires additional energy to cool the electronic components. A circular approach to energy consumption can reduce energy waste and improve sustainability.")
 
-Energy cannot appear out of nothing, nor can it disappear on its own. However, the energy that exists in the world can be transformed from one form to another. This is one of the fundamental laws of physics: energy cannot disappear—it can only be transformed.
+Energy cannot appear out of nothing, nor can it disappear on its own. However, the energy that exists in the world can be transformed from one form to another. This is one of the fundamental laws of physics: energy cannot disappear — it can only be transformed.
 
 See Figure 4, which illustrates how energy from the sun’s rays is transformed into different types of energy that eventually power your computer:
 
@@ -235,7 +235,7 @@ See Figure 4, which illustrates how energy from the sun’s rays is transformed 
 4. When you charge your computer’s battery, the electrical energy is stored as chemical energy.
 5. The stored energy powers the computer’s processor—and as a byproduct, releases heat (thermal energy again).
 
-The amount of energy originally provided by the sun is equal to the amount of heat your computer gives off, because energy does not disappear—it is only transformed. _(This simplified example ignores the fact that, in practice, we always lose some usable energy at various points in the chain—such as in power lines or generators.)_ This loss should not be understood as energy disappearing, but rather as energy being transformed into less useful forms (like heat) before it reaches its final destination: your computer.
+The amount of energy originally provided by the sun is equal to the amount of heat your computer gives off, because energy does not disappear — it is only transformed. _(This simplified example ignores the fact that, in practice, we always lose some usable energy at various points in the chain—such as in power lines or generators.)_ This loss should not be understood as energy disappearing, but rather as energy being transformed into less useful forms (like heat) before it reaches its final destination: your computer.
 
 {id: fossil-vs-renewable}
 ### Fossil energy sources versus renewable energy
@@ -245,7 +245,7 @@ Renewable energy comes from sources that replenish themselves and do not diminis
 
 Nuclear power does not produce the same greenhouse gas emissions as fossil fuels, but it is expensive to build and maintain. It also poses radiation hazards and produces waste that is difficult to manage and impossible to dispose of. While many countries are investing in nuclear power in the coming years as an alternative to coal and gas, it remains controversial. In the longer term, scientists hope to develop power plants based on fusion energy - a form of nuclear power that promises "inexhaustible" amounts of clean energy without the radiation risks associated with current nuclear technologies. But working fusion reactors may be decades away.
 
-Therefore, when working with sustainability, it is important to remember that the energy and materials we put into a system are transformed-and that transformation creates byproducts. Sustainable companies must take responsibility for these byproducts, for example, by creating circular systems that minimize and recycle waste without damaging the environment. Operating sustainably also means prioritizing renewable energy sources to power digital technologies and infrastructure.
+Therefore, when working with sustainability, it is important to remember that the energy and materials we put into a system are transformed - and that transformation creates byproducts. Sustainable companies must take responsibility for these byproducts, for example, by creating circular systems that minimize and recycle waste without damaging the environment. Operating sustainably also means prioritizing renewable energy sources to power digital technologies and infrastructure.
 
 {id: circular-processes}
 ### Circularity and circular processes
@@ -265,7 +265,7 @@ Look to nature for inspiration when designing digital products. One of the most 
 ### Greenhouse gases (GHG) and climate change
 Fossil fuels (coal, oil, and gas) cannot be considered sustainable energy sources because they are not part of a circular cycle and because they pollute the atmosphere with greenhouse gases. Even before the turn of the millennium, scientists began warning of global warming caused by greenhouse gas emissions from fossil fuels.
 
-Unfortunately, despite these warnings, we continue to extract fossil fuels from the Earth's crust and burn them for energy. This process releases CO2 and other greenhouse gases as a kind of waste that we leave behind in nature. More specifically, we leave CO2 in the air, where it will remain for millennia, forming a kind of "blanket" that warms the Earth. CO2 itself is not toxic - the problem is the increasing volume of emissions that are heating up the planet. If we could simply recycle greenhouse gases and store them underground, we wouldn't be facing the climate crisis we are today. (But we may face new problems underground.) 
+Unfortunately, despite these warnings, we continue to extract fossil fuels from the Earth's crust and burn them for energy. This process releases CO2 and other greenhouse gases as a kind of waste that we leave behind in nature. More specifically, we leave CO2 in the air, where it will remain for millennia, forming a kind of "blanket" that warms the Earth. CO2 itself is not toxic - the problem is the increasing volume of emissions that are heating up the planet. If we could simply recycle greenhouse gases and store them underground, we wouldn't be facing the climate crisis we are today (but we may face new problems underground.) 
 
 You may have noticed how water starts to swirl, bubble, and move when it boils. A similar phenomenon occurs in our atmosphere as it heats up-the air behaves differently, moving faster and more violently. The same is true of the oceans.
  ![Climate change](I_1.6.png "Climate change has far-reaching global consequences. The illustration from IPCC, the Intergovernmental Panel on Climate Change, shows some of the areas expected to be affected by climate change. ")
@@ -351,7 +351,7 @@ In the following sections, we explore a range of perspectives and methodologies 
 ### Economic growth and sustainability
 It is a guiding principle of economics that growth is good. Companies can make more profit, more jobs are created and more taxes are collected when the economy grows. If there is no economic growth in a country, alarm bells go off. It's time to tighten belts, make cuts and shed jobs for lack of funding - and hurry to get out of the downward spiral of recession. And the danger is real, there are many examples in history where a sustained recession has caused countries to go bankrupt, resulting in severe social problems.
 
-Most countries' economic policies aim for the highest possible economic growth year after year, because then the country will be richer and there will be more money to run society. The problem is that if you only think about next year's or next quarter's growth, you're not thinking long-term - and you're not thinking sustainably at all. Instead, you are only amplifying the great acceleration, which leads to us outgrowing the planetary boundaries.
+Most countries' economic policies aim for the highest possible economic growth year after year, it will make the country  be richer and there will be more money to run society. The problem is that if you only think about next year's or next quarter's growth, you're not thinking long-term - and you're not thinking sustainably at all. Instead, you are only amplifying the great acceleration, which leads to us outgrowing the planetary boundaries.
 
 It could be said that the traditional understanding of economic growth stands in the way of sustainable development in society. In a 2021 briefing, the European Environment Agency writes that: *"It is unlikely that a long-lasting, absolute decoupling of economic growth from environmental pressures and impacts can be achieved at the global scale; therefore, societies need to rethink what is meant by growth and progress and their meaning for global sustainability".* ([European Environment Agency 2021](https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives))
 
@@ -365,7 +365,7 @@ However, this also highlights the important role that open source software can p
 ### Financial and non-financial indicators: The triple bottom line
 In a holistic approach to business, it's not enough to focus solely on financial metrics; business operations also need to be viewed through a broader sustainability lens. *How does the company interact with the environment and society? How will its activities affect future generations?*
 
-In order to promote more sustainable practices, companies would be wise to adopt a comprehensive approach to their operations, one that integrates financial performance with broader sustainability objectives. Most organizations are required to summarize their key financial figures and produce an annual report once a year, which outlines the year's financial performance, including revenues, expenses, and the overall performance of the business. Conventionally, the narrative in an annual report is based on financial figures such as profit, return, solvency, liquidity, and employment. The vast majority of data in these reports are financial figures, describing how capital and financial values flow in and out of the company.
+In order to promote more sustainable practices, companies would be wise to adopt a comprehensive approach to their operations, one that integrates financial performance with broader sustainability objectives. Some organizations are required to summarize their key financial figures and produce an annual report once a year, which outlines the year's financial performance, including revenues, expenses, and the overall performance of the business. Conventionally, the narrative in an annual report is based on financial figures such as profit, return, solvency, liquidity, and employment. The vast majority of data in these reports are financial figures, describing how capital and financial values flow in and out of the company.
 
 It is imperative for companies to shift their focus beyond **profit** to prioritize **people** and the **planet**. Consequently, sustainable business must consider metrics that cannot be *directly* measured in money. These non-financial indicators provide insight into how energy, materials and human resources flow in and out of a company. These indicators offer insights into aspects of value creation that are not fully captured by traditional financial metrics. Such aspects include, but are not limited to, customer satisfaction, employee well-being, energy efficiency, waste recycling, speed of innovation, and carbon emissions.
 
@@ -467,15 +467,15 @@ And we must not forget that even in the best-case scenario, where the regulation
 
 {id: work-life-balance}
 ### Working conditions, including work-life balance
-Sustainability is not just about the environment and society, it also has many lesser known facets. Individual factors can also have an impact on the sustainability agenda, such as making people (individuals) feel good about their work. "Human resources" is a capitalist approach to business, where people are considered a resource on par with energy, materials and finances. In an unsustainable company where there is no focus on circular processes, human resources can be overexploited, with sad consequences for individuals. Low wages and/or poor working conditions with negative consequences for the individuals who work for the company.
+Sustainability is not just about the environment and society, it also has many lesser known facets. Individual factors can also have an impact on the sustainability agenda, such as making people (individuals) feel good about their work. "Human resources" is a capitalist approach to business, where people are considered a resource on par with energy, materials and finances. In an unsustainable company where there is no focus on circular processes, human resources can be overexploited, with detrimental consequences for individuals. Low wages and/or poor working conditions with negative consequences for the individuals who work for the company.
 
 In the spirit of sustainability, it is therefore essential that companies also focus on the well-being of their employees, both on a day-to-day basis and in the long term. A sustainable labor market is characterized by parameters such as:
 
-- Salary allows for a good life.
-- There is a work-life balance.
-- There are no negative health effects from the work itself.
-- Work is meaningful to the individual employee.
-- There are opportunities for professional development through continuing education and training.
+- A salary that allows for a good life.
+- A work-life balance.
+- No negative health effects from the work itself.
+- Meaningful work to the individual employee.
+- Opportunities for professional development through continuing education and training.
 
 There can be large geographical differences in what constitutes fair pay or good working conditions in each country, so these need to be determined based on local conditions ([Eurofound 2024](https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work)). While a 37-hour week with flexible hours, free fruit and bevareges and training or meditation at work are not uncommon in danish IT companies, wages, working hours and benefits vary widely outside of Denmark.
 
@@ -487,7 +487,7 @@ Digital products are becoming an integral part of most people's daily lives. Thi
 
 At the turn of the millennium, when digital technology was still new to most people, we experienced a wave of technological fascination. Suddenly, the impossible became possible, you could send messages, share photos and videos with old friends via social media, and access virtually all of the world's information from a device in your pocket.
 
-Over time, we have become increasingly aware of the darker side of digital technologies. Excessive screen time has been shown to be harmful to our health, social media can distort our sense of self and our understanding of the world, and digital agents such as generative AI can influence our thinking for better or worse.
+Over time, we have become increasingly aware of the darker side of digital technologies. Excessive screen time has in some cases been shown to be harmful to our mental health, social media can distort our sense of self and our understanding of the world, and digital agents such as generative AI can influence our thinking for better or worse.
 
 At the same time, there are many positive achievements. Digital technologies can support our health and personal development, think of popular running apps and other digital health tools that actively promote physical and mental well-being.
 
@@ -531,7 +531,7 @@ Developing, procuring, and operating sustainable IT solutions is essential, but 
 | • Governance     | • Economic sustainability<br>• Technical sustainability |
 {caption: "ESG vs Karlskrona Manifesto dimesnions-While the ESG criteria can be applied to all types of organizations, the Karlskrona Manifesto is specifically targeted for software and IT companies."}
 
-Throughout the whole book, we base much of our discussion on the Karlskrona Manifesto’s sustainability dimensions. We believe these provide a more thoughtful and nuanced approach to sustainability, which aligns closely with the ethical, social, and environmental responsibilities of those working in the digital field.
+Throughout the whole book, we base much of our discussion on the Karlskrona Manifesto’s sustainability dimensions. We believe these provide a thoughtful and nuanced approach to sustainability, which aligns closely with the ethical, social, and environmental responsibilities of those working in the digital field.
 
 {id: twin-transition}
 ### Twin transition
@@ -541,7 +541,7 @@ At the same time, the digital transition refers to the ongoing shift to a more d
 
 The idea that digital development can help us solve our sustainability challenges in a simultaneous and dual transition is gaining traction both in the EU and internationally. "Twin transition" is thought to have the potential to create positive synergies between digital and green development. For example, a district heating plant can retrieve automatic forecasts for weather, energy prices and heat consumption and can, through digital control, optimize the operation of production so that district heating can be produced in the most efficient way (Dansk Fjernvarme 2023).
 
-The big challenge with the twin transition is that all digital development also has a negative climate footprint from the hardware and energy used. So in digital projects with a positive sustainability aim, the positive impact of the project must be significantly greater than the negative effects of the technology used. In the case of the district heating plant, the optimization gains must be significantly greater than the derived negative environmental effects of the new digital control system. In addition, it is also important to take into account the rebound effect and make it likely that increased efficiency will not ultimately lead to even higher consumption.
+The challenge with the twin transition is that all digital development also has a negative climate footprint from the hardware and energy used. So in digital projects with a positive sustainability aim, the positive impact of the project must be significantly greater than the negative effects of the technology used. In the case of the district heating plant, the optimization gains must be significantly greater than the derived negative environmental effects of the new digital control system. In addition, it is also important to take into account the rebound effect and make it likely that increased efficiency will not ultimately lead to even higher consumption.
 
 {id: digitainability}
 ### Digitainability

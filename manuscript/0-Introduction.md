@@ -15,14 +15,13 @@
 	3. og så 2
 	4. også resten af 1
 	5. 
-11. JESPER Publicer i 3 dele, sælge som bundle?
-12. JESPER Find en ny titel
-13. JESPER Find en bedre udgiver
-14. JESPER
-	  https://help.leanpub.com/en/articles/582505-how-can-i-see-what-the-different-fonts-look-like-so-i-know-which-one-to-choose
-15. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-16. Overvej future contribution - hvordan? Contributors...
-17. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+10. JESPER Publicer i 3 dele, sælge som bundle?
+11. JESPER Find en ny titel
+12. JESPER Find en bedre udgiver
+13. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
+14. Overvej future contribution - hvordan? Contributors...
+15. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+16.  JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
 
 # Guide for  sustainable digital
 The computer professional's guide to social and planetary care
@@ -32,9 +31,9 @@ The computer professional's guide to social and planetary care
 
 **Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure in our time.**
 
-We are consuming earthly resources beyond our means and beyond the planet's limits. It is up to us to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and routines in order to drive positive change in the world.*
+We are consuming earthly resources beyond our means and beyond the planet's limits. It is up to us to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and habits in order to drive positive change in the world.*
 
-If you’re in touch with digital technologies and you are ready for expanding your knowledge of digital sustainability, then this book is for you.  
+If you work with digital technologies and you are ready to expand your knowledge of matters in the intersection of digital practice and sustainability, then this book is for you.  
 
 It’s a must-read for anyone curious about technology's impact on the environment and society and the opportunities for digital sustainability. The book offers insights into current concepts and tools for working with practical digital sustainability. It will support your professional development and help anchor your future practices in more sustainable approaches. 
 
@@ -44,15 +43,15 @@ The twin transition refers to the idea that two distinct but intertwined transit
 
 Digital technology is far from sustainable right now - and it won't become sustainable anytime soon. It's depleting the earth's resources, polluting the environment, and affecting its users in negative ways. Still, there _is_ a path to sustainable digital practices, even if it's a long and challenging one. We must begin to work more sustainably today and embrace daily practices that push development in increasingly sustainable directions. Only then, perhaps decades or even centuries from now, can we hope to achieve anything resembling sustainable digital technology.
 
-Design is key, sustainability must be built into digital products from their very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in an increasingly sustainable way?*
+Design is key, sustainability must be built into digital products from their very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in increasingly sustainable ways?*
 ### Written by dedicated academics 
-This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject that goes beyond superficial clichés and overused expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach the work in concrete terms.
+This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject. Literature that goes beyond superficial clichés and tired expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
 
 As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), many of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. (We may be updating references with corresponding English sources in a next edition.)
 
-Digitalization and the fight against climate change are evolving rapidly, so the practical chapters of this book reflect the situation as of 2025. However, digital sustainability is a continuously developing field, which is why we intend to keep the book updated online.
+Digitalization and the fight against climate change is an rapdily evolving field, so the practical chapters of this book reflect the situation as of 2025 - but the continuously developing nature of the field, is the reason why we keep the book updated online.
 ## Chapter overview 
-_Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can also be read independently.
+_Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can be read independently.
 
 In a teaching context, educators can combine various chapters to form the basis of a course or training program. However you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
 ### From theory to practice and perspectives
@@ -76,7 +75,7 @@ The second part of the book, Chapters 4–7, looks ahead and outlines practical 
 
 The third and final part of the book discusses digital sustainability from some general angles.
 
-- **Chapter 8** describes "digital counter-growth" as an alternative to traditional growth thinking and reviews examples of it.
+- **Chapter 8** describes "digital degrowth" as an alternative to traditional growth thinking and reviews examples of it.
   
 - **Chapter 9** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
   

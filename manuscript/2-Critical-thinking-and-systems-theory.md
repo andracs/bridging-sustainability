@@ -6,11 +6,15 @@
 	3. Og burbs? 
 	4. Og burbs som billedtekst?
 
+Kan ikke tage stilling til grafik før jeg har fundet ud af hvilken tekst-editor jeg skal bruge, og hvordan jeg får den til at trække og comitte til github...
+Hvad med he/she stringens? Og digitalization/digitization stringens
+
+
 # 2. Critical thinking and systems theory
 
 ## In this chapter
 
-In this chapter, we will delve into **systems thinking** and **network theory**. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. 
+In this chapter, we will spend time with **systems thinking** and **network theory**. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. 
 
 Systems thinking and network theory help us to think **holistically** and include the most important sustainability aspects when developing digital technologies. **Critical thinking** helps us find essential connections and validate the details in our work.
 
@@ -37,11 +41,11 @@ Systems theory and systems thinking are concerned with understanding the world b
 
 A general systems theory seeks to understand the rules and dynamics that apply to all systems across different domains. It involves the study of how elements of a system are connected and how they interact to create wholes with new properties.
 
-Decades ago, systems modeling was limited by the fact that we could only model with pen and paper, but new fast computers and computer networks are contributing to a **paradigm shift** where we can build huge models and perform simulations and calculations much faster than ever before. Technological developments are pushing systems science closer to **network science**, and both are trying to find fundamental relationships that can be observed in different large systems.
+Decades ago, systems modeling was limited by the fact that we could only model with pen and paper, but new and fast computers and computer networks are contributing to a **paradigm shift** where we can build huge models and perform simulations and calculations faster than ever before. Technological developments are pushing systems science closer to **network science**, and both are trying to find fundamental relationships that can be observed in different large systems.
 
 These approaches help analyze and understand everything from **natural ecosystems** to **multifaceted social and digital networks**, where the relationships between parts and wholes are crucial. By understanding how these relationships work, we can gain deeper insights into both **simple and complex contexts**.
 
-Systems thinking focuses on the connection and interaction between parts of a system and its environment. Systems thinking can **zoom in and out** in understanding a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between **software development**, **energy consumption** and **environmental impact**. We can see how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
+Systems thinking focuses on the connection and interaction between parts of a system and its environment. Systems thinking can **zoom in and out** to understand a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between **software development**, **energy consumption** and **environmental impact**. We see how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
 
 Systems thinking is a **scientific approach** that is particularly well suited to working with both **IT** and **sustainability** because it sees the world as a **mosaic of interconnected systems** that constantly interact and influence each other over time.
 
@@ -51,7 +55,7 @@ Systems thinking is a **scientific approach** that is particularly well suited t
 > **Figure 2.1**  
 > While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.
 
-When a user plays the video, he sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
+When a user plays the video, he/she sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
 
 At the same time, each viewing of the video has concrete and measurable consequences for the **environment, society and individuals**, such as:
 
@@ -92,7 +96,7 @@ The diagram also shows that the **elements of the system are interconnected**, a
 
 It is important that you pay attention to the **dotted lines** on the drawing that surround the system itself – the environment. The system's **environment**, or **system context**, plays as big a role for the system as the components themselves.
 
-> After all, what is the point of setting up a heating system in the Sahara or a cooling system in the permafrost of Greenland? The systems can only make sense in the right environment, in the right context.
+> After all, what is the point of setting up a heating system in the Sahara or a cooling system in the permafrost of Greenland? The systems can only make sense in the right environment and in the right context.
 
 ---
 
@@ -204,7 +208,7 @@ By asking critical questions about the subsystems in the domain and its context,
 
 The rebound effect is another key aspect of critical thinking in digitalization, as efficiency improvements can reduce consumption in the short term but increase it in the long term. For example, electric cars reduce direct CO2 emissions if they are charged with renewable energy, but it can also increase overall energy consumption if more means of transportation are electrified. For example, if autonomous electric vehicles become cheap enough, both consumption and total energy consumption can increase. Critical systems thinking helps us navigate such complex contexts and understand which systems and mechanisms influence development.
 
-A critical approach to digitalization is also about assessing the benefits and risks of digital systems for the business. Business processes that rely heavily on IT systems can become vulnerable if the systems fail. Should an airport's control systems be directly connected to the internet or is it too insecure? There are now many examples of how reliance on specific IT systems can cripple entire sectors in transportation, commerce or finance. Critical thinking can help prevent these situations by asking questions like: What do we do if an IT system fails? How do we ensure continued operation without a given IT system?
+A critical approach to digitalization is also about assessing the benefits and risks of digital systems for the business. Business processes that rely heavily on IT systems can become vulnerable if the systems fail. Should an airport's control systems be directly connected to the internet or would that be too insecure? There are now many examples of how reliance on specific IT systems can cripple entire sectors in transportation, commerce or finance. Critical thinking can help prevent these situations by asking questions like: What do we do if an IT system fails? How do we ensure continued operation without a given IT system?
 
 ---
 
@@ -273,7 +277,7 @@ Here again, you can analyze the system to get some good answers – especially i
 
 In recent times, with access to vast amounts of data and increased computational capacity, researchers have analyzed systems of unprecedented size and discovered new, universal relationships in the networks that connect systems and their components. Physicist Barabási (2016) and his colleagues have proposed that many things can be modeled as networks of connected elements. By examining the properties of the network, such as size, density and connectedness, we can better understand complex systems. In other words, systems can also be seen as networks that are connected by different parts.
 
-Network theory describes the world as a network where the connections between elements are as important as the quality of the elements. A good example is "being in the right place at the right time", as was the case with Facebook. Social media had existed in many forms before Facebook's success. There were social media sites with better design and better functionality, but Facebook was still the biggest. Facebook's success is not only due to its objective qualities, but also to the contexts in which it was born (good university, growing needs, technological know-how, right time, good investment).
+Network theory describes the world as a network where the connections between elements are as important as the quality of the elements. A good example is "being in the right place at the right time", as was the case with Facebook. Social media had existed in many forms before Facebook's success. There were social media sites with better design and better functionality, but Facebook was still the biggest. Facebook's success is not only due to its objective qualities, but also to the contexts in which it was born (good universities, growing needs, technological know-how, timing, good investment).
 
 From a network theory perspective, it is the interaction between Facebook, its users, investors and competitors that has contributed to its success, not just the technical system.
 
@@ -281,7 +285,7 @@ From a network theory perspective, it is the interaction between Facebook, its u
 
 ## Systems were traditionally compared to machines
 
-Thinkers of the last century, inspired by the ideas of Frederick Winslow Taylor (1856–1915) (known as Taylorism), often compared systems to the machines of the time. In this way, systems were understood as entities with well-defined components, fixed frameworks, clear purposes and unambiguous contexts, while today, network theory gives us different perspectives on how the world can be understood. An industrial machine had to have some fuel, and through its work, the machine could use the fuel to produce concrete outputs with various concrete well-defined purposes. A car has an engine, wheels, steering, etc. and it can drive from A to B if we simply add fuel and steer it. This thinking provides a good starting point for understanding systems.
+Thinkers of the last century, inspired by the ideas of Frederick Winslow Taylor (1856–1915) (known as Taylorism), often compared systems to the machines of the time. In this way, systems were understood as entities with well-defined components, fixed frameworks, clear purposes and unambiguous contexts, while today, network theory gives us different perspectives on how the world can be understood. An industrial machine had to be fuelled, and through its' work, the machine could use the fuel to produce concrete outputs with various concrete well-defined purposes. A car has an engine, wheels, steering, etc. and it can drive from A to B if we simply add fuel and steer it. This thinking provides a good starting point for understanding systems.
 
 Parallels could also be drawn to other kinds of systems, both biological and societal: A bee is a honey production system, and the Danish Parliament is a system that produces the laws of the land. While the simplicity of these analogies is appealing and provides a quick shortcut to understanding some of the overall relationships, this kind of thinking is insufficient to understand the complexity of systems.
 

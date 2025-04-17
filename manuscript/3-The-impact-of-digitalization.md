@@ -1,17 +1,14 @@
 {book: false, sample: false} 
 # TODO
+- - Linje 203: evt kilde til de forskellige frameworks energiforbrug (hvor Ruby on Rails ligger øverst)
+- Linje 219: kilde til at gøre Wordpress mindre energisulten: [https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/](https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/) / [https://fireflywebstudio.com/wordpress-website-hurting-environment/](https://fireflywebstudio.com/wordpress-website-hurting-environment/) - Jesper fra Advice sagde de var holdt op med at anbefale wordpress pga ubæredygtighed
+- Linje 265: erstat evt med Stolen Focus af Johann Hari
+- linje 284: Morozov skrev i the Net Delusion at det arabiske forår bare gjorde det nemmere for magthavere af finde aktiviisterne
 - fix fodnoter
-- [[1]](#_ftnref1) The supply chain illustration can be viewed in an interactive version online. Find the link at https://github.com/andracs/Sustainable-Digital.
-- [[2]](#_ftnref2) Methods exist for comparable systems, such as databases and HPC , but not for general applications.
-- [[3]](#_ftnref3) Read more about the relationship between program code and energy consumption in chapter 5.
-- [[4]](#_ftnref4) Stack Overflow is a forum where programmers help each other solve various programming challenges.
-- [[A1]](#_msoanchor_1)Kelvey 2022 is not included in the literature list. However, there is a Kelvey 2024 source in the literature list. Is the year wrong in either place, or should the Kelvey 2022 source be added to the bibliography?
-- [[A2]](#_msoanchor_2)It was 2024
-- [[A3]](#_msoanchor_3)Biggest?
-- [[A4]](#_msoanchor_4)Sobolev 2022 is not included in the bibliography. However, there is a Sobolev & Lesic 2022 source in the bibliography. Is the author number wrong in one of the places or should the Nielsen Sobolev 2022 source be added to the bibliography?
-- [[A5]](#_msoanchor_5)It will be Sobolev & Lesic 2022.
-- [[A6]](#_msoanchor_6)Misinformation?
-- [[A7]](#_msoanchor_7)Ha ha, the confusion is total in this area. Misinformation, disinformation and disinformation are used interchangeably by several different authoritative sources. But if we look at the etymology, misinformation is "wrong" information (mis-English) while disinformation is "omission of information, or distortion of information" (dis-Latin) So for me, what the Russians are doing is disinformation. They distort the truth a little bit, they omit a little bit, and they can present factually correct information online in a way that communicates a different reality than it actually is. Take for example "special military operation". It's not wrong, but ....
+	- The supply chain illustration can be viewed in an interactive version online. Find the link at https://github.com/andracs/Sustainable-Digital.
+	- Methods exist for comparable systems, such as databases and HPC , but not for general applications.
+	- Read more about the relationship between program code and energy consumption in chapter 5.
+	- Stack Overflow is a forum where programmers help each other solve various programming challenge
 
 # 3. The impact of information technology on environment and society
 

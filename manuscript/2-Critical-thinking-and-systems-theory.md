@@ -5,10 +5,7 @@
 	2. Og fed skrift?
 	3. Og burbs? 
 	4. Og burbs som billedtekst?
-
-Kan ikke tage stilling til grafik før jeg har fundet ud af hvilken tekst-editor jeg skal bruge, og hvordan jeg får den til at trække og comitte til github...
-Hvad med he/she stringens? Og digitalization/digitization stringens
-
+2. Hvad med he/she stringens? Og digitalization/digitization stringens
 
 # 2. Critical thinking and systems theory
 
@@ -55,7 +52,7 @@ Systems thinking is a **scientific approach** that is particularly well suited t
 > **Figure 2.1**  
 > While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.
 
-When a user plays the video, he/she sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
+When a user plays the video, he or she sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
 
 At the same time, each viewing of the video has concrete and measurable consequences for the **environment, society and individuals**, such as:
 
@@ -208,7 +205,7 @@ By asking critical questions about the subsystems in the domain and its context,
 
 The rebound effect is another key aspect of critical thinking in digitalization, as efficiency improvements can reduce consumption in the short term but increase it in the long term. For example, electric cars reduce direct CO2 emissions if they are charged with renewable energy, but it can also increase overall energy consumption if more means of transportation are electrified. For example, if autonomous electric vehicles become cheap enough, both consumption and total energy consumption can increase. Critical systems thinking helps us navigate such complex contexts and understand which systems and mechanisms influence development.
 
-A critical approach to digitalization is also about assessing the benefits and risks of digital systems for the business. Business processes that rely heavily on IT systems can become vulnerable if the systems fail. Should an airport's control systems be directly connected to the internet or would that be too insecure? There are now many examples of how reliance on specific IT systems can cripple entire sectors in transportation, commerce or finance. Critical thinking can help prevent these situations by asking questions like: What do we do if an IT system fails? How do we ensure continued operation without a given IT system?
+A critical approach to digitalization is also about assessing the benefits and risks of digital systems for the business. Business processes that rely heavily on IT systems can become vulnerable if the systems fail. Should an airport's control systems be directly connected to the internet or is it too insecure? There are now many examples of how reliance on specific IT systems can cripple entire sectors in transportation, commerce or finance. Critical thinking can help prevent these situations by asking questions like: What do we do if an IT system fails? How do we ensure continued operation without a given IT system?
 
 ---
 
@@ -277,7 +274,7 @@ Here again, you can analyze the system to get some good answers – especially i
 
 In recent times, with access to vast amounts of data and increased computational capacity, researchers have analyzed systems of unprecedented size and discovered new, universal relationships in the networks that connect systems and their components. Physicist Barabási (2016) and his colleagues have proposed that many things can be modeled as networks of connected elements. By examining the properties of the network, such as size, density and connectedness, we can better understand complex systems. In other words, systems can also be seen as networks that are connected by different parts.
 
-Network theory describes the world as a network where the connections between elements are as important as the quality of the elements. A good example is "being in the right place at the right time", as was the case with Facebook. Social media had existed in many forms before Facebook's success. There were social media sites with better design and better functionality, but Facebook was still the biggest. Facebook's success is not only due to its objective qualities, but also to the contexts in which it was born (good universities, growing needs, technological know-how, timing, good investment).
+Network theory describes the world as a network where the connections between elements are as important as the quality of the elements. A good example is "being in the right place at the right time", as was the case with Facebook. Social media had existed in many forms before Facebook's success. There were social media sites with better design and better functionality, but Facebook was still the biggest. Facebook's success is not only due to its objective qualities, but also to the contexts in which it was born (good university, growing needs, technological know-how, good timing, good investment).
 
 From a network theory perspective, it is the interaction between Facebook, its users, investors and competitors that has contributed to its success, not just the technical system.
 

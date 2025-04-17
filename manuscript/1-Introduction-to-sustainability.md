@@ -62,7 +62,7 @@ We must be able to continuously improve and develop our world without fearing th
 With the help of scientists who continuously monitor global climate change, a number of actions are underway globally that aim to change the trend to something more sustainable ([Science Based Targets initiative](https://sciencebasedtargets.org/)). But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
 
 {id: digital-transformation} 
-### People in information tehcnology and digital services are both the baddies and the goodies 📡
+### People in information tehcnology and digital services are both the villains and the heros 📡
 
 Information technology and digital transformation surprise us every day with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 

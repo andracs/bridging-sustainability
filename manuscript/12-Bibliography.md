@@ -9,14 +9,16 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 Abbing, R.R. (2021) 'This is a solar-powered website, which means it sometimes goes offline': A design inquiry into degrowth and ICT. Computing within Limits. https://doi.org/10.21428/bf6fb269.e78d19f6
 Andersen, H. (2024). Systems theory. The Great Danish, March 5. https://denstoredanske.lex.dk/systemteori
-Andersen, L.H. (2021). Russia is ready to cut itself off from the global internet. Version2, February 2. version2.dk/artikel/rusland-er-klar-til-afskaere-sig-fra-det-globale-internet
+
+!!OK Andersen, L.H. (2021). Russia is ready to cut itself off from the global internet. Version2, February 2. version2.dk/artikel/rusland-er-klar-til-afskaere-sig-fra-det-globale-internet
 
 
 !!OK Andre, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
 
 !!OK!! Angela (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/
 
-Apple (2024). Apple 2030 - A plan as innovative as our products. https://www.apple.com/environment/
+!!OK Apple (2024). Apple 2030 - A plan as innovative as our products. https://www.apple.com/environment/
+
 Balslev, J., Carlsen, S. & Tolstrup, P. (2024). Do Make me Think - Towards an Integrated Model for Sustainable UX Design. DTRS14 Proceedings.
 Barabási, A.-L. & Pósfai, M. (2016). Network Science. Cambridge University Press.
 B Corp (2024). About B Corp Certification: Measuring a Company's Entire Social and Environmental Impact. https://www.bcorporation.net/en-us/certification/
@@ -60,7 +62,8 @@ Danish Business Authority (2024 b). New and upcoming legal requirements for corp
 
 !!OK Eurofound (2024). Working Conditions and Sustainable Work. European Foundation for the Improvement of Living and Working Conditions. https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work 
 
-Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/
+!!OK Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/
+
 European Commission (2024a). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
 
 !!OK European Commission (2024b). Green Transiotion https://reform-support.ec.europa.eu/what-we-do/green-transition_en
@@ -74,7 +77,8 @@ European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Pa
 Fairphone Community (2024). Fairphone Community - On a Journey to Change the Electronics Industry. Fairphone.com. https://www.fairphone.com/en/community/
 Flyverbom, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
 
-Foxconn suicides (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Foxconn_suicides
+!!OK Foxconn suicides (2024). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Foxconn_suicides
+
 Framework (n.d.). Website. https://frame.work/sustainability (accessed 23.01.25).
 
 !!OK Frank, L. (2023). Truslen fra rummet (27/02/2023). 24 spørgsmål til professoren (Podcast). https://www.weekendavisen.dk/podcast/24sporgsmaal
@@ -92,9 +96,13 @@ Georgiou, S., Kechagia, M., Louridas, P. and others (2018). What are Your Progra
 Green Software Foundation (2024a). SCI Specification Achieves ISO Standard Status, April 25https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status. https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status "
 Green Software Foundation (2024b). Impact Framework. https://if.greensoftware.foundation
 Green Software Foundation (2024c). Green Software Practitioner. https://patterns.greensoftware.foundation//catalog/cloud/
-Greenpeace International (2017). Clicking Clean. https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
+
+!!OK Greenpeace International (2017). Clicking Clean. https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
+
 Google (n.d.). Google Digital Wellbeing. Digital Wellbeing through technology. (accessed 03.11.24).
-Google (2023). A look at how we're building more sustainable hardware. Google, April 6. 
+
+!!OK Google (2025). # A more sustainable future through information and innovation. https://sustainability.google/
+
 Gordillo, A., Calero, C., Moraga, M.Á. et al. (2024). Programming languages ranking based on energy measurements. Software Quality Journal, 1-42.
 
 !!OK Gupta, S.; Motlagh, M.; Rhyner, J. The Digitalization Sustainability Matrix: A Participatory Research Tool for Investigating Digitainability. _Sustainability_ **2020**, _12_, 9283. https://doi.org/10.3390/su12219283
@@ -114,8 +122,6 @@ IT-Branchen (2024b). About IT-Branchen. https://itb.dk/om-it-branchen/
 
 !!OK Jacobsen, A.V., Erenbjerg, A., Törnfelt, C. and others (2024). Publication: It-anvendelse i befolkningen 2023. Danmarks Statistik. https://www.dst.dk/da/Statistik/nyheder-analyser-publ/Publikationer/VisPub?cid=49775
 
-Jakobsen, T.G. (2023). New rules will give you the right to repair. World's Best News, April 2. https://verdensbedstenyheder.dk/nyheder/nye-regler-vil-give-dig-ret-til-at-reparere/
-
 !!OK Jensen, A. (2024). Are you alarmed or indifferent? New study reveals Danes' attitudes to the climate. Videnskab.dk, March 13. https://videnskab.dk/naturvidenskab/er-danskerne-alarmerede-eller-ligeglade-nyt-studie-afsloerer-vores-holdninger-til-klimaet/
 
 
@@ -134,7 +140,9 @@ Kato, J. & Shimakage, K. (2020). Rethinking Programming "Environment": Technical
 
 !!OK Kirkegaard, F.K. (2024). ANALYSIS Here is hope amidst the gloomy predictions of climate scientists. DR. https://www.dr.dk/nyheder/viden/klima/analyse-her-er-haabet-midt-i-klimaforskeres-dystre-spaadom
 
-Kristensen, T.V. (2024). The Increasing Carbon Footprint of AI is a Challenge. Here is What We Can Do About It. University of Copenhagen, Department of Computer Science, September 18. https://di.ku.dk/english/news/2023/what-can-we-do-about-the-increasing-carbon-footprint-of-ai/
+!!OK Kristensen, T.V. (2024). The Increasing Carbon Footprint of AI is a Challenge. Here is What We Can Do About It. University of Copenhagen, Department of Computer Science, September 18. https://di.ku.dk/english/news/2023/what-can-we-do-about-the-increasing-carbon-footprint-of-ai/
+
+
 Lange, S., Kern, F., Peuckert, J. et al. (2021). The Jevons paradox unravelled: A multi-level typology of rebound effects and mechanisms. Energy Research & Social Science, 74, 101982.
 Lannelongue, L., Aronson, H.-E.G., Bateman, A. and others (2023). GREENER principles for environmentally sustainable computational science. Nature Computational Science, 3(6), 514-521. https://doi.org/10.1038/s43588-023-00461-y
 Larsen, K.G.W. (2024). Geologists vote 'no' to declaring that man has created a new age on Earth. Videnskab.dk, July 14. https://videnskab.dk/naturvidenskab/geologer-stemmer-nej-til-at-erklaere-at-mennesket-har-skabt-en-ny-tidsalder-paa-jorden/
@@ -149,9 +157,14 @@ Lyngs, U., Lukoff, K., Slovak, P. et al. (2019). Self-Control in Cyberspace: App
 !!OK!! Madsen, B.L. (2021). Økologi. Den Store Danske, August 31. https://denstoredanske.lex.dk/%C3%B8kologi
 
 Mala, F.A. & Ali, R. (2022). The Big-O of Mathematics and Computer Science. Journal of Applied Mathematics and Compution, 6(1), 1-3.
-Martin, B. (2023). HTTP Response Header Field: Carbon-Emissions-Scope-2 (Internet Draft No. draft- martin-http-carbon-emissions-scope-2-00). Internet Engineering Task Force. https://datatracker.ietf.org/doc/draft-martin-http-carbon-emissions-scope-2-00
-Mehlsen, C. (2024). The theft of attention. Information Publishers.
+
+!!OK Martin, B. (2023). HTTP Response Header Field: Carbon-Emissions-Scope-2 (Internet Draft No. draft- martin-http-carbon-emissions-scope-2-00). Internet Engineering Task Force. https://datatracker.ietf.org/doc/draft-martin-http-carbon-emissions-scope-2-00
+
+!!OK Mehlsen, C. (2024). Opmærksomhedstyveriet (The theft of attention). Forlaget Information
+
+
 Microsoft ( 2024). Microsoft Inclusive Design. https://inclusive.microsoft.design/ (accessed 03.11.24).
+
 !!OK Miljøstyrelsen, Danish Environmental Protection Agency (2024). Streamlined waste sorting. https://mst.dk/borger/affald-og-forurening/sortering-af-affald/stroemlinet-affaldssortering
 
 
@@ -164,7 +177,9 @@ Neurodiversity Design System ( XXXX ). Website. https://www.neurodiversity.desig
 Newport, C. (2019). Digital Minimalism. Portfolio.
 Nodder, C. (2013). Evil by Design: Interaction Design to Lead Us into Temptation. Wiley. https://evilbydesign.info/book/
 OECD (n.d.). Inclusive, Green and Digital Transformation. https://www.oecd.org/en/topics/sub-issues/inclusive-green-and-digital-transformation.html (accessed 18.08.24).
-Olifent, L. (2024). Society's AI ambitions have a hidden downside: "Training the systems requires a huge amount of energy". Ingeniøren, March 12. https://pro.ing.dk/datatech/artikel/samfundets-ai-ambitioner- has-a-hidden-backside-training-the-systems-requires-an-enormous-amount
+
+!!OK Olifent, L. (2024). Society's AI ambitions have a hidden downside: "Training the systems requires a huge amount of energy". Ingeniøren, March 12. https://pro.ing.dk/datatech/artikel/samfundets-ai-ambitioner-har-en-skjult-bagside-traening-af-systemerne-kraever-en-enorm-maengde
+
 Orlowski, J. (Instructor) (2020). The Social Dilemma. Netflix.
 Patel, N. (2024). Enabling software longevity. Framework, April 16 2024. https://frame.work/dk/en/blog/enabling-software-longevity
 Permacomputing (2024). Website. (accessed 09.05.24).
@@ -174,13 +189,20 @@ Permacomputing (2024). Website. (accessed 09.05.24).
 Radack, S.M. (2009). The System Development Life Cycle (SDLC). NIST, April 29. https://www.nist.gov/publications/system-development-life-cycle-sdlc
 Government (2021). Towards a better society with tech giants. White Paper June 2021. https://kum.dk/fileadmin/user_upload/Hvidbog_techgiganter.pdf
 Research Portal Denmark (n.d.). Analytical Overview of Green Research, Development & Innovation: Introduction and Method. https://forskningsportal.dk/green-research/ (accessed 26.04.24).
+
+!!OK Repair.eu, What’s my Right to Repair? 2025. https://repair.eu/whats-my-right-to-repair/
+
+
 Roffarello, A.M. & De Russis, L. (2019). The Race Towards Digital Wellbeing: Issues and Opportunities. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1-14. https://doi.org/10.1145/3290605.3300616
 Roffarello, A.M. & De Russis, L. (2021). Coping with Digital Wellbeing in a Multi-Device World. Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 1-14. https://doi.org/10.1145/3411764.3445076
-Samsung (2024). Our Steps Towards a Better Future. https://www.samsung.com/us/sustainability/environment/
+
+!!OK Samsung (2024). Our Steps Towards a Better Future. https://www.samsung.com/us/sustainability/environment/
+
 Santini, Z.I., Thygesen, L.C., Andersen, S. et al. (2024). Social media addiction predicts compromised mental health as well as perceived and objective social isolation in Denmark: A longitudinal analysis of a nationwide survey linked to register data. International Journal of Mental Health and Addiction. https://doi.org/10.1007/s11469-024-01283-3
 Shrimangale, V. (2024). Project Stargate By Microsoft and OpenAI. Medium, June 11. https://medium.com/@shrimangalevallabh789/project-stargate-by-microsoft-and-openai-fe97e41fca57
 Silberman, M.S. & Tomlinson, B. (2010). Precarious Infrastructure and Postapocalyptic Computing. Examining Appropriation, Re-use, and Maintenance for Sustainability, workshop at CHI 2010.
-Sobolev, M. & Lesic, V. (2022). Online Choice Architecture: The Good, The Bad, and The Complicated. CPI, October 31. https://www.competitionpolicyinternational.com/online-choice-architecture-the-good-the-
+
+!!OK Sobolev, M. & Lesic, V. (2022). Online Choice Architecture: The Good, The Bad, and The Complicated. CPI, October 31. https://www.competitionpolicyinternational.com/online-choice-architecture-the-good-the-
 
 !!OK!! Steffen, W., Broadgate, W., Deutsch, L. and others (2015). The trajectory of the Anthropocene: The Great Acceleration. The Anthropocene Review, 2(1), 81-98. https://doi.org/10.1177/2053019614564785
 
@@ -188,19 +210,22 @@ Stern, B. (2013). The Ethics of Saving Lives With Autonomous Cars Are Far Murkie
 
 !!OK!!  Stockholm Resilience Center (2012). Planetary boundaries. September 19, 2024. https://www.stockholmresilience.org/research/planetary-boundaries.html
 
-Strarup, B. (2022). 37 websites under Russian media are now blocked. Mediawatch, March 18. https://mediawatch.dk/Medienyt/Web/article13842095.ece
+!!OK Strarup, B. (2022). 37 websites under Russian media are now blocked. Mediawatch, March 18. https://mediawatch.dk/Medienyt/Web/article13842095.ece
+
 SustainableIT.org (n.d.). IT Standards for Environmental, Social, and Governance Sustainability. https://www.sustainableit.org/standards/it-esg-standards
 Switzer, J., Marcano, G., Kastner, R., et al. (2023). Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon. Proceedings of the 28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2, 400-412. https://doi.org/10.1145/3575693.3575710
 !!OK 
 Sætra, H.S. (2023). The Twin Transition Explored. University of Oslo, dScience - Center for Computational and Data Science. https://www.
 
-The National (2012). Facebook and Twitter key to Arab Spring uprisings: Report. May 16. https://web.archive.org/web/20120516161234/http://www.thenational.ae/news/uae-news/facebook-and-twitter-key-to-arab-spring-uprisings-report
+!!OK The National (2012). Facebook and Twitter key to Arab Spring uprisings: Report. May 16. https://web.archive.org/web/20120516161234/http://www.thenational.ae/news/uae-news/facebook-and-twitter-key-to-arab-spring-uprisings-report
+
 The Royal Society (2017). Data Management and Use: Governance in the 21st Century. https://royalsociety.org/%7e/media/policy/projects/data-governance/data-management-governance.pdf
 
 !!OK UN Sustainable Development Goals (2020). The 17 Global Goals. https://sdgs.un.org/goals
 
 United Nations (2024). Global Course 'Is Unsustainable', Secretary-General Stresses to General Assembly, But with Dialogue, Compromise 'We Can Choose the Future We Want'. Meetings Coverage and Press Releases. https://press.un.org/en/2024/sgsm22378.doc.htm (accessed 01.03.25).
-United Nations University (2024). Global E-Waste Surging: Up 21% in 5 Years. Press release, February 20. https://unu.edu/press-release/global-e-waste-surging-21-5-years
+
+!!OK United Nations University (2024). Global E-Waste Surging: Up 21% in 5 Years. Press release, February 20. https://unu.edu/press-release/global-e-waste-surging-21-5-years
 University of Glasgow (n.d.). Low carbon and sustainable computing. School of Computing Science. https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/ (accessed 09.05.24).
 
 !!OK!! Urban, M.C. (2024). Climate change extinctions. Science, 386(6726), 1123-1128.

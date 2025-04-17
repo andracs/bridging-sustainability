@@ -305,7 +305,7 @@ In economics and supply chains, a missing component can disrupt entire productio
 ---
 
 
-### Summary: What can you take away from this chapter?
+## Bringing it together: Key insights from this chapter
 
 You will often need to apply systems thinking to your work with IT and sustainability. When a company prepares ESG or CSRD reports or calculates scope 3 emissions, it is crucial to understand how the company's activities affect other systems.
 

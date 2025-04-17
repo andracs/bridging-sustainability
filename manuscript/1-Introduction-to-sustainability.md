@@ -550,7 +550,7 @@ While twin transition focuses on exploring the connection between green and digi
 The term **digitainability** is a contraction of the words digital development and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN 's Sustainable Development Goals with digital tools ([Gupta et al. 2020](https://doi.org/10.3390/su12219283)). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
 
 Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He and his teams propose a simple tool called DSM ( Digitalization–Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios.
-## Key Takeaways from this Chapter
+## Bringing it together: Key insights from this chapter
 You've reached the end of the first chapter, take a moment to appreciate your progress! You've explored the fundamental principles of sustainable development, learned new concepts, and refreshed your understanding of others.
 
 Hopefully, you've gained an appreciation for the many layers of sustainability, spanning fields from geology and ecology to economics and social sciences. Adopting a holistic perspective is essential if you wish to contribute meaningfully to sustainability.

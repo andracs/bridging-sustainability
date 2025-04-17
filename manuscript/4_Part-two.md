@@ -1,8 +1,8 @@
 # Part two
 
-The second part of the book, chapters 4 to 7, looks ahead and outlines practical approaches on how sustainability can be embraced and promoted in digital projects. Among other things, you'll get answers to the following questions:
+*Moving from analysis to action, the second part of this book (Chapters 4 through 7) focuses on practical strategies for embedding and advancing sustainability within digital projects. We will explore actionable approaches and provide insights into key questions confronting practitioners today, including:*
 
-1. How can different design approaches promote sustainability in digital projects?
-2. How can we develop more sustainable software?
-3. How can we promote the use of sustainable hardware solutions?
-4. What role does wellness and well-being play in digital solutions?
+1.  How can specific **design methodologies** drive sustainability outcomes in digital projects?
+2.  What are effective techniques for developing more **sustainable software**?
+3.  How can the selection and use of **sustainable hardware solutions** be encouraged and implemented?
+4.  What is the crucial role of **user wellness and digital well-being** in the design and impact of digital solutions?

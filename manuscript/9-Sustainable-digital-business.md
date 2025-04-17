@@ -36,6 +36,7 @@
 ### 3.3. Case Studies
 - **Climaider**
 - **Nextværke**
+- Lancey
 - **Others (m.fl.)**
 
 ## 4. Sustainable Entrepreneurship

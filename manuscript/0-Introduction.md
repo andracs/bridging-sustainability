@@ -6,20 +6,23 @@
 4. Se "Rester som måske kan bruges"
 5. TILFØJ ILLUDTRATION AF KAPITLER I KAPITEL 0
 6. Uddyb Digital transition vs transformation 
-7. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
-8. Flere og bedre illustrationer, gennemgående
-9. JESPER Omroker  kapitler → Er det svært at starte med teori? 
+7. Check for footnotes - fix dem?
+8. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
+9. Flere og bedre illustrationer, gennemgående
+10. JESPER Omroker  kapitler → Er det svært at starte med teori? 
 	1. begynd med starten af 1
 	2. og så 3
 	3. og så 2
 	4. også resten af 1
 	5. 
-10. JESPER Publicer i 3 dele, sælge som bundle?
-11. JESPER Find en ny titel
-12. JESPER Find en bedre udgiver
-13. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-14. Overvej future contribution - hvordan? Contributors...
-15. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+11. JESPER Publicer i 3 dele, sælge som bundle?
+12. JESPER Find en ny titel
+13. JESPER Find en bedre udgiver
+14. JESPER
+	  https://help.leanpub.com/en/articles/582505-how-can-i-see-what-the-different-fonts-look-like-so-i-know-which-one-to-choose
+15. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
+16. Overvej future contribution - hvordan? Contributors...
+17. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 # Guide for  sustainable digital
 The computer professional's guide to social and planetary care

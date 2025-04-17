@@ -1,6 +1,9 @@
 {book: false, sample: false} 
 # TODO
-- ...
+- Linje 203: evt kilde til de forskellige frameworks energiforbrug (hvor Ruby on Rails ligger øverst)
+- Linje 219: kilde til at gøre Wordpress mindre energisulten: https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/ / https://fireflywebstudio.com/wordpress-website-hurting-environment/ - Jesper fra Advice sagde de var holdt op med at anbefale wordpress pga ubæredygtighed
+- Linje 265: erstat evt med Stolen Focus af Johann Hari
+- linje 284: Morozov skrev i the Net Delusion at det arabiske forår bare gjorde det nemmere for magthavere af finde aktiviisterne
 
 # 3. The impact of digitalization on environment and society
 
@@ -61,7 +64,7 @@ It is important that IT projects are based on sustainably developed and produced
 
 In this specific example, the company is taking initiatives to improve mining in Africa and working conditions in Asia. The company is trying to take responsibility for making their smartphones more sustainable than the standard, even though we are very far from being able to make truly sustainable smartphones.
 
-Unfortunately, there are still only a few hardware manufacturers that take as sustainable an approach to hardware production as Fairphone , but more are on the way. Nevertheless, a prerequisite for a more sustainable hardware production is to be able to procure your materials and components in a way that takes into account their impact on nature, the environment and the surrounding community.
+Unfortunately, there are still only a few hardware manufacturers that take as sustainable an approach to hardware production as Fairphone, but more are on the way. Nevertheless, a prerequisite for a more sustainable hardware production is to be able to procure your materials and components in a way that takes into account their impact on nature, the environment and the surrounding community.
 
 ### A sustainable hardware lifecycle
 
@@ -79,9 +82,9 @@ Roughly speaking, there are four different components that go into the manufactu
 
 ●      Metals and other raw materials (including water and clean air)
 
-●      labor
+●      Labor
 
-●      know-how (i.e. knowledge of how to manufacture and assemble the individual parts)
+●      Know-how (i.e. knowledge of how to manufacture and assemble the individual parts)
 
 ●      Energy.
 
@@ -119,9 +122,9 @@ Samsung Electronics is making efforts to move away from a linear economy of disp
 
 Since the launch of our first hardware products, we've worked to improve the sustainability of how we make our products and the services we create around them [...] from sourcing materials to packaging products to designing our retail stores_._ (Google 2023)
 
-The above quotes are examples of hardware manufacturers increasing their focus on sustainability. It is positive that hardware manufacturers are making such environmental promises, but it can be difficult to determine whether this is a genuine green agenda or some degree of greenwashing .
+The above quotes are examples of hardware manufacturers increasing their focus on sustainability. It is positive that hardware manufacturers are making such environmental promises, but it can be difficult to determine whether this is a genuine green agenda or some degree of greenwashing.
 
-The fact that companies choose to focus on sustainability is important because with our current technological capabilities it is close to impossible to develop truly sustainable hardware products. It will take several decades to develop a fully circular information technology and this can only be achieved if manufacturers continuously show progress and improvements year after year.
+The fact that companies choose to focus on sustainability is important. With our current technological capabilities it is close to impossible to develop truly sustainable hardware products. It will take several decades to develop a fully circular information technology and this can only be achieved if manufacturers continuously show progress and improvements year after year.
 
 As long as we have to extract new minerals for every product, we're making an ever-greater dent in the earth's limited resources. Without a circular approach, we could run out of minerals such as lithium or rare earth elements, just as we run out of fossil fuels. Conversely, if we succeed in recycling minerals and raw materials so that a new hardware product consists of 99.99% recycled materials, we can talk about sustainable hardware production, because in principle we can continue to produce new hardware for as long as we want.
 
@@ -129,7 +132,7 @@ While it is unfortunately impossible with our current technology to develop comp
 
 ## Sustainability aspects of networking and cloud
 
-Modern digital technology consists not only of computers, smartphones and printers, but also of the (data) network itself, which forms a large part of the technology. Because what can you do with a computer, smartphone or server without a network connection? You can't exchange information with others or retrieve data from other devices. That's why it's essential to consider the network when talking about sustainability and IT.
+Modern digital technology consists not only of computers, smartphones and printers, but also of the (data) network itself, which forms a large part of the technology. What can you do with a computer, smartphone or server without a network connection? You can't exchange information with others or retrieve data from other devices. That's why it's essential to consider the network when talking about sustainability and IT.
 
 Figure 3.4 illustrates how regular use of a computer (e.g. browsing or chatting) sends data out into the world and gets data back. Every click on a link in a browser will send data out into the world in this way and retrieve a response back. To understand the environmental impact of your information technology, you also need to consider the network's part in the carbon footprint.
 
@@ -204,7 +207,7 @@ Research also shows that it can make a big difference which programming language
 
 ### Technical debt and code optimization
 
-An often overlooked sustainability issue software development is technical debt . Technical debt can be briefly described as the quick and unsustainable shortcuts in the development process that result in large additional future costs. It's a bit like a building: it's important to build a strong foundation because the rest must rest on and be supported by the foundation, which cannot be changed afterwards.
+An often overlooked sustainability issue software development is technical debt. Technical debt can be briefly described as the quick and unsustainable shortcuts in the development process that result in large additional future costs. It's a bit like a building: it's important to build a strong foundation because the rest must rest on and be supported by the foundation, which cannot be changed afterwards.
 
 An example in software development: an algorithm needs to handle large amounts of data. If a less careful developer takes the first and best program snippet from Stack Overflow[[4]](#_ftn4) to solve the problem, it will most likely not be the most efficient solution. The developer incurs a debt to the future, because the application will use more resources than necessary and will cost more in terms of environment, economy and security.
 
@@ -224,7 +227,7 @@ This means that technical debt can arise when using systems, frameworks or libra
 
 If you are already working with solutions that have a significant technical debt, you can pay off the debt, so to speak, by optimizing existing code and architecture. A practical example of this is the use of Varnish Cache, which helps reduce developers' technical debt. Varnish Cache is an application that can increase the speed of web solutions by up to 300-1,000 times, depending on the architecture.
 
-By using Varnish, companies can significantly reduce their server count and resource consumption. This results in huge savings, both financially and environmentally. However, it's also important to point out that there are limits to how much you can optimize bad solutions. Sometimes it's simply not worth "making up a corpse" because fundamental flaws in the system will still hinder optimal performance and sustainability. It may be more efficient to switch to a new, well-structured solution that is more durable.
+By using Varnish, companies can significantly reduce their server count and resource consumption. This results in huge savings, both financially and environmentally. However, it's also important to point out that there are limits to how much you can optimize bad solutions. Sometimes it's simply not worth fixing this because fundamental flaws in the system will still hinder optimal performance and sustainability. It may be more efficient to switch to a new, well-structured solution that is more durable.
 
 ### Individual and societal aspects of software
 
@@ -269,7 +272,7 @@ Digital development also has the effect of increasing consumerism. As new applic
 
 Manufacturers have a vested interest in selling new products continuously and often find that their products are designed not to last long. _Planned_ obsolescence means that the product design promotes degradation of the product rather than an opportunity to repair and upgrade it.
 
-By prioritizing design for repairability and longevity (longevity ), we can counteract this practice and promote a more sustainable technological development. The longer the software supports a given hardware configuration, the better. In the open source _environment, STS_ (Short-term support ) and _LTS_ (Long-term support ) are used to indicate how long a specific software version will be updated.
+By prioritizing design for repairability and longevity, we can counteract this practice and promote a more sustainable technological development. The longer the software supports a given hardware configuration, the better. In the open source _environment, STS_ (Short-term support ) and _LTS_ (Long-term support ) are used to indicate how long a specific software version will be updated.
 
 STS versions contain new, more experimental features that need to be tested on a large scale before developers can determine if they are also durable in the long run. In contrast, there are LTS versions of software that promise long-term durability. Here, only proven and established software features are included in the released version. This means that the LTS version is slightly less capable (has fewer features) than the STS version, but will last longer - in some cases ten years or more. You could also argue that LTS represents a lower technological level than STS (= is low tech), but for that very reason the LTS version is more suitable for long-term use.
 
@@ -289,7 +292,7 @@ Most major powers now have digital protection systems and attack capabilities an
 
 ## How can we make information technology more sustainable?
 
-In the book _Sustainable Business Studies_ 2024, we have outlined two basic strategies for sustainability improvements; the _reactive_ and the _proactive_ strategies (Juel-Jacobsen 2024)_._ Reactive strategies optimize what already exists, while proactive measures build sustainability into what is being developed.
+In the book _Sustainable Business Studies_ 2024, two basic strategies for sustainability improvements are outlined; the _reactive_ and the _proactive_ strategies (Juel-Jacobsen 2024)_._ Reactive strategies optimize what already exists, while proactive measures build sustainability into what is being developed.
 
 Reactive strategies act as emergency solutions - they aim to minimize the harmful effects of the IT technologies we already use. When sustainability issues are discovered or unexpected consequences arise, these strategies come into play to mitigate the effects. Proactive strategies can be compared to a gardener carefully planning a plantation that can create long-term value. It's about developing new technologies and processes with sustainability in mind so that we are ready for the challenges of the future.
 
@@ -306,7 +309,7 @@ In this chapter, we have looked at how the hardware, networks and software of IT
 
 Sustainable hardware requires responsible sourcing of materials, recycling and proper waste management. When it comes to networking, sustainability is about reducing energy consumption and CO2 emissions from data centers. Transitioning from copper cables to fiber optics and locating data centers in areas with renewable energy are important steps. Efficient software optimizes the energy consumption of IT systems and can promote sustainability by optimizing processes and guiding users in sustainable practices. Software should also be designed with both the environment and user well-being in mind as much as possible to avoid issues such as digital addiction.
 
-We had wanted to write about sustainable digitalization but realized along the way that 100% sustainable information technology is not something that exists yet. However, work is being done on many fronts to create a more sustainable technological world, where unsustainable technologies with many unintended side effects on the environment and society are transformed into "green", less polluting technologies. There is still a long way to go and a vast and important work ahead of us.
+We wanted to write about sustainable digitalization but realized along the way that 100% sustainable information technology is not something that exists yet. However, work is being done on many fronts to create a more sustainable technological world, where unsustainable technologies with many unintended side effects on the environment and society are transformed into "green", less polluting technologies. There is still a long way to go and a vast and important work ahead of us.
 
 To move beyond the unsustainable IT solutions of the past, we should work with both reactive and proactive sustainability measures. It is essential that both strategies are used in mutual interaction, so that new processes and products are based on sustainability, while existing processes are continuously optimized.
 

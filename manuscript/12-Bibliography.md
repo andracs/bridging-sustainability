@@ -29,13 +29,17 @@ Becker, C. (2023). Insolvent. MIT Press.
 !!OK Bendell, J. (2017). Deep Adaptation: A Map for Navigating Climate Tragedy. IFLAS Occasional Paper 2. University of Cumbria. https://jembendell.com/2019/05/15/deep-adaptation-versions/
 
 Blue Angel (2020). Resource and Energy-Efficient Software Products (DE-UZ 215). https://www.blauer-engel.de/en/productworld/software
-Blevis, E. (2007). Sustainable interaction design: Invention & disposal, renewal & reuse. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 503-512. https://doi.org/10.1145/1240624.1240705
+
+!!OK Blevis, E. (2007). Sustainable interaction design: Invention & disposal, renewal & reuse. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 503-512. https://doi.org/10.1145/1240624.1240705
+
 Brandtzæg, O.P., van Diepen, A., Piepenbrink, R. and others (2023). Comparing the Energy Consumption of Web Frameworks. SustainableSE, March 3. https://luiscruz.github.io/course_sustainableSE
 Brix, C. (2024). Study: Energy consumption for popular programming language is sky-high. Version2, July 31. https://www.version2.dk/artikel/studie-energiforbrug-populaert-programmeringssprog-er-taarnhoejt
 Brundtland Commission (1987). Our Common Future - The Brundtland Commission Report on Environment and Development. https://bu.dk/introduktion/baeredygtig-udviklings-historie/1987-brundtland-rapporten/ (accessed 27.08.24).
 Burr, C., Taddeo, M. & Floridi, L. (2020). The ethics of digital well-being: A thematic review. Science and Engineering Ethics, 26(4), 2313-2343. https://doi.org/10.1007/s11948-020-00175-8
 Center of Humane Technology (n.d.). Ledger of Harms. https://ledger.humanetech.com
-climateaction.tech (2021, January 2). Reduce the carbon emissions of your website. https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/
+
+!!OK climateaction.tech (2021). Reduce the carbon emissions of your website. https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/ 
+
 CPSR - Computer Professionals for Social Responsibility (2024). Website. http://cpsr.org/ (accessed 03.11.24).
 Crawford, K. (2021). The Atlas of AI. Yale University Press.
 
@@ -44,12 +48,18 @@ Crawford, K. (2021). The Atlas of AI. Yale University Press.
 
 Confederation of Danish Industry (2022). Understand the Greenhouse Gas Protocol and how to start working with Scope 3. https://www.danskindustri.dk/brancher/di-digital/nyhedsarkiv/nyheder/2022/10/forsta-drivhusgasprotokollen-og-hvordan-du-begynder-at-arbejde-med-scope-3/
 Danish Standards (2024). DS/INF 179:2024 Data and circular economy - Getting started. https://www.ds.dk/da/download/data-og-cirkulaer-oekonomi-kom-godt-i-gang
-DaSilva, B., Dhar, J., Rafiq, S. et al. (2022). Nudging Consumers Toward Sustainability. BCG Global, May 17. https://www.bcg.com/publications/2022/nudging-consumers-to-make-sustainable-choices
+
+!!OK DaSilva, B., Dhar, J., Rafiq, S. et al. (2022). Nudging Consumers Toward Sustainability. BCG Global. https://www.bcg.com/publications/2022/nudging-consumers-to-make-sustainable-choices
+
 Decker, K.D. (2024). What is Low-tech Magazine? LOW←TECH MAGAZINE, May 30.
 DNV (2023). Energy Cyber Priority 2023: Closing the gap between awareness and action. DNV Cyber. https://www.dnv.com/cybersecurity/cyber-insights/energy-cyber-priority-2023/
 Dr.dk (2024). 86,000 Danes are addicted to social media, new study shows. DR, May 8. https://www.dr.dk/nyheder/indland/86000-danskere-er-afhaengige-af-sociale-medier-viser-nyt-studie (accessed 08.05.24).
-Dähnert, S. (2021a). Mother Nature as a Persona (incl. template). Green the Web, August 5. https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/
-Dähnert, S. (2021b). Environment Centered User Journey Maps. Green the Web, August 16. https://greentheweb.com/environment-centered-user-journey-maps-incl-example-and-template/
+
+!!OK Dähnert, S. (2021a). Mother Nature as a Persona (incl. template). Green the Web, https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/
+
+!!OK Dähnert, S. (2021b). Environment Centered User Journey Maps.  Green the Web. https://greentheweb.com/environment-centered-user-journey-maps-incl-example-and-template/
+
+
 Ecovadis (2024) About EcoVadis. https://ecovadis.com/about-us
 Eisele, M. (2022). 5 ways to build sustainability into your software architecture. Red Hat, July 5. redhat.com/architect/sustainable-software-architecture
 
@@ -149,9 +159,13 @@ Larsen, K.G.W. (2024). Geologists vote 'no' to declaring that man has created a 
 Le Quéré, C., Jackson, R.B., Jones, M.W. and others (2020). Temporary reduction in daily global CO2 emissions during the COVID-19 forced confinement. Nature Climate Change, 10(7), 647-653. https://doi.org/10.1038/s41558-020-0797-x
 Lederne.dk (2023). ESG. What are others doing? Compare ESG efforts. https://www.lederne.dk/min-ledelse/esg-profilen/benchmark
 Lewis, F. & Vassileva, J. (2024). Integrating Dark Pattern Taxonomies. arXiv, February 26. https://doi.org/10.48550/arXiv.2402.16760
+
 Life-Centred Design Lab (2024). Our Framework. A Life-centred Design Framework to Design a Healthier World and Future for All Life. https://lifecentred.design/framework/
+
 Lowe, D. (2012). Eroom's Law. Science, March 8. https://www.science.org/content/blog-post/eroom-s-law
-Lutz, D. (2023). 10 life-centered design approaches. Medium, September 26. https://uxdesign.cc/10-life-centred-design-approaches-b0f60ba0e002
+
+!!OK Lutz, D. (2023). 10 life-centered design approaches. Medium, September 26. https://uxdesign.cc/10-life-centred-design-approaches-b0f60ba0e002
+
 Lyngs, U., Lukoff, K., Slovak, P. et al. (2019). Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control Tools. Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 1-18. https://doi.org/10.1145/3290605.3300361
 
 !!OK!! Madsen, B.L. (2021). Økologi. Den Store Danske, August 31. https://denstoredanske.lex.dk/%C3%B8kologi
@@ -175,7 +189,9 @@ Nager IT (2024). "Faire Maus. Encouraging humane working conditions in the facto
 Nardi, B., Tomlinson, B., Patterson, D.J. and others (2018). Computing within limits. Communications of the ACM, 61(10), 86-93. https://doi.org/10.1145/3183582
 Neurodiversity Design System ( XXXX ). Website. https://www.neurodiversity.design/ (accessed 13.06.24).
 Newport, C. (2019). Digital Minimalism. Portfolio.
-Nodder, C. (2013). Evil by Design: Interaction Design to Lead Us into Temptation. Wiley. https://evilbydesign.info/book/
+
+!!OK Nodder, C. (2013). Evil by Design: Interaction Design to Lead Us into Temptation. Wiley. https://evilbydesign.info/book/
+
 OECD (n.d.). Inclusive, Green and Digital Transformation. https://www.oecd.org/en/topics/sub-issues/inclusive-green-and-digital-transformation.html (accessed 18.08.24).
 
 !!OK Olifent, L. (2024). Society's AI ambitions have a hidden downside: "Training the systems requires a huge amount of energy". Ingeniøren, March 12. https://pro.ing.dk/datatech/artikel/samfundets-ai-ambitioner-har-en-skjult-bagside-traening-af-systemerne-kraever-en-enorm-maengde

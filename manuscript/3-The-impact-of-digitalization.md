@@ -333,8 +333,11 @@ In essence, reactive strategies address the negative impacts of current technolo
 This chapter explored the multifaceted impacts of information technology – its hardware, networks, and software – on our environment, society, and individual well-being. We examined how digitalization presents both significant sustainability challenges and powerful opportunities for positive change. Through examples like satellite pollution, we illustrated the potential long-term consequences of unchecked technological expansion, while also discussing strategies like lifecycle management and circular processes that foster more sustainable IT practices.
 
 Key takeaways include:
+
 * **Hardware:** Sustainability demands responsible material sourcing, extended product lifespans through repair and reuse, and effective e-waste management and recycling.
+  
 * **Networks:** Improving network sustainability involves reducing energy consumption and emissions, primarily from data centers and data transmission, through efficiency measures, transitioning to technologies like fiber optics, and utilizing renewable energy sources.
+  
 * **Software:** Efficient software minimizes resource demands on hardware and networks. Furthermore, software can be a tool for sustainability by optimizing processes, guiding user behavior, and requiring design that prioritizes both environmental performance and user well-being, mitigating issues like digital addiction.
 
 While the goal of achieving fully sustainable digitalization is desirable, current technology and practices mean **100% sustainable IT does not yet exist.** This journey requires ongoing effort on multiple fronts, transforming technologies laden with unintended environmental and social side effects into "greener," more responsible alternatives. There is significant progress being made, but substantial work remains.

@@ -7,7 +7,7 @@
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 
-In order to base our work with sustainability on a solid ground, we must first understand some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability ask of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
+In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability ask of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
 ## Why is sustainability urgently important right now?
 
 Let's go through some substantial theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:

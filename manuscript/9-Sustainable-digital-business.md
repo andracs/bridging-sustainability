@@ -38,6 +38,37 @@
 - **Nextværke**
 - Lancey
 - **Others (m.fl.)**
+**
+
+Case Story: Combining heating and electrical energy storage in one solution
+
+Across Europe, countless homes rely on electric heaters which burden power grids during peak times and add high costs to household budgets. Simultaneously, the shift towards renewable energy sources like solar power demands a more flexible, responsive electricity grid. French entrepreneur Raphaël Meyer saw this inefficiency not as a barrier, but as the inspiration to start Lancey Energy Storage and develop a smarter heating system in line with the European energy transition.
+
+Raphaël Meyer pivoted from his research in photovoltaics in the 2010’s towards energy storage, initially exploring sodium as a basis for batteries, which proved to be an insufficiently mature battery technology at the time. 
+
+Meyer's core insight was that true energy efficiency often lies in turning unavoidable energy losses into useful outputs. Just as the heat from data center cooling can be used for heating nearby housing, the heat generated when charging batteries can be used for heating in a radiator. This led to the idea of integrating a battery into a radiator, using the battery's waste heat for room heating, thus boosting overall system efficiency.
+
+Lancey developed a smart radiator with an integrated lithium-ion battery, which can be charged while electricity is cheap and can provide heat while electricity is expensive. This optimizes heating, stores cheap off-peak or surplus solar energy for high self-consumption, supports grid stability, reduces CO2 emissions from peak power plants, and lowers heating bills. Furthermore, it facilitates solar power use and self-consumption.
+
+Despite developing an innovative, award winning product and securing funding, Lancey faced business challenges and had to change track in 2025. However, the core vision of turning energy inefficiencies into business opportunities persists, highlighting the importance of entrepreneurial resilience required in sustainability-focused ventures.
+
+Meyer is optimistic about the future of sustainable energy, and has many good ideas for the energy transition. His entrepreneurial vision for a future with renewable energy contains, among others, the following ideas:
+
+1. “A society focused on seasonal production rather than just seasonal storage”. He envisions doubling industrial capacity for materials like aluminum, steel, and concrete, running these facilities primarily during periods with plenty of renewable energy, effectively storing value in products rather than relying solely on batteries.  
+      
+    
+2. He also predicts that sooner or later, buildings will incorporate at least some battery storage, making it as common as other basic appliances.  
+      
+    
+3. Through local energy management and storage, buildings will gain control over their energy use, independent of when power is supplied by the grid.  
+      
+    
+4. An interesting goal for energy startups could be to provide their integrated heating and energy storage systems "as a service," eliminating the initial investment barrier for users and closing the loop on the value proposition.
+    
+
+But as he emphasizes, ideas alone are not enough to make a business. Operational details make the difference.
+
+**
 
 ## 4. Sustainable Entrepreneurship
 

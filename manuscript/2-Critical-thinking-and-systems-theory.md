@@ -302,9 +302,7 @@ Cascading effects are the chain reactions in a network that occur when a small c
 
 In economics and supply chains, a missing component can disrupt entire production, affecting both prices and jobs. In ecology, changes in populations of a single species can disrupt established food chains and affect people's food base. A power outage paralyzes communication and emergency response systems, which can lead to further effects throughout society. In the digital sphere, propaganda, misinformation and disinformation can change consumption patterns, influence political priorities and reshape information flows.
 
-
 ---
-
 
 ## Bringing it together: Key insights from this chapter
 

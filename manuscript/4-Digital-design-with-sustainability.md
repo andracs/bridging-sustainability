@@ -309,7 +309,7 @@ Moreover, the chapter underscored the importance of ethical design choices, cont
 **As we close this chapter, we encourage you to make a difference with digital design → pixel by pixel, choice by choice.**
 
 {book: false, sample: false} 
-# TODO Further notes
+# Further notes
 
 [[1]](#_ftnref1) _Pluriversal_ is a term inspired by the concept of _cultural pluralism_, where different social or cultural groups develop their own tradition within the framework of a common civilization. _Pluriversal_ is Damien Lutz's word for expanding the traditionally Western-oriented design perspective to include the diversity of the entire planet.
 

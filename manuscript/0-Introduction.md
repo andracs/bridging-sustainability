@@ -1,37 +1,38 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
-1. + Holistic approch
-2. Update chapter descriptions, so it tells a story
-3. Måske afklare:
+1. + Holistic approach
+2. https://leanpub.com/ansible-for-devops
+3. Update chapter descriptions, so it tells a story
+4. Måske afklare:
 	1. Digital transformation
 	2. Digital transition
 	3. Digitalization
 	4. Digitzation
 	5. Digital development
-4. Migrate to Codeberg
-5. Se "Rester som måske kan bruges"
-6. TILFØJ ILLUDTRATION AF KAPITLER I KAPITEL 0
-7. Uddyb Digital transition vs transformation 
-8. Check for footnotes - fix dem?
-9. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
-10. Flere og bedre illustrationer, gennemgående
-11. JESPER Omroker  kapitler → Er det svært at starte med teori? 
+5. Migrate to Codeberg
+6. Se "Rester som måske kan bruges"
+7. TILFØJ ILLUDTRATION AF KAPITLER I KAPITEL 0
+8. Uddyb Digital transition vs transformation 
+9. Check for footnotes - fix dem?
+10. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
+11. Flere og bedre illustrationer, gennemgående
+12. JESPER Omroker  kapitler → Er det svært at starte med teori? 
 	1. begynd med starten af 1
 	2. og så 3
 	3. og så 2
 	4. også resten af 1
 	5. 
-12. JESPER Publicer i 3 dele, sælge som bundle?
-13. JESPER Find en ny titel
-14. JESPER Find en bedre udgiver
-15. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-16. Overvej future contribution - hvordan? Contributors...
-17. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
-18.  JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
+13. JESPER Publicer i 3 dele, sælge som bundle?
+14. JESPER Find en ny titel
+15. JESPER Find en bedre udgiver
+16. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
+17. Overvej future contribution - hvordan? Contributors...
+18. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
+19.  JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
 
 # Guide for  sustainable digital
-The computer professional's guide to social and planetary care
-(vi skal nok have en anden titel, her kommer idéer til arbejdstitler)
+-The computer professional's guide to social and planetary care
+-On how to work sustainably with IT
 
 # Introduction
 

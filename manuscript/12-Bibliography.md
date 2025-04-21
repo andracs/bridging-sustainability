@@ -28,7 +28,7 @@ Becker, C. (2023). Insolvent. MIT Press.
 
 !!OK Bendell, J. (2017). Deep Adaptation: A Map for Navigating Climate Tragedy. IFLAS Occasional Paper 2. University of Cumbria. https://jembendell.com/2019/05/15/deep-adaptation-versions/
 
-Blue Angel (2020). Resource and Energy-Efficient Software Products (DE-UZ 215). https://www.blauer-engel.de/en/productworld/software
+!!OK Blauer Angel (2020). Resource and Energy-Efficient Software Products (DE-UZ 215). https://www.blauer-engel.de/en/productworld/software
 
 !!OK Blevis, E. (2007). Sustainable interaction design: Invention & disposal, renewal & reuse. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 503-512. https://doi.org/10.1145/1240624.1240705
 
@@ -103,8 +103,10 @@ Georgiou, S., Kechagia, M., Louridas, P. and others (2018). What are Your Progra
 
 !!OK!! Green claims (2025). European Comission. https://environment.ec.europa.eu/topics/circular-economy/green-claims_en (accessed 03.03.25).
 
-Green Software Foundation (2024a). SCI Specification Achieves ISO Standard Status, April 25https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status. https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status "
-Green Software Foundation (2024b). Impact Framework. https://if.greensoftware.foundation
+!!OK Green Software Foundation (2024a). SCI Specification Achieves ISO Standard Status. https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status
+
+!!OK Green Software Foundation (2024b). Impact Framework. https://if.greensoftware.foundation
+
 Green Software Foundation (2024c). Green Software Practitioner. https://patterns.greensoftware.foundation//catalog/cloud/
 
 !!OK Greenpeace International (2017). Clicking Clean. https://www.greenpeace.org/international/publication/6826/clicking-clean-2017/
@@ -121,7 +123,8 @@ Hansen, C. (2023). Moore's Law. https://lex.dk/Moores_lov
 
 !!OK  Hauschild, M. (2021). Vugge til vugge, Den Store Danske. https://denstoredanske.lex.dk/vugge_til_vugge
 
-Hochschule Trier (2022). First Blue Angel for Resource- and Energy-efficient Software Goes to Open-source Document Viewer Okular. March 9. https://www.umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-details/first-blue-angel-for-software
+!!OK Hochschule Trier (2022). First Blue Angel for Resource- and Energy-efficient Software Goes to Open-source Document Viewer Okular. https://www.umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-details/first-blue-angel-for-software
+
 Hu, C. (2023). Inside the lab that's growing mushroom computers. Popular Science, February 27. https://www.popsci.com/technology/unconventional-computing-lab-mushroom/
 Illich, I. (1973). Tools for Conviviality. Equinox.
 

@@ -11,7 +11,7 @@ In the previous chapter, we have seen how digital design is used to conceptualiz
 
 Once digital design work on UX/UI and system specifications is complete, the focus shifts to developers, programmers, and software architects. These professionals translate design documentation into **functional code, deploying the digital products, experiences, and features**. Their technical choices, however, carry significant weight far beyond functionality.
 
-Ideally, **sustainable software** is efficient in its use of resources, designed for longevity and maintainability, and contributes positively (or at least minimizes harm) to users, society, and the environment over its lifetime. Predicting the long-term consequences of software and algorithmic choices can be challenging, as illustrated by the example of Bitcoin. Conceived as a decentralized digital payment system to disrupt traditional finance, Bitcoin aimed for ease of use and security. Yet, its trajectory involved widespread use in illicit activities and generated **immense environmental damage**.
+Ideally, **sustainable software** is efficient in its use of resources, designed for longevity and maintainability, and contributes positively (or at least minimizes harm) to users, society, and the environment over its lifetime. Predicting the long-term consequences of software and algorithmic choices can be challenging, as illustrated by the example of **Bitcoin**. Conceived as a decentralized digital payment system to disrupt traditional finance, Bitcoin aimed for ease of use and security. Yet, its trajectory involved widespread use in illicit activities and generated **immense environmental damage**.
 
 This negative impact stems directly from initial, fundamentally unsustainable design choices regarding its core algorithms and operational protocols. Bitcoin utilizes the blockchain data structure, but its energy-intensive nature arises primarily from its "Proof-of-Work" consensus algorithm combined with a mining process deliberately designed to become increasingly computationally demanding over time. 
 
@@ -22,129 +22,150 @@ Fortunately, few applications reach Bitcoin's extreme level of inefficiency. How
 The situation differs significantly for server-side software and large-scale systems. These systems run continuously, making the efficiency of the software controlling them a major factor in overall operational energy consumption. Furthermore, successful software can achieve global scale rapidly; if inherently inefficient or designed with negative externalities, its widespread adoption can amplify harm exponentially. This underscores the critical **responsibility of software developers to prioritize long-term positive impact and sustainability in their work.**
 
 This chapter delves into how developers can achieve **truly sustainable software**, exploring practical principles and techniques for sustainable software development, guided by frameworks such as the Karlskrona Manifesto.
-
-Fortsat her ☺️ 
----
-
 ## Software development life cycle (SDLC)
 
 ![Figure 5.1](resources/I_5.1.png)
 > Figure 5.1 Software development life cycle (SDLC) is a generic model that describes the typical processes in the development and maintenance of software.
 
-Most well-structured software development projects go through roughly the same phases in their development. The different phases are described in the _software development life cycle (SDLC_) model (Figure 5.1) , which divides the typical software development process into these six phases:
+Most well-structured software development projects follow a similar sequence of phases. These are often described using a **_software development life cycle (SDLC)_** model (see Figure 5.1), which typically breaks the process into six key stages:
 
-1. Planning and analyzing the problem domain.
-2. Design of the digital solution.
-3. Implementation, i.e. programming and setup.
-4. Test to ensure the quality of the result.
-5. Rollout (release), i.e. a commissioning of the solution.
-6. Maintenance, bug fixes and usage data collection.
+1.  **Planning** - Defining goals and analyzing the problem domain.
+2.  **Design** - Architecting the digital solution.
+3.  **Implementation** - Writing code and setting up systems.
+4.  **Testing** - Verifying quality and functionality.
+5.  **Deployment** - Releasing the solution for users (rollout).
+6.  **Maintenance** - Providing ongoing support, fixing bugs, and gathering usage data.
 
-The SDLC model can take shapes other than a circle, and the phases and their order can vary from model to model. Depending on the preferences of the workgroup and the nature of the task, you can jump back and forth between phases. In the _test driven development_ (TDD) methodology you would start by developing tests before deployment, and if you want to create what is called a _minimum viable product_ (MVP) as the basis for the software, you would first implement and deploy a minimal product and then analyze and design the rest of the features based on the experience gained while the MVP is in use.
+While often depicted cyclically, the SDLC isn't always linear; phases can overlap or iterate. Depending on your team's preferences and the project's needs, you might jump between phases. Methodologies like **_Test-Driven Development_ (TDD)** alter the sequence by having **you** write tests *before* implementation. Similarly, creating a **_Minimum Viable Product_ (MVP)** involves deploying a basic version first, then using feedback from real-world use to inform the analysis and design of subsequent features.
 
-Common to all software development processes is that when you reach the end of the project and roll out the software to users, the project moves from a development phase to an operations and maintenance phase. This requires very different skills. Now, the focus is on helping users with the product, collecting and correcting any bugs and defects, and understanding and documenting users' wishes for new features for the product. This maintenance phase collects information about how solutions are used and how they work in practice. This information can serve as a starting point for a new version of the software. When you are ready to develop a new version, you start again from the first step of the SDLC, analyze the desired improvements and follow the next phases again.
+Regardless of the specific model, a crucial transition occurs after deployment: the project shifts from active development to **operations and maintenance**. This phase demands different skills, focusing on user support, bug resolution, and gathering user feedback for future improvements. Insights gained during maintenance often fuel the start of a new SDLC cycle for the next version. When you are ready to develop that new version, you can return to the planning phase, analyze the desired enhancements, and proceed through the cycle again.
 
-In the past, it could take many months, even years, to complete an entire cycle from planning to deployment and maintenance. In our connected world, we've become faster at completing these phases because online workflows can automatically test and deploy new versions of software in minutes. This new reality is collectively known as _continuous development/continuous integration (CD/CI_) , which makes it possible to complete an entire SDLC much faster for existing products. You've probably experienced this when your computer updates itself day after day - it's a sign that the developers behind the software have gone through the entire SDLC with new features or fixes.
+Historically, completing a full SDLC could take months or years. Today, automation has dramatically accelerated this, especially for updates. Practices collectively known as **_Continuous Development/Continuous Integration (CD/CI)_** enable automated testing and deployment, allowing new software versions or fixes to be released much more rapidly – sometimes multiple times a day. You've likely seen this with frequent updates on your own devices; each update often represents developers completing an SDLC iteration.
 
-The CD/CI approach offers great opportunities in terms of sustainability because we can continuously improve the ESG parameters of products and increasingly optimize them with reactive measures. Conversely, this fast pace also poses the danger that there is no time in everyday life to consider the long-term consequences of the various software improvements, so from a sustainability point of view it is important to incorporate ESG metrics into your SDLC.
+This accelerated CD/CI approach presents both opportunities and challenges for sustainability. On one hand, it allows for continuous improvement of a product's Environmental, Social, and Governance (ESG) parameters through ongoing, reactive optimizations. Conversely, this rapid development pace also carries the risk that **daily pressures leave insufficient time** to fully consider the long-term consequences of software changes. From a sustainability perspective, this makes it crucial to **proactively incorporate ESG metrics and considerations into your SDLC**.
 
-The software developer has a huge impact on the quality of the final digital product, and it doesn't matter if the algorithms implemented are efficient or inefficient, biased or unbiased, or ethical or unethical. These are crucial choices that programmers, developers and software architects make every day in the course of their work.
+Ultimately, the choices made by software developers, programmers, and architects profoundly shape the final digital product's quality and impact. **It matters immensely whether the algorithms you implement are efficient ← or → wasteful, fair ← or → biased, ethically sound ← or → problematic.** These are critical decisions made daily, carrying significant responsibility for the software's broader consequences.
 
-## Software energy efficiency
+## Software Energy Efficiency
 
-Although all sustainability dimensions are relevant to software development, energy efficiency is often mentioned first in this context. Software should be as energy efficient as possible, both to reduce the environmental impact of using the software, but also to save on energy bills. But how do we know if the software is energy efficient or not? On a general level, we can measure the energy consumption of software in two different ways: during development or during use of the software.
+While all sustainability dimensions are relevant to software, **energy efficiency** often receives primary attention. Ideally, software should consume as little energy as possible, reducing both its environmental impact during use and operational energy costs. But how can we determine if software is energy efficient? Generally, measurement approaches fall into two categories: those performed during development and those tracking software in real-world use.
 
-### Trials with accurate energy measurements
+### Method 1: Controlled energy measurement during development
 
-The first method is based on a standard computer system where the power consumption is known. By measuring the extra energy consumed when the software is used, you can get an idea of the energy consumption of the software itself. This measurement method is typically carried out in a controlled laboratory environment while the software is being developed and the developers can take the measurements themselves. The results can be used as documentation of the software's energy profile and as a benchmark for further development. The measurement can also be automated and added to the pipeline in the SDLC .
+One method involves running the software on a standardized hardware system with known baseline power consumption. By meticulously measuring the additional energy drawn while the software performs specific tasks, developers can isolate and quantify the software's direct energy profile under controlled conditions. 
 
-The second method focuses on measuring the energy consumption of systems in production, i.e. systems used in the real world. It is relatively simple to measure the total energy consumption of a system during operation, but much more demanding to isolate how much of this consumption can be attributed to the specific software. On the other hand, this measurement can track the actual energy consumption of the digital solution over time and form the basis for optimization.
+This approach is typically conducted in a lab environment during the development phase. The results provide valuable documentation, establish benchmarks for improvement, and can even be automated within a Continuous Integration pipeline as part of the SDLC.
 
-As the measurements will often only include the computers that run the software itself and not the devices that interact with the software, there will be many unknowns. As a result, there are very different perceptions of how software plays a role in energy consumption and climate impact.
+![Figure Green Metrics](resources/green-metrics.png)
+> Figure - The Green Metrics Dashboard
+> 
+Concrete examples of tools aiming to address these **measurements** include the [_Green Metrics Tool_](https://metrics.green-coding.io/). This is conceived as a collection of tools designed to capture energy and carbon data across different stages of the software lifecycle. As of now, the **suite** includes several modules:
 
-### Pragmatic energy consumption estimates
+* **_ScenarioRunner_**: Measures software energy consumption and related CO₂ estimates for specific execution scenarios.
+* **_Eco CI_**: A plug-in designed for CI/CD pipelines to integrate energy/CO₂ checks into the development workflow.
+* **_CarbonDB_**: Aims to provide a consolidated view of CO₂ emissions broken down by project, tool, or source.
+* **_Power Hog_**: A tool focused on tracking the energy consumption of the local computer running software.
+* **_Cloud Energy_**: Utilizes machine learning models to estimate energy usage specifically for cloud-based workloads.
 
-On the one hand, it is argued that it is difficult or even impossible to scientifically measure the actual power consumption and CO2 emissions of modern software , because the actual power consumption depends on many different parameters that will always vary in reality. Developers rarely have a say in what hardware their software runs on or what energy sources are used to power the software. Nor do they influence the environment in which the software runs (e.g. which versions of hardware or operating systems are used.) Therefore, attempts to give software a standardized energy label would be misleading because it would only provide very rough (and in practice useless) estimates of energy consumption and emissions.
+Other tools in this evolving space **are** also worth mentioning, such as:
 
-Roughly speaking, this is the same problem that we know from electric cars. Manufacturers estimate the energy consumption of electric cars using standardized measurements, but the actual energy consumption of the car can turn out to be very different. A car that should be able to travel 400 km on a charge may use twice as much energy on a winter day in headwinds and uphill and have a real range of 200 km. However, the car's energy consumption is still much easier to estimate than the software's because there is only one system - the car itself. Software can run on many different hardware configurations and networks, so it is much harder to estimate accurate consumption and emissions.
+* [_Greenframe_](https://greenframe.io/): A platform often used for measuring the environmental footprint of frontend web applications during development.
+* [_Scaphandre_](https://github.com/hubblo-org/scaphandre): An open-source agent primarily focused on measuring server-side energy consumption based on CPU activity (notable for its French origins).
+* [_Kepler_ (Kubernetes-based Efficient Power Level Exporter)](https://github.com/sustainable-computing-io/kepler): An open-source project focused on estimating the energy consumption of workloads running within Kubernetes clusters.
 
-On the other hand, there is a more pragmatic approach that believes that environmental impacts can be estimated and reduced by optimizing software code. It is argued that the fewer resources the software itself uses, the less power is needed to run the software and the lower the emissions caused by the software. This assumption will also hold true in the vast majority of cases. As a rule of thumb, the more standardized a software is, the easier it is to determine its actual energy consumption. It can also be said that the more influence we have on how the software runs, the more influence we can have on its energy consumption and greenhouse gas emissions.
+### Method 2: Measuring energy consumption in production
 
-### Optimize the environmental impact of software with a lifecycle analysis
+Alternatively, monitoring can focus on the energy consumption of systems after deployment, tracking their real-world energy use. While measuring the total energy consumption of operational hardware (like a server) is relatively straightforward, accurately attributing portions of that consumption back to a *specific* piece of software running alongside others remains highly challenging. However, this method offers the advantage of tracking the solution's actual energy footprint over time in its real environment, providing data for ongoing optimization efforts.
 
-So it is difficult to determine the exact energy consumption of a given modern software solution, and there are many different parameters that can be optimized to benefit both the environment and the economy. By performing a _Life Cycle Assessment (LCA_) for the software, informed assumptions can be made about the overall environmental impact of the software throughout its life cycle . The LCA should collect data and estimate the expected energy and resource consumption during the software's life cycle phases: development, distribution, use, maintenance and disposal. You can use dedicated LCA tools, such as openLCA, to assess environmental impacts such as CO2 emissions and resource consumption and identify the most significant environmental impacts (openLCA - the Life Cycle and Sustainability Modeling Suite). Another tool that can be used to measure and reduce the environmental impact of software development and operations is the Green Software Foundation's Impact Framework . By following the framework's guidelines, companies can optimize their energy consumption and minimize CO2 emissions from digital solutions (Green Software Foundation 2024b ).
+### Challenges in measurement and standardization
 
-When it comes to the greenhouse gas emissions of software, _the Software Carbon Intensity (SCI) specification_ is a good place to start. The specification is a tool to calculate the carbon intensity of a software application through a standardized methodology. The specification was developed by the Green Software Foundation, an American non-profit organization, and it achieved ISO standard status in 2024 as a standardized protocol for measuring and reducing the carbon footprint of software (Green Software Foundation 2024a ). SCI is already actively used by several companies to automatically measure software products, among other things. Another solution uses the Green Metrics Tool, which attempts to produce standardized and automated energy metrics for software. You can read about this later in the chapter.
+Both approaches face limitations. Measurements often focus solely on the primary computers running the software, potentially excluding the energy used by interacting client devices or intermediary network components, leading to an incomplete picture. These difficulties in obtaining comprehensive and attributable energy data contribute to widely differing perceptions of software's precise role in overall energy consumption and climate impact.
 
-## Ecolabeling of software
+Furthermore, **significant debate exists regarding the feasibility and utility of standardized software energy measurements or labels.** One perspective argues that scientifically accurate measurement of real-world software energy use is difficult, perhaps even impossible. This is because actual consumption depends heavily on variable factors outside the developer's control: the specific hardware it runs on (CPU, memory, peripherals), the energy mix of the local grid supplying the power, and the runtime environment (operating system versions, other running processes). Attempting to create a standardized energy label under these conditions, this argument suggests, could be misleading, providing only rough estimates that may not reflect actual usage patterns accurately.
 
-In Denmark, we do not have a specific energy classification for software, but Germany already has experience with it. The German Blue Angel is an eco-label that exists for many product groups from textiles to electronic products, including routers and data centers, and not least resource and energy efficient software products (Blauer Engel 2020).
+This challenge mirrors, to some extent, the known discrepancies in energy consumption ratings for electric vehicles. Standardized tests provide a baseline, but real-world range can vary dramatically based on driving style, weather, terrain, and load. However, estimating a car's energy use is arguably simpler than software's, as the car is a relatively self-contained system. Software's variability across countless hardware configurations and network paths makes precise, universal energy estimation far more complex.
+### Practical ways to improve software energy efficiency
+
+Since precisely measuring software energy use everywhere is difficult, practical steps are essential to make software use less electricity. A good approach combines two main strategies: **monitoring energy use when possible, and always focusing on efficient code and resource use**.
+
+First, measuring a starting point (**an energy baseline**) and tracking usage over time can be very helpful. Checking energy consumption during development or testing allows developers to see if new software versions perform better or worse and spot any unintended increases in energy use. Energy measurement tools, which can be built into the regular continuous development workflow (like a CI/CD pipeline), can **automate** these checks and guide ongoing efforts to save energy.
+
+Second, and perhaps the most practical approach for everyone, is **focusing on using fewer computer resources, because this usually means using less energy.** Optimizing the software code itself is a key way to reduce environmental impact. The basic principle is solid: software that needs less processing power (fewer CPU cycles, less memory use, fewer data operations, less network activity) often (but not always) requires less electricity to run. This holds true in many real-world situations.
+
+Therefore, 
+- **actively writing efficient, optimized code,**
+- **minimizing data processing,**
+- **reducing the amount of data transferred,**
+- **and selecting lightweight software frameworks and libraries** 
+are direct ways to lower energy consumption and emissions. 
+
+Even if it's hard to know the exact energy savings (because software runs differently in different situations), these good development habits consistently lead to less power-hungry software. As a rule of thumb, the more standardized a software is, the easier it is to determine its actual energy consumption. It can also be said that the more influence we have on how the software runs, the more influence we can have on its energy consumption and greenhouse gas emissions.
+
+### Assessing Software's Impact: LCA and Carbon Intensity
+
+Given the difficulty in precisely measuring the real-world energy consumption of modern software solutions, broader assessment methodologies have to be considered to understand and optimize their environmental footprint. Some key approaches for thhis are Life Cycle Assessment (LCA) and measuring Software Carbon Intensity (SCI).
+
+**_Life Cycle Assessment (LCA)_** provides a holistic view by estimating the overall environmental impact of software across its entire lifecycle. An LCA typically collects data and models expected energy and resource consumption during all phases: development, distribution, use, maintenance, and eventual disposal. 
+
+While complex, this allows for identifying environmental hotspots throughout the software's life. Dedicated LCA software tools, such as the open-source **[openLCA]()** platform, can assist in modeling impacts like CO2 emissions and resource depletion based on available data and established methodologies. Complementing LCA, frameworks like the **Green Software Foundation's Impact Framework** offer structured guidance specifically for reducing the environmental impact during software development and operations ([Green Software Foundation 2024b](https://if.greensoftware.foundation/)).
+
+For a specific focus on operational greenhouse gas emissions, **_the Software Carbon Intensity (SCI) specification_** offers a standardized methodology. Developed by the Green Software Foundation (GSF), SCI calculates the rate of carbon emissions produced per functional unit of a software application (e.g., per user, per API call). This focus on *intensity* allows for comparing the relative carbon efficiency of different software solutions or versions performing the same task. Significantly, the SCI specification achieved international recognition as **ISO/IEC 23896 in 2024**, providing a standardized protocol for measuring software's carbon footprint ([Green Software Foundation 2024a](https://greensoftware.foundation/articles/sci-specification-achieves-iso-standard-status)). Several companies are actively implementing SCI, often integrating its calculation into automated development and monitoring workflows.
+
+## Ecolabeling of Software
+Formal certifications and ecolabels offer one way to assess and communicate the sustainability attributes of software. **The German Blue Angel (Blauer Engel)** is a well-established ecolabel covering numerous product groups, from textiles to electronics, and significantly, it also includes criteria for resource and energy-efficient software products ([Blauer Engel 2020](https://www.blauer-engel.de/en/productworld/software)).
 
 ![Figure 5.2](resources/I_5.2.png)
+**Figure 5.2: The Blue Angel, a German environmental label also applicable to software, signals development focused on sustainability and minimal environmental impact. Its tagline, "Good for me. Good for the environment," highlights potential user and ecological benefits.**
 
-> Figure 5.2 Blue Angel - a German environmental label that can also be awarded to software products. The label signals that the product has been developed with a focus on sustainability and minimal environmental impact. "Good for me. Good for the environment" emphasizes the mutual benefit of the consumer and the environment.
+The label, whose logo is shown in Figure 5.2, defines its energy efficiency requirement in broad terms: *"A software product should provide its functions with a minimum consumption of resources and a minimum energy demand. The resource and energy efficiency of the software product should be maximized."* Developers seeking the label must interpret and document how their product fulfills specific criteria, acknowledging that practical implementation will vary. Overall, the Blue Angel certification for software focuses on three main areas:
 
-The label, whose logo you can see in figure 5.2, defines energy efficiency in general terms as follows: "A software product should provide its functions with a minimum consumption of resources and a minimum energy demand. The resource and energy efficiency of the software product should be maximized." It is up to developers to interpret and document how their product meets these criteria, and in practice this will vary from project to project. Overall, the Blue Angel label takes a low-level approach to the certification of software products and focuses on three main areas that the software must meet to earn the label:
+1.  **Resource and Energy Efficiency**
+    * A minimum hardware requirement must be declared.
+    * Energy consumption estimates must be defined for both sleep mode and typical usage scenarios.
+    * The software must feature built-in energy management that integrates effectively with the operating system.
 
-1. **Resource and energy efficiency**
+2.  **Potential Hardware Lifetime**
+    * Software operation should not prematurely shorten hardware lifespan; it should function effectively on supported hardware for an extended period.
+    * Backward compatibility with previous hardware/OS versions should be maintained for at least five years.
 
-2. A minimum hardware requirement must be declared for the product.
-3. An estimate of energy consumption in sleep mode is defined.
-4. An estimate of energy consumption under a typical usage situation is defined.
-5. The software must have built-in energy management, which must work optimally with the operating system.
+3.  **User Autonomy**
+    * *Data Interoperability:* Users must be able to move their data into and out of the software.
+    * *Transparency:* APIs should follow open standards and be well-documented, allowing integration or replacement with other solutions.
+    * *Continuity:* The software must function reliably and receive necessary security updates for at least five years post-purchase.
+    * *Uninstallability:* Users must be able to completely remove the software without leaving residual traces.
+    * *Offline Functionality:* Core functionality should remain accessible without internet connectivity where feasible.
+    * *Modularity:* Users should ideally be able to disable unwanted features or modules.
+    * *Freedom from Advertising:* The software must not contain embedded advertising.
+    * *Documentation:* Clear documentation regarding the software, license terms, usage, and fulfillment of these autonomy criteria must be provided.
 
-6. **Potential lifetime** **for hardware**
+A key limitation of this label is its primary focus on the **local resource consumption** on the end-user's computer. Therefore, it is most suitable for applications where the majority of computation occurs locally, rather than relying heavily on remote servers or extensive network communication.
 
-7. Software should not reduce the lifespan of the hardware , but instead continue to function on a given hardware for a long time.
-8. Backward compatibility with previous versions must be at least five years.
+Illustrating this, one of the few software products certified with the Blue Angel is **_Okular_**, an open-source desktop document viewer (PDF, epub, etc.) where data  processing only happens on the local computer and not the network ([Hochschule Trier 2022](https://www.umwelt-campus.de/en/forschung/projekte/green-software-engineering/news-details/first-blue-angel-for-software)). Intriguingly, the previously mentioned **_Green Metrics Tool_** has also achieved certification; while it analyzes broader system impacts, its own efficient local operation likely meets the criteria. The tool, offering automated metrics and dashboards, aims to help developers understand and optimize CO2 emissions from digital services.
 
-9. **User autonomy**
-
-a.     Data interoperability - it must be possible to move data to and from the software to other applications.
-
-b.     Transparency of the software product - software APIs must follow open standards and be well documented so that the software can be integrated with or replaced by other solutions.
-
-c.     Continuity of the software product - the software must work securely for at least five years after the time of sale (i.e. it must receive security updates during this period).
-
-d.     Uninstallability - the software must be able to be removed from the computer without a trace.
-
-e.     Offline functionality - the software should remain functional without internet access as far as possible.
-
-f.      Modularity - the software should be modular so that it is possible to turn off unwanted features, for example.
-
-g.     Freedom from advertising - the software must not contain advertising or marketing.
-
-h.     Documentation of the software product, license terms and terms of use.
-
-i.      The software must be provided with documentation of the above conditions, among other things.
-
-The label only looks at the local resource consumption of the computer, so it is only suitable for applications where the vast majority of computing is done on the local computer and not on a remote server. One of the few Blue Angel-labeled software products is the open source program Okular, a desktop application that can display various documents such as PDF, epub and images (Hochschule Trier 2022). Another product that has been certified is the Green Metrics Tool , which helps developers and organizations reduce energy consumption and CO2 emissions from software. It offers automated metrics, dashboards and algorithmic optimization and supports integration into modern workflows with change tracking. The tool is intended to help developers understand and optimize CO2 emissions from digital services.
-
-Ecolabeling and standardization provide developers with good benchmarks in relation to sustainability. We can hope that the future will bring more opportunities to qualify software developers' work with environmental initiatives and sustainability through labeling schemes, standards and best practices. In the meantime, labeling schemes such as the Blue Angel and standards such as the Software Carbon Intensity specification, Web Sustainability Guidelines and SustainableIT Standards can be an inspiration. The latter was developed by a non-profit organization and contains more than 200 guidelines and metrics for sustainable IT, a few of which can also be applied to software development. You can read more about the standard later in this chapter in the section "Optimizing data structures and algorithms".
-
+Ecolabeling and standardization provide valuable benchmarks for developers striving for sustainability. While the landscape is still evolving, it is hoped that more opportunities will emerge to formally recognize sustainable software development through robust labeling schemes, standards, and shared best practices. In the meantime, existing schemes like the Blue Angel, alongside standards such as the **_Software Carbon Intensity (SCI) specification_**, the **_Web Sustainability Guidelines (WSG)_**, and the **_SustainableIT Standards_**, serve as important sources of inspiration and guidance. The latter, developed by a non-profit, offers over 200 guidelines for sustainable IT, many applicable to software development (read more about further details on relevant standardslater in this chapter).
 ## Sustainable system development
 
-Systems development is a discipline that uses proven methods such as waterfall, extreme programming or Scrum to develop IT systems. What these methods have in common is that they span all phases of the SDLC and can influence the entire software development process. Therefore, it is essential that we include the aspects from the Karlskrona Manifesto in all phases of the SDLC and reflect on the sustainability aspects of the system development process.
+Systems development is a discipline that uses proven methods such as the waterfall method, extreme programming or scrum to develop IT systems. What these methods have in common is that they span all phases of the SDLC and can influence the entire software development process. Therefore, it is essential that we include the aspects from the Karlskrona Manifesto in all phases of the SDLC and reflect on the sustainability aspects of the system development process.
 
 In the first chapter, we have already introduced the five sustainability dimensions of the manifesto, and now we will continue with the manifesto's nine principles for sustainable software engineering (sustainable software engineering). Together, these principles form one of the strongest guidelines available in the field of sustainable software engineering:
 
-_1. sustainability is systemic_. Sustainability is never an isolated phenomenon. Systems thinking must be the starting point for the interdisciplinary common ground for sustainability.
+1. ***Sustainability is systemic**. Sustainability is never an isolated property. Systems thinking has to be the starting point for the transdisciplinary common ground of sustainability.*
+   
+2. ***Sustainability has multiple dimensions**. We have to include those dimensions into our analysis if we are to understand the nature of sustainability in any given situation.*
 
-_2. Sustainability has multiple dimensions__.We need to include these dimensions in our analysis if we are to understand the nature of sustainability in a given situation.
+3. ***Sustainability transcends multiple disciplines**. Working in sustainability means working with people from across many disciplines, addressing the challenges from multiple perspectives.*
 
-_3. Sustainability transcends multiple disciplines_. Working with sustainability means working with people across many disciplines and addressing challenges from multiple perspectives.
+4. ***Sustainability is a concern independent of the purpose of the system**. Sustainability has to be considered even if the primary focus of the system under design is not sustainability.*
 
-_4. Sustainability is a consideration that is independent of the purpose of the system_. Sustainability must be considered even if the primary focus of the system is not sustainability.
+5. ***Sustainability applies to both a system and its wider contexts**. There are at least two spheres to consider in system design: the sustainability of the system itself and how it affects sustainability of the wider system of which it will be part.*
 
-_5. Sustainability applies both to a system_ _and its wider contexts_. There are at least two spheres to consider in system design: the sustainability of the system itself, and how it affects the sustainability of the wider system of which it will be a part.
+6. ***Sustainability requires action on multiple levels**. Some interventions have more leverage on a system than others. Whenever we take action towards sustainability, we should consider opportunity costs: action at other levels may offer more effective forms of intervention.*
 
-_6. Sustainability requires action on multiple levels_. Some interventions have more impact on a system than others. Whenever we intervene towards sustainability, we should consider alternatives: can action at other levels offer more effective forms of intervention?
+7. ***System visibility is a necessary precondition and enabler for sustainability design**. The status of the system and its context should be visible at different levels of abstraction and perspectives to enable participation and informed responsible choice.*
 
-_7. System visibility is a necessary precondition that enables sustainability design__._ The status of the system and its context should be visible at different levels of abstraction and perspectives to enable participation and informed, responsible choices.
+8. ***Sustainability requires long-term thinking**. We should assess benefits and impacts on multiple timescales, and include longer-term indicators in assessment and decisions.*
 
-_8. Sustainability requires long-term thinking_. We should assess benefits and impacts on multiple time scales and include long-term indicators in assessments and decisions.
-
-_9. It is possible to meet the needs of future generations without sacrificing the prosperity of the current generation_. Innovation in sustainability can come from separating the needs of today from the needs of tomorrow. By moving away from conflicting language and tradeoff thinking, we can spot and choose solutions that benefit both the present and the future.
+9. ***It is possible to meet the needs of future generations without sacrificing the prosperity of the current generation**. Innovation in sustainability can play out as decoupling present and future needs. By moving away from the language of conflict and the trade-off mindset, we can identify and enact choices that benefit both present and future.* ([The Karlskrona Manifesto for Sustainable Design](https://sustainabilitydesign.org/karlskrona-manifesto/))
 
 These principles form the foundation of this book's entire approach to sustainable digital development. To support your understanding of the first principle of the manifesto, we have expanded on this in chapter 2 on systems thinking. The five dimensions of sustainability from the second principle of the manifesto were introduced in the first chapter of the book and are used throughout the book. The same goes for the eighth principle, which is taken directly from the Brundtland Report's definition of sustainability. The ninth principle represents the optimistic approach to climate change that we have chosen to follow. The remaining principles have not been given full chapters, but all principles permeate the book's approach to sustainable digitalization.
 
@@ -152,7 +173,7 @@ We recommend that you also use the principles as guidelines for your work. Altho
 
 Already in the analysis and planning phase, we can start the work by identifying (or making assumptions about) the sustainability aspects of the system and subsystems. Here you can use the terms and concepts that you read about in chapter 2 on critical systems thinking. Which systems and subsystems can we identify? Where is the boundary between the systems? And how do they interact? What are the inputs and outputs of the systems? What is the context of the systems? What networks can we identify and how do they interact? How will the software and its use evolve over time (decades)? And last but not least: We must also remember to be critical of our own assumptions in order to verify, refine or reject them.
 
-Some of the documents that are typically developed at the start of the SDLC are _requirement specifications_. Here you will typically collect and document functional and non-functional requirements for the digital solution to be developed. Requirements specifications give us a good opportunity to include ESG requirements for the software. For example, you can set requirements that the software must:
+Some of the documents that are typically developed at the start of the SDLC are _requirement specifications_. Here you will typically collect and document **functional and non-functional** requirements for the digital solution to be developed. Requirements specifications give us a good opportunity to include ESG requirements for the software. For example, one can set requirements that the software must:
 
 - Be written in programming languages and frameworks known for their energy efficiency and low environmental impact.
 
@@ -170,7 +191,7 @@ Some of the documents that are typically developed at the start of the SDLC are
 
 If the software can actually encourage users to make more sustainable choices, it could go a long way. Imagine TikTok being able to suggest that you've watched enough funny videos for today and that you should go for a walk or visit a friend instead (the algorithm should of course suggest a relevant and personalized health-promoting activity that you will enjoy as much as the funny videos). Or imagine that your operating system could have a feature that tracks the lifecycle of your hardware and gives you instructions on how you can actually use your laptop for a few more years or how you can send it for responsible recycling .
 
-Building sustainability into your applications requires careful _ethical considerations_, and often business considerations will overshadow these efforts. TikTok is probably not interested in stopping its users from using the platform, and hardware manufacturers can't sell new devices if we keep using the old ones for too long. Developers also want to monetize their software, and again, only their ethical and moral compass can guide them to balance between economics and sustainability.
+	Building sustainability into your applications requires careful _ethical considerations_, and often business considerations will overshadow these efforts. TikTok is probably not interested in stopping its users from using the platform, and hardware manufacturers can't sell new devices if we keep using the old ones for too long. Developers also want to monetize their software, and again, only their ethical and moral compass can guide them to balance between economics and sustainability.
 
 You can make a difference in the system development process if you manage to set a sustainability vision for the system or the entire development process. In addition to the topics mentioned above, you can also ask yourself the following questions:
 
@@ -188,6 +209,8 @@ You can make a difference in the system development process if you manage to set
 
 - What stories can we tell that show that software is good for the world in the long run?
 
+☺️ Fortsat her
+---
 ### Green coding , programming and prompting
 
 After the initial stages of the SDLC, the practical development work, where the solution is programmed, also involves a number of considerations that can promote sustainable digital development. For example, which programming languages to use.

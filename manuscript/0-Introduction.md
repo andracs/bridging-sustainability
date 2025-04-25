@@ -30,10 +30,38 @@
 18. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 19.  JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
 
-# Guide for  sustainable digital
+**Guide for  sustainable digital**
 -The computer professional's guide to social and planetary care
 -On how to work sustainably with IT
 
+**DE PRAKTISKE**
+
+- Greening the stack: Digital sustainability from code to cloud  - Principles and practices for tech practitioners
+  
+- Greening the stack: Digital sustainability from code to cloud  - A comprehensive guide for tech practitioners
+  
+- Actionable digital sustainability - A guide for IT professionals navigating the twin transition
+
+- Principles and practices for sustainable IT - A handbook for developers, designers, and IT professionals
+  
+- Implementing green and responsible tech - A practical guide for the modern IT professional
+  
+
+
+**DEM MED TWIN TRANSITION (EU FOKUS)**
+
+- The Twin Transition Toolkit - Implementing Digital Sustainability in Practice
+  
+- Sustainable Digitalization - Principles and Practices for IT Professionals
+
+- Digital sustainability for IT professionals - Principles, practices, and actionable Strategies
+  
+- The Sustainable IT Professional's Handbook  Integrating Green Principles into Your Daily Work
+- Principles and Practices for Sustainable IT
+  
+- **The Twin Transition Toolkit:** Implementing Digital Sustainability in Practice.
+
+- Actionable Digital Sustainability - A Practical Handbook for IT Professionals
 # Introduction
 
 **Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure in our time.**

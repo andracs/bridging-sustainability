@@ -7,7 +7,7 @@
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 
-In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability ask of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
+In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability asks of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
 ## Why is sustainability urgently important right now?
 
 Let's go through some substantial theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
@@ -26,7 +26,7 @@ The Anthropocene is the name of en epoch, beginning in the 20th century, in whic
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
 
-This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The Anthropocene Age heralds new times where humanity is not only responsible for its own future, but also holds the future of the entire planet in its hands.
+This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The anthropocene age heralds new times where humanity is not only responsible for its own future, but also holds the future of a livable planet in its hands.
 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
 
@@ -34,24 +34,24 @@ The human emission of greenhouse gases is one example, and the consequences for 
 ### Sixth  mass extinction is on the horizon 🦖
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
-The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the Anthropocene Age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
+The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the anthropocene age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
 
 {id: great-acceleration} 
 ### 🏎️ We are part of the Great Acceleration 
 
 ![The Great Acceleration](resources/I_1.1.png "The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.")
 
-Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and  we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
+Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
 
-This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past many thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will become seriously out of balance if we continue to accelerate development.
+This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will veer out of balance if we continue to accelerate development.
 
 {id: planetary-boundaries} 
 ### We are pushing the planets boundaries 🌎 
-The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University that describes the nine major planetary subsystems that regulate the Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
+The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University, describing the nine major planetary subsystems that regulate Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
 
 Scientists have estimated limits for Earth's planetary subsystems in which humanity can continue to evolve and thrive for generations to come, without causing irreparable damage to Earth as we know it. If the limits are exceeded, the systems may become unbalanced, leading the planet to a new and different reality. 
 
-Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect these limits as soon as possible.
+Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect the limits as soon as possible.
 
 {id: climate-change} 
 ### We are the climate change 🌪️
@@ -64,7 +64,7 @@ With the help of scientists who continuously monitor global climate change, a nu
 {id: digital-transformation} 
 ### People in information tehcnology and digital services are both the villains and the heros 📡
 
-Information technology and digital transformation surprise us every day with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
+Information technology and digital transformation are phenomena that surprise us daily with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
 
@@ -157,21 +157,21 @@ It is clear that we cannot fully guard ourselves against all the unintended futu
 
 However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.
 
-We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working toward sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
+We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working towards sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
 
 {id: green-sustainability}
 ### Green sustainability
-Sustainability has many facetts, e.g technical, economical, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
+Sustainability has many facets, e.g technical, economical, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
 
-It is also the most visible aspect of sustainability at the moment, as climate change is on the aganda in many parts of the world. An example of a company actively working with green sustainability is the Danish window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
+It is also the most visible aspect of sustainability at the moment, as climate change is on the agenda in many parts of the world. An example of a company actively working with green sustainability is the Danish window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
 
 They announced in 2023 that they will fund forestry projects to capture carbon equivalent to its emissions from its founding in 1941 until 2041 ([Petersson 2023](https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting)). The company also plans to reduce its operational carbon emissions by 100% by improving energy efficiency and switching to renewable electricity.
 
 Velux's plan is both forward-thinking and compassionate. There is no law requiring companies to compensate for their past emissions or to become carbon neutral by 2031, but Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and offset equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
 
-While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies can also benefit from adopting. For example can a digital hosting company compensate for the greenhouse gas emissions they have emitted over time - since their startup.
+While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies could benefit from adopting. For example a digital hosting company could compensate for the greenhouse gas emissions they have emitted over time - since their startup.
 
-Are Velux's initiatives really having an impact on a global scale or are they just a drop in the ocean? Velux's initiatives can be seen as an ambitious contribution in the right direction, and altough they represent a minor change in the global clime, if all contributed as much, it could change the global course.
+Are Velux's initiatives really having an impact on a global scale or are they just a drop in the ocean? Velux's initiatives can be seen as an ambitious contribution in the right direction. Although they represent a minor change in the global climate, it could change the global course if everybody contributed in equal scale.
 
 If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a truly "sustainable company". In order to achieve that, the company needs to go full circular on their activities, and address other dimensions of sustainability before they can call themself truly sustainable.
 
@@ -181,9 +181,9 @@ When a company sends out marketing communications about its green initiatives, t
 
 In the case of Velux, is this a genuine environmental initiative with significant impact, or is it greenwashing? We can hope for the first, but only time will tell.
 
-There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The European Comission is working on regulation which should hinder companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)). There are also companies that deliberately avoid talking about their environmental improvement activities for fear of being perceived as greenwashers. This behavior is called greenhushing.
+There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The European Comission is working on regulation to  hinder companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)). There are also companies that deliberately avoid talking about their environmental improvement activities in common terms for fear of being perceived as greenwashers, instead they use synonyms that create positive connotatons in consumers' minds. This behavior is called greenhushing.
 #### How to avoid greenwashing?
-Fortunately, there are some benchmarks that can help us determine if a company or product is truly green or if it is simply "greenwashed". One of these indicators is a company's (manufacturer's) documentation of environmental and social considerations, such as an ESG report. 
+Fortunately, there are some benchmarks that can help us determine if a company or product is truly green or if it is simply "greenwashed". One of these indicators is a company's (manufacturer's) documentation of environmental and social considerations, an ESG report e.g.. 
 
 Every year, in an ESG report, companies publish information on how they apply up-to-date (and not outdated) sustainability measures in their operations and development. When reading ESG reports, it's essential to examine whether the company's environmental actions are in proportion to its activities or products. Does the scale of the company's sustainability initiatives match the environmental problems caused by the company's operations? If the initiatives are too vague, frivolous and disproportionate, it is greenwashing.
 

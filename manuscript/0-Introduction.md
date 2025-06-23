@@ -64,17 +64,17 @@
 - Actionable Digital Sustainability - A Practical Handbook for IT Professionals
 # Introduction
 
-**Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure in our time.**
+**Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure.**
 
 We are consuming earthly resources beyond our means and beyond the planet's limits. It is now up to us to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and habits in order to drive positive change in the world.*
 
-If you work with digital technologies and you are ready to expand your knowledge of matters in the intersection of digital practice and sustainability, then this book is for you.  
+If you work with digital technologies and you are ready to expand your knowledge about digital practices and sustainability, then this book is for you.  
 
 It’s a must-read for anyone curious about technology's impact on the environment and society and the opportunities for digital sustainability. The book offers insights into current concepts and tools for working with practical digital sustainability. It will support your professional development and help anchor your future practices in more sustainable approaches. 
 
-You may be climate optimist who believes that technological and social progress will lead us toward a more sustainable world, or a climate pessimist, concerned about the future. You may be a realist preparing for deep adaptation, or an activist promoting environmentalism for a better future. Whether you’re a sustainability advocate or a skeptic, a realist or an activist, we aim to equip you to be able to engage professionally in digital sustainability projects and make a positive impact.
+You may be a climate optimist who believes that technological and social progress will lead us toward a more sustainable world, or a climate pessimist, concerned about the future. You may be a realist preparing for deep adaptation, or an activist promoting environmentalism for a better future. Whether you’re a sustainability advocate or a skeptic, a realist or an activist, we aim to equip you to be able to engage professionally in digital sustainability projects and make a positive impact.
 ### Digital development, digital sustainability, twin transition, sustainable digital 
-The twin transition refers to the idea that two distinct but intertwined transitions are taking place in society: the digital transition and the green transition. Society is moving from analog to digital, and from unsustainable to sustainable. One is optional, the other is essential: we _can_ live simple lives without digital technologies, but we _must_ turn development in a sustainable direction.
+The twin transition refers to the idea that two distinct but intertwined transitions are taking place in society: the digital transition and the green transition. Society is moving from analogue to digital, and from unsustainable to sustainable. One is optional, the other is essential: we _can_ live simple lives without digital technologies, but we _must_ turn development in a sustainable direction.
 
 Digital technology is far from sustainable right now - and it won't become sustainable anytime soon. It's depleting the earth's resources, polluting the environment, and affecting its users in negative ways. Still, there _is_ a path to sustainable digital practices, even if it's a long and challenging one. We must begin to work more sustainably today and embrace daily practices that push development in increasingly sustainable directions. Only then, perhaps decades or even centuries from now, can we hope to achieve anything resembling sustainable digital technology.
 
@@ -88,7 +88,7 @@ Digitalization and the fight against climate change is an rapdily evolving field
 ## Chapter overview 
 _Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can be read independently.
 
-In a teaching context, educators can combine various chapters to form the basis of a course or training program. However you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
+In a teaching context, educators can combine various chapters to form the basis of a course or training program. No matter how you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
 ### From theory to practice and perspectives
 The book is divided into three main parts and a practical appendix. The first part of the book consists of three chapters that together form a theoretical foundation for sustainability work. This part introduces a number of key concepts in both information sustainability and technology.
 
@@ -116,5 +116,5 @@ The third and final part of the book discusses digital sustainability from some 
   
 - **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [Link to Codeberg will be here](Codeberg). Here you will also find an overview of various online resources that support this book.
 
-📖 We hope, that the following chapters  to inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
+📖 We hope, that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
 ## Happy reading!

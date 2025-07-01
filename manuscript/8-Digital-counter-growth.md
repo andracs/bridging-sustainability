@@ -2,6 +2,8 @@
 # TODO
 
 - Sustainability data /opdatere med europæiske low-tech alternativer 
+- Esroom → Plus singularity
+  
 # 8. Digital degrowth
 It is common for visions of the future of IT to be framed within a growth narrative, i.e. the idea of constantly increasing access to financial resources, materials for digital production and innovative ideas. Many scenarios for the future of IT are based on two very central notions (and figures of thought), both of which are based on an assumed increase in digital potential. Either in the form of expectations of increased computing power or in the form of expectations of increased innovation, understood as the number of new products, new services, new technologies that the competitive market of the future will produce. Both contribute to the perception that future computing power will be faster, more efficient and will surprise us with new solutions that we currently have only limited and poor ideas about. Both are based on a historically real development and a correspondingly valid experience that the development curve in IT has been moving steeply upwards for many decades.
 In this chapter, we focus on different approaches to IT development that think alongside, outside or against that narrative, or that think IT development independently of those logics. We gather these approaches here under a counter-growth heading. Counter-growth (from the English "degrowth ") is the umbrella category for a number of sustainability initiatives in other domains, such as recycling , permaculture, upcycling, etc. In IT, these approaches share a focus on repairing existing equipment, on minimal use of energy and processing power and apply principles that are compatible with being an ethical consumer or producer.

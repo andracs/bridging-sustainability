@@ -282,7 +282,7 @@ Eliminating the use of fossil fuels and the resulting greenhouse gas emissions i
 
 Take a gasoline-powered car as an example. We can easily observe its direct emissions: we fill the car with fossil fuel, it burns, and CO2 is released along with other gases through the exhaust pipe. But the car is responsible for far more emissions than just those from combustion. Its indirect emissions include those generated during the production, transportation and eventual disposal of the vehicle. In fact, these indirect emissions can account for a significant portion of the car's total environmental impact.
 
-![Scopes](I_1.7.png "Overview of scope 1, 2 and 3 emissions: direct and indirect greenhouse gas emissions in the company's value chain, as defined by the GHG Protocol. Source: Reproduced with permission from Climaider.com.)
+![Scopes](I_1.7.png "Overview of scope 1, 2 and 3 emissions: direct and indirect greenhouse gas emissions in the company's value chain, as defined by the GHG Protocol. Source: Reproduced with permission from Climaider.com.")
 
 When calculating the CO2 emissions of a product, service, or company, we can categorize the emissions using the Greenhouse Gas Protocol (GHG Protocol). This framework helps quantify both direct and indirect emissions resulting from a company's activities. The GHG Protocol distinguishes between three types of CO2 emissions (Confederation of Danish Industry, 2022), as shown in Figure 7: 
 
@@ -294,7 +294,7 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 
 The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in Figure 8, there should be a steady decline in emissions year after year.
 
-![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.)
+![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
 The ultimate goal is to reach zero CO2 emissions within a few decades, and even than we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
 
 {id: climate-optimisim-pessimism}

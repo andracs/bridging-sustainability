@@ -7,7 +7,7 @@
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 
-In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability ask of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
+In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability asks of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with the digital aspects of sustainability.
 ## Why is sustainability urgently important right now?
 
 Let's go through some substantial theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
@@ -26,7 +26,7 @@ The Anthropocene is the name of en epoch, beginning in the 20th century, in whic
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
 
-This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The Anthropocene Age heralds new times where humanity is not only responsible for its own future, but also holds the future of the entire planet in its hands.
+This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The anthropocene age heralds new times where humanity is not only responsible for its own future, but also holds the future of a livable planet in its hands.
 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
 
@@ -34,24 +34,24 @@ The human emission of greenhouse gases is one example, and the consequences for 
 ### Sixth  mass extinction is on the horizon 🦖
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
-The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the Anthropocene Age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
+The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the anthropocene age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
 
 {id: great-acceleration} 
 ### 🏎️ We are part of the Great Acceleration 
 
 ![The Great Acceleration](resources/I_1.1.png "The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.")
 
-Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and  we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
+Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
 
-This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past many thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will become seriously out of balance if we continue to accelerate development.
+This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will veer out of balance if we continue to accelerate development.
 
 {id: planetary-boundaries} 
 ### We are pushing the planets boundaries 🌎 
-The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University that describes the nine major planetary subsystems that regulate the Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
+The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University, describing the nine major planetary subsystems that regulate Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
 
 Scientists have estimated limits for Earth's planetary subsystems in which humanity can continue to evolve and thrive for generations to come, without causing irreparable damage to Earth as we know it. If the limits are exceeded, the systems may become unbalanced, leading the planet to a new and different reality. 
 
-Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect these limits as soon as possible.
+Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect the limits as soon as possible.
 
 {id: climate-change} 
 ### We are the climate change 🌪️
@@ -64,7 +64,7 @@ With the help of scientists who continuously monitor global climate change, a nu
 {id: digital-transformation} 
 ### People in information tehcnology and digital services are both the villains and the heros 📡
 
-Information technology and digital transformation surprise us every day with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
+Information technology and digital transformation are phenomena that surprise us daily with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
 
@@ -157,21 +157,21 @@ It is clear that we cannot fully guard ourselves against all the unintended futu
 
 However, when it comes to the long-term risks we can identify, we have a moral obligation to act. This is especially true in the area of sustainability, where we must accept that we can never fully control the future. Even if we plan and execute our activities carefully, there will always be unforeseen difficulties - such as environmental, social or economic challenges - that can negatively impact the sustainability of our projects.
 
-We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working toward sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
+We must be able to live with the realization that the world around us can be influenced and shaped to some degree, but never completely controlled. This unpredictability should not be seen as an obstacle, but as a fundamental premise for working towards sustainable solutions. Despite our best efforts, the real world can always surprise us - both positively and negatively.
 
 {id: green-sustainability}
 ### Green sustainability
-Sustainability has many facetts, e.g technical, economical, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
+Sustainability has many facets, e.g technical, economical, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
 
-It is also the most visible aspect of sustainability at the moment, as climate change is on the aganda in many parts of the world. An example of a company actively working with green sustainability is the Danish window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
+It is also the most visible aspect of sustainability at the moment, as climate change is on the agenda in many parts of the world. An example of a company actively working with green sustainability is the Danish window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
 
 They announced in 2023 that they will fund forestry projects to capture carbon equivalent to its emissions from its founding in 1941 until 2041 ([Petersson 2023](https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting)). The company also plans to reduce its operational carbon emissions by 100% by improving energy efficiency and switching to renewable electricity.
 
 Velux's plan is both forward-thinking and compassionate. There is no law requiring companies to compensate for their past emissions or to become carbon neutral by 2031, but Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and offset equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
 
-While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies can also benefit from adopting. For example can a digital hosting company compensate for the greenhouse gas emissions they have emitted over time - since their startup.
+While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies could benefit from adopting. For example a digital hosting company could compensate for the greenhouse gas emissions they have emitted over time - since their startup.
 
-Are Velux's initiatives really having an impact on a global scale or are they just a drop in the ocean? Velux's initiatives can be seen as an ambitious contribution in the right direction, and altough they represent a minor change in the global clime, if all contributed as much, it could change the global course.
+Are Velux's initiatives really having an impact on a global scale or are they just a drop in the ocean? Velux's initiatives can be seen as an ambitious contribution in the right direction. Although they represent a minor change in the global climate, it could change the global course if everybody contributed in equal scale.
 
 If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a truly "sustainable company". In order to achieve that, the company needs to go full circular on their activities, and address other dimensions of sustainability before they can call themself truly sustainable.
 
@@ -181,9 +181,9 @@ When a company sends out marketing communications about its green initiatives, t
 
 In the case of Velux, is this a genuine environmental initiative with significant impact, or is it greenwashing? We can hope for the first, but only time will tell.
 
-There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The European Comission is working on regulation which should hinder companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)). There are also companies that deliberately avoid talking about their environmental improvement activities for fear of being perceived as greenwashers. This behavior is called greenhushing.
+There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The European Comission is working on regulation to  hinder companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)). There are also companies that deliberately avoid talking about their environmental improvement activities in common terms for fear of being perceived as greenwashers, instead they use synonyms that create positive connotatons in consumers' minds. This behavior is called greenhushing.
 #### How to avoid greenwashing?
-Fortunately, there are some benchmarks that can help us determine if a company or product is truly green or if it is simply "greenwashed". One of these indicators is a company's (manufacturer's) documentation of environmental and social considerations, such as an ESG report. 
+Fortunately, there are some benchmarks that can help us determine if a company or product is truly green or if it is simply "greenwashed". One of these indicators is a company's (manufacturer's) documentation of environmental and social considerations, an ESG report e.g.. 
 
 Every year, in an ESG report, companies publish information on how they apply up-to-date (and not outdated) sustainability measures in their operations and development. When reading ESG reports, it's essential to examine whether the company's environmental actions are in proportion to its activities or products. Does the scale of the company's sustainability initiatives match the environmental problems caused by the company's operations? If the initiatives are too vague, frivolous and disproportionate, it is greenwashing.
 
@@ -197,9 +197,9 @@ One of the most important concepts in sustainability is ***ecology*** and ***eco
 
 Ecosystems are the basis of all life on Earth, and without them we as humans cannot survive. We are part of the ecosystem whether we like it or not. Without the biosphere we cannot exist as humans. Every place on earth has it's more or less unique ecosystem, and we have an obligation to protect it for future generations. 
 
-We ourselves are ecosystems: We are hosts for the bacteria that live on us, in us, and without which we cannot live well (if we can live at all). It is essential to be able to think in systems, especially ecological systems, when working with digital sustainability, because ecology and understanding the interconnectedness of ecosystems provides useful knowledge about how our actions affect the environment on a systemic level.
+We ourselves are ecosystems: We are hosts for the bacteria that live on us, in us, and without which we cannot live well (if we can live at all). It is essential to be able to think in systems, especially ecological systems, when working with digital sustainability. Ecology and understanding the interconnectedness of ecosystems provides useful knowledge about how our actions affect the environment on a systemic level.
 
-Some of the systemic principles of ecology can be paralleled in information technology as both ecosystems and IT systems can be understood with a systemic approach. Also in the IT business, we sometimes talk about digital ecosystems, where an intertwined network of technology, companies and people thrive together in lously cuopled networks. 
+Some of the systemic principles of ecology can be paralleled in information technology as both ecosystems and IT systems can be understood with a systemic approach. In the IT business, we sometimes talk about digital ecosystems, where an intertwined network of technology, companies and people thrive together in lously coupled networks. 
 
 Just as some plants cannot reproduce without the insects that pollinate them, there are technologies that require cross-pollination. For example, the Android smartphone operating system cannot thrive without its own digital ecosystem. What this means is that Android would not be the same without the many types of phones, phone manufacturers, networks, applications, and users that make up the product's unique ecosystem. Android smartphones would lose essential features without the many developers who provide millions of applications for the phones.
 
@@ -221,7 +221,7 @@ As nothing is infinite on earth, we have to innovate circular uses of energy and
 ### The flow of energy and materials
 Although our society has access to plenty of energy and materials from many different sources on the planet, all our resources are finite and we are reaching our planetary limits. In the future, we will have no more to extract from the planet, nor can we afford to pollute more. Therefore, in the name of sustainability, we must be efficient and sustainable when using the resources available to us.
 
-But how can it be done? Let's identify some concepts about energy and materials that are essential to our approach to sustainable digital.
+But how could that be done? Let's identify some concepts about energy and materials that are essential to our approach to sustainable digital.
 
 ![Energy can be transformed but not disappear.](I_1.4.png "The sun's thermal energy is converted through a chain of processes - the wind's kinetic energy, the wind turbine's mechanical energy and then electrical energy - into calculations and output in the computer. The computer outputs the energy as thermal energy, which often requires additional energy to cool the electronic components. A circular approach to energy consumption can reduce energy waste and improve sustainability.")
 
@@ -255,11 +255,11 @@ The amount of water is essentially the same in the system - no new water is adde
 
  ![Data center](I_1.5.png "Data centers can operate sustainably by using renewable energy, reusing waste heat and ensuring hardware and materials are recycled. Circular solutions reduce resource consumption and contribute to a more sustainable future.")
  
-Life on Earth is based on circular processes, as shown in Figure 5. For thousands of years, our ancestors followed the rhythm of nature: planting, fertilizing, harvesting, and beginning the cycle again year after year. Not all production was circular, but with fewer people on the planet, natural resources such as water, forests, oil, and iron seemed inexhaustible. New supplies could always be found. Today, however, those supplies are under serious pressure. The human population has grown, and we are consuming more of the Earth's resources at a rate that is pushing us toward planetary boundaries.
+Life on Earth is based on circular processes, as shown in Figure 5. For thousands of years, our ancestors followed the rhythm of nature: planting, fertilizing, harvesting, and beginning the cycle again year after year. Not all production was circular, but with fewer people on the planet, natural resources such as water, forests, oil, and iron seemed inexhaustible. New supplies could always be found. Today, however, those supplies are under serious pressure. The human population has grown, and we are consuming more of the Earth's resources at a rate that is pushing us toward and past planetary boundaries.
 
 We have good reason to fear that we will run out of more and more resources if we do not improve our ability to develop new technologies and business models based on circular processes, where energy and materials are reused and recycled from raw materials. In digital practice, this could be as simple as using renewable energy or ensuring that all e-waste is sent to companies that can effectively recycle it. In theory, the vast majority of e-waste can be recycled.
 
-Look to nature for inspiration when designing digital products. One of the most effective ways to create sustainable solutions is to design cyclical systems where energy and materials are repeatedly recycled without being lost or discarded. In other words, sustainable processes are circular, -they can be repeated many times without generating significant amounts of waste or wasted energy. Working with sustainability means designing the best possible circular processes.
+Look to nature for inspiration when designing digital products. One of the most effective ways to create sustainable solutions is to design cyclical systems where energy and materials are repeatedly recycled without being lost or discarded. In other words, sustainable processes are circular, they can be repeated many times without generating significant amounts of waste or wasted energy. Working with sustainability means designing the best possible circular processes.
 
 {id: greenhouse-gases}
 ### Greenhouse gases (GHG) and climate change
@@ -274,7 +274,7 @@ Unfortunately, all the evidence points to global warming as a serious threat to 
 
 Global warming doesn't just mean higher average temperatures; it also means that weather is becoming more extreme, unpredictable, and unstable. We're already experiencing more frequent and intense weather events because of the excess CO2 we've already released into the atmosphere. If we are to prevent this from getting worse, we must drastically reduce emissions - ideally within the next decade ([IPCC, 2023](https://www.ipcc.ch/report/ar6/syr/)). This urgent goal must influence development in all sectors - including IT.
 
-Fortunately, there is hope and progress on the horizon. Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly, and the UN  in 2023 formally recognized greenhouse gas emissions as a global problem requiring global solutions.
+Fortunately, there is hope and progress on the horizon. Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly, and the UN in 2023 formally recognized greenhouse gas emissions as a global problem requiring global solutions.
 
 {id: emissions}
 ### Direct and indirect emissions (scope 1, 2 and 3.)
@@ -295,7 +295,7 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in Figure 8, there should be a steady decline in emissions year after year.
 
 ![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.)
-The ultimate goal is to reach zero CO2 emissions within a few decades, and even than we might have to bind additional CO2 from the atmosphere. The Europes growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
+The ultimate goal is to reach zero CO2 emissions within a few decades, and even than we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
 
 {id: climate-optimisim-pessimism}
 ### Climate pessimism and climate optimism
@@ -307,12 +307,12 @@ Danes want to maintain their standard of living as much as possible, but they ar
 
 It is also difficult to point to single actions that can combat the climate crisis, but climate optimists would say that it is possible to change the world and implement the green transition for the benefit of most people (Kirkegaard 2024). This would involve phasing out fossil fuels in favor of renewable energy sources and reducing greenhouse gases in the atmosphere to an acceptable level.
 
-The climate pessimists, on the other hand, would expect that society as we know it today will collapse within a few decades, and that radical global changes will be needed to best weather the catastrophe. Jem Bendell has presented a theory about this scenario, which he calls *deep adaptation* ([Bendell 2017](https://jembendell.com/2019/05/15/deep-adaptation-versions/)). He believes that the global response to climate change is insufficient and that we are heading towards a collapse of society as we know it today. The theory of deep adaptation describes how we should manage the transition from our current society to the one that follows. He points to four key themes:
+The climate pessimists, on the other hand, expect that society as we know it today will collapse within a few decades, and that radical global changes will be needed to best weather the catastrophe. Jem Bendell has presented a theory about this scenario, which he calls *deep adaptation* ([Bendell 2017](https://jembendell.com/2019/05/15/deep-adaptation-versions/)). He believes that the global response to climate change is insufficient and that we are heading towards a collapse of society as we know it today. The theory of deep adaptation describes how we ought to manage the transition from our current society to the one that follows. He points to four key themes:
 
 - **Resilience:** Focusing on preserving what we value despite climate change; developing communities that are self-sufficient in energy, food and health.
-- **Relinquishment:** Encourages us to give up aspects of our lives that are unsustainable. For example, giving up fossil fuel-dependent lifestyles, abandoning vulnerable coastal infrastructure.
+- **Relinquishment:** Encouragement to give up aspects of our lives that are unsustainable. For example, giving up fossil fuel-dependent lifestyles, abandoning vulnerable coastal infrastructure.
 - **Restoration:** Proposing to revive sustainable practices and systems from the past and contribute to more nature and more resilient ecosystems.
-- **Reconciliation:** We must be ready to make peace with the changes and losses that climate collapse brings.
+- **Reconciliation:** Preparing to make peace with the changes and losses that climate collapse brings.
 
 Although we cannot predict the future with certainty, Bendell's "deep adaptation" scenario seems a plausible possibility. Whether Bendell's theory is pessimistic or realistic is debatable, but the implication is the same as that of climate optimists: we need to create rapid, fundamental systemic changes in society and the way we live and work.
 
@@ -351,7 +351,7 @@ In the following sections, we explore a range of perspectives and methodologies 
 ### Economic growth and sustainability
 It is a guiding principle of economics that growth is good. Companies can make more profit, more jobs are created and more taxes are collected when the economy grows. If there is no economic growth in a country, alarm bells go off. It's time to tighten belts, make cuts and shed jobs for lack of funding - and hurry to get out of the downward spiral of recession. And the danger is real, there are many examples in history where a sustained recession has caused countries to go bankrupt, resulting in severe social problems.
 
-Most countries' economic policies aim for the highest possible economic growth year after year, it will make the country  be richer and there will be more money to run society. The problem is that if you only think about next year's or next quarter's growth, you're not thinking long-term - and you're not thinking sustainably at all. Instead, you are only amplifying the great acceleration, which leads to us outgrowing the planetary boundaries.
+Most countries' economic policies aim for the highest possible economic growth year after year, it will make the country richer and there will be more money to run society. The problem is that if you only think about next year's or next quarter's growth, you're not thinking long-term - and you're not thinking sustainably at all. Instead, you are only amplifying the great acceleration, which leads to us outgrowing the planetary boundaries.
 
 It could be said that the traditional understanding of economic growth stands in the way of sustainable development in society. In a 2021 briefing, the European Environment Agency writes that: *"It is unlikely that a long-lasting, absolute decoupling of economic growth from environmental pressures and impacts can be achieved at the global scale; therefore, societies need to rethink what is meant by growth and progress and their meaning for global sustainability".* ([European Environment Agency 2021](https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives))
 
@@ -390,7 +390,7 @@ The table below illustrates a number of examples of themes which can be included
 | Biodiversity effects                                | User influence                                                                    | Collaboration with suppliers and buyers                |
 These non-financial indicators measure the "soft" values of a company, which are often put under the umbrella term ESG (Environment, Social, Governance). The concept of ESG has gained traction as society increasingly acknowledges that companies carry responsibilities extending beyond profit, growth, and employment. Companies are increasingly being held accountable for their direct and indirect climate and environmental impact, their efforts in relation to working conditions, gender equality and community relations. Not only are their customers making stricter demands, but there is also more and more sustainability regulation both nationally, from the EU and globally. A company's ESG efforts can ensure, that the company can live up to the expectations of the outside world in relation to the environment, society and corporate governance.
 
-- **Environment** in ESG covers the company's actions in relation to the environment and climate.
+- **Environment** covers the company's actions in relation to the environment and climate.
 - **Social** refers to social aspects such as gender equality, working conditions and human rights.
 - **Governance** refers to responsible, legal and ethical corporate governance, where the company's top management must demonstrate that they can not only manage the company's finances, but also its business ethics, risk management and benefit to society.
 
@@ -412,7 +412,7 @@ Digital development often creates a lot of value because it can streamline many 
 
 The **rebound effect** is the name given to the phenomenon that efficiency improvements can lead to increased consumption. In other words, making a technology more efficient, for example, is not sustainable in itself, as the efficiency improvement leads to increased consumption. You can see this phenomenon play out in many contexts: For example, the dramatic increase in access to storage space has not led to us using less storage to store our images, videos and texts, but instead it lead to increasing the resolution of the images we take, filming more and saving more documents.
 
-The rebound effect is also known as **Jevon's Paradox**. William Stanley Jevon (1835-82) studied energy economics during his time and it was with the increasing availability of coal that he observed that the presence of coal increased energy consumption - instead of replacing previously inefficient energy sources (fires). *"It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."* he wrote in The Coal Question in 1865. It's a somewhat frustrating fact that our prowess in developing new sustainable forms of energy has added our consumption instead of replacing less sustainable energy sources. Jevon's paradox or the rebound effect can be a powerful key to interpreting the lack of sustainability effects, even in the face of impressive digital innovations.
+The rebound effect is also known as **Jevon's Paradox**. William Stanley Jevon (1835-82) studied energy economics during his time and it was with the increasing availability of coal that he observed that the presence of coal increased energy consumption - instead of replacing previously inefficient energy sources (fires). *"It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."* he wrote in The Coal Question in 1865. It's a somewhat frustrating fact that our prowess in developing new sustainable forms of energy has added our consumption instead of replacing less sustainable energy sources. Jevon's paradox or the rebound effect can be a powerful key to interpreting the lack of sustainability effects, even when witnessing impressive digital innovations.
 
 ## Societal - and individual - aspects of sustainability
 We have now covered a wide range of sustainability concepts and explored various aspects of sustainable development. We have examined the foundation for sustainability in terms of energy and material cycles, and we have discussed the role of companies and organizations through frameworks like ESG and CSR. Now, we turn our attention to the societal and individual dimensions of sustainability. 
@@ -472,12 +472,12 @@ Sustainability is not just about the environment and society, it also has many l
 In the spirit of sustainability, it is therefore essential that companies also focus on the well-being of their employees, both on a day-to-day basis and in the long term. A sustainable labor market is characterized by parameters such as:
 
 - A salary that allows for a good life.
-- A work-life balance.
-- No negative health effects from the work itself.
-- Meaningful work to the individual employee.
+- Work-life balance.
+- Absence of negative health effects from the work itself.
+- Meaningful work for the individual employee.
 - Opportunities for professional development through continuing education and training.
 
-There can be large geographical differences in what constitutes fair pay or good working conditions in each country, so these need to be determined based on local conditions ([Eurofound 2024](https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work)). While a 37-hour week with flexible hours, free fruit and bevareges and training or meditation at work are not uncommon in danish IT companies, wages, working hours and benefits vary widely outside of Denmark.
+There can be large geographical differences in what constitutes fair pay or good working conditions in each country, so these need to be determined based on local conditions ([Eurofound 2024](https://www.eurofound.europa.eu/en/topic/working-conditions-and-sustainable-work)). While a 37-hour week with flexible hours, free fruit and beverages and training or meditation at work are not uncommon in danish IT companies, wages, working hours and benefits vary widely outside of Denmark.
 
 Gender equality is also an important factor in sustainability, as it is important that the most suitable people do the job, regardless of gender, ethnicity, religion or age. Discrimination, whether negative or positive, can lead to tensions and imbalances that are detrimental to long-term development.
 
@@ -491,7 +491,7 @@ Over time, we have become increasingly aware of the darker side of digital techn
 
 At the same time, there are many positive achievements. Digital technologies can support our health and personal development, think of popular running apps and other digital health tools that actively promote physical and mental well-being.
 
-From a sustainability perspective, it is important to recognize that our interactions with digital products and solutions affect users in many ways. We need to ensure that these interactions promote well-being rather than encourage harmful patterns or habits. Tools such as nudging can be used to guide user behavior in positive directions. However, we must also be aware of unethical design techniques, known as dark patterns, that manipulate users into behaviors that may not be in their best interest.
+From a sustainability perspective, it is important to recognize that our interactions with digital products and solutions affect users in many ways. We need to ensure that these interactions promote well-being rather than encourage harmful patterns or habits. Tools such as nudging can be used to guide user behavior in positive directions. However, we must also be aware of unethical design techniques, known as deceptive patterns, that manipulate users into behaviors that may not be in their best interest.
 ## A more sustainable digital future
 Information technology, in itself, cannot be called sustainable. It has both dark sides - such as environmental impact and overdependence on social media - and bright sides, in the form of the many opportunities it creates. In fact, there is no such thing (yet) as fully sustainable IT or truly sustainable digital development.
 
@@ -553,7 +553,7 @@ Gupta is also a climate optimist, arguing, among other things, that the "cross-f
 ## Bringing it together: Key insights from this chapter
 You've reached the end of the first chapter, take a moment to appreciate your progress! You've explored the fundamental principles of sustainable development, learned new concepts, and refreshed your understanding of others.
 
-Hopefully, you've gained an appreciation for the many layers of sustainability, spanning fields from geology and ecology to economics and social sciences. Adopting a holistic perspective is essential if you wish to contribute meaningfully to sustainability.
+Hopefully, you've gained an appreciation for the many dimensions of sustainability, spanning  from geology and ecology to economics and social sciences. Adopting a holistic perspective is essential if you wish to contribute meaningfully to sustainability.
 
 ### Your Role in the Green Digital Transformation
 No single individual can grasp every aspect of the complex digital and sustainable transformations taking place. Fortunately, through international collaboration, many skilled professionals and experts continually develop guidelines and recommendations that we all can incorporate into our own practices.

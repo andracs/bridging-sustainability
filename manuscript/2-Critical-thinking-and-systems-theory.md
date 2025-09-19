@@ -48,9 +48,7 @@ Systems thinking is a **scientific approach** that is particularly well suited t
 
 ## System interactions: video streaming as an example
 
-![[I_2.1.png]]
-> **Figure 2.1**  
-> While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.
+![System interactions](I_2.1.png "Figure 2.1 - While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.")
 
 When a user plays the video, he or she sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
 

@@ -209,7 +209,7 @@ You can make a difference in the system development process if you manage to set
 
 - What stories can we tell that show that software is good for the world in the long run?
 
-☺️ Fortsat her
+☺️ Next chapters releases in october 2025
 ---
 ### Green coding , programming and prompting
 

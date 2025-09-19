@@ -1,3 +1,8 @@
 0-Introduction.md
 1_Part-one.md
 1-Introduction-to-sustainability.md
+2-Critical-thinking-and-systems-theory.md
+3-The-impact-of-digitalization.md
+4_Part-two.md
+4-Digital-design-with-sustainability.md
+5-Sustainability-as-a-guiding-principle-in-software development.md

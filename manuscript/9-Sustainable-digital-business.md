@@ -2,6 +2,8 @@
 # TODO
 - Fra https://docs.google.com/document/d/1X6YyDJR1kg3fvPqmzVUoGgoWsC7cDyHVA4PD4CrB-8o/edit?tab=t.0#heading=h.eb44gal0g7s4 
 - https://lh7-rt.googleusercontent.com/docsz/AD_4nXfoqR3ZD72biqWqVgbLAIqq9HnP-NCN1Xla4UwcYlM-5XWPA2V8n1YrFWhT7JD3T4oZ07l3V6dfuhxM3NnOT1q5RSFRKxQYCxb7bhjV7SoCLCrohLfpfWsM4KFQjayTQxXRjvI3S8pUcrRL9ZTLl4_Ljx8Z?key=10XbXAWtnQ0ZvvutixwTJA)
+- Review - https://www.linkedin.com/in/larskristianhansenppm/
+- Gennemlæs https://pure.au.dk/portal/da/persons/lkh%40mgmt.au.dk/publications/
 
 # Chapter: Governing Sustainability in Digital Projects
 

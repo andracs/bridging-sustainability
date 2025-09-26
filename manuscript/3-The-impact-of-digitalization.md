@@ -61,7 +61,7 @@ Let's look at a concrete example of such a global supply network, which is requi
 
 ![Fairphone's global supply chain](resources/I_3.2.png "From responsible raw material extraction to production and distribution: Fairphone's global supply chains visualized. By focusing on the entire chain, Fairphone promotes fairer and more environmentally conscious production.")
 
-Choosing sustainably developed and produced hardware is crucial for sustainable IT projects, given the significant negative environmental footprint associated with manufacturing complex devices like smartphones. Fairphone provides a notable example of striving for greater sustainability. For its Fairphone 4, it tracks specific material origins like gold from Peru, plastics from the EU/USA, and tungsten from Rwanda (see Figure 3.2), actively working to map its supply chains and use more sustainable materials. Furthermore, the company undertakes initiatives to improve related mining practices in Africa and working conditions in Asia, taking responsibility for producing devices more sustainable than the industry standard – even while acknowledging truly sustainable smartphones are not yet achievable.
+Choosing sustainably developed and produced hardware is crucial for sustainable IT projects, given the significant negative environmental footprint associated with manufacturing complex devices like smartphones. Fairphone provides a notable example of striving for greater sustainability. For its Fairphone 4, it tracks specific material origins like gold from Peru, plastics from the EU/USA, and tungsten from Rwanda (see the previous figure), actively working to map its supply chains and use more sustainable materials. Furthermore, the company undertakes initiatives to improve related mining practices in Africa and working conditions in Asia, taking responsibility for producing devices more sustainable than the industry standard – even while acknowledging truly sustainable smartphones are not yet achievable.
 
 Unfortunately, such comprehensive sustainable approaches remain relatively rare among hardware manufacturers, although the trend is growing. This landscape is further complicated by broader geopolitical and economic factors. Recent experiences with supply chain fragility have starkly highlighted the risks of concentrating production geographically and relying on a few key manufacturers. This vulnerability is prompting many nations to prioritize developing domestic hardware production (especially for critical components like chips) to bolster technological sovereignty and resilience.
 
@@ -70,7 +70,7 @@ Regardless of where hardware is produced, however, a fundamental prerequisite fo
 
 Typically, business computer equipment is refreshed roughly every five years, with companies often planning to purchase new hardware after this period. While the hardware itself can often remain functional for longer, potentially aided by repairs, rapid technological advancements can create compelling reasons for replacement. Newer hardware can offer significant improvements in performance, lower power consumption, and enhanced reliability, making upgrades economically or operationally attractive.
 
-Addressing the sustainability of hardware requires looking beyond these refresh cycles. To encourage more sustainable practices throughout the hardware lifecycle, IT projects must consider a broad range of factors – encompassing environmental, societal, human, and economic dimensions. Key strategies and best practices for integrating these considerations into hardware procurement and end-of-life management (recycling) are summarized in Figure 3.3.
+Addressing the sustainability of hardware requires looking beyond these refresh cycles. To encourage more sustainable practices throughout the hardware lifecycle, IT projects must consider a broad range of factors – encompassing environmental, societal, human, and economic dimensions. Key strategies and best practices for integrating these considerations into hardware procurement and end-of-life management (recycling) are summarized in the figure below.
 
 ![A sustainable hardware lifecycle](resources/I_3.3.png "A sustainable hardware lifecycle recycles materials such as metals and plastics, utilizes renewable energy, and protects water, air and natural resources through purification. Knowledge and labor drive product development and create positive social development. Circularity binds the elements of the system together in a regenerative cycle.")
 
@@ -246,7 +246,7 @@ Critically, software design itself carries ethical weight, as it can incorporate
 ![A sustainable hardware lifecycle](resources/I_3.5.png 
 "Manipulative design can influence user decisions by highlighting certain choices as the 'right' or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.")
 
-A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ([Sobolev & Lesic 2022](https://www.pymnts.com/cpi-posts/online-choice-architecture-the-good-the-bad-and-the-complicated/)). Figure 3.5 shows how this trick can be used to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
+A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ([Sobolev & Lesic 2022](https://www.pymnts.com/cpi-posts/online-choice-architecture-the-good-the-bad-and-the-complicated/)). The previous figure shows how this trick can be used to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
 
 So, it is possible to build sustainability aspects into existing software and it is also possible to develop various new software solutions that can help advance the sustainability agenda. Examples could be:
 
@@ -258,7 +258,7 @@ So, it is possible to build sustainability aspects into existing software and it
 
 - Solutions that **optimize processes to reduce resource consumption** (e.g., food waste or energy waste).
 
-A further opportunity presented by digitalization and software lies in continuously monitoring sustainability performance. Organizations can implement systems to track specific KPIs in near real-time, visualizing this data through dashboards (as shown in Figure 3.6) for ongoing assessment.
+A further opportunity presented by digitalization and software lies in continuously monitoring sustainability performance. Organizations can implement systems to track specific KPIs in near real-time, visualizing this data through dashboards (as shown in the figure below) for ongoing assessment.
 
 ![Sustainability dashboard](resources/I_3.6.png "This figure illustrates a typical sustainability dashboard, designed to provide a real-time visualization of progress towards organizational goals, highlighting achievements and priority areas.")
 
@@ -308,7 +308,7 @@ In the book _Sustainable Business Studies_ (2024), we have outlined two fundamen
 
 ![Reactive and proactive sustainability](resources/I_3.7.png) "The interaction between reactive and proactive strategies enables the development of more sustainable information technology.")
 
-By effectively combining reactive and proactive strategies, organizations can significantly strengthen their overall sustainability performance. As illustrated in Figure 3.7, utilizing both approaches concurrently is crucial, as they complement each other to form a **coherent and comprehensive sustainability strategy**.
+By effectively combining reactive and proactive strategies, organizations can significantly strengthen their overall sustainability performance. As illustrated in the previous figure, utilizing both approaches concurrently is crucial, as they complement each other to form a **coherent and comprehensive sustainability strategy**.
 
 In essence, reactive strategies address the negative impacts of current technologies, while proactive strategies integrate sustainability principles from inception to prevent future problems. This means new processes and products should be designed with sustainability at their core, even as continuous efforts are made to improve existing systems. 
 
@@ -329,7 +329,7 @@ Key takeaways include:
 
 While the goal of achieving fully sustainable digitalization is desirable, current technology and practices mean **100% sustainable IT does not yet exist.** This journey requires ongoing effort on multiple fronts, transforming technologies laden with unintended environmental and social side effects into "greener," more responsible alternatives. There is significant progress being made, but substantial work remains.
 
-Moving forward requires embracing **both reactive and proactive sustainability strategies.** We must address the impacts of existing systems (reactive) while simultaneously embedding sustainability principles into the design of new technologies, processes, and products (proactive). As highlighted (Figure 3.7), these approaches are complementary and essential for building a coherent path towards sustainability.
+Moving forward requires embracing **both reactive and proactive sustainability strategies.** We must address the impacts of existing systems (reactive) while simultaneously embedding sustainability principles into the design of new technologies, processes, and products (proactive). As highlighted in the previous figure, these approaches are complementary and essential for building a coherent path towards sustainability.
 
 The following chapters will delve into the concrete actions and practical steps that individuals, organizations, and society can take to navigate this path and build a more sustainable digital future.
 

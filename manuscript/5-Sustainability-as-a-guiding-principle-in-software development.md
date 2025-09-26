@@ -24,10 +24,9 @@ The situation differs significantly for server-side software and large-scale sys
 This chapter delves into how developers can achieve **truly sustainable software**, exploring practical principles and techniques for sustainable software development, guided by frameworks such as the Karlskrona Manifesto.
 ## Software development life cycle (SDLC)
 
-![Figure 5.1](resources/I_5.1.png)
-> Figure 5.1 Software development life cycle (SDLC) is a generic model that describes the typical processes in the development and maintenance of software.
+![SDLC](resources/I_5.1.png "Software development life cycle (SDLC) is a generic model that describes the typical processes in the development and maintenance of software.")
 
-Most well-structured software development projects follow a similar sequence of phases. These are often described using a **_software development life cycle (SDLC)_** model (see Figure 5.1), which typically breaks the process into six key stages:
+Most well-structured software development projects follow a similar sequence of phases. These are often described using a **_software development life cycle (SDLC)_** model (see previous), which typically breaks the process into six key stages:
 
 1.  **Planning** - Defining goals and analyzing the problem domain.
 2.  **Design** - Architecting the digital solution.
@@ -56,9 +55,8 @@ One method involves running the software on a standardized hardware system with 
 
 This approach is typically conducted in a lab environment during the development phase. The results provide valuable documentation, establish benchmarks for improvement, and can even be automated within a Continuous Integration pipeline as part of the SDLC.
 
-![Figure Green Metrics](resources/green-metrics.png)
-> Figure - The Green Metrics Dashboard
-> 
+![Figure Green Metrics](resources/green-metrics.png "Figure - The Green Metrics Dashboard")
+ 
 Concrete examples of tools aiming to address these **measurements** include the [_Green Metrics Tool_](https://metrics.green-coding.io/). This is conceived as a collection of tools designed to capture energy and carbon data across different stages of the software lifecycle. As of now, the **suite** includes several modules:
 
 * **_ScenarioRunner_**: Measures software energy consumption and related CO₂ estimates for specific execution scenarios.
@@ -114,10 +112,9 @@ For a specific focus on operational greenhouse gas emissions, **_the Software Ca
 ## Ecolabeling of Software
 Formal certifications and ecolabels offer one way to assess and communicate the sustainability attributes of software. **The German Blue Angel (Blauer Engel)** is a well-established ecolabel covering numerous product groups, from textiles to electronics, and significantly, it also includes criteria for resource and energy-efficient software products ([Blauer Engel 2020](https://www.blauer-engel.de/en/productworld/software)).
 
-![Figure 5.2](resources/I_5.2.png)
-**Figure 5.2: The Blue Angel, a German environmental label also applicable to software, signals development focused on sustainability and minimal environmental impact. Its tagline, "Good for me. Good for the environment," highlights potential user and ecological benefits.**
+![Figure 5.2](resources/I_5.2.png "The Blue Angel, a German environmental label also applicable to software, signals development focused on sustainability and minimal environmental impact. Its tagline, 'Good for me. Good for the environment.' highlights potential user and ecological benefits")
 
-The label, whose logo is shown in Figure 5.2, defines its energy efficiency requirement in broad terms: *"A software product should provide its functions with a minimum consumption of resources and a minimum energy demand. The resource and energy efficiency of the software product should be maximized."* Developers seeking the label must interpret and document how their product fulfills specific criteria, acknowledging that practical implementation will vary. Overall, the Blue Angel certification for software focuses on three main areas:
+The label, whose logo is shown in the previous figure, defines its energy efficiency requirement in broad terms: *"A software product should provide its functions with a minimum consumption of resources and a minimum energy demand. The resource and energy efficiency of the software product should be maximized."* Developers seeking the label must interpret and document how their product fulfills specific criteria, acknowledging that practical implementation will vary. Overall, the Blue Angel certification for software focuses on three main areas:
 
 1.  **Resource and Energy Efficiency**
     * A minimum hardware requirement must be declared.
@@ -213,12 +210,9 @@ You can make a difference in the system development process if you manage to set
 
 After the initial stages of the SDLC, the practical development work, where the solution is programmed, also involves a number of considerations that can promote sustainable digital development. For example, which programming languages to use.
 
-![Figure 5.3](resources/I_5.3.png)
+![Figure 5.3](resources/I_5.3.png "Using charts like this (Gordillo et al. 2024), developers can make more sustainable programming language choices based on energy consumption. Low-level languages like C and C++ are the most energy efficient, while higher-level languages like Ruby and Python consume more energy and therefore require extra focus on optimization. Note: Overviews like this are based on estimates and performance can vary significantly depending on language versions and specific implementations.")
 
-
-Figure 5.3 Using charts like this (Gordillo et al. 2024), developers can make more sustainable programming language choices based on energy consumption. Low-level languages like C and C++ are the most energy efficient, while higher-level languages like Ruby and Python consume more energy and therefore require extra focus on optimization. Note: Overviews like this are based on estimates and performance can vary significantly depending on language versions and specific implementations.
-
-It doesn't matter which programming language we choose for the purpose. Low-level languages such as C, C++ and Rust are generally the most energy-efficient languages you can work with (see figure 5.3). The widely used multi-platform languages such as C#, Java, JavaScript are less energy efficient, but their energy consumption is not nearly as high as Python and Perl, which in some studies are 70-80 times more energy hungry than C. Measuring the energy efficiency of programming languages is subject to uncertainties, and the various programming languages are optimized and developed very quickly. There are also studies showing that Python is more efficient than C# and Java in some cases (Georgiou et al. 2018).
+It doesn't matter which programming language we choose for the purpose. Low-level languages such as C, C++ and Rust are generally the most energy-efficient languages you can work with (see figure above). The widely used multi-platform languages such as C#, Java, JavaScript are less energy efficient, but their energy consumption is not nearly as high as Python and Perl, which in some studies are 70-80 times more energy hungry than C. Measuring the energy efficiency of programming languages is subject to uncertainties, and the various programming languages are optimized and developed very quickly. There are also studies showing that Python is more efficient than C# and Java in some cases (Georgiou et al. 2018).
 
 So don't scrap all Python projects and develop everything in C in the future. Instead, you should seek out current and updated knowledge about the energy consumption of languages and critically evaluate what you find. Nevertheless, the choice of programming language is worth considering, and the same applies when choosing libraries and frameworks for software development, as there can be big differences in the energy consumption of these.
 
@@ -251,8 +245,6 @@ These considerations require thorough discussions during system development - an
 - by using development environments that contribute to optimization
 
 - by using pipelines in the SDLC that automate sustainability testing and improvements.
-
-[Link in footnote 25 be active in e-book]
 
 The first is relatively simple. Here, developers need to attend courses or complete online learning programs that target the given technologies. In terms of development environments, developers should use tools in their development environment that can improve code quality in real time while the code is being developed. Finally, you should run your software through customized automatic CD/CI pipelines that automatically add testing, checking and reporting. You can add many different modules to your pipeline, some are commercial, while others are free and open source . For example, you can track how new versions of the software affect resource or energy consumption, how the software complies with certain standards , or what possible security holes there are in the given software version. Automated solutions such as static analysis, automatic code reviews, accessibility testing and model fairness checks (checking for bias in AI models) can ultimately contribute to more efficient and good public good software.
 
@@ -295,8 +287,7 @@ Software architecture is a discipline that draws the overall lines of larger and
 
 Software architects make high-level design decisions and devise how different software components and modules can work together optimally to fulfill the functional and non-functional requirements of software systems. At the end of the day, these design decisions have significant sustainability impacts and should therefore take into account the five dimensions of sustainability. But where is the line between software and hardware platform sustainability? In Figure 5.4, you can see how software sustainability is delineated from infrastructure sustainability.
 
-![Figure 5.4](resources/I_5.4.png)
-> Figure 5.4: Responsibility for sustainability is shared between cloud provider and cloud user. The software developer contributes by optimizing code efficiency, deployment, scaling and utilization. At the same time, the cloud provider takes care of "infrastructure sustainability", which includes elements such as electricity, servers, cooling, water and waste. The illustration is from "AWS Well-Architected Framework, Sustainability Pillar", which is Amazon's take on good software architecture. Source: Eisele 2022.
+![Figure 5.4](resources/I_5.4.png "Responsibility for sustainability is shared between cloud provider and cloud user. The software developer contributes by optimizing code efficiency, deployment, scaling and utilization. At the same time, the cloud provider takes care of 'infrastructure sustainability', which includes elements such as electricity, servers, cooling, water and waste. The illustration is from 'AWS Well-Architected Framework, Sustainability Pillar', which is Amazon's take on good software architecture. Source: Eisele 2022.")
 
 According to Amazon's AWS Well-Architected Framework, good software architecture should be based on expertise, security, reliability, performance efficiency, cost optimization - and new: sustainability (Eisele 2022). The illustration shows the responsibilities of the cloud provider and the cloud user respectively, but it can also be interpreted more generally. One area of focus is the sustainability of the infrastructure itself, which includes power supply, buildings, operations, servers, cooling systems, networks, water supply and waste management. This will often be the responsibility of the data center. The remaining sustainability choices are the responsibility of the software developer and cover topics such as code efficiency, deployment, scaling and software design. AWS' model can help draw a clear division of responsibilities between the data center and its users. Many of the larger cloud providers such as Microsoft Azure or Google Cloud have similar guides for their platform.
 

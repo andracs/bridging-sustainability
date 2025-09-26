@@ -41,11 +41,9 @@ In the first chapter of the book, you could read about the planetary boundaries 
 
 Engholm's sustainable design approach adds an extra, **planetary dimension**  to the design work, taking into account the earth's ecosystems and future generations. The design approach can lead the way for more sustainable digital development projects, projects that help bring planetary systems into balance. 
 
-However, thinking on a planetary scale can seem overwhelming for us humans when our task is simply to develop new digital solutions for a company. Nevertheless, it is the way forward, says Ida Engholm. Figure 4.1 shows how simple design decisions on a micro level can contribute to the bigger, planetary perspective, with the overall aim of looking after the planet.
+However, thinking on a planetary scale can seem overwhelming for us humans when our task is simply to develop new digital solutions for a company. Nevertheless, it is the way forward, says Ida Engholm. The following figure shows how simple design decisions on a micro level can contribute to the bigger, planetary perspective, with the overall aim of looking after the planet.
 
-![Figure 4.1](resources/I_4.1.png)
-
-> Figure 4.1: Micro-level actions can contribute to results on a planetary level through complex processes. Local and concrete efforts, such as the development of degradable polymers, can help solve global problems like plastic pollution in the oceans. Source: Reproduced from Ida Engholm's book Design for a New World (licensed under CC BY-NC-ND 4.0) with permission from Ida Engholm.
+![Design for a New World](resources/I_4.1.png "Micro-level actions can contribute to results on a planetary level through complex processes. Local and concrete efforts, such as the development of degradable polymers, can help solve global problems like plastic pollution in the oceans. Source: Reproduced from Ida Engholm's book Design for a New World (licensed under CC BY-NC-ND 4.0) with permission from Ida Engholm.")
 
 In this case, it's a single person (maybe you?) or organization that replaces a non-degradable plastic component in a product with a degradable one. The difference this single action makes is not easy to understand in the big picture - but it still contributes to "global sustainability" because this plastic component does not end up as waste like many others, but biodegrades and re-enters nature's own cycle. 
 
@@ -122,12 +120,11 @@ The goal of UX is to make product experiences intuitive, efficient, and satisfyi
 
 UX design uses tools such as **wireframes, prototypes, user testing, personas, user journeys** and other tools to understand and improve the user experience. These tools are used to try to predict and model what experiences users want from a product or product portfolio.
 
-![Figure 4.2](resources/I_4.2.png)
-> Figure 4.2 An example of a persona, a tool for the empathic part of the design process. Source: Colourbox.com.
+![Personas](resources/I_4.2.png "An example of a persona, a tool for the empathic part of the design process. Source of illustrations: colourbox.com.")
 
-"Personas" are fictional characters that represent typical users and their needs, goals and behavioral patterns, as shown in the left side of figure 4.2. The creation of personas is based on user research and data. These fictional people are described very specifically with name, age, occupation, hobbies and preferences, with the goal of giving the designer an indication of who will interact with the products. Decisions in the design process are continuously weighed up against these personas to assess how the different design initiatives will affect the customers' user experiences.
+"Personas" are fictional characters that represent typical users and their needs, goals and behavioral patterns, as shown in the left side of above figure. The creation of personas is based on user research and data. These fictional people are described very specifically with name, age, occupation, hobbies and preferences, with the goal of giving the designer an indication of who will interact with the products. Decisions in the design process are continuously weighed up against these personas to assess how the different design initiatives will affect the customers' user experiences.
 
-According to UX designer Sandy Dähnert from the company Green the Web, the basic work with personas can be extended by creating non-human and non-user personas that can represent the sustainability aspects of the product (as exemplified on the right side of Figure 4.2). 
+According to UX designer Sandy Dähnert from the company Green the Web, the basic work with personas can be extended by creating non-human and non-user personas that can represent the sustainability aspects of the product (as exemplified on the right side of the prvious figure). 
 
 Dähnert has added Mother Earth, a metaphor for the globe, as a persona in his design process ([Dähnert 2021a](https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/)). The purpose of the exercise is for the designer to test the impact of their design ideas on nature. 
 
@@ -271,10 +268,9 @@ Despite these inconsistencies, several tools offer valuable insights and benchma
 * **[Are my third parties green?](https://aremythirdpartiesgreen.com/)**: Specifically checks if third-party resources loaded by a page (scripts, fonts, images) are hosted greenly.
   
 
-![Figure 4.3](resources/I_4.3.png)
-> Figure 4.3: Websitecarbon.com is an example of a service that estimates CO₂ emissions from a website. This and similar services can be used for comparative analysis and identifying areas for reducing digital carbon footprints.
+![Figure 4.3](resources/I_4.3.png "Websitecarbon.com is an example of a service that estimates CO₂ emissions from a website. This and similar services can be used for comparative analysis and identifying areas for reducing digital carbon footprints.")
 
-Given that these tools employ different methodologies and scopes, their outputs should be seen as **estimates and conversation starters rather than precise measurements** (which we will discuss further in the next chapter). The same website will likely receive different scores depending on the tool used. However, familiarizing oneself with these tools remains valuable for digital professionals. They help cultivate an **optimization mindset** and **identify potential performance bottlenecks or resource-heavy components**, encouraging more sustainable design and development practices.
+Given that these tools employ different methodologies and scopes, their outputs should be seen as *estimates and conversation starters rather than precise measurements* (which we will discuss further in the next chapter). The same website will likely receive different scores depending on the tool used. However, familiarizing oneself with these tools remains valuable for digital professionals. They help cultivate an *optimization mindset* and *identify potential performance bottlenecks or resource-heavy components*, encouraging more sustainable design and development practices.
 
 Some projects take these principles further by implementing **carbon-aware design**, where demanding UI elements or features might be conditionally loaded based on the real-time carbon intensity of the power grid (using techniques sometimes called graceful degradation under high-carbon conditions). Others are experimenting with **off-grid powered websites** that run entirely on their own solar or wind power, accepting that they might be offline when renewable energy isn't available.
 
@@ -282,7 +278,7 @@ While exploring these tools and techniques, it's vital to maintain perspective o
 
 So optimizing UX, UI and web design is part of the green digitalization puzzle, even if it's not where we find the biggest energy savings. However, every small change can contribute to an overall more sustainable digital future.
 
-## ### Nudging: Guiding Sustainable User Behavior
+## Nudging: Guiding sustainable user behavior
 
 A prominent user-centered technique in digital design, rooted in behavioral science, is **_nudging_** ([DaSilva et al. 2022](https://www.bcg.com/publications/2022/nudging-consumers-to-make-sustainable-choices)). Nudging involves subtly influencing user choices and behaviors through carefully crafted interface elements and interaction patterns, without restricting freedom of choice. By strategically designing user experiences, it's possible to encourage actions aligned with specific goals, including promoting more sustainable or responsible decisions.
 

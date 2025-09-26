@@ -61,7 +61,7 @@ At the same time, each viewing of the video has concrete and measurable conseque
 - Content can influence users' moods and actions.  
 - If the video is free, it's likely that the user himself / herself is the product. That is, the user's data or attention is sold to the highest bidder to fund the playback.
 
-These connections are not always obvious, but through a **systemic analysis** we can discover them by holding the systems behind the streaming against the five dimensions of the **Karlskrona Manifesto**. In Figure 2.1 you can also see how different things *flow* from one system to another:
+These connections are not always obvious, but through a **systemic analysis** we can discover them by holding the systems behind the streaming against the five dimensions of the **Karlskrona Manifesto**. In the following figure, you can  see how different things *flow* from one system to another:
 
 - The user's user data is sent all the way to the advertisers  
 - The algorithm targets and sends the message content back to the user  
@@ -164,7 +164,7 @@ After decades of work, scientists have developed models that identify trends and
 
 Systems thinking makes this research possible by allowing researchers to examine systems and subsystems holistically and contextually, understanding their elements and interactions.
 
-Modeling weather systems, as shown in Figure 2.3, helps us understand how global warming not only means warmer temperatures across the board, but also more frequent fluctuations in cold temperatures. Systems thinking can guide us toward a climate-neutral future, where we address the emissions that cause warming and ensure that weather phenomena stay within desired limits.
+Modeling weather systems, as shown in the previous figure, helps us understand how global warming not only means warmer temperatures across the board, but also more frequent fluctuations in cold temperatures. Systems thinking can guide us toward a climate-neutral future, where we address the emissions that cause warming and ensure that weather phenomena stay within desired limits.
 ## Ask questions and think critically
 
 Systems thinking is a solid starting point for working with sustainability and digital systems, but it should always be complemented with a critical approach. Critical thinking acts as a filter that challenges our preconceived assumptions and improves the quality of our work. 
@@ -220,7 +220,7 @@ Systems theory and systems thinking give us a framework in which to think, and t
 ## E-commerce as a concrete example of a system model
 To give a concrete example of how a system model can be brought into play in a digital project, let's imagine that we are working on the development of an e-commerce solution. Our work has a dual purpose, where we both want to develop the best possible webshop, but also want to push development in a more sustainable direction.
 
-We can think of this webshop as a system with inputs and outputs. In the system diagram in figure 2.5, you can see a very simplified version of a webshop understood as a system. The system handles customers, orders, stock, deliveries and payments. Note that in traditional IT development you wouldn't consider environmental impact and societal effects as outputs of the system, but that's what makes our work different - that we include sustainability aspects in our system model.
+We can think of this webshop as a system with inputs and outputs. In the system diagram in the next figure, you can see a very simplified version of a webshop understood as a system. The system handles customers, orders, stock, deliveries and payments. Note that in traditional IT development you wouldn't consider environmental impact and societal effects as outputs of the system, but that's what makes our work different - that we include sustainability aspects in our system model.
 
 ![A diagram of an e-commerce system](resources/I_2.5.png "As a system a webshop receives inputs such as IT systems and customer data, which through processing results in outputs such as finished deliveries and financial gain.")
 

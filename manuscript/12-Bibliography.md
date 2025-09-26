@@ -140,8 +140,6 @@ IT-Branchen (2024b). About IT-Branchen. https://itb.dk/om-it-branchen/
 
 Jevons, W.S. (1866). The Coal Question; An Inquiry Concerning the Progress of the Nation and the Probable Exhaustion of Our Coal Mines. Macmillan.
 
-josephranseth (2015). Gandhi didn't actually say "Be the change you want to see in the world." Here's the real quote... Joseph Ranseth, August 27. https://josephranseth.com/gandhi-didnt-say-be-the-change-you-want-to-see-in-the-world/
-
 Juel-Jacobsen, L.G. (2024). Sustainable business studies. Samfundslitteratur.
 
 !!OK!! Jungersen, R. & Stiesdal, P. (2024). Global temperatures have now broken heat records for 12 months in a row. DR, June 4. https://www.dr.dk/nyheder/viden/klima/globale-temperaturer-har-nu-slaaet-varmerekord-12-maaneder-i-traek
@@ -205,6 +203,8 @@ Permacomputing (2024). Website. (accessed 09.05.24).
 
 !!OK!! Petersson, L. (2023). Velux Sustainability Report 2023, Velux. https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting
 
+!!OK!! Quote Investigator (2017). Quote Origin: Be the Change You Wish To See in the World. https://quoteinvestigator.com/2017/10/23/be-change/
+
 Radack, S.M. (2009). The System Development Life Cycle (SDLC). NIST, April 29. https://www.nist.gov/publications/system-development-life-cycle-sdlc
 Government (2021). Towards a better society with tech giants. White Paper June 2021. https://kum.dk/fileadmin/user_upload/Hvidbog_techgiganter.pdf
 Research Portal Denmark (n.d.). Analytical Overview of Green Research, Development & Innovation: Introduction and Method. https://forskningsportal.dk/green-research/ (accessed 26.04.24).
@@ -254,3 +254,4 @@ Vanderbauwhede, W. (2023). Frugal Computing - On the need for low-carbon and sus
 Videnskab.dk (2024, June 27). What does green growth mean? And who came up with it? https://videnskab.dk/kultur-samfund/hvad-betyder-groen-vaekst-og-hvem-fandt-paa-det/
 Wong, J. (2009). Prepare for Descent: Interaction Design in our New Future. ACM.
 Yablonski, J. (2024). Home . Humane by Design, January 23. https://humanebydesign.com/
+

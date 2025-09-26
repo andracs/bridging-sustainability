@@ -11,7 +11,7 @@
 	5. Digital development
 5. Migrate to Codeberg
 6. Se "Rester som måske kan bruges"
-7. TILFØJ ILLUDTRATION AF KAPITLER I KAPITEL 0
+7. TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
 8. Uddyb Digital transition vs transformation 
 9. Check for footnotes - fix dem?
 10. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
@@ -82,7 +82,7 @@ Design is key, sustainability must be built into digital products from their ver
 ### Written by dedicated academics 
 This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject. Literature that goes beyond superficial clichés and tired expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
 
-As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), many of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. (We may be updating references with corresponding English sources in a next edition.)
+As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), some of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. 
 
 Digitalization and the fight against climate change is an rapdily evolving field, so the practical chapters of this book reflect the situation as of 2025 - but the continuously developing nature of the field, is the reason why we keep the book updated online.
 ## Chapter overview 
@@ -108,13 +108,13 @@ The second part of the book, Chapters 4–7, looks ahead and outlines practical 
     
 - **Chapter 7** explores the connection between well-being and digital technologies, discussing concepts such as digital well-being and socially sustainable UX through concrete examples.
 
-The third and final part of the book discusses digital sustainability from some general angles.
+The third and final part of the book discusses digital sustainability in society.
 
 - **Chapter 8** describes "digital degrowth" as an alternative to traditional growth thinking and reviews examples of it.
   
 - **Chapter 9** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
   
-- **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [Link to Codeberg will be here](Codeberg). Here you will also find an overview of various online resources that support this book.
+- **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [Link to the appendix on GitHub](https://andracs.github.io/Sustainable-Digital/). Here you will also find an overview of various online resources that support this book.
 
 📖 We hope, that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
 ## Happy reading!

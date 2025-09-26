@@ -209,8 +209,6 @@ You can make a difference in the system development process if you manage to set
 
 - What stories can we tell that show that software is good for the world in the long run?
 
-☺️ Next chapters releases in october 2025
----
 ### Green coding , programming and prompting
 
 After the initial stages of the SDLC, the practical development work, where the solution is programmed, also involves a number of considerations that can promote sustainable digital development. For example, which programming languages to use.

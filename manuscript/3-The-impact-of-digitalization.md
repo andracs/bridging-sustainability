@@ -43,12 +43,9 @@ The story of satellite pollution powerfully illustrates how rapidly new technolo
 
 Space industry can inspire us in informatics to integrate these (and similar other) principles into the design and management of product lifecycles. All development must be grounded in sustainability, emphasizing circular economy approaches like cradle-to-cradle recycling.  Ultimately, we must actively mitigate the unintended negative consequences of IT by designing solutions with lifecycles, that deliver lasting benefits for users, the environment, and society.
 
-Fundamentally, all IT systems consist of three core components: **hardware**, **software**, and **network infrastructure.** Crucially, there is also the **human factor, the users,** who interact with these systems. As depicted in Figure 3.1, data flows and transforms within this ecosystem of components, ultimately facilitating information exchange with the user.
+Fundamentally, all IT systems consist of three core components: **hardware**, **software**, and **network infrastructure.** Crucially, there is also the **human factor, the users,** who interact with these systems. As depicted in the following figure, data flows and transforms within this ecosystem of components, ultimately facilitating information exchange with the user.
 
-![Data flows in an IT system](resources/I_3.1.png " It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.")
->  **Figure 3.1**
->  It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.
-
+![Data flows in an IT system](resources/I_3.1.png "It is important to view systems in relation to their context and the environment they are part of in the interaction between user, hardware, software and network. In the interaction of system components, data and commands flow across the elements and create functionality.")
 
 All three parts have a role to play in the environmental impact of digital solutions. Digital systems work in the interaction between hardware, network, software and users, but sustainability can also be assessed for each component individually. The next sections review the sustainability aspects of hardware, network and software separately.
 
@@ -62,24 +59,20 @@ The production of this hardware requires advanced manufacturing lines and a wide
 Let's look at a concrete example of such a global supply network, which is required for manufacturing a Fairphone. The figure below shows, how a smartphone sold in Europe is built from minerals and raw materials extracted in several parts of the world, which are then processed and assembled in China. 
 
 
-![Figure 3.2](resources/I_3.2.png)
-
-> Figure 3.2 From responsible raw material extraction to production and distribution: Fairphone's global supply chains visualized. By focusing on the entire chain, Fairphone promotes fairer and more environmentally conscious production.
+![Fairphone's global supply chain](resources/I_3.2.png "From responsible raw material extraction to production and distribution: Fairphone's global supply chains visualized. By focusing on the entire chain, Fairphone promotes fairer and more environmentally conscious production.")
 
 Choosing sustainably developed and produced hardware is crucial for sustainable IT projects, given the significant negative environmental footprint associated with manufacturing complex devices like smartphones. Fairphone provides a notable example of striving for greater sustainability. For its Fairphone 4, it tracks specific material origins like gold from Peru, plastics from the EU/USA, and tungsten from Rwanda (see Figure 3.2), actively working to map its supply chains and use more sustainable materials. Furthermore, the company undertakes initiatives to improve related mining practices in Africa and working conditions in Asia, taking responsibility for producing devices more sustainable than the industry standard – even while acknowledging truly sustainable smartphones are not yet achievable.
 
 Unfortunately, such comprehensive sustainable approaches remain relatively rare among hardware manufacturers, although the trend is growing. This landscape is further complicated by broader geopolitical and economic factors. Recent experiences with supply chain fragility have starkly highlighted the risks of concentrating production geographically and relying on a few key manufacturers. This vulnerability is prompting many nations to prioritize developing domestic hardware production (especially for critical components like chips) to bolster technological sovereignty and resilience.
 
-Regardless of where hardware is produced, however, a fundamental prerequisite for it to be genuinely sustainable lies in the ability to **source materials and components responsibly**. This means systematically evaluating and mitigating their impacts on ecosystems, the broader environment, and the surrounding community.
+Regardless of where hardware is produced, however, a fundamental prerequisite for it to be genuinely sustainable lies in the ability to *source materials and components responsibly*. This means systematically evaluating and mitigating their impacts on ecosystems, the broader environment, and the surrounding community.
 ## Hardware: A sustainable lifecycle?
 
 Typically, business computer equipment is refreshed roughly every five years, with companies often planning to purchase new hardware after this period. While the hardware itself can often remain functional for longer, potentially aided by repairs, rapid technological advancements can create compelling reasons for replacement. Newer hardware can offer significant improvements in performance, lower power consumption, and enhanced reliability, making upgrades economically or operationally attractive.
 
 Addressing the sustainability of hardware requires looking beyond these refresh cycles. To encourage more sustainable practices throughout the hardware lifecycle, IT projects must consider a broad range of factors – encompassing environmental, societal, human, and economic dimensions. Key strategies and best practices for integrating these considerations into hardware procurement and end-of-life management (recycling) are summarized in Figure 3.3.
 
-![Figure 3.3](resources/I_3.3.png)
-
-> Figure 3.3 A sustainable hardware lifecycle recycles materials such as metals and plastics, utilizes renewable energy, and protects water, air and natural resources through purification. Knowledge and labor drive product development and create positive social development. Circularity binds the elements of the system together in a regenerative cycle .
+![A sustainable hardware lifecycle](resources/I_3.3.png "A sustainable hardware lifecycle recycles materials such as metals and plastics, utilizes renewable energy, and protects water, air and natural resources through purification. Knowledge and labor drive product development and create positive social development. Circularity binds the elements of the system together in a regenerative cycle.")
 
 Broadly speaking, manufacturing IT equipment (hardware) relies on four key inputs:
 
@@ -139,14 +132,11 @@ While it is unfortunately **impossible** with our current technology to develop 
 
 Modern digital technology consists not only of computers, smartphones and printers, but also of the (data) network itself, which forms a large part of the technology. After all, what can you do with a computer, smartphone, or server without a network connection? You can't share information with others or get data from other devices. That's why it's important to consider the network when talking about sustainability and IT.
 
-Figure 3.4 illustrates how regular use of a computer (e.g. browsing or chatting) sends data out into the world and gets data back. Every click in a browser will typically send data out into the world in this way and retrieve a response back. To understand the environmental impact of your information technology, you also need to consider the network's part in the carbon footprint.
+The following figure illustrates how regular use of a computer (e.g. browsing or chatting) sends data out into the world and gets data back. Every click in a browser will typically send data out into the world in this way and retrieve a response back. To understand the environmental impact of your information technology, you also need to consider the network's part in the carbon footprint.
 
+![Data travels through a global network](resources/I_3.4.png "Data travels across the network, passing through numerous intermediate nodes on its journey to the end user.")
 
-![Figure 3.4](resources/I_3.4.png)
-
-> Figure 3.4 - Data travels across the network, passing through numerous intermediate nodes on its journey to the end user.
-
-As depicted in Figure 3.4, data networks are composed of interconnected devices like computers, routers, and switches. These devices communicate and exchange data using various media, including physical connections (copper cables, fiber optics) and wireless signals (like Wi-Fi and Bluetooth). While the Internet represents the largest global network, other types exist, such as mobile networks and private enterprise networks.
+As depicted in the previous figure, data networks are composed of interconnected devices like computers, routers, and switches. These devices communicate and exchange data using various media, including physical connections (copper cables, fiber optics) and wireless signals (like Wi-Fi and Bluetooth). While the Internet represents the largest global network, other types exist, such as mobile networks and private enterprise networks.
 
 The ease with which networks, particularly the Internet, allow us to transfer and process data digitally – replacing older methods like physical media (e.g., USB drives, optical discs) – has led to continuous, high-volume data traffic worldwide. This constant activity, supported by vast infrastructure, carries a significant environmental footprint. 
 
@@ -253,8 +243,8 @@ Beyond these environmental dimensions, software profoundly impacts the people an
 
 Critically, software design itself carries ethical weight, as it can incorporate persuasive or **manipulative techniques (dark patterns)** intended to influence user behavior – sometimes for beneficial ends, but often purely for commercial gain or other motives.
 
-![Figure 3.5](resources/I_3.5.png)
->Figure 3.5: Manipulative design can influence user decisions by highlighting certain choices as the "right" or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.
+![A sustainable hardware lifecycle](resources/I_3.5.png 
+"Manipulative design can influence user decisions by highlighting certain choices as the 'right' or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.")
 
 A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ([Sobolev & Lesic 2022](https://www.pymnts.com/cpi-posts/online-choice-architecture-the-good-the-bad-and-the-complicated/)). Figure 3.5 shows how this trick can be used to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
 
@@ -270,9 +260,7 @@ So, it is possible to build sustainability aspects into existing software and it
 
 A further opportunity presented by digitalization and software lies in continuously monitoring sustainability performance. Organizations can implement systems to track specific KPIs in near real-time, visualizing this data through dashboards (as shown in Figure 3.6) for ongoing assessment.
 
-![Figure 3.6](resources/I_3.6.png)
-
-> Figure 3.6 illustrates a typical sustainability dashboard, designed to provide a real-time visualization of progress towards organizational goals, highlighting achievements and priority areas.
+![Sustainability dashboard](resources/I_3.6.png "This figure illustrates a typical sustainability dashboard, designed to provide a real-time visualization of progress towards organizational goals, highlighting achievements and priority areas.")
 
 These dashboards are instrumental not just for monitoring KPIs, but also for **fostering accountability and motivating action by making performance transparent** – showcasing both successes and opportunities for enhancement.
 
@@ -318,8 +306,7 @@ In the book _Sustainable Business Studies_ (2024), we have outlined two fundamen
 
 **Reactive strategies** function somewhat like emergency responses; their goal is to minimize the harmful effects of IT technologies already in use. They typically come into play when sustainability problems are identified or unintended negative consequences emerge, serving to mitigate existing issues. **Proactive strategies**, conversely, resemble a gardener meticulously planning a landscape for long-term value and resilience. This approach involves developing new technologies and processes with sustainability embedded from the start, thereby preparing for future challenges.
 
-![Figure 3.7](resources/I_3.7.png)
-**Figure 3.7. The interaction between reactive and proactive strategies enables the development of more sustainable information technology.**
+![Reactive and proactive sustainability](resources/I_3.7.png) "The interaction between reactive and proactive strategies enables the development of more sustainable information technology.")
 
 By effectively combining reactive and proactive strategies, organizations can significantly strengthen their overall sustainability performance. As illustrated in Figure 3.7, utilizing both approaches concurrently is crucial, as they complement each other to form a **coherent and comprehensive sustainability strategy**.
 

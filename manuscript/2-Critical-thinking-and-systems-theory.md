@@ -11,19 +11,19 @@
 
 ## In this chapter
 
-In this chapter, we will spend time with **systems thinking** and **network theory**. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. 
+In this chapter, we will spend time with systems thinking and network theory. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. 
 
-Systems thinking and network theory help us to think **holistically** and include the most important sustainability aspects when developing digital technologies. **Critical thinking** helps us find essential connections and validate the details in our work.
+Systems thinking and network theory help us to think holistically and include the most important sustainability aspects when developing digital technologies. Critical thinking helps us reducing noise and validating the details in our work, and finding essential relationhsips between cause and effect in the systems.
 
-Let's go through some selected and general aspects of both systems theory and network theory to give you tools that you can use in your work with digital sustainability. At the same time, we invite you to bring your intellect into play by thinking **critically**, **analytically** and **systemically** in relation to your practice with digital and sustainability issues.
+Let's go through some selected and general aspects of both systems theory and network theory to give you tools that you can use in your work with digital sustainability. At the same time, we invite you to bring your intellect into play by thinking critically, analytically and systemically in relation to your practice with digital and sustainability issues.
 
 ---
 
 ## Systems theory
 
-> *"Sustainability is systemic. Sustainability is never an isolated attribute. S**ystems thinking must be the starting point for the interdisciplinary foundation of sustainability.**"* *(from the Karlskrona Manifesto)*
+> "Sustainability is systemic. Sustainability is never an isolated attribute. **Systems thinking must be the starting point for the interdisciplinary foundation of sustainability.**" (from the Karlskrona Manifesto)
 
-Systems theory can be used as a **meta-theory** (overarching theory) to both understand, model and predict different concepts and relations within sustainability and digitalization. Systems theory can be applied to many different things that can be considered systems, such as:
+*Systems theory* can be used as a meta-theory (overarching theory) to both understand, model and predict different concepts and relations within sustainability and digitalization. Systems theory can be applied to many different things that can be considered systems, such as:
 
 - weather and climate systems  
 - ecosystems  
@@ -32,36 +32,35 @@ Systems theory can be used as a **meta-theory** (overarching theory) to both und
 - digital systems such as operating systems, web systems, social media  
 - design systems  
 
-> The word *system* comes from the Greek and means something like "a whole composed of several coordinated elements".
+The word *system* comes from the Greek and means something like "a whole composed of several coordinated elements". Systems theory and systems thinking are concerned with understanding the world based on this basic idea. Throughout history, systems theory has been gradually expanded with contributions from many different disciplines such as physics, chemistry, biology, social science and information science, and this development continues to this day.
 
-Systems theory and systems thinking are concerned with understanding the world based on this basic idea. Throughout history, systems theory has been gradually expanded with contributions from many different disciplines such as **physics, chemistry, biology, social science** and **information science**, and this development continues to this day.
+A *general systems theory* seeks to understand the rules and dynamics that apply to all systems across different domains. It involves the study of how elements of a system are connected and how they interact to create wholes with new properties.
 
-A general systems theory seeks to understand the rules and dynamics that apply to all systems across different domains. It involves the study of how elements of a system are connected and how they interact to create wholes with new properties.
+Decades ago, systems modeling was limited by the fact that we could only model with pen and paper, but new and fast computers and computer networks are contributing to a paradigm shift where we can build huge models and perform simulations and calculations faster than ever before. Technological developments are pushing systems science closer to network science, and both are trying to find fundamental relationships that can be observed in different large systems.
 
-Decades ago, systems modeling was limited by the fact that we could only model with pen and paper, but new and fast computers and computer networks are contributing to a **paradigm shift** where we can build huge models and perform simulations and calculations faster than ever before. Technological developments are pushing systems science closer to **network science**, and both are trying to find fundamental relationships that can be observed in different large systems.
+These approaches help analyze and understand everything from natural ecosystems to multifaceted social and digital networks, where the relationships between parts and wholes are crucial. By understanding how these relationships work, we can gain deeper insights into both simple and complex contexts.
 
-These approaches help analyze and understand everything from **natural ecosystems** to **multifaceted social and digital networks**, where the relationships between parts and wholes are crucial. By understanding how these relationships work, we can gain deeper insights into both **simple and complex contexts**.
+*Systems thinking* focuses on the connection and interaction between parts of a system and its environment. Systems thinking can zoom in and out to understand a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between software development, energy consumption and environmental impact. By considering the involved systems and the interplay of their elements, we can analyse, how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
 
-Systems thinking focuses on the connection and interaction between parts of a system and its environment. Systems thinking can **zoom in and out** to understand a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between **software development**, **energy consumption** and **environmental impact**. We see how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
-
-Systems thinking is a **scientific approach** that is particularly well suited to working with both **IT** and **sustainability** because it sees the world as a **mosaic of interconnected systems** that constantly interact and influence each other over time.
+Systems thinking is a scientific approach that is particularly well suited to working with both IT and sustainability because it sees the world as a mosaic of interconnected systems that constantly interact and influence each other over time.
 
 ## System interactions: video streaming as an example
 
-![System interactions](resources/I_2.1.png "While it seems easy to click and watch a cat video, it's only possible thanks to a complex and well-coordinated collaboration between many systems.")
+![System interactions](resources/I_2.1.png "While it seems easy to click and watch a cat video online, it's only possible thanks to a very complex and well-coordinated collaboration between many designed systems.")
 
-When a user plays the video, he or she sets off a **chain reaction** and thus an interaction between the many **subsystems** that together make it possible to watch the video. As shown in Figure 2.1, a video connects to different **websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals**. If a single subsystem was missing, you probably wouldn't be able to watch the video.
+When we click on a link and play a video, we set off a chain reaction and thus an interaction between the many subsystems that together make it possible to watch the video. As shown in the figure below, a streaming video connects to different websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals. If a single subsystem is missing, you probably wouldn't be able to watch the video.
 
-At the same time, each viewing of the video has concrete and measurable consequences for the **environment, society and individuals**, such as:
+At the same time, each view of the video has concrete and measurable consequences for the environment, society and individuals, such as:
 
 - Energy used for running the streaming service emits measurable amounts of CO₂, which contributes to global warming. 
-- The hardware used to stream leaves a carbon footprint in several countries – from mining in Africa to hardware manufacturing in Asia and Europe.  
-- The algorithms that control a video feed can create social media addiction and mental health issues for users.  
+- The hardware used to stream leaves an enironmental footprint across the globe – from mining in Africa to hardware manufacturing in Asia and Europe.  
+- The algorithms that control a video feed can contribute to problematic social media overuse and related mental health issues for it's users.  
 - The content in the video may be created with hidden intentions, for example as propaganda that can be spread on social media.  
 - Content can influence users' moods and actions.  
 - If the video is free, it's likely that the user himself / herself is the product. That is, the user's data or attention is sold to the highest bidder to fund the playback.
+- User information can be exploited by hackers or threat actors to make harm. 
 
-These connections are not always obvious, but through a **systemic analysis** we can discover them by holding the systems behind the streaming against the five dimensions of the **Karlskrona Manifesto**. In the following figure, you can  see how different things *flow* from one system to another:
+These connections are not always obvious, but through a systemic analysis we can discover them by holding the systems behind the streaming against the five dimensions of the Karlskrona Manifesto. In the following figure, you can  see how different things *flow* from one system to another:
 
 - The user's user data is sent all the way to the advertisers  
 - The algorithm targets and sends the message content back to the user  
@@ -69,55 +68,53 @@ These connections are not always obvious, but through a **systemic analysis** we
 - Various energy sources are transformed into electricity to power the systems  
 - Financial transactions occur, e.g., advertisers paying to access user data  
 
-We can't discuss all the interrelationships in the interaction between the many subsystems, but the example can illustrate how we should think **holistically** and include different systems and their **sustainability contexts** in our own work in order to give a true picture of the context of our digital products.
+We can't discuss *all* the interrelationships in the interaction between the many subsystems, but the example can illustrate how we should think holistically and include different systems and their sustainability contexts in our own work in order to give a true picture of the context of our digital products.
 
 ---
 
 ## What exactly is a system?
 
-If you're new to systems thinking, don't worry. In general, thinking in systems is quite simple. A **system** is a whole that consists of several **interconnected parts** (which can also be called *elements*, *components* or *members*) that interact with each other.
+If you're new to systems thinking, don't worry. In general, thinking in systems is quite simple. A system is a whole that consists of several interconnected parts (which can also be called *elements*, *components* or *members*) that interact with each other.
 
-The illustration below shows a simple model of a system consisting of several elements. The elements of a system can also be considered as **independent systems**, or **subsystems** that can be further analyzed.
+The illustration below shows a simple model of a system consisting of several elements. The elements of a system can also be considered as independent systems, or subsystems that can be further analyzed.
 
 ![A generic system model](resources/I_2.2.png "This generic system model illustrates how inputs are processed through the elements of the system and their interconnections to create outputs. The model is universally applicable and can be used to analyze and understand all types of systems.")
 
 The figure hows a *system*, which has both an *input* and an *output*, meaning that it is an *open system* that exchanges something with the outside world. An input can be many things, such as energy, information or materials, and the same goes for an output. Some of the output can also be used as *feedback* to the system, which in turn can be used in system processes.
 
-The components of the system interact with each other and the system also interacts with its *environment*; this is called an *open system*. There are also *closed systems* that do not exchange anything with the outside world, that have no input or output, but these are rare. 
+The components of the system interact with each other and the system also interacts with its *environment*, hence this is an *open system*. There are also *closed systems* that do not exchange anything with the outside world, that have no input or output, but these are rare. 
 
 The diagram also shows that the *elements of the system are interconnected*, and that certain *processes or interactions* take place inside the system that transform input into output.
 
-It is important that you pay attention to the dotted lines on the drawing that surround the system itself – the environment. The system's environment, or *system context*, plays as big a role for the system as the components themselves.
-
-> After all, what is the point of setting up a heating system in the Sahara or a cooling system in the permafrost of Greenland? The systems can only make sense in the right environment and in the right context.
+It is important that you pay attention to the dotted lines on the drawing that surround the system itself – the environment. The system's environment, or *system context*, plays as big a role for the system as the components themselves. Context is important: A fish's gills are a perfect system for breathing in water but are completely useless on dry land. A key is a flawless system for opening its matching lock but is just a useless piece of metal for any other door. The systems can only make sense in the right environment and in the right context.
 
 ---
 
 In systems theory we can distinguish between:
 
-- **Emergent systems**  
-- **Designed systems**
+- Emergent systems  
+- Designed systems
 
 ## Emergent systems
 
-Emergent systems arise **spontaneously** through the interactions between their components **without a central control**. A good example of emergence is an **ant colony**, where each ant follows its own simple rules, while the colony as a whole can be seen as a **complex system** that forms patterns without any single ant having an overview of the overall system.
+A key insight from systems thinking is that systems are often *more than the sum of their parts*. New properties can emerge when the components interact in ways that create something unprecedented or complex. This phenomenon is called emergence and is central to understanding how systems evolve.
 
-A key insight from systems thinking is that systems are often more than the sum of their parts. New properties can emerge when the components interact in ways that create something unexpected or complex. This phenomenon is called **emergence** and is central to understanding how systems evolve.
+Emergent systems arise spontaneously through the interactions between their components without a central control. A good example of emergence is an ant colony, where each ant follows its own simple rules, while the colony as a whole can be seen as a complex system that forms patterns without any single ant having an overview of the overall system.
 
-These emergent phenomena occur in biological and other systems and organizations. In a company, informal cross-departmental collaborations emerge where ideas, methods and experiences flow freely. New digital tools gain traction, not through official channels, but through the mutual recommendations and experimentation of colleagues. Over time, these spontaneous communities and practices lead to different ways of working merging into a pattern that no single person designed.
+These emergent phenomena not only occur in biological systems, but also in all other systems and organizations. In a company, informal cross-departmental collaborations emerge where ideas, methods and experiences flow freely. New digital tools gain traction, not through official channels, but through the mutual recommendations and experimentation of colleagues. Over time, these spontaneous communities and practices lead to different ways of working merging into a pattern that no single person designed.
 
-Think of a social media platform, for example: although it is designed with specific functions and purposes in mind, the individual contributions, routines and communication patterns of users can create new, **unforeseen structures** over time. This creates a **spontaneous, self-organizing order** that was not originally intended.
+Think of a social media platform, for example: although it is designed with specific functions and purposes in mind, the individual contributions, routines and communication patterns of users can create new, unforeseen structures over time. This creates a spontaneous, self-organizing order that was not originally intended.
 
 ## Designed systems
 
-Designed systems are man-made, they often have a specific purpose, and we know the components of the system and the relationship between them. Engineering can create **technological systems** such as a spaceship, but it is also possible to create **organizational systems** such as a company.
+Designed systems are man-made, they often have a specific purpose, and we know the components of the system and the relationship between them. Engineering can create technological systems such as a spaceship, but it is also possible to create organizational systems such as a company.
 
-Designed systems are often easier to understand if we only know the thinking behind them, but they can also have a certain emergence over time. For example, a company founded with a specific business plan may change its activities over time as the market changes. The systems in a spaceship sent on a specific space mission will rarely change, but there are examples where, during a mission, the space operation center have to improvise and let the systems work in new and different ways to fulfill the mission.
+Designed systems are often easier to understand if we only know the thinking behind them, but they can also have a certain emergence over time. For example, a company founded with a specific business plan may change its activities over time as the market changes. The systems in an unmanned spaceship sent on a specific space mission will rarely change, but there are examples where, during a mission, the space operation center have to improvise and let the systems work in new and different ways to fulfill the mission.
 
-In the digital world, we often see a mix of designed and emergent systems. Consider a platform like Reddit, where the developers have designed the underlying infrastructure, but users decide what topics emerge and how the debate unfolds. In some cases, organic development has gone off the rails - such as when subreddits were flooded with hateful or harassing posts. In these situations, Reddit chose to change the design by introducing stricter moderation rules, improved reporting features and the ability to ban users or close problematic forums. In this way, the emergent developments could be kept within designed certain limits.
+In the digital world, we often see a mix of designed and emergent systems. Consider a social media platform, where the developers have designed the underlying infrastructure, but users decide what topics emerge and how the debate unfolds. In some cases, organic development can go off the rails - such as when comment sections are flooded with hateful or harassing posts. In these situations, the platform can chose to change the system's design by introducing stricter moderation rules, improved reporting features and the ability to ban users or close problematic forums. In this way, the emergent developments could be kept within designed certain limits.
 
 ## Digital twins
-There are also examples of digital systems mirroring physical systems one-to-one. **Digital twins** is an approach to digitization where physical systems have a digital counterpart.
+There are also examples of digital systems mirroring physical systems one-to-one. Digital twins is an approach to digitization where physical systems have a digital counterpart.
 
 Imagine a cargo ship that has a digital twin. The real ship is sailing on the sea, and it's digital twin is a real time simulation of the ships current properties. This digital version can, through thousands of data points, provide an accurate and real time picture of the ship:
 
@@ -129,7 +126,7 @@ Imagine a cargo ship that has a digital twin. The real ship is sailing on the se
 - CAD drawings and part numbers for easy replacement of spare parts  
 - and more... 
 
-**Digital twins represent applied systems theory**. A digital twin is an accurate and real time updated **digital system model** of a given **physical system**, which can be used for **modeling**, **analysis** and **prediction**.
+Digital twins represent applied systems theory. A digital twin is an accurate and real time updated digital system model of a given physical system, which can be used for modeling, analysis and prediction.
 
 ---
 ## Systems thinking and critical thinking
@@ -148,7 +145,7 @@ It's a bit like looking at a new car. A buyer might examine the layout, the engi
 
 Yet these hidden components are just as important for the car’s functionality. A systems analyst must be able to zoom in and out on these properties as needed to understand the system as a whole.
 
-Systems thinking is about **seeing the big picture**, understanding a system's **internal and external relationships**, and **identifying patterns** within systems. 
+Systems thinking is about seeing the big picture, understanding a system's internal and external relationships, and identifying patterns within systems. 
 
 That said, when it comes to sustainability and digitalization, we often need to dive deeper into the analysis of specific subsystems to gain an accurate understanding. Once we comprehend the system at a given level, we can zoom in and out on its subsystems to maintain perspective on the bigger picture.
 
@@ -226,16 +223,16 @@ We can think of this webshop as a system with inputs and outputs. In the system 
 
 In addition to developing the webshop and the processes that make it work, we also need to look at the five sustainability dimensions of the system that we know from the Karlskrona Manifesto.
 
- **1\. Financial sustainability**
+ 1\. Financial sustainability
  It goes without saying that our webshop must be financially sustainable. The store must be able to run and make money year after year. The other sustainability measures require an active choice.
 
-**2\. Technical sustainability**  
+2\. Technical sustainability  
 On the technical side, we want to build a solution with up-to-date technology that will last for many years and not become obsolete too quickly (we don't want to get into technical debt at the start of the project). It's a tough nut to crack because technology is developing so fast that we can only guess what e-commerce will look like in 5–10–15 years. Nevertheless, we need to make educated and informed assumptions about the future and build the store so that the technology can be expanded and upgraded for many years to come. Can we design elements into the store that promote sustainable behavior among users such as recycling or downsizing?
 
-**3\. Environmental sustainability** 
+3\. Environmental sustainability 
 The environmental aspect requires us to develop the webshop so that it is first and foremost climate neutral and secondly that it has the least possible environmental impact – in terms of both direct and indirect environmental effects. The IT systems must run on renewable energy, and the derived emissions from goods and transportation must be as close to climate neutral as possible. Likewise, we must consider how the environmental impacts of the trade process can be minimized.
 
-**4\. Social and 5. Individual sustainability**  
+4\. Social and 5. Individual sustainability  
 Social and individual sustainability can be brought into play in the webshop in several ways. As you can see, people and labor hours are inputs to the system. Here, it is primarily the skills and work of employees that are transformed into output in the webshop system, but secondarily it is also the webshop customers who provide input to the system (orders, payments).
 
 It is important to identify the stakeholders that come into contact with the webshop and find out how to ensure that they have a long-lasting and good relationship with the webshop. The webshop may want to retain their good employees and they also want their customers to return. The project can aim to develop or cultivate good communities at multiple levels of the system, taking into account both the individuals and the communities connected to the system.

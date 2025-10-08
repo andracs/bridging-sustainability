@@ -131,9 +131,9 @@ Digital twins represent applied systems theory. A digital twin is an accurate an
 ---
 ## Systems thinking and critical thinking
 
-Systems thinking is one of the tools that can help us grasp the complexity of digital projects. We're talking about computer systems, operating systems, versioning systems and design systems that are developed and maintained by system owners, system developers, system integrators and system administrators. If you work with the more technological side of information technology, you are probably already familiar with systems thinking because modern information technology is based on large networks of interconnected systems.
+*Systems thinking* is a valuable tool for grasping the complexity of digital projects. These projects involve various digital systems—such as operating systems, versioning systems, and design systems—and a range of associated roles, including system developers, integrators, owners, and administrators. If you work on the technical side of information technology, you are likely already familiar with this approach, as modern IT is built on large networks of interconnected systems.
 
-Many IT programs teach system development or system design, where we can learn to draw diagrams and system models to better understand and model systems. Diagrams are drawn on paper, on whiteboards and with digital programs. Systems learning lays a good foundation for systems thinking, which can also be used in sustainability contexts because sustainability is also systemic.
+Most information technology programs include system development and design in their curricula, where students learn to model systems using diagrams to better understand their structure and behavior. This foundation is especially crucial for promoting sustainable information technology. Because sustainability itself is inherently systemic, applying systems thinking is essential to effectively address its challenges within the IT field.
 
 > System thinking is often supported by handdrawn nodes and whiteboard sketches, as drawing system elements, it's boundaries and environment, and the connections and interactions between elements is a good way of thinking about and communicating systems. 
 

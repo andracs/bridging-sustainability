@@ -6,3 +6,4 @@
 4_Part-two.md
 4-Digital-design-with-sustainability.md
 5-Sustainability-as-a-guiding-principle-in-software development.md
+12-Thank-you.md

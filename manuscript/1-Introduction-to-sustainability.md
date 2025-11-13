@@ -62,7 +62,6 @@ With the help of scientists who continuously monitor global climate change, a nu
 
 {id: digital-transformation} 
 ### People in information tehcnology and digital services are both the villains and the heros 📡
-
 Information technology and digital transformation are phenomena that surprise us daily with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.

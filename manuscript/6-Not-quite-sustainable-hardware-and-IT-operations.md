@@ -2,7 +2,7 @@
 # TODO
 
 - ...
-  
+
 {book: true, sample: true} 
 # 6. (Not quite) sustainable hardware and IT operations
 The waves of digitalization have - slowly but surely - washed over our everyday lives and society over the past decades. Computers that once took up an entire room have now become small personal devices. Technology is taking up less and less space and becoming more integrated into our lives. We now have laptops, smartphones, smartwatches, smart rings and even smart homes where our devices communicate with each other. But we also have huge data centers that take up multiple warehouses and suck energy similar to big cities.
@@ -34,6 +34,8 @@ At the time of writing, the price of the mouse is DKK 260, which is significantl
 
 The supply chain  of this small and relatively simple hardware device can illustrate how hardware manufacturers can try to understand and control their supply chains. The mouse is assembled at the manufacturer itself in Germany and also shipped from the manufacturer, and this part of the production is sustainable. The packaging and labeling are also green, and here you can also talk about good sustainability in working conditions and local communities. The closer we are to the end product (the mouse) in the supply chain, the more control Nager IT has over sustainability. But the further out in the supply chain, the less control and the less knowledge the company has in relation to its suppliers. It is uncertain or unknown whether the subcontractor's suppliers are also sustainable. At some points in the chain, there are more and more suppliers who cannot demonstrate the desired level of sustainability. The outermost suppliers in the chain are almost all unsustainable with a few exceptions, which means that Die Faire Computermaus cannot claim to be much more sustainable than its competitors at this level.
 
+{book: false, sample: false} 
+Ang. Framework - synes bare vi også skal de nævne et par andre alternativer (MNT), så er der også lidt til det lille mindretal af folk der er blevet sure på framework.
 ## Framework : laptops
 "In every choice we make, we think through the impact on people and the planet." (Framework n.d.)
 

@@ -257,7 +257,7 @@ We will often need to apply systems thinking to your work with digital sustainab
 
 For example, we can analyze how a company's energy consumption affects the climate and contributes to global temperature increases. We can develop models of the company's supply chains to better understand scope 3 emissions or the sourcing of components for the company's digital activities. And it may also be relevant to analyze the organization's effects on a local community or on users to demonstrate social responsibility. In all cases, critical and analytical system thinking is necessary. By bringing system models or network diagrams into play, we can better understand the complex relationships that shape your organization. 
 
-Q> Ask yourself the following questions and work systemically and critically within your field:
+Ask yourself the following questions and work systemically and critically within your field:
 
 - Which systems are part of a given problem?  
 - How are the systems connected? (Input, output, elements, interactions, feedback loop, context)  

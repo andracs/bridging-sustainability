@@ -1,72 +1,26 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
-1. + Holistic approach
-2. https://leanpub.com/ansible-for-devops
-3. Update chapter descriptions, so it tells a story
-4. Måske afklare:
+1. 
+2. Måske afklare:
 	1. Digital transformation
 	2. Digital transition
 	3. Digitalization
 	4. Digitzation
 	5. Digital development
-5. Migrate to Codeberg
-6. Se "Rester som måske kan bruges"
-7. TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
-8. Uddyb Digital transition vs transformation 
-9. Check for footnotes - fix dem?
-10. Timeline for udgivelse:Juni - nogle kapitler ad gangen gennem tre månder eller heler pivtøjet afhængigt af min scanning 
-11. Flere og bedre illustrationer, gennemgående
-12. JESPER Omroker  kapitler → Er det svært at starte med teori? 
-	1. begynd med starten af 1
-	2. og så 3
-	3. og så 2
-	4. også resten af 1
-	5. 
-13. JESPER Publicer i 3 dele, sælge som bundle?
-14. JESPER Find en ny titel
-15. JESPER Find en bedre udgiver
-16. JESPER ? This work is licensed under CC BY-NC 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ 
-17. Overvej future contribution - hvordan? Contributors...
-18. ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
-19.  JESPER Opdater introduktionen med "Stop the Clock" og Omnibus-direktivet (tilbagerulning af CSRD-Direktivet og kravet om ESG-rapportering)
-
-**Guide for  sustainable digital**
--The computer professional's guide to social and planetary care
--On how to work sustainably with IT
-
-**DE PRAKTISKE**
-
-- Greening the stack: Digital sustainability from code to cloud  - Principles and practices for tech practitioners
-  
-- Greening the stack: Digital sustainability from code to cloud  - A comprehensive guide for tech practitioners
-  
-- Actionable digital sustainability - A guide for IT professionals navigating the twin transition
-
-- Principles and practices for sustainable IT - A handbook for developers, designers, and IT professionals
-  
-- Implementing green and responsible tech - A practical guide for the modern IT professional
-  
+	6. + Holistic approach
+3. Se "Rester som måske kan bruges"
+4. TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
+5. Check for footnotes - fix dem?
+6.  ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 
-**DEM MED TWIN TRANSITION (EU FOKUS)**
-
-- The Twin Transition Toolkit - Implementing Digital Sustainability in Practice
-  
-- Sustainable Digitalization - Principles and Practices for IT Professionals
-
-- Digital sustainability for IT professionals - Principles, practices, and actionable Strategies
-  
-- The Sustainable IT Professional's Handbook  Integrating Green Principles into Your Daily Work
-- Principles and Practices for Sustainable IT
-  
-- **The Twin Transition Toolkit:** Implementing Digital Sustainability in Practice.
-
-- Actionable Digital Sustainability - A Practical Handbook for IT Professionals
 # Introduction
 
 **Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure.**
 
-We are consuming earthly resources beyond our means and beyond the planet's limits. It is now up to us to change the way we live and work, both in real life and in the digital space. *This book is about how we can change our digital practices and habits in order to drive positive change in the world.*
+We are consuming earthly resources beyond our means and beyond the planet's limits. It is now up to us to change the way we live and work, both in real life and in the digital space. 
+
+***This book is about how we can change our digital practices and habits in order to drive positive change in the world.***
 
 If you work with digital technologies and you are ready to expand your knowledge about digital practices and sustainability, then this book is for you.  
 

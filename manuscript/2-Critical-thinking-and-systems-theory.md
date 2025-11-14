@@ -1,11 +1,6 @@
 {book: false, sample: false} 
 # TODO
-1. JESPER Hvad synes vi om denne formatering
-	1. Måske formater med breaks også i den forrige kapitel? 
-	2. Og fed skrift?
-	3. Og burbs? 
-	4. Og burbs som billedtekst?
-2. Hvad med he/she stringens? Og digitalization/digitization stringens
+
 
 # 2. Critical thinking and systems theory
 

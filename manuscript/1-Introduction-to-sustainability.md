@@ -1,10 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- Gennemgå hvordan du bruger *highlight* og **highlight**
-- Krydserefer kapitler fra teori og frem, fx sidst i et afsnit
-- Add citation baddies black eddar 
-- Harmuth Rosa reference about the unpredictable
-- Global edition - eksempler fra de største økonomier
+
 
 # 1. Setting the stage: Fundamental concepts of sustainability and digital development
 

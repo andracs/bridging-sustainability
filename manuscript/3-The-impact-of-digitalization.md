@@ -1,6 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- - Linje 203: evt kilde til de forskellige frameworks energiforbrug (hvor Ruby on Rails ligger øverst)
+- Linje 203: evt kilde til de forskellige frameworks energiforbrug (hvor Ruby on Rails ligger øverst)
 - Linje 219: kilde til at gøre Wordpress mindre energisulten: [https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/](https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/) / [https://fireflywebstudio.com/wordpress-website-hurting-environment/](https://fireflywebstudio.com/wordpress-website-hurting-environment/) - Jesper fra Advice sagde de var holdt op med at anbefale wordpress pga ubæredygtighed
 - Linje 265: erstat evt med Stolen Focus af Johann Hari
 - linje 284: Morozov skrev i the Net Delusion at det arabiske forår bare gjorde det nemmere for magthavere af finde aktiviisterne

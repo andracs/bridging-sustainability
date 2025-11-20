@@ -1,4 +1,4 @@
-{book: false, sample: false} 
+{book: false, sample: true} 
 # TODO
 - "An_Approach_to_Technical_AGI_Safety_Apr_2025"
 	- ![[Pasted image 20250414180450.png]]

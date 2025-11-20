@@ -14,7 +14,7 @@ Linje 135 - oprindeligt citat
 Linje 175 - website findes ikke mere
 Linje 184 n.d.
 
-{book: true, sample: true} 
+{book: true, sample: false} 
 # 7. Wellness, well-being and digitalization
 *"We are beginning to witness the emergence of a greater sense of collective responsibility and collective action in tech workers of all kinds, driven by their growing awareness of the urgency and importance of changing social course and by a renewed sense of solidarity..."* ([Becker 2023](https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just))
 

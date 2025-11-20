@@ -1,4 +1,4 @@
-{book: true, sample: false} 
+{book: false, sample: false} 
 # TODO
 
 - %%Replace først og så !!OK.  %%

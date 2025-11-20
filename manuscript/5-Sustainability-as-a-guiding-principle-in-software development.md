@@ -1,8 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- Afsnit om AI 
-	- Inkluder denne fra Jesper [AI energy transition oppportunity](https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works) 
-	- Og "An_Approach_to_Technical_AGI_Safety_Apr_2025"
+- "An_Approach_to_Technical_AGI_Safety_Apr_2025"
 	- ![[Pasted image 20250414180450.png]]
 
 # 5. Sustainability as a guiding principle in software development
@@ -44,9 +42,9 @@ This accelerated CD/CI approach presents both opportunities and challenges for s
 
 Ultimately, the choices made by software developers, programmers, and architects profoundly shape the final digital product's quality and impact. It matters immensely whether the algorithms you implement are efficient ← or → wasteful, fair ← or → biased, ethically sound ← or → problematic. These are critical decisions made daily, carrying significant responsibility for the software's broader consequences.
 
-## Software Energy Efficiency
+## Energy efficiency of software
 
-While all sustainability dimensions are relevant to software, energy efficiency often receives primary attention. Ideally, software should consume as little energy as possible, reducing both its environmental impact during use and operational energy costs. But how can we determine if software is energy efficient? Generally, measurement approaches fall into two categories: those performed during development and those tracking software in real-world use.
+While all five sustainability dimensions are relevant to software, energy efficiency often receives primary attention. Ideally, software should consume as little energy as possible, reducing both its environmental impact during use and operational energy costs. But how can we determine if software is energy efficient? Generally, measurement approaches fall into two categories: those performed during development and those tracking software in real-world use.
 
 ### Method 1: Controlled energy measurement during development
 
@@ -140,7 +138,6 @@ Illustrating this, one of the few software products certified with the Blue Ange
 
 Ecolabeling and standardization provide valuable benchmarks for developers striving for sustainability. While the landscape is still evolving, it is hoped that more opportunities will emerge to formally recognize sustainable software development through robust labeling schemes, standards, and shared best practices. In the meantime, existing schemes like the Blue Angel, alongside standards such as the _Software Carbon Intensity (SCI) specification_, the _Web Sustainability Guidelines (WSG)_, and the _SustainableIT Standards_, serve as important sources of inspiration and guidance. The latter, developed by a non-profit, offers over 200 guidelines for sustainable IT, many applicable to software development (read more about further details on relevant standardslater in this chapter).
 ## Sustainable system development
-
 Systems development is a discipline that uses proven methods such as the waterfall method, extreme programming or scrum to develop IT systems. What these methods have in common is that they span all phases of the SDLC and can influence the entire software development process. Therefore, it is essential that we include the aspects from the Karlskrona Manifesto in all phases of the SDLC and reflect on the sustainability aspects of the system development process.
 
 In the first chapter, we have already introduced the five sustainability dimensions of the manifesto, and now we will continue with the manifesto's nine principles for sustainable software engineering (sustainable software engineering). Together, these principles form one of the strongest guidelines available in the field of sustainable software engineering:
@@ -212,7 +209,6 @@ You can make a difference in the system development process, if you manage to se
 - What stories can we tell that show that software is good for the world in the long run?
 
 ### Green coding , programming and prompting
-
 After the initial stages of the SDLC, the practical development work, where the solution is programmed, also involves a number of considerations that can promote sustainable digital development. For example, which programming languages to use.
 
 ![Figure 5.3](resources/I_5.3.png "Using charts like this (Gordillo et al. 2024), developers can make more sustainable programming language choices based on energy consumption. Low-level languages like C and C++ are the most energy efficient, while higher-level languages like Ruby and Python consume more energy and therefore require extra focus on optimization. Note: Overviews like this are based on estimates and performance can vary significantly depending on language versions and specific implementations.")
@@ -240,7 +236,7 @@ When it comes to data design, finding the most efficient data formats for the so
 It is also becoming increasingly common for _data to have an expiration time_. It is not only system logs that are deleted after a given time, but personal data should also be removed after a few months if it is not actively in use (as per the General Data Protection Regulation in EU). It is a good practice to program data structures that have a clear lifecycle with an expiration date and an automated system that cleans up after the expiration date.
 
 The previously mentioned SustainableIT Standards highlight three essential topics data management: *data security, data privacy and data utilization* (SIT G 210, 220 and 230). For each area, there are specific metrics to measure business performance. _In data security,_ you can look at updating security policies, security incidents and employee training, among other things. _Data protection_ includes control over personal data, complaints about data misuse and stakeholder engagement. _Data usage_ focuses on data usage governance, data breaches and transparency of data usage and its environmental impact. It is important to understand how our software addresses these governance issues.
-### The impact of algorithms on user experience
+### The impact of algorithms on sustainability
 We can develop many different algorithms to solve a given problem, but some algorithms will be more efficient than others. _Algorithmic complexity_ can indicate how resource-intensive a given algorithm is. 
 
 To be frugal with resources, programmers should always aim to develop the least complicated algorithms that can still solve the task satisfactorily. The _Big-O notation_ can be used to describe the efficiency of an algorithm, especially in terms of time and space (memory) as a function of input size ([Mala & Ali 2022](https://www.hillpublisher.com/ArticleDetails/831)). Big-O provides an upper bound on how the running time or space consumption of the algorithm grows as the input size becomes large. This knowledge can be used to optimize the algorithms.
@@ -295,11 +291,12 @@ Lannelongue's working group is based in the kind of computationally intensive ac
 Software architecture is a discipline that draws the overall lines of larger and more complex software solutions. How should the code be structured? How should the subsystems interact? How can the systems scale? How can the system be made robust, secure and resilient?
 
 Software architects make high-level design decisions and devise how different software components and modules can work together optimally to fulfill the functional and non-functional requirements of software systems. At the end of the day, these design decisions have significant sustainability impacts and should therefore take into account the five dimensions of sustainability. But where is the line between software and hardware platform sustainability? In the figure below, you can see how software sustainability is delineated from infrastructure sustainability.
+
 ![Figure 5.4](resources/I_5.4.png "Responsibility for sustainability is shared between cloud provider and cloud user. The software developer contributes by optimizing code efficiency, deployment, scaling and utilization. At the same time, the cloud provider takes care of 'infrastructure sustainability', which includes elements such as electricity, servers, cooling, water and waste. The illustration is from 'AWS Well-Architected Framework, Sustainability Pillar', which is Amazon's take on good software architecture. Source: Eisele 2022.")
 
 According to Amazon's AWS Well-Architected Framework, good software architecture should be based on expertise, security, reliability, performance efficiency, cost optimization - and new: sustainability ([Eisele 2022](https://www.redhat.com/en/blog/sustainable-software-architecture-architects)). The illustration shows the responsibilities of the cloud provider and the cloud user respectively, but it can also be interpreted more generally. One area of focus is the sustainability of the infrastructure itself, which includes power supply, buildings, operations, servers, cooling systems, networks, water supply and waste management. This will often be the responsibility of the data center. The remaining sustainability choices are the responsibility of the software developer and cover topics such as code efficiency, deployment, scaling and software design. AWS' model can help draw a clear division of responsibilities between the data center and its users. Many of the larger cloud providers such as Microsoft Azure or Google Cloud have similar guides for their platform.
 
-One situation that software architects should try to avoid as much as possible is vendor lock-in . If the software architecture is built on a _proprietary technology_ (a unique, branded system) that only one vendor can provide and this technology turns out to be inappropriate, then you are locked in and cannot switch to other vendors. _Open standards_ and _open source_ can be a solution here, as open technologies make it possible (in theory) to change suppliers and solutions.
+One situation that software architects should try to avoid as much as possible is vendor lock-in. If the software architecture is built on a _proprietary technology_ (a unique, branded system) that only one vendor can provide and this technology turns out to be inappropriate, then you are locked in and cannot switch to other vendors. _Open standards_ and _open source_ can be a solution here, as open technologies make it possible (in theory) to change suppliers and solutions.
 
 _Design patterns_ (software patterns) are another tool in the sustainability toolbox. Design patterns are good, proven solutions to familiar problems that can be reused in similar situations. When a developer or architect says, "Hey, I've seen this technical challenge before and it usually can be solved with...", they are applying a software pattern or design pattern. There are many different design patterns, including design patterns for software architecture (architectural patterns), but in the context of this chapter we are most interested in "green patterns" and design patterns for sustainable software development. The Green Software Foundation is working to collect examples of green software patterns for e.g. web development, cloud and AI in a comprehensive catalog ([Green Software Foundation 2024c](https://patterns.greensoftware.foundation/)).
 
@@ -324,6 +321,8 @@ A concrete example of automation that can reduce energy consumption and CO2 emis
 ## Summary: What can you take away from this chapter?
 
 _Sustainable software is a difficult concept_. How can you even talk about the energy consumption of software when it doesn't use energy itself? Only hardware can use energy, but because it is the software that controls the hardware, software development is well placed to influence the energy consumption of digital solutions through the algorithms and data structures that make up the software. 
+
+According to a [major new IEA report](https://www.iea.org/news/ai-is-set-to-drive-surging-electricity-demand-from-data-centres-while-offering-the-potential-to-transform-how-the-energy-sector-works), global electricity demand from data centers is projected to more than double by 2030, driven by the rapid expansion of artificial intelligence. This could be very harmful for the climate, but at the same this development has a significant potential to revolutionize the energy sector by optimizing grid efficiency, enhancing security, and accelerating the transition to renewable energy.
 
 But sustainability is not just about energy consumption, and when it comes to the economic, technological, societal and individual sustainability aspects of software, algorithms play an even more significant role.
 

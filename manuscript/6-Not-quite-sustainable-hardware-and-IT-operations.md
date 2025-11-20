@@ -1,37 +1,37 @@
 {book: false, sample: false} 
 # TODO
 Line 36: Euros
-Framework & social sustainability?! https://mntre.com/
 Line 46: Source: Framework n.d.
-Line 143. •	The IT industry's nine recommendations for companies' green IT transition. (dansk)
+Line 143. - The IT industry's nine recommendations for companies' green IT transition. (dansk)
 Har vi brugt dette https://www.w3.org/TR/web-sustainability-guidelines/ 
 Line 148 - dansk case...
 Line 182: (SustainableIT.org n.d.)
 
 {book: true, sample: true} 
 # 6. (Not quite) sustainable hardware and IT operations
-The waves of digitalization have - slowly but surely - washed over our everyday lives and society over the past decades. Computers that once took up an entire room have now become small personal devices. Technology is taking up less and less space and becoming more integrated into our lives. We now have laptops, smartphones, smartwatches, smart rings and even smart homes where our devices communicate with each other. But we also have huge data centers that take up multiple warehouses and suck energy similar to big cities.
+The waves of digitalization have - slowly but surely - washed over our everyday lives and society over the past decades. Computers that once took up an entire room have now become small personal devices. Technology is taking up less and less space and becoming more integrated into our lives. We now have laptops, smartphones, smartwatches, smart rings, smart cars and even smart homes where our devices communicate with each other. But we also have huge data centers that take up multiple warehouses and suck energy similar to big cities.
 
-Electrification has also transformed our means of transportation, and today our cars can run on electricity from renewable energy sources. Information technology is playing an increasingly important role in virtually every sector and industry, including the automotive industry, where modern cars are now equipped with multiple digital screens and smart features. But it doesn't stop there.
+Electrification has transformed our means of transportation, and today our cars can run on electricity from renewable energy sources. Information technology is playing an increasingly important role in virtually every sector and industry, including the automotive industry, where modern cars are now equipped with multiple digital screens and smart features. But it doesn't stop there.
 
 According to long-term forecasts from engineering company DNV, even more industries will be electrified in the coming decades (DNV 2023). When something goes from an internal combustion engine to an electronic mechanism, as we've seen with petrol cars that have become electric cars, digitalization also comes with it. The machines are not only connected to the power grid, they are also connected to data networks (usually the internet). And it's not just cars that are going this way, many other areas of industry are also being electrified. DNV points out that as we electrify more and more technological processes, the connection between them will increase, creating an even more connected world. We are therefore on the threshold of seeing even more waves of development in digitalization.
+
 This digitalization is expected to continue to spread to more and more areas, and there is a huge potential to base this development on a sustainable foundation. The work of designing the digital processes of the future must start now. The more sustainable hardware we can build on, the greater the hope that future technologies will be responsible and beneficial for both people and the planet.
 
 But how can hardware and networks become sustainable? In the previous two chapters, we explored how digital design is used to create prototypes and blueprints for digital products and how these designs are translated into working software. Now we shift gears and turn our attention to the physical and operational aspects of sustainability in the IT world. This chapter explores how sustainability can be integrated into the more tangible technologies - from the hardware components that power the digital revolution to IT operations and data centers.
-(Not quite) sustainable electronics products
+
+## (Not quite) sustainable electronics products
 Let's start with three concrete examples and see how companies are trying to develop hardware products that are as sustainable as possible.
 
-## "The Fair Computer Mouse "
-"Think fair trade coffee, clothing and even tombstones and wedding rings. But what about computers, smartphones and other electronics?" Sales text from the Nager IT website
-Fortunately, more and more companies are working to drive hardware development in a more sustainable direction. As an experiment, German company Nager IT took a computer mouse and rethought how it could be produced more sustainably. Their product, "Die Faire Computermaus " (which you can see in Figure 6.1), was launched in 2012 with the goal of promoting humane working conditions in hardware production (Nager IT 2024).
-[Figure inserted from file with all figures]
- 
- Figure 6.1. A simple mouse developed by Nager IT, which is more fair and sustainable than competitors' products.
+### "The Fair Computer Mouse "
+*"Think fair trade coffee, clothing and even tombstones and wedding rings. But what about computers, smartphones and other electronics?"* - Sales text from the [Nager IT ](https://www.nager-it.de/en)website
 
-Although the mouse may no longer be a technological marvel and has a slightly old-fashioned design, it is still unique. It is produced in Regensburg, Germany, in a factory where working conditions are good and where they actively employ people with disabilities who would otherwise have difficulty finding work. A special feature of the mouse is that its swivel wheel is made of wood - a symbol of how sustainability can be integrated into technology. In figure 6.2 you can see Nager IT's overview of how sustainable the mouse components are.
-[Figure inserted from file with all figures]
- 
-Figure 6.2 Sustainable, semi-sustainable and unsustainable components of the Nager IT mouse.
+Fortunately, more and more companies are working to drive hardware development in a more sustainable direction. As an experiment, German company Nager IT took a computer mouse and rethought how it could be produced more sustainably. Their product, "Die Faire Computermaus " (which you can see on the figure below), was launched in 2012 with the goal of promoting humane working conditions in hardware production ([Nager IT 2024](https://www.nager-it.de/en)).
+
+![FairMouse](resources/I_6.1.png "A simple mouse developed by Nager IT, which is more fair and sustainable than competitors' products.")
+
+Although the mouse may no longer be a technological marvel and has a slightly old-fashioned design, it is still unique. It is produced in Regensburg, Germany, in a factory where working conditions are good and where they actively employ people with disabilities who would otherwise have difficulty finding work. A special feature of the mouse is that its swivel wheel is made of wood - a symbol of how sustainability can be integrated into technology. In the figure below, you can see Nager IT's overview of how sustainable the mouse components are.
+
+![FairMouse Materials](resources/I_6.2.png "Sustainable, semi-sustainable and unsustainable components of the Nager IT mouse.")
 
 Nager IT has put a lot of effort into mapping, optimizing and publishing the entire mouse supply chain. Among other things, they use bioplastics made from sugar cane instead of mineral oil. The solder in the mouse is recycled from electronic waste and all components can be ordered as spare parts, making repair possible.
 
@@ -39,46 +39,56 @@ At the time of writing, the price of the mouse is approximately 35 euros, which 
 
 The supply chain of this small and relatively simple hardware device illustrate how hardware manufacturers can try to understand and control their supply chains. The mouse is assembled at the manufacturer itself in Germany and also shipped from the manufacturer, and this part of the production is sustainable. The packaging and labeling are also green, and here you can also talk about good sustainability in working conditions and local communities. The closer we are to the end product (the mouse) in the supply chain, the more control Nager IT has over sustainability. But the further out in the supply chain, the less control and the less knowledge the company has in relation to its suppliers. It is uncertain or unknown whether the subcontractor's suppliers are also sustainable. At some points in the chain, there are more and more suppliers who cannot demonstrate the desired level of sustainability. The outermost suppliers in the chain are almost all unsustainable with a few exceptions, which means that Die Faire Computermaus cannot claim to be much more sustainable than its competitors at this level.
 
-{book: false, sample: false} 
-Ang. Framework - synes bare vi også skal de nævne et par andre alternativer (MNT), så er der også lidt til det lille mindretal af folk der er blevet sure på framework.
-## Framework : laptops
-"In every choice we make, we think through the impact on people and the planet." (Framework n.d.)
+## Building less unsustainable computers
+The case of the fair mouse shows, that it is very difficult to build a simple piece of hardware, which is truly sustainable. Despite great efforts, the current state of technology only allows us to make hardware that is "more sustainable" than the rest, rather than truly green. It will take us decades, if not centuries, to build truly recyclable and fair computing hardware solutions. Nevertheless, there is a strong movement for more sustainable computing, where producents focus on different aspects of challenging the status quo.
 
-Nirav Patel, the founder of Framework, has set out to create laptops that last longer than most. The goal is not just to prevent them from breaking and being discarded, but to ensure they can be repaired, expanded and upgraded. While the idea that a laptop is made up of components is nothing new, the Framework stands out by enabling users to assemble, repair and upgrade their laptops themselves as technology evolves. See an example of the computer in Figure 6.3.
-[Figure inserted from file with all figures]
+Berlin-based MNT Research is "driven by the idea of a digital future that is open source, collaborative, and modular." By emphasizing the importance of open sourcing hardware, they push hardware development into a more collaborative than competitive direction, which could theoretically enable hardware manufacturers to develop better technology by being able to build upon each other's inventions. Unfortunately, this approach has yet to prove its viability at scale. While open source software has taken over  the world, and is used at large scale, open source hardware is still a niche. We can only hope, that companies like MNT are pushing the development in this direction.
+
+Nirav Patel, the founder of the company Framework, has set out to create laptops that last longer than most. The goal is not just to prevent them from breaking and being discarded, but to ensure they can be repaired, expanded and upgraded. While the idea that a laptop is made up of components is nothing new, the Framework stands out by enabling users to assemble, repair and upgrade their laptops themselves as technology evolves. See an example of the repairable computer on the figure below.
+
+![Framework](resources/I_6.3.png "'In every choice we make, we think through the impact on people and the planet.' Framework's laptop can be easily disassembled and reassembled with a screwdriver. Source: Framework n.d.")
+
+This approach, where users can replace components like the motherboard, battery, storage and even ports, stands in stark contrast to the typical trend of non-upgradable, disposable electronics products. Most laptops are difficult to repair because, they are not designed for being repairable. Lack of drawings, tools, documentation and spare parts make repairs cumbersome and costly, often leading to a better financial decision to buy new.
+
+Framework's strategy for upgrades and repairs is expected to significantly extend the life of the devices while reducing electronic waste. The laptop comes with tools and repair manuals so that even users with minimal technical experience can make repairs. Each component of a newer Framework laptop has a QR code that provides access to documentation, repair guides, replacement and upgrade parts, and insights into design and manufacturing data. Furthermore, Framework embraces the open source philosophy and publishes designs and documentation for some of their hardware under open source licenses on GitHub. Their hardware also supports many different operating systems, including open source systems.
+
+While the challenges of creating a product like Framework are significant, they are not insurmountable. Producing laptops in this way is more expensive, which also makes Framework's products more expensive than comparable laptops. However, it can be argued that the longer lifespan makes the additional cost worth paying. To support the extended lifespan of their laptops, users will be able to buy spare parts for a long time - which can also prove to be costly, both for Framework and for customers. Keeping hardware secure also requires continuous updates of drivers and firmware as well as close collaboration with suppliers and the open source community, which will also be costly in the long run. Framework wants to put a concrete figure on how long they support their hardware with software updates, but they are not yet able to do so because this also depends on their suppliers ([Patel 2024](https://frame.work/dk/en/blog/enabling-software-longevity)).
+
+The company has created an external "[Life Cycle Assessment of the Framework Laptop 2022"](https://downloads.frame.work/resources/Framework-Life-Cycle-Report.pdf), which explains in detail how Framework tries to minimize environmental impact through recycled materials and energy efficient production. However, their biggest contribution to sustainability lies in extending the lifespan of the laptop through easy repair and upgrades, reducing electronic waste.
+
+Framework is a good example of a hardware brand that wants to differentiate itself on sustainability. In the longer term, we can hope that Framework will also focus on economic and social sustainability. For example, they could implement fairer working conditions with their suppliers or use more ethically sourced materials - and still have a healthy economy in the long run. 
+
+Unfortunately, building more sustainable computers is still a niche. The major computer manufacturers are stuck in their traditional and unsustainable workflows, but fortunately, also they are beginning to focus on more sustainable production practices, such as fair use of materials and repairability. But if neither legislation nor customer demand are driving the development of more fair computers, the major manufacturers are not going to move into more sustainable directions. It is than up to smaller, visionary manufacturers to driv the change. Besides MNT Research and Framework, there are a few other laptop manufacturers working for "less unsustainable computers", as for example:
  
-Figure 6.3 Framework's laptop can be easily disassembled and reassembled with a screwdriver. Source: Framework n.d.
-
-This approach, where users can replace components like the motherboard, battery, storage and even ports, stands in stark contrast to the typical trend of non-upgradable, disposable electronics products. Most laptops are difficult to repair because they are not designed for it. Lack of drawings, tools, documentation and spare parts make repairs cumbersome and costly, often leading to a better financial decision to buy new.
-Framework's strategy for upgrades and repairs is expected to significantly extend the life of the devices while reducing electronic waste.  The laptop comes with tools and repair manuals so that even users with minimal technical experience can make repairs. Each component of a newer Framework laptop has a QR code that provides access to documentation, repair guides, replacement and upgrade parts, and insights into design and manufacturing data. Furthermore, Framework embraces the open source philosophy and publishes designs and documentation for some of their hardware under open source licenses on GitHub. Their hardware also supports many different operating systems, including open source systems.
-
-While the challenges of creating a product like Framework are significant, they are not insurmountable. Producing laptops in this way is more expensive, which also makes Framework's products more expensive than comparable laptops. However, it can be argued that the longer lifespan makes the additional cost worth paying. To support the extended lifespan of their laptops, users will be able to buy spare parts for a long time - which can also prove to be costly, both for Framework and for customers. Keeping hardware secure also requires continuous updates of drivers and firmware as well as close collaboration with suppliers and the open source community, which will also be costly in the long run. Framework wants to put a concrete figure on how long they support their hardware with software updates, but they are not yet able to do so because this also depends on their suppliers (Patel 2024).
-
-The company has created an external "Life Cycle Assessment of the Framework Laptop 2022", which explains in detail how Framework tries to minimize environmental impact through recycled materials and energy efficient production. However, their biggest contribution to sustainability lies in extending the lifespan of the laptop through easy repair and upgrades, reducing electronic waste.
-Framework is a good example of a hardware brand that wants to differentiate itself on sustainability. In the longer term, we can hope that Framework will also focus on economic and social sustainability. For example, they could implement fairer working conditions with their suppliers or use more ethically sourced materials - and still have a healthy economy in the long run.
-
-
-
+- **Star Labs** laptops are made specifically for Linux, anf they combine custom chassis designs with open firmware (Coreboot) and a full spare parts shop.
+    
+- **System76** engineers and manufactures premium Linux computers and keyboards, and advocates for open ecosystems and offers "Lifetime Support," and highly repairable Linux laptops.
+    
+- **Tuxedo Computers** emphasizes fair production and hardware longevity. Their computers offer deep software customization and accessible, user-serviceable internals.
+  
+- **NovaCustom's** slogan is *"Own. Your. Tech."*, and the Dutch company focuses on enabling their customers building their own Linux laptops for security & privacy. Their computers are based on open firmware (Dasharo), and they pledge for 5–7 years of spare part availability.
+  
+Although these manufacturers are making a great effort for building more fair computers, it is important to keep in mind, that the most sustainable computers are the ones, which do not have to be built from new resources. There are several companies, who are doing great work on refurbishing computers from major vendors, and selling them with support. Refurbishing is saving the earth's resources, because fewer new materials are required for refurbishment, than building new. Not to mention, that refurbished hardware is often cheaper than the new counterparts.  
 ## Fairphone, a more fair smartphone
-Our third product story is about a fair smartphone, the Fairphone.  Designer and entrepreneur Bas van Alber was fascinated by the idea that we can turn pieces of stone into something as complex as a smartphone. In the course of developing a "fairer phone" - a cell phone whose creation is fairer to nature and people - he visited cobalt mines in Congo and electronics factories in China to understand how to design a smartphone that is more sustainable. Consumers are starting to demand green digital products, but the task of designing a "fair phone" is enormous: over 60 minerals from around the world are used in the production of a smartphone and the phone consists of around 1,000 components (Monique 2024). This is a picture that characterizes almost all IT hardware.
+Our third product story is about a fair smartphone, the Fairphone. Designer and entrepreneur Bas van Alber was fascinated by the idea that we can turn pieces of stone into something as complex as a smartphone. In the course of developing a "fairer phone" - a cell phone whose creation is fairer to nature and people - he visited cobalt mines in Congo and electronics factories in China to understand how to design a smartphone that is more sustainable. Consumers are starting to demand green digital products, but the task of designing a "fair phone" is enormous: over 60 minerals from around the world are used in the production of a smartphone and the phone consists of around 1,000 components. This is a picture that characterizes almost all IT hardware.
 
-There are hundreds of suppliers in the process, and even the suppliers themselves have hundreds of subcontractors, so it is very difficult or even impossible to understand the entire supply chain. Van Alber and his team realized that the change can't be made in one fell swoop and they can't create a truly sustainable smartphone with the technological possibilities available today. However, they believe that with a pragmatic approach to their work, they can gradually develop smartphones that become more and more sustainable.
+There are dozens of suppliers in the process, and even the suppliers themselves have dozens of subcontractors, so it is very difficult or even impossible to understand the entire supply chain. Van Alber and his team realized that the change can't be made in one fell swoop and they can't create a truly sustainable smartphone with the technological possibilities available today. However, they believe that with a pragmatic approach to their work, they can gradually develop smartphones that become more and more sustainable.
 
-Fairphone's efforts in 2023 focused on a few selected areas around material selection, working conditions, climate and e-waste (Monique 2024). Their efforts to create more sustainable smartphones are supported by a circular production model that makes it easier to recycle and repair while cutting down on electronic waste. "If you can't open it, you don't own it" is one of Fairphone's slogans. That's why the smartphone is designed for longevity , modular upgrades and easy repair to ensure that the phone's hardware and software lasts as long as possible. This reduces the number of smartphones produced and the carbon footprint of production and its supply chains. Conversely, it also reduces the company's revenue when it takes longer for customers to change their cell phones. Companies need to think outside the box to generate revenue in new ways, such as services, subscriptions, spare parts and upgrades.
-They work closely with their suppliers to ensure responsible use of materials. One example of this is their focus on conditions in e.g. Congo's cobalt mines, where child labor and lack of safety are still a problem. Fairphone preferably uses materials that are recycled or sustainably and ethically sourced. They also actively engage in alliances and campaigns to make both industry and consumers more aware of sustainability. All this means that while their products are more sustainable, they also feel a bit more bulky than their competitors in the same price range.
+Fairphone's efforts in 2023 focused on a few selected areas around material selection, working conditions, climate and e-waste ([Monique 2024](https://www.fairphone.com/en/2024/06/07/dont-read-our-2023-impact-report-read-this-instead/)). Their efforts to create more sustainable smartphones are supported by a circular production model that makes it easier to recycle and repair while cutting down on electronic waste. "If you can't open it, you don't own it" is one of Fairphone's slogans. That's why the smartphone is designed for longevity, modular upgrades and easy repair to ensure that the phone's hardware and software lasts as long as possible. This reduces the number of smartphones produced and the carbon footprint of production and its supply chains. Conversely, it also reduces the company's revenue when it takes longer for customers to change their cell phones. Companies like Fairphone need to think outside the box to generate revenue in new ways, such as services, subscriptions, spare parts and upgrades.
+
+They work closely with their suppliers to ensure responsible use of materials. One example of this is their focus on conditions in Congo's cobalt mines, where child labor and lack of safety are still a problem. Fairphone preferably uses materials that are recycled or sustainably and ethically sourced. They also actively engage in alliances and campaigns to make both industry and consumers more aware of sustainability. All this means that while their products are more sustainable, they also feel a bit more bulky than their competitors in the same price range.
 
 On the social side, Fairphone emphasizes job satisfaction by ensuring fair wages, good working conditions and opportunities for development. They prioritize transparency in everything they do and use smart software tools to manage large amounts of data and tell their sustainability stories in a simple and effective way - both internally and externally.
-A cornerstone of Fairphone's business operations is transparency and a high level of information at all levels, so that the company's employees and customers always have up-to-date information about the various aspects of the operation, such as working conditions at subcontractors, drawings and designs of the mobile phone's structure - and insight into the ways in which their products are used. Information is operationalized both internally and externally by telling the sustainability stories that drive development.
-Information is also used for business management through key performance indicators (KPIs), which are selected measures of company objectives. Some of Fairphone's KPIs are traditional financial metrics such as net profit or turnover of mobile phones, while other KPIs are dedicated sustainability objectives such as "fair factories" and "fair materials" (see figure 6.4).
-[Figure inserted from file with all figures]
- 
-Figure 6.4 Key performance indicators (KPIs) that reflect Fairphone's sustainability objectives in relation to its mission and positive impact on the industry.
 
-Fairphone assumes that their sustainability focus and stories can attract customers to their business, and they therefore keep their business operations transparent to everyone. They use activist storytelling to tell sustainability stories to their potential customers. The call to action is: "Start a conversation about positive change in your company and join the movement for fair electronics. We need more voices to spread the word - tell the Fairphone story to your colleagues and get your business involved!" To support this initiative, Fairphone is encouraging their customers to take concrete actions such as:
+A cornerstone of Fairphone's business operations is transparency and a high level of information at all levels, so that the company's employees and customers always have up-to-date information about the various aspects of the operation, such as working conditions at subcontractors, drawings and designs of the mobile phone's structure - and insight into the ways in which their products are used. Information is operationalized both internally and externally by telling the *sustainability stories* that drive development.
+Information is also used for business management through key performance indicators (KPIs), which are selected measures of company objectives. Some of Fairphone's KPIs are traditional financial metrics such as net profit or turnover of mobile phones, while other KPIs are dedicated sustainability objectives such as "fair factories" and "fair materials" (see figure below).
+ ![Fairphone KPIs](resources/I_6.4.png "Key performance indicators (KPIs) that reflect Fairphone's sustainability objectives in relation to its mission and positive impact on the industry.")
 
-•	Sharing facts from their "Fact Sheet" on sustainable initiatives.
-•	Engagement in workshops and community forums, for example on urban mining.
-•	To act as ambassadors actively spreading the message of fair electronics (Fairphone Community 2024)
+Fairphone assumes that their sustainability focus and stories can attract customers to their business, and they therefore keep their business operations transparent to everyone. They use *activistic storytelling* to tell sustainability stories to their potential customers. The call to action is: "Start a conversation about positive change in your company and join the movement for fair electronics. We need more voices to spread the word - tell the Fairphone story to your colleagues and get your business involved!" To support this initiative, Fairphone is encouraging their customers to take concrete actions such as:
+
+- Sharing facts from their "Fact Sheet" on sustainable initiatives.
+- Engagement in workshops and community forums, for example on urban mining.
+- To act as ambassadors actively spreading the message of fair electronics ([Fairphone Community 2024](https://www.fairphone.com/en/community/))
 
 In addition, they also have the ambition to entice competitors in more sustainable directions by, for example, inviting, inspiring and challenging other mobile phone manufacturers. These are strategies that other companies can also use to their advantage when working with sustainability.
 
@@ -86,24 +96,24 @@ Transparency applies not only to key metrics, but also to product design and sof
 
 Standards and certifications help Fairphone and many other companies to become more sustainable. In Fairphone's case, the company is helping to both develop new best practices for the mobile phone industry and to comply with various schemes such as the use of Fairtrade certified gold, EcoVadis Rating and B Corporation certification.
 
-EcoVadis Rating (Ecovadis 2024) is a scoring system that ranks companies' environmental, labor, human rights, ethical and sustainable procurement practices, and each company can receive a bronze, silver or gold rating depending on its sustainability practices.
+EcoVadis Rating ([Ecovadis 2024](https://ecovadis.com/about-us/)) is a scoring system that ranks companies' environmental, labor, human rights, ethical and sustainable procurement practices, and each company can receive a bronze, silver or gold rating depending on its sustainability practices.
 
-The B Corporation certification (B Corp 2024) is a similar certification that requires a periodic measurement of the company's social and environmental footprint, which is quantified and expressed in an overall score. This score is published after each audit, and the certification can help the company improve its practices in a more sustainable direction year after year.
+The B Corporation certification ([B Corp 2024](https://www.bcorporation.net/en-us/certification/)) is a similar certification that requires a periodic measurement of the company's social and environmental footprint, which is quantified and expressed in an overall score. This score is published after each audit, and the certification can help the company improve its practices in a more sustainable direction year after year.
 
 Fairphone's various reactive and proactive measures can serve as inspiration for companies to work with the different sustainability dimensions of the product: social, individual, environmental, economic and technical.
 
-The case also shows that it takes a lot of time and resources to drive development in the desired direction. There are no quick fixes - there is a long road to circular smartphones. Just as a self-sufficient agriculture could provide society with sustainable livelihoods for many millennia, we are still waiting for the really good, sustainable and circular examples of information technology.
+The case also shows that it takes a lot of time and resources to drive development in the desired direction. There are no quick fixes - there is a long road to circular smartphones. Just as a self-sufficient agriculture could provide society with sustainable livelihoods for many millennia, we have a lot of work to do ahead for sustainable and circular examples of information technology.
 
 ## On the road to sustainable information technology
-Although companies like Nager IT, Framework and Fairphone have made significant efforts to promote sustainability, they still face the challenge that their products cannot fully qualify as sustainable. Unfortunately, the global electronics industry is still based on unsustainable models, characterized by intensive extraction of raw materials, globalized capitalist structures, use-and-throw-away products and, in some cases, unethical practices.
+Although companies like Nager IT, Framework and Fairphone have made significant efforts to promote sustainability, they still face the challenge that their products cannot fully qualify as sustainable. Unfortunately, the global electronics industry is still mostly operating with unsustainable models, characterized by intensive extraction of raw materials, globalized capitalist structures, use-and-throw-away products and, in some cases, unethical practices.
 
 What the three companies have in common is that they are relatively new and have sustainability as their foundation. The question is whether they can compete financially with the less sustainable competitors in the long term. We hope so, but there is a risk that these companies will not be able to sustain themselves in the long run. Sustainable hardware can only thrive if there is an incentive for consumers to pay a higher price for these products.
 
 When innovation is focused on sustainability, there are fewer resources to develop new features, which means that sustainable products can often be a step behind technologically - yet they have the potential to catch up. And as seen with the mouse, which has yet to go wireless, it can take longer for these companies to incorporate new technologies as their development resources are used for sustainability initiatives such as lifetime extension or cradle-to-cradle design. Nevertheless, Nager IT, Framework and Fairphone have managed to create products that have gained some popularity, showing that there is a sustainability narrative and quality that appeals to consumers.
 
-The examples we have discussed focus on consumer electronics, and we have not touched on server products, networking equipment or other types of hardware such as IoT and embedded systems. This is because it is mainly individual consumers who are increasingly demanding sustainable electronics, while businesses are not yet doing so. Businesses are still driven by a profit-oriented logic and are not ready to pay a premium price for sustainable hardware components. This is an obvious area where you can make the world a better place: demand more sustainable hardware solutions in your company - and from your suppliers.
+The examples we have discussed focus on consumer electronics, and we have not touched on server products, networking equipment or other types of hardware such as IoT and embedded systems. This is because it is mainly individual consumers who are increasingly demanding sustainable electronics, while businesses are not yet doing so. Businesses are still driven by a profit-oriented logic and are not ready to pay a premium price for sustainable hardware components. This is an obvious area where *you* can make the world a better place: demand more sustainable hardware solutions in your company - and from your suppliers.
 
-Despite this, we are seeing positive signs across the electronics industry, with more companies trying to improve their sustainability profile. Large chip manufacturers such as Nvidia, Intel and AMD have taken steps to promote sustainability, but their efforts are often limited. The difference between these larger companies and the smaller, more sustainability-oriented manufacturers lies in the approach: the big players often continue with a traditional business model and only occasionally try reactive sustainability initiatives, while the smaller companies have integrated a proactive approach to sustainability into all their processes.
+We are also seeing positive signs across the electronics industry, with more companies trying to improve their sustainability profile. Large chip manufacturers such as Nvidia, Intel and AMD have taken steps to promote sustainability, but their efforts are often limited. As these companies are primarily profit-driven, they will only embrace sustainable practices as the market requires and the regulation dictates. The difference between these larger companies and the smaller, more sustainability-oriented manufacturers lies in the approach: the big players often continue with a traditional business model and only occasionally try reactive sustainability initiatives, while the smaller companies have integrated a proactive approach to sustainability into all their processes.
 
 We hope that the future will bring more companies that fully commit to producing sustainable hardware products and that these companies will achieve long-term financial success. If this does not happen, it may indicate the need for (global) action and regulation to curb unsustainable production practices and promote fully sustainable solutions.
 
@@ -111,25 +121,30 @@ We hope that the future will bring more companies that fully commit to producing
 When considering what has proven to be sustainable in the long term, we can take inspiration from farming systems that have worked for millennia, such as the cultivation of dates, figs and grapes. These crops have been cultivated for generations in the right climate zones without depleting natural resources. In this spirit, we can imagine what a fully sustainable smartphone could look like in the future - as a thought experiment for circular hardware production.
 
 For a computer to be truly sustainable, the raw materials used must be renewable in a continuous cycle, year after year. An ideal sustainable phone could be biodegradable, which would ensure that it does not become waste even if left in nature. Alternatively, an effective deposit system could be implemented, like we know from bottles, where a deposit on phones would create an incentive to return and reuse all components. This would ensure that raw materials are recycled efficiently and reduce the need for new extraction.
+
 The production process would have to be based entirely on renewable energy sources and all resources such as raw materials and water would have to be recycled with high efficiency. Today, a cell phone requires over 60 different minerals that are transported globally before being assembled into a finished product. Unfortunately, these raw materials are rarely recycled and often end up as waste in landfills around the world.
-A fully sustainable phone could potentially consist of components that can be grown and recycled locally. While this may seem utopian, there is already research underway aimed at developing organic computers. These research projects are exploring the possibility of creating computers based on organic materials such as fungi, DNA or cultured nerve cells. Although these "computers" are still at a very early stage, comparable to the first primitive calculators, they show that it is possible to implement basic computational and logic circuits with organic materials (Hu 2023).
+
+A fully sustainable phone could potentially consist of components that can be grown and recycled locally. While this may seem utopian, there is already research underway aimed at developing organic computers. These research projects are exploring the possibility of creating computers based on organic materials such as fungi, DNA or cultured nerve cells. Although these "computers" are still at a very early stage, comparable to the first primitive calculators, they show that it is possible to implement basic computational and logic circuits with organic materials ([Hu 2023](https://www.popsci.com/technology/unconventional-computing-lab-mushroom/)).
 
 It is clear that we must evolve our current technology and direct future information technology towards sustainable hardware solutions. If we continue with our current approach, we risk running out of the essential raw materials that our current technology relies on.
 
-Lo-fi computing , low carbon computing, collapse informatics
-What we are really asking is whether there can be a place for computing and networking technology in a world where humans contribute to the well-being of the biosphere instead of destroying it? And if so, how? (Permacomputing  2024 )
+## Lo-fi computing, low carbon computing, collapse informatics
+*"What we are truly asking is whether or not there can be a place for computer and network technology in a world where humans contribute to the well-being of the biosphere rather than destroy it? And if yes, how?" (Permacomputing  2024)*
+
 There must be room for information technology in a sustainable future. The discussion about the sustainability of IT itself has long been overshadowed by notions of the sustainability benefits that IT is thought to be a prerequisite or guarantor of.
 
-In the following you can read about various movements in IT and computer science that focus on the sustainability of technology itself. There are many terms for the class of movements that focus on this; permacomputing , lo-fi computing, junkyard computing, collapse informatics, etc.  They are at a different end of the spectrum than, for example, Microsoft and OpenAI's plans for the $100 billion "Stargaze" supercomputer (Moss 2024). That computer is planned to be powered by nuclear energy, will rely on an advanced social structure and will of course be built by elite engineers with modern and innovative materials. Lo-fi computing is a completely different story.
-Low carbon computing is a response to the high energy consumption of IT and the projected energy consumption of information technology in the future. It is estimated to be about twice as high as it is now, and three to four times higher by 2040. The only thing to do is to start "treating computational resources as finite and precious, to be used only when necessary and as efficiently as possible. As we have also seen in the GREENER principles, we need frugal computing [frugal computing ], where we can achieve comparable results for less energy." (Vanderbauwhede 2023)
+Let's dicuss movements in IT and computer science that focus on the sustainability of technology itself. There are many terms for the class of movements that focus on this; *permacomputing, lo-fi computing, junkyard computing, collapse informatics, etc.*  They are at a different end of the spectrum than, for example, Microsoft and OpenAI's plans for the $100 billion "Stargaze" supercomputer ([Moss 2024](https://www.datacenterdynamics.com/en/news/microsoft-openai-consider-100bn-5gw-stargate-ai-data-center-report/)). That computer is planned to be powered by nuclear energy, will rely on an advanced social structure and will of course be built by elite engineers with modern and innovative materials. Lo-fi computing is a completely different story.
+
+Low carbon computing is a response to the high energy consumption of IT and the projected energy consumption of information technology in the future. It is estimated to be about twice as high as it is now, and three to four times higher by 2040. The only thing to do is to start "treating computational resources as finite and precious, to be used only when necessary and as efficiently as possible. As we have also seen in the GREENER principles, we need frugal computing , where we can achieve comparable results for less energy." ([Vanderbauwhede 2023](http://arxiv.org/abs/2303.06642))
 
 The vision for low carbon computing is to increase the durability of future IT, so that future IT uses virtually no energy. In practice, this means:
-•	That we need to design systems to extend the lifetime of devices.
-•	That we need software development strategies that address the above - especially technical debt - i.e. expenses created by complex approaches that are likely to add costs in the future. The answer to this is simpler, but more robust, software. 
-•	Increased focus on information security.
-•	Increased focus on data science efficiency across the entire system.
 
-These visions do not only depend on engineering expertise. Permacomputing .net - a wiki on digitization using permaculture principles - describes a number of digital principles that show care for the earth and people. These include repair, reuse and "design for disassembly", i.e. planning for technical artifacts to be disassembled at the end of their life. There is also a focus on limiting the number of dependencies and minimizing the use of "pseudo-simplicity", i.e. avoiding features that hide complexity from the user (hiding complexity does not make it disappear).
+- That we need to design systems to extend the lifetime of devices.
+- That we need software development strategies that address the above - especially technical debt - i.e. expenses created by complex approaches that are likely to add costs in the future. The answer to this is simpler, but more robust, software. 
+- Increased focus on information security.
+- Increased focus on data science efficiency across the entire system.
+
+These visions do not only depend on engineering expertise. [Permacomputing.net](https://permacomputing.net/) - a wiki on digitization using permaculture principles - describes a number of digital principles that show care for the earth and people. These include repair, reuse and "design for disassembly", i.e. planning for technical artifacts to be disassembled at the end of their life. There is also a focus on limiting the number of dependencies and minimizing the use of "pseudo-simplicity", i.e. avoiding features that hide complexity from the user (hiding complexity does not make it disappear).
 
 There are a number of ethical principles for permacomputing: being transparent about the code you use, avoiding centralization, recognizing diversity and avoiding monocultures, and not taking infrastructure for granted! The guiding principles are: availability, compatibility, efficiency, flexibility and robustness. Robustness means that the machine can handle power outages, an offline-first approach that requires little maintenance.
 
@@ -141,98 +156,88 @@ If it is not yet technologically possible to produce sustainable hardware, does 
 However, if we look at IT operations in a more limited context, where the responsibility is to use the most sustainable technology available and ensure that electronic waste is handled by companies that take responsibility for recycling, then you can actually work towards sustainable IT operations. We believe that IT operations can be very much based on sustainable principles that both secure the future of digital solutions and meet the requirements for sustainable system development.
 
 The most pressing challenges for sustainable IT operations are carbon neutrality, responsible hardware recycling, efficient software development, energy efficiency and cybersecurity. Carbon neutrality is crucial as energy consumption in the IT sector is expected to continue to rise, requiring green data centers powered by renewable energy sources.
+
 Efficient recycling of the hardware and all its components can both reduce pollution and reduce the risk of running out of minerals and raw materials. Efficient software development optimizes resource consumption, and energy efficiency ensures that we use every watt to the maximum. Cybersecurity is also a critical factor; robust security solutions not only protect data and systems, but also minimize the risk of security incidents, which can lead to major resource losses and disruption to sustainable IT initiatives.
 
 To avoid reinventing the wheel, IT operations can be based on well-defined and proven approaches to sustainable IT. There are several guidelines and standards that aim to support the work with sustainable IT, and in the next sections you can read about two concrete examples:
-•	The IT industry's nine recommendations for companies' green IT transition.
-•	SustainableIT 's IT standards for environmental, social and corporate sustainability.
+
+- The danish IT-Branchens's 9 recommendations for companies' green IT transition.
+- SustainableIT 's IT standards for environmental, social and corporate sustainability.
 
 ## 9 recommendations for companies' green IT transition
-IT-Branchen is a trade organization that brings together Danish IT companies with the goal of promoting their agenda both politically and internationally. The organization works to "harness technology for the benefit of the climate, the economy and the individual" and create "a better future" (IT-Branchen 2024b). In recent years, it has had an increasing focus on sustainable operations and in 2020 launched the first recommendations for sustainable IT. This publication was last updated in 2024 and is now presented as nine recommendations for companies' green IT transformation . The nine recommendations offer an easily accessible starting point for companies that want to get started with sustainable IT operations.
+IT-Branchen is a trade organization that brings together Danish IT companies with the goal of promoting their agenda both politically and internationally. The organization works to "harness technology for the benefit of the climate, the economy and the individual" and create "a better future" ([IT-Branchen 2024b](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)). In recent years, it has had an increasing focus on sustainable operations and in 2020 launched the first recommendations for sustainable IT. This publication was last updated in 2024 and is now presented as nine recommendations for companies' green IT transformation . The nine recommendations offer an easily accessible starting point for companies that want to get started with sustainable IT operations.
 
-1.	Start small and build on it
+1.	**Start small and build on it**
 It is recommended to start with the simple, affordable steps when embarking on the development of a green IT strategy. You can then increase the complexity and difficulty as your business evolves. 
 
-2.	Involve key employees from all relevant areas of the business
+2.	**Involve key employees from all relevant areas of the business**
 An organizational strategy can only work if all relevant employees buy into it. That's why the green transition must engage the entire organization, from management to IT.
 
-3.	Create greener digital behavior
+3.	**Create greener digital behavior**
 Ultimately, it's the behavior of employees that is key to successfully transitioning to greener ways of working. Initiatives such as digital cleanup and optimizing energy consumption are some examples of how employees can embrace more sustainable digital workflows on a daily basis. 
 
-4.	Extend the life of IT equipment and switch to circular consumption
+4.	**Extend the life of IT equipment and switch to circular consumption**
 The longer IT equipment can be used, the less it needs to be purchased and remanufactured. Businesses should create a circular approach to IT equipment by repairing, reusing and extending the life of their devices.
 
-5.	Journey towards IT climate neutrality and set green requirements for IT suppliers
+5.	**Journey towards IT climate neutrality and set green requirements for IT suppliers**
 The climate crisis is our burning platform for transition, which can create an incentive to set green and climate requirements for IT suppliers and consider solutions that can reduce the climate footprint of IT operations.
 
-6.	Shop green
+6.	**Shop green**
 Establish purchasing policies that choose climate neutral products with ethical production, low resource consumption and longevity .
 
-7.	Offer new green skills to your IT managers
+7.	**Offer new green skills to your IT managers**
 Investing in your employees is good sustainability practice, and training IT staff in sustainability and green IT practices can make a big difference. 
 
-8.	Stay on top of data and reporting
+8.	**Stay on top of data and reporting**
 Sustainability efforts should be based on data rather than hunches as much as possible, and mapping and reporting the company's IT consumption and CO2 emissions can form the basis for informed action.
 
-9.	Leverage technology to accelerate your company's green transition
+9.	**Leverage technology to accelerate your company's green transition**
 Consider using modern technology such as IoT and AI to accelerate your company's green transition.
 
-It is our impression that several companies have benefited from these recommendations as a supplement to their sustainability work. The recommendations can be used by companies that are just getting started, as well as by experienced companies working with green IT. The publication can be read in its entirety on the Internet, as it contains many practical recommendations for the green IT transition ( IT-Branchen 2024 a).
+It is our impression that several companies have benefited from these recommendations as a supplement to their sustainability work. The recommendations can be used by companies that are just getting started, as well as by experienced companies working with green IT. The publication can be read in its entirety on the Internet, as it contains many practical recommendations for the green IT transition ([IT-Branchen 2024a](https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf)).
 
 ## SustainableIT : standards for environmental, social and corporate sustainability
-The IT industry recommendations represent a collection of best practices for Danish IT companies, but there are also larger and more comprehensive standards , which have been developed in international working groups to provide a uniform framework for measuring and quantifying sustainable IT work. One of these is SustainableIT , which encompasses environmental, social and corporate sustainability (ESG ).
-The SustainableIT standards (SustainableIT.org n.d.) are designed to provide IT departments with a comparable basis for sustainability work. Companies can select relevant checkpoints from the list of standards, and integrate environmental, social and governance focus areas into their green transformation. The standard includes over 100 quantitative and qualitative ESG standards (topics, metrics and KPIs) that can provide insight into a company's IT sustainability. That said, the standard does not offer concrete goals for sustainability (such as 90% of hardware to be recycled), but instead encourages you to take stock of selected areas where you can then strengthen your efforts in the long term.
+IT-branchens recommendations represent a simple collection of best practices as a starting point, but these are not necessary operational at larger scale. The american non-profit, Sustainable IT has developed a set of comprehensive standards, which have been developed in international working groups to provide a uniform framework for measuring and quantifying sustainable IT. 
 
-SustainableIT: Examples of the standard's focus areas
-Environment	Social	Business management
-1.	Energy consumption
-(kWh, % renewable energy)
-2.	Lifecycle energy consumption of IT
-3.	Emissions from IT infrastructure
-4.	Life cycle emissions
-5.	Circularity in devices (hardware lifecycle)
-6.	Recycling rate
-7.	Replacement cycle for IT devices
-8.	Virtual meetings
-9.	Eco-friendly business travel
-10.	Paperless business
-11.	Water consumption and discharge
-12.	Sustainability impact of procurement
-13.	Sustainability criteria for technology meetings
-14.	Environmental impact assessment in IT procurement processes	1.	Health and safety impact of IT
-2.	Ease of use
-3.	Inclusive design
-4.	Diversity, equality and inclusion in the workforce
-5.	Diversity in the supplier ecosystem
-6.	Digital community engagement
-7.	Reducing digital inequality
-8.	Supplier requirements for compliance with human rights
-9.	Human rights requirements in the supply chain
-1.	Sustainability management and accountability
-2.	Funding and incentives for sustainability
-3.	Education and talent development in sustainability
-4.	Responsible technological innovation
-5.	The future of work strategy for sustainability
-6.	Retraining of workers
-7.	Data usage, security and privacy management
-8.	Business continuity and resilience strategy
-9.	Risk management with a focus on ESG risks
-10.	Precautions against fraud and corruption
-11.	AI management
+The SustainableIT standards ([SustainableIT.org](https://www.sustainableit.org/)) are designed to provide IT departments with a comparable basis for sustainability work. Companies can chose relevant metrics from a comprehensive list of topics, and integrate environmental, social and governance focus areas into their green transformation. The standard includes over 100 quantitative and qualitative ESG standards (topics, metrics and KPIs) that can provide insight into a company's IT sustainability. That said, the standard does not offer concrete goals for sustainability (such as 90% of hardware to be recycled), but instead encourages you to take stock of selected areas where you can then strengthen your efforts in the long term.
 
-Figure 6.5 The SustainableIT standard includes several sustainability parameters that can inspire and engage IT departments to deliver measurable sustainability efforts. But to achieve a more holistic approach to sustainability, the standard cannot stand alone. It must be supplemented with additional focus areas and metrics that are in line with the principles of the Karlskrona Manifesto in addition to ESG, such as user satisfaction or technological quality.
+### SustainableIT: Examples of the standard's focus areas
+The table below illustrates, that the SustainableIT standard includes several ESG parameters that can inspire and engage IT departments to deliver measurable sustainability efforts. 
 
-Most larger companies can benefit from implementing parts of SustainableIT because they can feed directly into the company's overall ESG reporting. It may seem overwhelming to implement all the standards from SustainableIT , and fortunately, it is possible to start working with a smaller selection of standards.
-Once you have set your sustainability goals, you can identify and prioritize the metrics that are most relevant to your business. The first evaluation will serve as a baseline evaluation, mapping the company's current practices. This provides a clear picture of the status and possible areas for action.
+| Environment                                                     | Social                                                    | Governance                                            |
+| --------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------- |
+| 1. Energy consumption (kWh, % renewable energy)                 | 1. Health and safety impact of IT                         | 1. Sustainability management and accountability       |
+| 2. Lifecycle energy consumption of IT                           | 2. Ease of use                                            | 2. Funding and incentives for sustainability          |
+| 3. Emissions from IT infrastructure                             | 3. Inclusive design                                       | 3. Education and talent development in sustainability |
+| 4. Life cycle emissions                                         | 4. Diversity, equality and inclusion in the workforce     | 4. Responsible technological innovation               |
+| 5. Circularity in devices (hardware lifecycle)                  | 5. Diversity in the supplier ecosystem                    | 5. The future of work strategy for sustainability     |
+| 6. Recycling rate                                               | 6. Digital community engagement                           | 6. Retraining of workers                              |
+| 7. Replacement cycle for IT devices                             | 7. Reducing digital inequality                            | 7. Data usage, security and privacy management        |
+| 8. Virtual meetings                                             | 8. Supplier requirements for compliance with human rights | 8. Business continuity and resilience strategy        |
+| 9. Eco-friendly business travel                                 | 9. Human rights requirements in the supply chain          | 9. Risk management with a focus on ESG risks          |
+| 10. Paperless business                                          |                                                           | 10. Precautions against fraud and corruption          |
+| 11. Water consumption and discharge                             |                                                           | 11. AI management                                     |
+| 12. Sustainability impact of procurement                        |                                                           |                                                       |
+| 13. Sustainability criteria for technology meetings             |                                                           |                                                       |
+| 14. Environmental impact assessment in IT procurement processes |                                                           |                                                       |
 
-New targets should then be set, based on industry standards or benchmarks, for example. These targets should be concrete and achievable, such as a reduction in energy consumption per user or a higher share of renewable energy within a given timeframe. In the implementation phase, it is important to identify potential problems and bottlenecks, such as lack of energy management systems, organizational resistance to change or incomplete contracts with suppliers. These challenges must be addressed along the way in order to reach the goal
-Finally, the company should focus on integrating sustainability into its core activities. By using the standards' metrics as a starting point, companies can target and systematize their work towards more sustainable operations, while meeting ESG reporting requirements and creating value both for the company and also for society
+Most larger companies can benefit from implementing parts of SustainableIT, because they can feed directly into the company's overall ESG reporting. It may seem overwhelming to implement all the standards from SustainableIT, and fortunately, it is possible to start working with a smaller selection of standards.
 
-For example, energy efficiency metrics can help understand energy consumption in data centers, while monitoring water consumption can help minimize water use in IT manufacturing, and waste management standards can promote responsible recycling of electronic waste. On the social side, standards can help improve occupational safety in technology manufacturing facilities, while standards for fair labor practices and community engagement can strengthen corporate social responsibility. Managerially, cybersecurity standards are important to protect against data theft or data loss, and ethical AI standards contribute to the responsible development and use of artificial intelligence. Finally, compliance reporting helps to systematically document the company's adherence to international standards.
+Once an organisation have set their sustainability goals, they can identify and prioritize the metrics that are most relevant to their business. The first evaluation will serve as a baseline evaluation, mapping the company's current practices. This provides a clear picture of the status and possible areas for action. 
+
+After establishing a baseline, new targets should then be set, based on industry standards or benchmarks. These targets should be concrete and achievable, such as a reduction in energy consumption per user or a higher share of renewable energy within a given timeframe. In the implementation phase of the standard is a good opportunity to identify potential problems and bottlenecks, such as lack of energy management systems, organizational resistance to change or incomplete contracts with suppliers. These challenges can be addressed along the way in order to reach the goal of better ESG metrics.
+
+Finally, organisations should focus on integrating sustainability into its their core digital activities. By using the standards' metrics as a starting point, companies can target and systematize their work towards more sustainable operations, while meeting ESG reporting requirements and creating value both for the company and also for society.
+
+For example, energy efficiency metrics can help understand energy consumption in data centers, while monitoring water consumption can help minimize water use in IT manufacturing, and waste management standards can promote responsible recycling of electronic waste. On the social side, standards can help improve occupational safety in technology manufacturing facilities, while metrics for fair labor practices and community engagement can strengthen corporate social responsibility. Managerially, cybersecurity standards are important to protect against data theft or data loss, and ethical AI standards contribute to the responsible development and use of artificial intelligence. Finally, compliance reporting helps to systematically document the company's adherence to international standards.
 
 As the SustainableIT standards are based on ESG , they lack some essential sustainability aspects for IT systems that we know from the Karlskrona Manifesto. This means that SustainableIT cannot cover the broad sustainability criteria alone. Therefore, IT organizations should consider supplementing SustainableIT with additional focus areas relevant to aspects such as individual and financial sustainability as well as sustainable digital design. This ensures a more holistic approach to sustainable IT operations.
-Summary: What can you take away from this chapter?
-The three cases of Nager IT, Framework and Fairphone clearly show that the road to sustainability in the electronics industry is long, but not unattainable. Although none of the products can be called fully sustainable yet, they are inspiring examples of how companies with determination and innovation can push development in the right direction. They have managed to focus on repairability, material selection and ethical production - important steps towards a greener future. They are leading the way for the major global manufacturers, all of whom have sustainability programs, but only as a supplement to their unsustainable core activities. Sustainability should be embedded in the corporate DNA and encompass all company activities - even if it may take decades to achieve lasting and significant improvements this way.
-The thought experiment on truly sustainable computers illustrated a future where technology can be fully circular and free from harmful environmental impacts. The ideal computer would then be made from recyclable, locally grown materials and designed to be repairable and reusable in a continuous cycle. The concepts of permacomputing and frugal computing support this vision. Permacomputing focuses on repair, simplicity and design for degradation, while frugal computing aims to minimize energy consumption and technological debt through efficient software and hardware development.
+
+# Summary: What can you take away from this chapter?
+The three cases of Nager IT, Framework and Fairphone clearly show that the road to sustainability in the electronics industry is long, but not unattainable. Although none of the products can be called fully sustainable yet, they are inspiring examples of how companies with determination and innovation can push development in the right direction.
+
+They have managed to focus on repairability, material selection and ethical production - important steps towards a greener future. They are leading the way for the major global manufacturers, all of whom have sustainability programs, but only as a supplement to their unsustainable core activities. Sustainability should be embedded in the corporate DNA and encompass all company activities - even if it may take decades to achieve lasting and significant improvements this way.
+
+The thought experiment on truly sustainable computers imagined a future where technology can be fully circular and free from harmful environmental impacts. The ideal computer would then be made from recyclable, locally grown materials and designed to be repairable and reusable in a continuous cycle. The concepts of permacomputing and frugal computing support this vision. Permacomputing focuses on repair, simplicity and design for degradation, while frugal computing aims to minimize energy consumption and technological debt through efficient software and hardware development.
 
 The next step is now ours: as consumers and businesses, we should start demanding and supporting sustainable solutions. By actively choosing more sustainable products, we can send a clear signal to industry that green technology is not just desirable, but necessary. The more people take responsibility, the faster we can drive change. Let this chapter be a call to action - to take small but significant steps towards a more sustainable and equitable electronics industry.

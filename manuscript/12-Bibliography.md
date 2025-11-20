@@ -8,6 +8,7 @@
 Several online sources are included in the bibliography. Unless otherwise stated, please refer to the source as it appeared in December 2024.
 
 Abbing, R.R. (2021) 'This is a solar-powered website, which means it sometimes goes offline': A design inquiry into degrowth and ICT. Computing within Limits. https://doi.org/10.21428/bf6fb269.e78d19f6
+
 Andersen, H. (2024). Systems theory. The Great Danish, March 5. https://denstoredanske.lex.dk/systemteori
 
 Andersen, L.H. (2021). Russia is ready to cut itself off from the global internet. Version2, February 2. version2.dk/artikel/rusland-er-klar-til-afskaere-sig-fra-det-globale-internet
@@ -146,7 +147,7 @@ Illich, I. (1973). Tools for Conviviality. Equinox.
 
 IPCC (2023). AR6 Synthesis Report: Climate Change 2023. https://www.ipcc.ch/report/ar6/syr/
 
-IT-Branchen (2024a). 9 recommendations for your company's green IT transition. https://itb.dk/policyboards/groenomstilling/
+IT-Branchen (2024a). 9 recommendations for your company's green IT transition. https://itb.dk/wp-content/uploads/2024/06/9-anbefalinger-til-din-virksomheds-groenne-it-omstilling2024-1.pdf
 
 IT-Branchen (2024b). About IT-Branchen. https://itb.dk/om-it-branchen/
 
@@ -202,7 +203,6 @@ Microsoft ( 2024). Microsoft Inclusive Design. https://inclusive.microsoft.desig
 
 Miljøstyrelsen, Danish Environmental Protection Agency (2024). Streamlined waste sorting. https://mst.dk/borger/affald-og-forurening/sortering-af-affald/stroemlinet-affaldssortering
 
-
 Monique (2024). Don't read our 2023 Impact Report. Read this instead. Fairphone, June 7. https://www.fairphone.com/en/2024/06/07/dont-read-our-2023-impact-report-read-this-instead/
 
 Moss, S. (2024). Microsoft & OpenAI consider $100bn, 5GW "Stargate" AI data center - Report. Data Centre Dynamics, March 29. https://www.datacenterdynamics.com/en/news/microsoft-openai-consider-100bn-5gw-stargate-ai-data-center-report/
@@ -224,8 +224,10 @@ OECD (n.d.). Inclusive, Green and Digital Transformation. https://www.oecd.org/e
 Olifent, L. (2024). Society's AI ambitions have a hidden downside: "Training the systems requires a huge amount of energy". Ingeniøren, March 12. https://pro.ing.dk/datatech/artikel/samfundets-ai-ambitioner-har-en-skjult-bagside-traening-af-systemerne-kraever-en-enorm-maengde
 
 Orlowski, J. (Instructor) (2020). The Social Dilemma. Netflix.
+
 Patel, N. (2024). Enabling software longevity. Framework, April 16 2024. https://frame.work/dk/en/blog/enabling-software-longevity
-Permacomputing (2024). Website. (accessed 09.05.24).
+
+Permacomputing (2024). Website. (accessed 09.05.24). https://permacomputing.net/permacomputing/
 
 Petersson, L. (2023). Velux Sustainability Report 2023, Velux. https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting
 
@@ -289,4 +291,3 @@ Videnskab.dk (2024, June 27). What does green growth mean? And who came up with 
 Wong, J. (2009). Prepare for Descent: Interaction Design in our New Future. ACM.
 	
 Yablonski, J. (2024). Home . Humane by Design, January 23. https://humanebydesign.com/
-

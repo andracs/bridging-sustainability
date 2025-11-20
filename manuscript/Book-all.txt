@@ -9,7 +9,7 @@
 6-Not-quite-sustainable-hardware-and-IT-operations.md
 7-Wellness-well-being-and-digitalization.md
 8_Part-three.md
-8-Digital-counter-growth.md
+8-Digital-degrowth.md
 9-Sustainable-digital-business.md
 10-Towards-a-greener-healthier-and-brighter-digital-future.md
 11-Appendix.md

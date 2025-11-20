@@ -16,25 +16,22 @@ However, an introductory article on videnskab.dk on the subject conveys a critiq
 By always focusing on "green" technological solutions that are not yet fully developed to reach the set climate goals, politicians can opt out of unpopular, expensive and potentially system-changing measures to solve the ecological crises, nationally and internationally. (Videnskab.dk 2024)
 In this chapter, we will describe the different directions in IT and computer science that focus on the sustainability of IT itself. There are many terms for movements that have this focus - these are what we call lo-fi directions
 But before we delve into the different approaches that don't rely on optimistic projections of developments observed in the past, let's take a look at two incredibly influential models that are often used to interpret IT development: Moore's Law and Gartner's Hype Cycle .
-Moore's Law
-[Figure inserted from file with all figures]
+
+ ![Moore's Law](resources/I_8.1.png "Illustration of "Moore's Law", the exponential development of processing power since the 1960s. Source: Encyclopædia Britannica 2024.")
  
-Figure 8.1 Illustration of "Moore's Law", the exponential development of processing power since the 1960s. Source: Encyclopædia Britannica 2024.
 
 Moore's Law, shown in Figure 8.1 , stems from the observation that the number of transistors in microchips has doubled every 18 months since around 1965 (Hansen 2023). Moore's Law therefore states that computing power doubles every 1½ years. This leads many to assume that the current trend of ever-increasing production and consumption will continue. This assumption is perhaps not surprising as computers as we know them have only been around for 80 years, during a period of remarkable industrial and technological development. But humanity has already crossed some boundaries on a planetary level. Moore's Law has for decades fueled imaginative notions and speculation about what computers will look like in the future and what we can do with them - driving visions of "Smart Cities", "Smart Buildings" and "Smart Homes" - which rely on smart things (IoT ). While there are significant sustainability gains to be made in some of these solutions, they rely on notions of intense use of microchips on an exponentially larger scale than is currently the case - and often to support various forms of 'consumer convenience' rather than to solve problems to achieve the Paris goals. In addition, there are significant environmental issues associated with extracting materials (Crawford 2021), cooling data centers, and consuming clean energy that could replace black energy consumption in the transportation sector, for example.
-Gartner's Hype Cycle
-[Figure inserted from file with all figures]
+
+ ![Gartner's Hype Cycle](resources/I_8.2.png "Gartner Hype Cycle: Gartner has developed a theory about the typical evolution of expectations and disappointments with new technologies. Source: Gartner 2024.")
  
-Figure 8.2 Gartner Hype Cycle: Gartner has developed a theory about the typical evolution of expectations and disappointments with new technologies. Source: Gartner 2024.
+
 Moore's Law looks at a development within a historical context and elevates it to a law that determines the future - it is an expression of technodeterminism, the idea that the future will almost certainly be far more digital than it is today. Another model that does the same, but in a different way, is Gartner's Hype Cycle (Gartner 2024), shown in Figure 8.2. interprets all technology in light of its position on a curve containing the following points: Innovation trigger - Peak of inflated expectations - Trough of disillusionment - Hill of enlightenment - Plateau of productivity. The message of the model is that technologies will always excite us until the hype dies down. Then there comes a time when we get smarter until the technology stabilizes at a productive level. In this sense, one could say that blockchain technology is currently in the trough of disillusionment, but that we are getting smarter and that blockchain will eventually become a productive technology. 
 The problem is that the model doesn't account for all the technologies that died instantly (even if they contained interesting innovation), those that were rejected, or those that were adopted and loved by everyone from the beginning (the radiator for example). Gartner's Hype Cycle is thus also a deterministic model, and although it is widely used, it is not very useful when you want to take a sober look at technology development.
 Perhaps it's time to start cultivating non-growth-related future scenarios and explore how to address technical challenges in computing research and practice that are not based on ideas of constant growth.
+
 Eroom's law
 Sometimes Eroom's Law ("Moore" spelled backwards) is brought up as an example of how technology investment does not necessarily create growth: as you can see in Figure 8.3, it shows that the number of medical patents has been decreasing since the 1950s, despite more and more investment funds (including for digital technology) being allocated to the field. So there is not necessarily a causal link between technology investment and increased output of innovative products. There are many good reasons for this: problems are solved, treatments become more effective and patients become healthier. Similarly, digitalization may have already "solved" a number of problems that further digitalization cannot make more efficient, no matter how great the processing power becomes.
-[Figure inserted from file with all figures]
-
- 
-Figure 8.3: Illustration of the decline in innovation in the pharmaceutical industry, despite increasing investments. Source: Lowe 2012.
+ ![Eroom's Law](resources/I_8.3.png "Illustration of the decline in innovation in the pharmaceutical industry, despite increasing investments. Source: Lowe 2012.")
 
 Low carbon and sustainable computing
 A research group in Glasgow called "LOCOS" - short for "Low Carbon and Sustainable Computing" - is focusing on how to reduce computer-related CO2 emissions (University of Glasgow 2024). According to them, there is a risk that by 2040, computers alone will generate more than half of the emissions acceptable to keep global warming below 1.5°C. This growth from computers is of course unsustainable. That's why we need frugal computing, an approach that aims to achieve the same results with less energy.

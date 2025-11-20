@@ -39,7 +39,7 @@ One of the most debated effects of our media habits and the global spread of sma
 ●	Infinitely long pages (leading to "doomscrolling ").
 ●	The unhealthy preoccupation with how others will react to a post or comment.
 ●	Phenomena like "perverse effects": the fact that algorithms are coded to give us more of what we want (even if they are unhealthy and counterproductive interests) based on previously documented behavior (a purchase, a like, a group you have joined).
-[Link in the section below be active in e-book]
+
 Many of these phenomena are a consequence of clever user experience tactics (UX tactics ) that entice us to overuse screen time by exploiting vulnerabilities in our cognitive apparatus. Much literature has been published in this area, mostly from the neurosciences and medical domains (e.g. by Michel Desmurget, Manfred Spitzer and Imran Rashid). An attempt to compile criticism and research documenting the problematic conditions can be found on the website "Ledger of Harms " (Center of Humane Technology n.d.). In their "Ledger of Harms", the Center works with eight categories of harms that have been given the headings and explanations you can see below - they are supported on the website with quotes from research reports.
 Damage accounting
 ●	Future generations: Exposure to unrestricted access to technology can impact child development and create permanent changes in brain structure.

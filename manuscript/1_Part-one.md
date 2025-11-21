@@ -1,4 +1,6 @@
 {mainmatter}
+
+{book: true, sample: true} 
 # Part one - Why digital sustainability?
 
 *The first three chapters establish the theoretical groundwork for digital sustainability, providing a foundational overview essential for navigating this complex field. Key questions explored in this section include:*

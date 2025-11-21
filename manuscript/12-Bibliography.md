@@ -85,7 +85,7 @@ Europacapable (2022). Europacapable Whitepaper on Energy Efficiency. https://eur
 
 European Commission (2024a). Green Digital Sector. https://digital-strategy.ec.europa.eu/en/policies/green-digital
 
-European Commission (2024b). Green Transiotion https://reform-support.ec.europa.eu/what-we-do/green-transition_en
+European Commission (2024b). Green Transition https://reform-support.ec.europa.eu/what-we-do/green-transition_en
 
 European Data Protection Board (2023). Guidelines 03/2022 on Deceptive Design Patterns in Social Media Platform Interfaces: How to Recognize and Avoid Them. https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-032022-deceptive-design-patterns-social-media_en
 

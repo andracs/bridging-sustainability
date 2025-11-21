@@ -1,8 +1,8 @@
-{book: false, sample: true} 
+{book: false, sample: false} 
 # TODO
-- "An_Approach_to_Technical_AGI_Safety_Apr_2025"
-	- ![[Pasted image 20250414180450.png]]
+- [ ]  "An_Approach_to_Technical_AGI_Safety_Apr_2025"
 
+{book: false, sample: false} 
 # 5. Sustainability as a guiding principle in software development
 
 In the previous chapter, we have discussed, how digital design can be used to conceptualize and develop prototypes and designs for more sustainable digital products. 
@@ -85,7 +85,9 @@ Since precisely measuring software energy use everywhere is difficult, practical
 
 First, measuring a starting point (an energy baseline) and tracking usage over time can be very helpful. Checking energy consumption during development or testing allows developers to see if new software versions perform better or worse and spot any unintended increases in energy use. Energy measurement tools, which can be built into the regular continuous development workflow (like a CI/CD pipeline), can automate these checks and guide ongoing efforts to save energy.
 
-Second, and perhaps the most practical approach for everyone, is focusing on using fewer computer resources, because this usually means using less energy. Optimizing the software code itself is a key way to reduce environmental impact. The basic principle is solid: software that needs less processing power (fewer CPU cycles, less memory use, fewer data operations, less network activity) often (but not always) requires less electricity to run. This holds true in many real-world situations.
+Second, and perhaps the most practical approach for everyone, is focusing on using fewer computer resources, because this usually means using less energy. Resources here are _computational resources_, such as computing capacity (CPU, GPU), memory, storage space and network calls. 
+
+Optimizing the software code itself is a key way to reduce environmental impact. The basic principle is solid: software that needs less processing power (fewer CPU cycles, less memory use, fewer data operations, less network activity) often (but not always) requires less electricity to run. This holds true in many real-world situations.
 
 Therefore, 
 - actively writing efficient, optimized code,
@@ -336,19 +338,3 @@ The standardization and labeling work for digital sustainability is a work-in-pr
 
 When it comes to your work with sustainable software, you can benefit from the approaches you have read in this chapter. In addition, you may also want to refer to the checklists in the book's appendix.
 
-{book: false, sample: false} 
-# Further notes
-
-[[1]](#_ftnref1) Resources here are _computational resources_, such as computing capacity (CPU, GPU), memory, storage space and network calls.
-
-[[2]](#_ftnref2) Available at
-
-[[3]](#_ftnref3) Find the link to the Green Metrics Tool at [https://github.com/andracs/Sustainable-Digital .](https://github.com/andracs/Sustainable-Digital)
-
-[[4]](#_ftnref4) The five dimensions are: environment, economy, technology, society and individual.
-
-[[5]](#_ftnref5) Integrated development environment (IDE) - an application or collection of applications used to program the software.
-
-[[6]](#_ftnref6) See examples, coding tools and more at https://github.com/andracs/Sustainable-Digital.
-
-[[7]](#_ftnref7) See examples at https://github.com/andracs/Sustainable-Digital.

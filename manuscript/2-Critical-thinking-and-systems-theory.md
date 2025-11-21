@@ -1,7 +1,8 @@
 {book: false, sample: false} 
 # TODO
+- [ ] ..
 
-
+{book: true, sample: false} 
 # 2. Critical thinking and systems theory
 
 ## In this chapter

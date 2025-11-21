@@ -1,19 +1,11 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
-1. 
-2. Måske afklare:
-	1. Digital transformation
-	2. Digital transition
-	3. Digitalization
-	4. Digitzation
-	5. Digital development
-	6. + Holistic approach
-3. Se "Rester som måske kan bruges"
-4. TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
-5. Check for footnotes - fix dem?
-6.  ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
+- [ ] TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
+- [ ] Måske afklare: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
+- [ ] ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
+{book: true, sample: true} 
 # Introduction
 
 **Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure.**

@@ -1,14 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- Add footnotes (see last in the doc)
-- Examples of regenerative design
-  - AI-Powered Wildlife Monitoring: Using smart software (AI) to automatically analyze pictures, sounds, or satellite images to help protect wildlife and understand their environments without disturbing them.
-  - Citizen Science Restoration Apps: Phone apps that help everyday people contribute to healing nature by guiding them to report observations, track restoration efforts, or identify harmful invasive species.
-  - Regenerative Farm-to-Consumer Platforms: Websites or apps directly connecting shoppers with local farms that use practices designed to restore soil health and benefit the environment.
-  - Material Exchange Marketplaces: Online platforms allowing businesses to offer leftover materials or waste to others who can use them, reducing landfill and the need for new resources.
-  - Product-as-a-Service Platforms: Business models managed by software where customers pay to _use_ durable, repairable products (like equipment or electronics) instead of owning them, encouraging longevity.
-  - Digital product passports: A digital record linked to a product (e.g., via QR code) detailing its materials, origin, and instructions for repair or recycling to support a circular economy.
-  - Local knowledge preservation databases: Digital archives, often co-created with local or indigenous communities, designed to safeguard and share valuable traditional wisdom about nature, climate adaptation, and sustainable living.
+- [ ] ...
 
 
 # 4. Digital design with sustainability
@@ -21,9 +13,7 @@ Digital projects typically originate from an idea, evolving through design, engi
 
 The design phase offers a unique opportunity to establish many of a product's fundamental characteristics and lay out the groundwork for a digital products entire lifecycle. 
 
-Consequently, integrating sustainability considerations, framed here by the Karlskrona Manifesto's five dimensions[^five-dimenison], during this early stage is essential. 
-
-[^five-dimenison]: The five dimensions are: environment, economy, technology, society and individual.
+Consequently, integrating sustainability considerations, framed here by the Karlskrona Manifesto's five dimensions, during this early stage is essential. (The five dimensions are: environment, economy, technology, society and individual.)
 
 We have to ensure, that sustainability is an inherent, deeply embedded quality, not merely a superficial layer added retrospectively. It's also often cheaper and more efficient to design a digital product with sustainability built in from the start, than trying to rebuild and retrofit the product with sustainability add-ons later.
 
@@ -79,13 +69,11 @@ Building upon these diverse methodologies, Lutz also offers a specific Life-cent
 
 Lutz argues that working towards Life-centered design involves grounding the process in three core pillars. The resulting design should strive to be:
 
-* _Inclusive and Pluriversal_[^pluriversal]
+* _Inclusive and Pluriversal_
 * _Responsible and Aligned_
 * _Sustainable and Regenerative_
 
-[^pluriversal]: _Pluriversal_ is a term inspired by the concept of _cultural pluralism_, where different social or cultural groups develop their own tradition within the framework of a common civilization. _Pluriversal_ is Damien Lutz's expression for expanding the traditionally Western-oriented design perspective to include the diversity of the entire planet.
-
-The _Inclusive and Pluriversal_ pillar emphasizes creating designs accessible to diverse users, considering varied backgrounds, needs, and cultural contexts. It advocates for reflecting multiple perspectives and worldviews, moving beyond a single dominant viewpoint.
+_Pluriversal_ is a term inspired by the concept of _cultural pluralism_, where different social or cultural groups develop their own tradition within the framework of a common civilization. _Pluriversal_ is Damien Lutz's expression for expanding the traditionally Western-oriented design perspective to include the diversity of the entire planet. The _Inclusive and Pluriversal_ pillar emphasizes creating designs accessible to diverse users, considering varied backgrounds, needs, and cultural contexts. It advocates for reflecting multiple perspectives and worldviews, moving beyond a single dominant viewpoint.
 
 _Responsible and Aligned_ design centers on ethical responsibility. This involves critically assessing the potential social and environmental consequences of design choices throughout the development process and ensuring alignment with broader ethical principles.
 
@@ -110,9 +98,7 @@ By integrating such principles and adopting wider perspectives, we can move towa
 
 ### Regenerative design
 
-The principle of regeneration takes the Life-centered approach further by explicitly adopting regenerative design[^regenerative-design] practices, often inspired by the dynamics of living systems. 
-
-[^regenerative-design]: Regenerative design is about creating solutions that protect, strengthen and regenerate resources rather than simply utilize them.
+The principle of regeneration takes the Life-centered approach further by explicitly adopting regenerative design practices, often inspired by the dynamics of living systems. Regenerative design is about creating solutions that protect, strengthen and regenerate resources rather than simply utilize them.
 
 The goal here moves beyond simply sustaining existing conditions or minimizing harm (doing less bad). Instead, regenerative design actively seeks to create solutions that contributes to the health and flourishing of the interconnected ecological and social systems they are part of, aiming to restore, renew, and revitalize their context. Just like the Japanese football fans leave stadiums almost cleaner after the football matches than before, regenerative design seeks not to spoil, but to intentionally restore and enhance the vitality of the living systems within which it operates.
 

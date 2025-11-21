@@ -1,11 +1,7 @@
 {book: false, sample: false} 
 # TODO
-Line 36: Euros
-Line 46: Source: Framework n.d.
-Line 143. - The IT industry's nine recommendations for companies' green IT transition. (dansk)
-Har vi brugt dette https://www.w3.org/TR/web-sustainability-guidelines/ 
-Line 148 - dansk case...
-Line 182: (SustainableIT.org n.d.)
+- [ ] ...
+
 
 {book: true, sample: true} 
 # 6. (Not quite) sustainable hardware and IT operations

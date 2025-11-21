@@ -1,7 +1,4 @@
-{book: false, sample: false} 
-# TODO
-
-- %%Replace først og så !!OK.  %%
+{book: true, sample: true} 
 
 {backmatter}
 # Bibliography
@@ -213,7 +210,7 @@ Nager IT (2024). "Faire Maus. Encouraging humane working conditions in the facto
 
 Nardi, B., Tomlinson, B., Patterson, D.J. and others (2018). Computing within limits. Communications of the ACM, 61(10), 86-93. https://doi.org/10.1145/3183582
 
-Neurodiversity Design System ( XXXX ). Website. https://www.neurodiversity.design/ (accessed 13.06.24).
+Neurodiversity Design System. Website. https://www.linkedin.com/pulse/neurodiversity-design-system-will-soward/ (accessed 13.06.24).
 
 Newport, C. (2019). Digital Minimalism. Portfolio.
 
@@ -235,7 +232,7 @@ Quote Investigator (2017). Quote Origin: Be the Change You Wish To See in the Wo
 
 Radack, S.M. (2009). The System Development Life Cycle (SDLC). NIST, April 29. https://www.nist.gov/publications/system-development-life-cycle-sdlc
 
-Government (2021). Towards a better society with tech giants. White Paper June 2021. https://kum.dk/fileadmin/user_upload/Hvidbog_techgiganter.pdf
+The Danish Government (2021). Towards a better society with tech giants. White Paper June 2021. https://kum.dk/fileadmin/user_upload/Hvidbog_techgiganter.pdf
 
 Research Portal Denmark (n.d.). Analytical Overview of Green Research, Development & Innovation: Introduction and Method. https://forskningsportal.dk/green-research/ (accessed 26.04.24).
 
@@ -257,7 +254,7 @@ Sobolev, M. & Lesic, V. (2022). Online Choice Architecture: The Good, The Bad, a
 
 Steffen, W., Broadgate, W., Deutsch, L. and others (2015). The trajectory of the Anthropocene: The Great Acceleration. The Anthropocene Review, 2(1), 81-98. https://doi.org/10.1177/2053019614564785
 
-Stern, B. (2013). The Ethics of Saving Lives With Autonomous Cars Are Far Murkier Than You Think. Wired.Com, 1-7.
+Stern, B. (2013). The Ethics of Saving Lives With Autonomous Cars Are Far Murkier Than You Think. Wired. Com, 1-7. 
 
  Stockholm Resilience Center (2012). Planetary boundaries. September 19, 2024. https://www.stockholmresilience.org/research/planetary-boundaries.html
 

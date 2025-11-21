@@ -1,15 +1,6 @@
 {book: false, sample: false} 
 # TODO
-- Linje 203: evt kilde til de forskellige frameworks energiforbrug (hvor Ruby on Rails ligger øverst)
-- Linje 219: kilde til at gøre Wordpress mindre energisulten: [https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/](https://gbefunwa.com/blog/how-to-reduce-energy-consumption-of-wordpress-sites/) / [https://fireflywebstudio.com/wordpress-website-hurting-environment/](https://fireflywebstudio.com/wordpress-website-hurting-environment/) - Jesper fra Advice sagde de var holdt op med at anbefale wordpress pga ubæredygtighed
-- Linje 265: erstat evt med Stolen Focus af Johann Hari
-- linje 284: Morozov skrev i the Net Delusion at det arabiske forår bare gjorde det nemmere for magthavere af finde aktiviisterne
-- fix fodnoter
-	- The supply chain illustration can be viewed in an interactive version online. Find the link at https://github.com/andracs/Sustainable-Digital.
-	- Methods exist for comparable systems, such as databases and HPC , but not for general applications.
-	- Read more about the relationship between program code and energy consumption in chapter 5.
-	- Stack Overflow is a forum where programmers help each other solve various programming challenge
-- Add 9 R's to this chapter
+- [ ] ...
 
 # 3. The impact of information technology on environment and society
 

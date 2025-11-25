@@ -275,6 +275,7 @@ UN Sustainable Development Goals (2020). The 17 Global Goals. https://sdgs.un.or
 United Nations (2024). Global Course 'Is Unsustainable', Secretary-General Stresses to General Assembly, But with Dialogue, Compromise 'We Can Choose the Future We Want'. Meetings Coverage and Press Releases. https://press.un.org/en/2024/sgsm22378.doc.htm (accessed 01.03.25).
 
 United Nations University (2024). Global E-Waste Surging: Up 21% in 5 Years. Press release, February 20. https://unu.edu/press-release/global-e-waste-surging-21-5-years
+
 University of Glasgow (n.d.). Low carbon and sustainable computing. School of Computing Science. https://www.gla.ac.uk/schools/computing/research/researchthemes/lowcarbon/ (accessed 09.05.24).
 
 Urban, M.C. (2024). Climate change extinctions. Science, 386(6726), 1123-1128.

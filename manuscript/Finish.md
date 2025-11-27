@@ -1,10 +1,12 @@
-# Minimum 
+# Minimum-rettelser
 
-Kapitel 8 Moores lov tegning oversættes
-Summary: What can you take away from this chapter? -→ Bringing it together: Key insights from this chapter
-AI check?
+- Kapitel 9 - mangler 
+- Kapitel 10 - mangler
+- Summary: What can you take away from this chapter? -→ Bringing it together: Key insights from this chapter
+- AI check for faktuelle fejl?
 # Improvements
-AI til kapitel 3 
-AI til kapitel software
-AI til well being
-Tjek summary i kapitel 7 
+- AI aspekt til kapitel 3 
+- AI aspekt til kapitel software
+- AI aspekt til well being
+- AI aspekt til kapitel 8
+- Tjek summary i kapitel 7 

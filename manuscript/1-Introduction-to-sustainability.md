@@ -7,7 +7,7 @@
 In order to base our work with sustainability on a solid ground, we must first go through some important sustainability concepts. This first chapter covers key ideas and definitions. The goal of the chapter is to give you a glimpse of the complexity which we must be able to handle when working with sustainability. The concepts span many different scientific disciplines, including biology, geology, physics, chemistry, law, economics, and social sciences. Working with sustainability asks of us to navigate in different intertwined disciplines, requiring a holistic approach from those of us working with digital products, solutions and services.
 ## Why is sustainability urgently important right now?
 
-Let's go through some substantial theories that empasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
+Let's go through some substantial theories that emphasize the urgency of taking action for sustainability in all areas, including the digital. Read about:
 
 - [The Anthropocene](#anthropocene)
 - [Mass extinction](#mass-extinction)
@@ -19,7 +19,7 @@ Let's go through some substantial theories that empasize the urgency of taking a
 
 {id: anthropocene}
 ### 🛣️ This is the age of the Anthropocene
-The Anthropocene is the name of en epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the global state of the Earth.  
+The Anthropocene is the name of an epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the global state of the Earth.  
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
 
@@ -57,7 +57,7 @@ We must be able to continuously improve and develop our world without fearing th
 With the help of scientists who continuously monitor global climate change, a number of actions are underway globally that aim to change the trend to something more sustainable ([Science Based Targets initiative](https://sciencebasedtargets.org/)). But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
 
 {id: digital-transformation} 
-### People in information tehcnology and digital services are both the villains and the heros 📡
+### People in information technology and digital services are both the villains and the heros 📡
 Information technology and digital transformation are phenomena that surprise us daily with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
@@ -122,7 +122,7 @@ The use of fossil fuels is another example of an unsustainable product, partly b
 - Consuming the earth's resources such as water and minerals without considering alternatives
 - Draining nature's resources without ensuring that the equivalent is returned to nature.
 
-Short-term solutions are like taking painkillers for a broken leg without addressing the fracture - they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. From a holistic point of view, it's makes more sense to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., when smartphone use in Europe leads to pollution in Africa and Asia).
+Short-term solutions are like taking painkillers for a broken leg without addressing the fracture - they relieve the discomfort for the moment, but the underlying problem remains and may get worse over time. From a holistic point of view, it makes more sense to make long-term efforts to ensure a good future than to gain short-term benefits. Overall, it is unsustainable to create short-term solutions that have undesirable long-term effects, even if those effects occur much later or in places other than where the solutions work (e.g., when smartphone use in Europe leads to pollution in Africa and Asia).
 
 {id: hurdles-to-sustainability}
 ### The hurdles to sustainability
@@ -137,11 +137,11 @@ But why aren't we all working sustainably if it's so sensible? There are several
    
 4. **Working sustainably requires a degree of altruism**, a respect for the planet and its inhabitants, but not everyone shares this consideration for future generations and the environment. Furthermore, the negative impacts of a company's operations are often distant in time and place from its daily activities, making them easy to overlook.
    
-Let's look at an example from the digital world where these problems can be observed: a smartphone. Using a smartphone has become an everyday occurrence for most people, but this simple everyday device has far-reaching global consequences. Smartphones are made from naturally occurring minerals from different distant places and it's parts are manufactured all around the world.
+Let's look at an example from the digital world where these problems can be observed: a smartphone. Using a smartphone has become an everyday occurrence for most people, but this simple everyday device has far-reaching global consequences. Smartphones are made from naturally occurring minerals from different distant places and its parts are manufactured all around the world.
 
 ![Smartphones are made of stone](I_1.3.png "It's fascinating to think that a smartphone is made up of refined stones (minerals) extracted from nature and powered by energy from nature. Ultimately, all technology is a collection of minerals and energy. The more circular the production and use of technology becomes, the more sustainable the future can be.")
 
-The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on it's users. But this is not something we often think about. Because owning a smartphone has become commonplace, it's hard to think about the long-term and global consequences, because it's relatively vague and far removed from our own reality. So it's easier not to think about it.
+The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on its users. But this is not something we often think about. Because owning a smartphone has become commonplace, it's hard to think about the long-term and global consequences, because it's relatively vague and far removed from our own reality. So it's easier not to think about it.
 
 In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting their suppliers cobalt mines and actively improving working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the mineworkers and their environment, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively more expensive compared to the competition.
 
@@ -189,11 +189,11 @@ Detecting and avoiding greenwashing is not easy, and the beforementioned proposa
 ### Ecology and ecosystems
 One of the most important concepts in sustainability is ***ecology*** and ***ecosystems***. The word ecology denotes a branch of science that studies "the relationships between living organisms and their environment" (Madsen 2021). Ecology is concerned with systems of living organisms, their interplay, and their surroundings, called *ecosystems*.
 
-Ecosystems are the basis of all life on Earth, and without them we as humans cannot survive. We are part of the ecosystem whether we like it or not. Without the biosphere we cannot exist as humans. Every place on earth has it's more or less unique ecosystem, and we have an obligation to protect it for future generations. 
+Ecosystems are the basis of all life on Earth, and without them we as humans cannot survive. We are part of the ecosystem whether we like it or not. Without the biosphere we cannot exist as humans. Every place on earth has its more or less unique ecosystem, and we have an obligation to protect it for future generations. 
 
 We ourselves are ecosystems: We are hosts for the bacteria that live on us, in us, and without which we cannot live well (if we can live at all). It is essential to be able to think in systems, especially ecological systems, when working with digital sustainability. Ecology and understanding the interconnectedness of ecosystems provides useful knowledge about how our actions affect the environment on a systemic level.
 
-Some of the systemic principles of ecology can be paralleled in information technology as both ecosystems and IT systems can be understood with a systemic approach. In the IT business, we sometimes talk about *digital ecosystems*, where an intertwined network of technology, companies and people thrive together in lously coupled networks. 
+Some of the systemic principles of ecology can be paralleled in information technology as both ecosystems and IT systems can be understood with a systemic approach. In the IT business, we sometimes talk about *digital ecosystems*, where an intertwined network of technology, companies and people thrive together in loosely coupled networks. 
 
 Just as some plants cannot reproduce without the insects that pollinate them, there are technologies that require cross-pollination. For example, the Android smartphone operating system cannot thrive without its own digital ecosystem. What this means is that Android would not be the same without the many types of phones, phone manufacturers, networks, applications, and users that make up the product's unique ecosystem. Android smartphones would lose essential features without the many developers who provide millions of applications for the phones.
 
@@ -201,7 +201,7 @@ But ecosystems are not unique to Android - the concept can be found in many othe
 ## Environmental aspects of sustainability: energy and materials
 If only we had an infinite amount of clean energy at our disposal, we could be more relaxed about the climate. We can for example already build machines, that pull CO2 out of the air, but as we lack clean energy to operate them, their usage is not feasible at a large scale. 
 
-As nothing is infinite on earth, we have to innovate circular uses of energy and resources, so instead of continously ingesting "new" energy and "new" materials into our businesses, we have to learn to circulate energy and materials in a sustainable flow. Digital technology paves the way for such a transformation, because it enables us to document, model and undestand the complex systemic consequences of our flows of energy and materials. Let's dig in into the following environmental aspects of sustainability:
+As nothing is infinite on earth, we have to innovate circular uses of energy and resources, so instead of continuously ingesting "new" energy and "new" materials into our businesses, we have to learn to circulate energy and materials in a sustainable flow. Digital technology paves the way for such a transformation, because it enables us to document, model and understand the complex systemic consequences of our flows of energy and materials. Let's dig into the following environmental aspects of sustainability:
 
 - [Energy and materials](#energy-and-materials)
 - [Fossil vs renewable energy](#fossil-vs-renewable)
@@ -229,7 +229,7 @@ See Figure 4, which illustrates how energy from the sun’s rays is transformed 
 4. When you charge your computer’s battery, the electrical energy is stored as chemical energy.
 5. The stored energy powers the computer’s processor—and as a byproduct, releases heat (thermal energy again).
 
-The amount of energy originally provided by the sun is equal to the amount of heat your computer gives off, because energy does not disappear — it is only transformed. (This simplified example ignores the fact that, in practice, we always lose some usable energy at various points in the chain—such as in power lines or generators. This loss should not be understood as energy disappearing, but rather as a small part of the energy is eroding on the way to it's final destination: your computer.)
+The amount of energy originally provided by the sun is equal to the amount of heat your computer gives off, because energy does not disappear — it is only transformed. (This simplified example ignores the fact that, in practice, we always lose some usable energy at various points in the chain—such as in power lines or generators. This loss should not be understood as energy disappearing, but rather as a small part of the energy erodes on the way to its final destination: your computer.)
 
 {id: fossil-vs-renewable}
 ### Fossil energy sources versus renewable energy
@@ -284,14 +284,14 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 
 - **Scope 2** covers indirect emissions that result from the organization's consumption of energy resources such as electricity and heat. Although these emissions are not directly produced by the organization, the organization can influence them by managing its energy consumption.
 
-- **Scope** 3 includes indirect value chain emissions that result from the company's consumption of goods and services throughout its supply chains. These are often the largest contributors to a company's total emissions.
+- **Scope 3** includes indirect value chain emissions that result from the company's consumption of goods and services throughout its supply chains. These are often the largest contributors to a company's total emissions.
 
 The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in Figure 8, there should be a steady decline in emissions year after year.
 
 ![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
-The ultimate goal is to reach zero CO2 emissions within a few decades, and even than we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
+The ultimate goal is to reach zero CO2 emissions within a few decades, and even then we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
 
-{id: climate-optimisim-pessimism}
+{id: climate-optimism-pessimism}
 ### Climate pessimism and climate optimism
 More and more people perceive climate change as a significant threat, but at the same time, most of us find it difficult to assess how much the climate change will affect our own lives and everyday life, and what role we should play in the green transition.
 
@@ -322,7 +322,7 @@ Whether you are a climate optimist or a climate pessimist, it is essential to ke
 - (Electronic) waste management
 - Protection of ecosystems
 - Working and environmental conditions for workers
-- The consumers well-being 
+- The consumer's well-being 
 - And more...
 
 These challenges can often fade into the background because climate is a top priority on a global scale, but responsible organisations should also address the environment in a broader sense. As we'll see in the coming chapters, *in cooperation between companies, organizations and citizens, we can effectively work together to reduce these problems*.
@@ -523,7 +523,7 @@ Developing, procuring, and operating sustainable IT solutions is essential, but 
 | • Environment    | • Environmental sustainability                          |
 | • Society        | • Social sustainability <br>• Individual sustainability |
 | • Governance     | • Economic sustainability<br>• Technical sustainability |
-{caption: "ESG vs Karlskrona Manifesto dimesnions-While the ESG criteria can be applied to all types of organizations, the Karlskrona Manifesto is specifically targeted for software and IT companies."}
+{caption: "ESG vs Karlskrona Manifesto dimensions-While the ESG criteria can be applied to all types of organizations, the Karlskrona Manifesto is specifically targeted for software and IT companies."}
 
 Throughout the whole book, we base much of our discussion on the Karlskrona Manifesto’s sustainability dimensions. We believe these provide a thoughtful and nuanced approach to sustainability, which aligns closely with the ethical, social, and environmental responsibilities of those working in the digital field.
 

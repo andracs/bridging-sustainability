@@ -5,17 +5,17 @@
 
 # 4. Digital design with sustainability
 
-This chapter explores, how to design digital solutions that effectively fulfill their intended purpose while also achieving long-term sustainability, guided by the five dimensions of the Karlskrona Manifesto.
+This chapter explores how to design digital solutions that effectively fulfill their intended purpose while also achieving long-term sustainability, guided by the five dimensions of the Karlskrona Manifesto.
 
 ## Design that does good – in the long term
 
 Digital projects typically originate from an idea, evolving through design, engineering, and innovation into tangible solutions or products. 
 
-The design phase offers a unique opportunity to establish many of a product's fundamental characteristics and lay out the groundwork for a digital products entire lifecycle. 
+The design phase offers a unique opportunity to establish many of a product's fundamental characteristics and lay out the groundwork for a digital product's entire lifecycle. 
 
 Consequently, integrating sustainability considerations, framed here by the Karlskrona Manifesto's five dimensions, during this early stage is essential. (The five dimensions are: environment, economy, technology, society and individual.)
 
-We have to ensure, that sustainability is an inherent, deeply embedded quality, not merely a superficial layer added retrospectively. It's also often cheaper and more efficient to design a digital product with sustainability built in from the start, than trying to rebuild and retrofit the product with sustainability add-ons later.
+We have to ensure that sustainability is an inherent, deeply embedded quality, not merely a superficial layer added retrospectively. It's also often cheaper and more efficient to design a digital product with sustainability built in from the start, than trying to rebuild and retrofit the product with sustainability add-ons later.
 
 When designing and developing new digital products, it is easy to be lost in the technology and be fascinated by the technical possibilities that the project is based, but digital projects are ultimately created for people and with people!
 
@@ -48,7 +48,7 @@ In this case, it's a single person (maybe you?) or an organization that replaces
 
 The figure makes it possible to understand both the overall context of the planet (e.g. that plastic does not belong in the ocean, as it does not just magically disappear from the oceans), and it is also possible to understand sustainability on a micro level (that we need to use plastic components that can be degraded).
 
-If you think back to the Brundtland Report's definition of sustainability, it is about acting in a way that does not compromise the opportunities of future generations. This mindset is found in Engholm's work, where she is inspired by Native Americans, who have a tradition of considering decisions from a seven-generation perspective. Engholm believes, that we should do the same: design products from a long-term perspective. By zooming out in time and space, we can better understand our product lifecycle and create more circular designs.
+If you think back to the Brundtland Report's definition of sustainability, it is about acting in a way that does not compromise the opportunities of future generations. This mindset is found in Engholm's work, where she is inspired by Native Americans, who have a tradition of considering decisions from a seven-generation perspective. Engholm believes that we should do the same: design products from a long-term perspective. By zooming out in time and space, we can better understand our product lifecycle and create more circular designs.
 
 While Engholm's comprehensive design approach involves many details beyond the scope of this chapter, several core principles offer valuable guidance for sustainable digital design:
 
@@ -59,11 +59,11 @@ While Engholm's comprehensive design approach involves many details beyond the s
 While deeply understanding user needs remains fundamental to successful design, integrating these broader generational, planetary, and lifecycle perspectives is what elevates user-centricity into truly responsible and sustainable practice. This holistic approach ensures solutions are not only usable and desirable but also viable in the long term.
 ### Life-centered design
 
-Another inspiring design approach can be found in the work of Australian designer Damien Lutz. Lutz is an advocate of Life-centered design , which is a design philosophy that, in addition to the needs of users, puts all living things in focus. 
+Another inspiring design approach can be found in the work of Australian designer Damien Lutz. Lutz is an advocate of Life-centered design, which is a design philosophy that, in addition to the needs of users, puts all living things in focus. 
 
 Life-centered design aims to care for all living things and for more biodiversity and more nature as a result of the design process. Lutz's take on a Life-centered digital design practice is to alternate between many different design approaches, depending on the qualities of the design task, in order to truly deliver sustainable results.
 
-In the article "10 life-centred design approaches" ([Lutz 2023](https://uxdesign.cc/10-Life-centered-design-approaches-b0f60ba0e002)) he presents a selection of different approaches that you can have in your toolbox when designing Life-centered. Common to all approaches is that they include the living environment in their design considerations. For example, _circular design_ can be used if you want to take responsibility for a product's life cycle , while _inclusive design_ is the solution if the challenge is to involve as many users as possible in the product, including user groups that are traditionally excluded from using the product.
+In the article "10 life-centred design approaches" ([Lutz 2023](https://uxdesign.cc/10-Life-centered-design-approaches-b0f60ba0e002)) he presents a selection of different approaches that you can have in your toolbox when designing Life-centered. Common to all approaches is that they include the living environment in their design considerations. For example, _circular design_ can be used if you want to take responsibility for a product's life cycle, while _inclusive design_ is the solution if the challenge is to involve as many users as possible in the product, including user groups that are traditionally excluded from using the product.
 
 Building upon these diverse methodologies, Lutz also offers a specific Life-centered Design Framework ([Life-centered Design Lab 2024](https://lifecentred.design/framework/)). At its core, this framework mandates extending design considerations to all affected life and systems, including human users, animals, plants, and overall planetary health, and thereby setting an ambitious and ethically compelling standard. 
 
@@ -100,7 +100,7 @@ By integrating such principles and adopting wider perspectives, we can move towa
 
 The principle of regeneration takes the Life-centered approach further by explicitly adopting regenerative design practices, often inspired by the dynamics of living systems. Regenerative design is about creating solutions that protect, strengthen and regenerate resources rather than simply utilize them.
 
-The goal here moves beyond simply sustaining existing conditions or minimizing harm (doing less bad). Instead, regenerative design actively seeks to create solutions that contributes to the health and flourishing of the interconnected ecological and social systems they are part of, aiming to restore, renew, and revitalize their context. Just like the Japanese football fans leave stadiums almost cleaner after the football matches than before, regenerative design seeks not to spoil, but to intentionally restore and enhance the vitality of the living systems within which it operates.
+The goal here moves beyond simply sustaining existing conditions or minimizing harm (doing less bad). Instead, regenerative design actively seeks to create solutions that contribute to the health and flourishing of the interconnected ecological and social systems they are part of, aiming to restore, renew, and revitalize their context. Just like the Japanese football fans leave stadiums almost cleaner after the football matches than before, regenerative design seeks not to spoil, but to intentionally restore and enhance the vitality of the living systems within which it operates.
 
 This philosophy involves understanding and working *with* the principles of living systems, fostering co-evolution between human activities and the natural world, and striving for a net-positive impact – leaving ecosystems and communities healthier and more resilient. 
 
@@ -140,10 +140,10 @@ UX design is about creating meaningful and engaging experiences by deeply unders
 
 By extending the UX designer's tools such as personas and user journeys to include sustainability aspects, we open up for a more holistic design process. Although we have only presented sustainable versions of personas and user journeys in this context, the other tools in the designer's toolbox can also have sustainability aspects. These could be wireframes and templates that have inclusive and energy-saving defaults, or user testing that takes into account the entire product lifecycle from cradle to cradle.
 
-These innovative UX approaches show, how common UX tools can be extended to drive user-friendly and eco-friendly solutions and inspire the creation of products that make a difference for both people and the planet.
+These innovative UX approaches show how common UX tools can be extended to drive user-friendly and eco-friendly solutions and inspire the creation of products that make a difference for both people and the planet.
 ### Designing with data
 
-Data can be a catalyst for digital sustainability projects. The designers of a project can consider, what data already exists, what data can be collected and what data is not yet available about a project. The more detailed an overview a designer has access to, the more innovatively data can be brought into play. Designing with data can both create economic value, and it can also drive sustainability.
+Data can be a catalyst for digital sustainability projects. The designers of a project can consider what data already exists, what data can be collected and what data is not yet available about a project. The more detailed an overview a designer has access to, the more innovatively data can be brought into play. Designing with data can both create economic value, and it can also drive sustainability.
 
 In some contexts, a designer can draw on enormous data sources, which with advanced algorithms and machine learning can provide features to a digital product that would be unthinkable without the designer's in-depth knowledge of relevant data sources. That's why it's beneficial in the design phase of digital products to focus on topics such as:
 
@@ -157,9 +157,9 @@ In some contexts, a designer can draw on enormous data sources, which with advan
 
 - _Internet of Things (IoT_) , which allows large amounts of data to be collected with various digital sensors to improve the product.
 
-Keep in mind, that data collection inherently involves sensitive ethical and practical considerations that demand careful attention in any digital project. Compliance with relevant legislation, such as the EU's General Data Protection Regulation (GDPR) which governs the use of collected personal data, is an important aspect. 
+Keep in mind that data collection inherently involves sensitive ethical and practical considerations that demand careful attention in any digital project. Compliance with relevant legislation, such as the EU's General Data Protection Regulation (GDPR) which governs the use of collected personal data, is an important aspect. 
 
-Beyond legal requirements, designers and organizations should adhere to the principle of data minimization, ensuring that only data strictly necessary for the project's goals, is collected.  In addition, the ethical dimensions of data handling must be a priority, with the aim of using data for the benefit of present and future generations, while actively preventing negative consequences. While data analysis is a specialized field, all UX designers have a role to play. They should critically consider how both new and existing data sources can be leveraged responsibly to enhance user experience and advance sustainability outcomes.
+Beyond legal requirements, designers and organizations should adhere to the principle of data minimization, ensuring that only data strictly necessary for the project's goals is collected.  In addition, the ethical dimensions of data handling must be a priority, with the aim of using data for the benefit of present and future generations, while actively preventing negative consequences. While data analysis is a specialized field, all UX designers have a role to play. They should critically consider how both new and existing data sources can be leveraged responsibly to enhance user experience and advance sustainability outcomes.
 ## User interfaces and interaction design 
 
 While UX is about understanding user behavior and creating good user experiences, interaction design is about designing good and effective user interfaces (UI). A good user interface makes the experience of a digital product intuitive, useful and engaging. Interaction design incorporates elements of graphic design and adds interaction techniques such as nudging to guide users towards desired actions. 
@@ -170,7 +170,7 @@ It's not just about reducing energy consumption or waste, but also about creatin
 
 An example of thinking about sustainable HCI can be found in Eli Blevis' article ([Blevis 2007](https://dl.acm.org/doi/10.1145/1240624.1240705)), in which he discusses sustainable interaction design with a focus on the development, disposal, renewal and reuse of technology. For Blevis, sustainable interaction design must take responsibility for the full life cycle of products , from creation to disposal. This approach is though most relevant if the interaction has a materiality, such as a technological gadget or a touchscreen, that needs to be disposed of, and the approach can only be applied to pure software products to a limited extent.
 ### Design patterns for web solutions and apps
-It's not immediately obvious, how graphical user interface design can be made more sustainable, but this is certainly an area that can benefit from sustainability initiatives. 
+It's not immediately obvious how graphical user interface design can be made more sustainable, but this is certainly an area that can benefit from sustainability initiatives. 
 
 First and foremost, designers must be aware of the existence of "dark patterns", which are user interactions that are inappropriate or downright bad. Unfortunately, it is a common practice for digital products to more or less mislead users in order to achieve company goals such as conversions. You would think that this practice is reserved for the most commercial companies, but we have also seen dark patterns in government and non-profit organizations.
 
@@ -188,7 +188,7 @@ Evidence suggests that the energy directly consumed by rendering and interacting
 
 Consider visiting a website: data is retrieved from a server, which consumes substantial energy simply by being operational 24/7, regardless of request volume. Added to this is the energy consumed by the network infrastructure (routers, switches, cables) transmitting the data, and the always-on devices at the user's end (like modems and routers). The website appearing on the user's screen is the final step. The user's device (computer, smartphone) also has its own baseline energy consumption, independent of the specific website visited. 
 
-A large portion of the energy consumed during a web request stems from the *backend infrastructure*, network transfer, and device operation – factors largely independent of the frontend's visual design or interactive elements. This means, that while optimizing frontend performance and data transfer is valuable, it likely influences only a minor portion of the total system-wide energy consumption. Understanding the energy consumption in complex systems is key to prioritizing sustainability efforts effectively. 
+A large portion of the energy consumed during a web request stems from the *backend infrastructure*, network transfer, and device operation – factors largely independent of the frontend's visual design or interactive elements. This means that while optimizing frontend performance and data transfer is valuable, it likely influences only a minor portion of the total system-wide energy consumption. Understanding the energy consumption in complex systems is key to prioritizing sustainability efforts effectively. 
 
 #### Web Sustainability Guidelines (WSG)
 The interconnections between design, development, infrastructure, and sustainability are detailed comprehensively in the [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) developed by the World Wide Web Consortium (W3C)[^WSG]. 

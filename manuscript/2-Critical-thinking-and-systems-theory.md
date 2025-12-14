@@ -45,8 +45,8 @@ When we click on a link and play a video, we set off a chain reaction and thus a
 At the same time, each view of the video has concrete and measurable consequences for the environment, society and individuals, such as:
 
 - Energy used for running the streaming service emits measurable amounts of CO₂, which contributes to global warming. 
-- The hardware used to stream leaves an enironmental footprint across the globe – from mining in Africa to hardware manufacturing in Asia and Europe.  
-- The algorithms that control a video feed can contribute to problematic social media overuse and related mental health issues for it's users.  
+- The hardware used to stream leaves an environmental footprint across the globe – from mining in Africa to hardware manufacturing in Asia and Europe.  
+- The algorithms that control a video feed can contribute to problematic social media overuse and related mental health issues for its users.  
 - The content in the video may be created with hidden intentions, for example as propaganda that can be spread on social media.  
 - Content can influence users' moods and actions.  
 - If the video is free, it's likely that the user himself / herself is the product. That is, the user's data or attention is sold to the highest bidder to fund the playback.
@@ -68,7 +68,7 @@ If you're new to systems thinking, don't worry. In general, thinking in systems 
 The illustration below shows a simple model of a system consisting of several elements. The elements of a system can also be considered as independent systems, or subsystems that can be further analyzed.
 
 ![A generic system model](resources/I_2.2.png "This generic system model illustrates how inputs are processed through the elements of the system and their interconnections to create outputs. The model is universally applicable and can be used to analyze and understand all types of systems.")
-The figure hows a *system*, which has both an *input* and an *output*, meaning that it is an *open system* that exchanges something with the outside world. An input can be many things, such as energy, information or materials, and the same goes for an output. Some of the output can also be used as *feedback* to the system, which in turn can be used in system processes.
+The figure shows a *system*, which has both an *input* and an *output*, meaning that it is an *open system* that exchanges something with the outside world. An input can be many things, such as energy, information or materials, and the same goes for an output. Some of the output can also be used as *feedback* to the system, which in turn can be used in system processes.
 
 The components of the system interact with each other and the system also interacts with its *environment*, hence this is an *open system*. There are also *closed systems* that do not exchange anything with the outside world, that have no input or output, but these are rare. 
 
@@ -132,9 +132,9 @@ That said, when it comes to sustainability and digitalization, we often need to 
 At a basic level, system models can be sketched by hand or using digital drawing tools. While it's possible to create system models using hand drawings, documents, and spreadsheets, system modelling software tools make the process more efficient. The advantage of specialized system modeling software is that it is tailored for this specific task, and is capable of handling large volumes of data with visualizations. Recent system modelling software can even identify patterns and correlations using AI and machine learning.
 
 ### An example of systems thinking
-An example of pervasive systems thinking from the world of sustainability is our understanding of the climate crisis. Scientists had to examine multiple meteorological, engineering, and geological systems to determine that man-made climate change is a reality. They had to analyze historical data on greenhouse gases, atmospheric composition, and calculate the contribution of human activities to understand how it affects global temperatures. This would have been impossible adnavnced it-systems and system modelling software. 
+An example of pervasive systems thinking from the world of sustainability is our understanding of the climate crisis. Scientists had to examine multiple meteorological, engineering, and geological systems to determine that man-made climate change is a reality. They had to analyze historical data on greenhouse gases, atmospheric composition, and calculate the contribution of human activities to understand how it affects global temperatures. This would have been impossible without advanced IT systems and system modelling software. 
 
-After decades of work, scientists have developed models that identify trends and possible climate scenarios, though precise predictions remain difficult. What they have found, however, is that man-made climate change is not only causing warmer temperatures, but also greater variability in weather systems, leading to increasing rates of rare or extreme weather events, an emergent feature of gloabl warming. 
+After decades of work, scientists have developed models that identify trends and possible climate scenarios, though precise predictions remain difficult. What they have found, however, is that man-made climate change is not only causing warmer temperatures, but also greater variability in weather systems, leading to increasing rates of rare or extreme weather events, an emergent feature of global warming. 
 
 ![Climate change](resources/I_2.3.png "Systems thinking helps us understand historical and anthropogenic climate change. Historical patterns show fairly stable weather variations over time, while anthropogenic changes result in more extreme and unpredictable fluctuations, resulting in record-breaking weather phenomena.")
 

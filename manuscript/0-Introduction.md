@@ -30,7 +30,7 @@ This book is written by two dedicated academics from Denmark who are active in r
 
 As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), some of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. 
 
-Digitalization and the fight against climate change is an rapdily evolving field, so the practical chapters of this book reflect the situation as of 2025 - but the continuously developing nature of the field, is the reason why we keep the book updated online.
+Digitalization and the fight against climate change is a rapidly evolving field, so the practical chapters of this book reflect the situation as of 2025 - but the continuously developing nature of the field is the reason why we keep the book updated online.
 ## Chapter overview 
 _Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can be read independently.
 

@@ -54,9 +54,9 @@ The company has created an external "[Life Cycle Assessment of the Framework Lap
 
 Framework is a good example of a hardware brand that wants to differentiate itself on sustainability. In the longer term, we can hope that Framework will also focus on economic and social sustainability. For example, they could implement fairer working conditions with their suppliers or use more ethically sourced materials - and still have a healthy economy in the long run. 
 
-Unfortunately, building more sustainable computers is still a niche. The major computer manufacturers are stuck in their traditional and unsustainable workflows, but fortunately, also they are beginning to focus on more sustainable production practices, such as fair use of materials and repairability. But if neither legislation nor customer demand are driving the development of more fair computers, the major manufacturers are not going to move into more sustainable directions. It is than up to smaller, visionary manufacturers to driv the change. Besides MNT Research and Framework, there are a few other laptop manufacturers working for "less unsustainable computers", as for example:
+Unfortunately, building more sustainable computers is still a niche. The major computer manufacturers are stuck in their traditional and unsustainable workflows, but fortunately, also they are beginning to focus on more sustainable production practices, such as fair use of materials and repairability. But if neither legislation nor customer demand are driving the development of more fair computers, the major manufacturers are not going to move into more sustainable directions. It is then up to smaller, visionary manufacturers to drive the change. Besides MNT Research and Framework, there are a few other laptop manufacturers working for "less unsustainable computers", as for example:
  
-- **Star Labs** laptops are made specifically for Linux, anf they combine custom chassis designs with open firmware (Coreboot) and a full spare parts shop.
+- **Star Labs** laptops are made specifically for Linux, and they combine custom chassis designs with open firmware (Coreboot) and a full spare parts shop.
     
 - **System76** engineers and manufactures premium Linux computers and keyboards, and advocates for open ecosystems and offers "Lifetime Support," and highly repairable Linux laptops.
     
@@ -219,7 +219,7 @@ The table below illustrates, that the SustainableIT standard includes several ES
 
 Most larger companies can benefit from implementing parts of SustainableIT, because they can feed directly into the company's overall ESG reporting. It may seem overwhelming to implement all the standards from SustainableIT, and fortunately, it is possible to start working with a smaller selection of standards.
 
-Once an organisation have set their sustainability goals, they can identify and prioritize the metrics that are most relevant to their business. The first evaluation will serve as a baseline evaluation, mapping the company's current practices. This provides a clear picture of the status and possible areas for action. 
+Once an organisation has set its sustainability goals, it can identify and prioritize the metrics that are most relevant to its business. The first evaluation will serve as a baseline evaluation, mapping the company's current practices. This provides a clear picture of the status and possible areas for action. 
 
 After establishing a baseline, new targets should then be set, based on industry standards or benchmarks. These targets should be concrete and achievable, such as a reduction in energy consumption per user or a higher share of renewable energy within a given timeframe. In the implementation phase of the standard is a good opportunity to identify potential problems and bottlenecks, such as lack of energy management systems, organizational resistance to change or incomplete contracts with suppliers. These challenges can be addressed along the way in order to reach the goal of better ESG metrics.
 

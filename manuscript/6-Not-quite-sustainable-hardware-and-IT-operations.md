@@ -229,7 +229,7 @@ For example, energy efficiency metrics can help understand energy consumption in
 
 As the SustainableIT standards are based on ESG , they lack some essential sustainability aspects for IT systems that we know from the Karlskrona Manifesto. This means that SustainableIT cannot cover the broad sustainability criteria alone. Therefore, IT organizations should consider supplementing SustainableIT with additional focus areas relevant to aspects such as individual and financial sustainability as well as sustainable digital design. This ensures a more holistic approach to sustainable IT operations.
 
-# Summary: What can you take away from this chapter?
+## Summary: What can you take away from this chapter?
 The three cases of Nager IT, Framework and Fairphone clearly show that the road to sustainability in the electronics industry is long, but not unattainable. Although none of the products can be called fully sustainable yet, they are inspiring examples of how companies with determination and innovation can push development in the right direction.
 
 They have managed to focus on repairability, material selection and ethical production - important steps towards a greener future. They are leading the way for the major global manufacturers, all of whom have sustainability programs, but only as a supplement to their unsustainable core activities. Sustainability should be embedded in the corporate DNA and encompass all company activities - even if it may take decades to achieve lasting and significant improvements this way.

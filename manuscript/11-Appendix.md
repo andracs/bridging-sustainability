@@ -34,11 +34,11 @@ This list can serve as inspiration for _overarching_ sustainability consideratio
 
 This checklist helps you assess hardware solutions with a focus on sustainability. Use it as a practical tool to ask the right questions and make informed choices that benefit the environment, society, and your organization.
 
-## 🏷️ 1. Which sustainability standards does the hardware meet, and what certifications does it have?
+ **🏷️ 1. Which sustainability standards does the hardware meet, and what certifications does it have?**
 
 Choose hardware that is certified according to standards that ensure responsible production.
 
-## 🌿 2. Is the hardware produced according to sustainability best practices?
+**🌿 2. Is the hardware produced according to sustainability best practices?**
 
 - Use sustainable raw materials and recycled components.
     
@@ -47,71 +47,71 @@ Choose hardware that is certified according to standards that ensure responsible
 - Work with suppliers who prioritize good working conditions and renewable energy.
     
 
-## ⚡ 3. Is the hardware energy-efficient compared to competitors?
+**⚡ 3. Is the hardware energy-efficient compared to competitors?**
 
 Compare energy consumption and performance across different products and choose the most effective one.
 
-## ⏳ 4. What is the hardware's expected lifespan?
+ **⏳ 4. What is the hardware's expected lifespan?**
 
 Prioritize hardware with a long lifespan, but consider technological improvements that might justify upgrades.
 
-## 🔧 5. Is the hardware repairable?
+ **🔧 5. Is the hardware repairable?**
 
 Ensure that spare parts are available and that hardware can be upgraded and repaired to extend its lifespan.
 
-## ♻️ 6. How is 100% recycling of obsolete hardware ensured?
+**♻️ 6. How is 100% recycling of obsolete hardware ensured?**
 
 Choose suppliers who offer responsible disposal and recycling of end-of-life products.
 
-## 🚀 7. Future aspects of the hardware
+ **🚀 7. Future aspects of the hardware**
 
 Investigate whether the hardware can be upgraded or repurposed for future needs.
 
-## 🌍 8. How does the supplier view hardware development in the coming years?
+**🌍 8. How does the supplier view hardware development in the coming years?**
 
 Prioritize suppliers who are working on innovative solutions to reduce environmental impact.
 
 ---
 
-## 🔌🌍 Sustainability principles for ****network and cloud**
+## 🔌🌍 Sustainability principles for **network and cloud**
 
 Use the questions below to set the right requirements for suppliers and solutions – from energy-efficient hardware to the use of renewable energy and intelligent systems. The goal is to ensure eco-friendly operations without compromising security and quality.
 
-## 🌱 1. What sustainability standards and certifications does the solution have?
+**🌱 1. What sustainability standards and certifications does the solution have?**
 
 Choose suppliers who work with transparent sustainability goals, and ideally those certified under applicable environmental standards. Suppliers' ESG reports can provide information on this.
 
-## ⚡ 2. Is the network based on energy-efficient and eco-friendly hardware?
+**⚡ 2. Is the network based on energy-efficient and eco-friendly hardware?**
 
 Work with hardware designed for low energy consumption and choose products with minimal environmental impact.
 
-## ☀️ 3. Is the operation based on renewable energy?
+**☀️ 3. Is the operation based on renewable energy?**
 
 Ensure that both local and global data centers are powered by renewable energy such as solar and wind, or that they sequester as much CO2 as they emit.
 
-## ❄️ 4. Is the data center design eco-friendly regarding cooling?
+**❄️ 4. Is the data center design eco-friendly regarding cooling?**
 
 Prioritize data centers that use free cooling or other energy-saving cooling systems.
 
-## 🤖 5. Does the data center have intelligent solutions to minimize the environmental footprint?
+**🤖 5. Does the data center have intelligent solutions to minimize the environmental footprint?**
 
 Is it possible to automatically power down resources when they are not in use? Automated systems that optimize resource consumption are preferable.
 
-## 🔐 6. Is the security in order?
+ **🔐 6. Is the security in order?**
 
 Do the network and cloud meet the best possible security standards and applicable legislation such as GDPR or NIS2?
 
 ---
 
-## 💾♻️ Sustainability principles for ***software***
+ **💾♻️ Sustainability principles for *software***
 
 This checklist guides you in developing or purchasing software solutions with a focus on sustainability in a broad sense.
 
-## 🌱 **1. Think long-term**
+🌱 **1. Think long-term**
 
 Build sustainability into the software from the start, rather than treating it as an add-on or afterthought. Incorporate data sources into the design that promote sustainability.
 
-## 🌐 **2. Follow established sustainability best practices**
+🌐 **2. Follow established sustainability best practices**
 
 We don't need to reinvent the wheel, as we can base our work on established standards and practices, such as:
 
@@ -126,11 +126,11 @@ We don't need to reinvent the wheel, as we can base our work on established stan
 - [B Corp Certification](https://www.bcorporation.net/).
     
 
-## 🚫 **3. Avoid unsustainable practices**
+ 🚫 **3. Avoid unsustainable practices**
 
 The software should benefit both the individual and the organizations. Avoid "dark patterns" that can be harmful to the software's users. Also, avoid incurring _technical debt_ by using technology that is not durable. Instead, use components that are open for development and future-proof.
 
-## 🤖 **4. Automate sustainability analyses**
+🤖 **4. Automate sustainability analyses**
 
 Ensure that automatic measurements benchmark the software's efficiency continuously, for both the environment and security. Find tools for this at, for example:
 
@@ -138,19 +138,19 @@ Ensure that automatic measurements benchmark the software's efficiency continuou
     
 - [Green Software Tools on GitHub](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/)
     
-## 🧑‍💻 **5. Guide users towards sustainability**
+ 🧑‍💻 **5. Guide users towards sustainability**
 
 Help users make more sustainable choices that benefit both themselves and the future. Have sustainable default settings and use nudging to change user behavior in more sustainable directions. Ensure that users are happy—also in the long run.
 
-## 💡 **6. Handle data energy-efficiently**
+💡 **6. Handle data energy-efficiently**
 
 Build facilities into the software that promote energy-efficient data handling. Be frugal and thrifty regarding the computational resources required.
 
-## 📚 **7. Educate developers continuously in sustainable practices**
+📚 **7. Educate developers continuously in sustainable practices**
 
 All employees should have a basic understanding of the importance of sustainability in general, and different job roles can benefit from more specific training offers or online learning.
 
-## 💾 **8. Follow the good old virtues from the long history of software development**
+ 💾 **8. Follow the good old virtues from the long history of software development**
 
 The history of information technology is a loooooong chain of optimization and improvement processes that can contribute to more sustainable software practices. For example:
 

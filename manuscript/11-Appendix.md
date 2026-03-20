@@ -103,7 +103,7 @@ Do the network and cloud meet the best possible security standards and applicabl
 
 ---
 
- **💾♻️ Sustainability principles for *software***
+## 💾♻️ Sustainability principles for **software**
 
 This checklist guides you in developing or purchasing software solutions with a focus on sustainability in a broad sense.
 

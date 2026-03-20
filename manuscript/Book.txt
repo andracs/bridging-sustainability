@@ -12,5 +12,4 @@
 8-Digital-degrowth.md
 10-Towards-a-greener-healthier-and-brighter-digital-future.md
 11-Appendix.md
-12-Thank-you.md
 12-Bibliography.md

@@ -312,7 +312,7 @@ In essence, reactive strategies address the negative impacts of current technolo
 Balancing these complementary approaches allows organizations to tackle today's challenges effectively while building a more sustainable foundation for the future.
 
 ---
-## Summary: What can you take away from this chapter?
+## Chapter summary: Software, hardware, and the way forward
 
 This chapter explored the multifaceted impacts of information technology – hardware, networks, and software – on our environment, society, and individual well-being. We examined how digitalization presents both significant sustainability challenges and also powerful opportunities for positive change. Through examples like satellite pollution, we illustrated the potential long-term consequences of unchecked technological expansion, while also discussing strategies like lifecycle management and circular processes that foster more sustainable IT practices.
 

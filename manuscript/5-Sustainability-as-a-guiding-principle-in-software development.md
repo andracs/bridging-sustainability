@@ -320,7 +320,7 @@ If developers have influence over operations, they can also demand that the data
 
 A concrete example of automation that can reduce energy consumption and CO2 emissions from software is the previously mentioned Green Metrics Tool. The tool can be used in software development with automated measurements of energy efficiency, which can help understand how daily code changes affect the software's overall resource consumption. The metrics bring sustainability into the everyday life of the development team.
 
-## Summary: What can you take away from this chapter?
+## Chapter summary: The systemic impact of software on hardware and society
 
 _Sustainable software is a difficult concept_. How can you even talk about the energy consumption of software when it doesn't use energy itself? Only hardware can use energy, but because it is the software that controls the hardware, software development is well placed to influence the energy consumption of digital solutions through the algorithms and data structures that make up the software. 
 

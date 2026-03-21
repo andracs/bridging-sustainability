@@ -1,7 +1,7 @@
 # Appendix: Best practices for sustainable IT and digitalization 
 
 Designed to support a holistic approach to sustainable IT, these checklists offer a foundation for your organization's digital journey. While not exhaustive, these research-based guidelines are meant to inspire and evolve alongside your work. They address four key areas: overarching design principles, hardware, networks, and software.
-## Overarching design principles for sustainable digital solutions 🌱💻📘✨♻️🌍
+## 🌱💻✨♻️🌍 Overarching design principles for sustainable digital solutions 
 
 This list can serve as inspiration for _overarching_ sustainability considerations when developing digital solutions.
 

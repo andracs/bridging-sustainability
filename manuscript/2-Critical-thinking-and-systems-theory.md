@@ -247,7 +247,7 @@ Similarly, by mapping the connections between companies, industries and markets,
 
 In economics and supply chains, a missing component can disrupt entire production, affecting both prices and jobs. In ecology, changes in populations of a single species can disrupt established food chains and affect people's food base. A power outage paralyzes communication and emergency response systems, which can lead to further effects throughout society. In the digital sphere, propaganda, misinformation and disinformation can change consumption patterns, influence political priorities and reshape information flows.
 
-## Bringing it together: Key insights from this chapter
+## Chapter summary: Systems thinking and network understanding are key 
 We will often need to apply systems thinking to your work with digital sustainability. When a company prepares ESG or CSRD reports or calculates scope 3 emissions, it is crucial to understand how the company's activities affect other systems.
 
 For example, we can analyze how a company's energy consumption affects the climate and contributes to global temperature increases. We can develop models of the company's supply chains to better understand scope 3 emissions or the sourcing of components for the company's digital activities. And it may also be relevant to analyze the organization's effects on a local community or on users to demonstrate social responsibility. In all cases, critical and analytical system thinking is necessary. By bringing system models or network diagrams into play, we can better understand the complex relationships that shape your organization. 

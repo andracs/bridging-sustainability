@@ -163,7 +163,7 @@ Kastner Research Group (2023). Junkyard Computing. April 2. https://kastner.ucsd
 
 Kato, J. & Shimakage, K. (2020). Rethinking Programming "Environment": Technical and Social Environment Design Toward Convivial Computing. Programming '20: Companion Proceedings of the 4th International Conference on Art, Science, and Engineering of Programming, 149-157. https://doi.org/10.1145/3397537.3397544
 
-Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/
+Kelvey, J. (2024). Understanding the misunderstood Kessler Syndrome. Aerospace America, aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/
 
 Kirkegaard, F.K. (2024). ANALYSIS Here is hope amidst the gloomy predictions of climate scientists. DR. perma.cc/S38Z-6L8M 
 
@@ -198,7 +198,7 @@ Martin, B. (2023). HTTP Response Header Field: Carbon-Emissions-Scope-2 (Interne
 
 Mehlsen, C. (2024). Opmærksomhedstyveriet (The theft of attention). Forlaget Information
 
-Microsoft ( 2024). Microsoft Inclusive Design.
+Microsoft (2024). Microsoft Inclusive Design.
 https://inclusive.microsoft.design/ (accessed 03.11.24).
 
 Miljøstyrelsen, Danish Environmental Protection Agency (2024). Streamlined waste sorting. https://mst.dk/borger/affald-og-forurening/sortering-af-affald/stroemlinet-affaldssortering

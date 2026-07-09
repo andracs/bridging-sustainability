@@ -35,4 +35,4 @@ A sustainable future places new demands on the IT professional. These include te
 
 Throughout the book, we have presented many definitions of and approaches to sustainability, some more complex than others. In simple terms, sustainability can be understood as a description of what we can rely on being there in the future. Ideally, more thoughtful, curious, and self-aware digital practices can help ensure that what we value—and what IT supports—will continue to exist.
 
-Thank you for reading.
+Thank you for reading. Now it is your turn to act for sustainability. 

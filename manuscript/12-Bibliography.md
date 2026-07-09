@@ -290,3 +290,5 @@ Jungersen, R. & Stiesdal, P. (2024). Global temperatures have now broken heat re
 [^142]: Wong, J. (2009). Prepare for Descent: Interaction Design in our New Future. ACM.
 
 [^143]: Yablonski, J. (2024). Home. Humane by Design, January 23. https://humanebydesign.com/
+
+***

@@ -112,6 +112,7 @@ Unsustainable products and services are defined by the fact that, despite their 
 | **Plastic materials**                | Inexpensive and versatile material for many applications | Plastic waste and microplastics are flooding the world's ecosystems                                                     |
 | **Cryptocurrencies such as Bitcoin** | Decentralized, international digital currency            | Huge energy consumption and emissions, and available for criminal application                                           |
 | **Smartphones**                      | Effective and entertaining communication tool            | Environmental and social issues related to the extraction and recycling of materials; addiction-like problems for users |
+
 The table above provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term, i.e. they are unsustainable (as for now).
 
 For example, herbicides are effective in controlling weeds, but over the years they can leak into the groundwater and poison our drinking water. It may not happen immediately, but over decades they can poison the water we depend on as people and as a society (Faartoft 2024).
@@ -240,7 +241,7 @@ Nuclear power does not produce the same greenhouse gas emissions as fossil fuels
 Therefore, when working with sustainability, it is important to remember that the energy and materials we put into a system are transformed - and that transformation creates byproducts. Sustainable companies must take responsibility for these byproducts, for example, by creating circular systems that minimize and recycle energy and materials without damaging the environment. Operating sustainably also means prioritizing renewable energy sources to power digital technologies and infrastructure.
 
 {id: circular-processes}
-### Circularity and circular processes
+### Circularity and regenerative, circular processes
 Nature teaches us that sustainable systems are built on different cycles: cycles of water, cycles of energy and cycles of different elements and materials. One of the most familiar and simple cycles in nature is the water cycle. Water falls from the sky as precipitation and hits the ground. Here it collects in rivers and lakes and organisms absorb the water - and later release it in the form of vapor. Some of the water also seeps underground, only to emerge later in rivers, lakes or the sea. 
 
 The amount of water is essentially the same in the system - no new water is added and no water is lost from the system, as vapor forms solid crystals in the cold, higher layers of the atmosphere and falls back to the earth's surface as rain. There is a continuous flow in the global cycle. So when we experience more water in one location than we are used to (e.g. flooding), then there is correspondingly less water elsewhere in the world.
@@ -251,7 +252,7 @@ Life on Earth is based on circular and regenerative processes, as shown in the f
 
 We have good reason to assume that we will run out of more and more resources if we do not improve our ability to develop new technologies and business models based on circular processes, where energy and materials are reused and recycled from raw materials. In digital practice, this could be as simple as using renewable energy or ensuring that all e-waste is sent to companies that can effectively recycle it. In theory, the vast majority of e-waste can be recycled.
 
-Look to nature for inspiration when designing digital products. One of the most effective ways to create sustainable solutions is to design cyclical systems where energy and materials are repeatedly recycled without being lost or discarded. In other words, sustainable processes are circular, they can be repeated many times without generating significant amounts of waste or wasted energy. Working with sustainability means designing the best possible circular processes.
+**Look to nature for inspiration** when designing digital products. One of the most effective ways to create sustainable solutions is to design cyclical systems where energy and materials are repeatedly recycled or regenerated without being lost or discarded. In other words, sustainable processes are circular and regenerative, and they can be repeated many times without generating significant amounts of waste or wasted energy. *Working with sustainability means designing the best possible circular and regenerative processes.*
 
 {id: greenhouse-gases}
 ### Greenhouse gases (GHG) and climate change
@@ -266,7 +267,7 @@ Unfortunately, all the evidence points to global warming as a serious threat to 
 
 Global warming doesn't just mean higher average temperatures; it also means that weather is becoming more extreme, unpredictable, and unstable. We're already experiencing more frequent and intense weather events because of the excess CO2 we've already released into the atmosphere. If we are to prevent this from getting worse, we must drastically reduce emissions - ideally within the next decade ([IPCC, 2023](https://www.ipcc.ch/report/ar6/syr/)). This urgent goal must influence development in all sectors - including IT.
 
-Fortunately, there is hope and progress on the horizon. Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly, and the UN in 2023 formally recognized greenhouse gas emissions as a global problem requiring global solutions.
+**Fortunately, there is hope and progress on the horizon.** Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly, and the UN in 2023 formally recognized greenhouse gas emissions as a global problem requiring global solutions.
 
 {id: emissions}
 ### Direct and indirect emissions (scope 1, 2 and 3.)
@@ -276,7 +277,7 @@ Take a gasoline-powered car as an example. We can easily observe its direct emis
 
 ![Scopes](I_1.7.png "Overview of scope 1, 2 and 3 emissions: direct and indirect greenhouse gas emissions in the company's value chain, as defined by the GHG Protocol. Source: Reproduced with permission from Climaider.com.")
 
-When calculating the CO2 emissions of a product, service, or company, we can categorize the emissions using the Greenhouse Gas Protocol (GHG Protocol). This framework helps quantify both direct and indirect emissions resulting from a company's activities. The GHG Protocol distinguishes between three types of CO2 emissions (Confederation of Danish Industry, 2022), as shown in Figure 7: 
+When calculating the CO2 emissions of a product, service, or company, we can categorize the emissions using the Greenhouse Gas Protocol (GHG Protocol). This framework helps quantify both direct and indirect emissions resulting from a company's activities. The GHG Protocol distinguishes between three types of CO2 emissions (Confederation of Danish Industry, 2022), as shown in the figure: 
 
 - **Scope 1** refers to direct operational emissions that occur at the organization's site. Examples include emissions from buildings, vehicles and machinery.
 
@@ -284,10 +285,12 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 
 - **Scope 3** includes indirect value chain emissions that result from the company's consumption of goods and services throughout its supply chains. These are often the largest contributors to a company's total emissions.
 
-The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in Figure 8, there should be a steady decline in emissions year after year.
+The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in the figure, there should be a steady decline in emissions year after year.
 
 ![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
-The ultimate goal is to reach zero CO2 emissions within a few decades, and even then we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. It is worth recalling that the global community has previously succeeded in stopping a global environmental disaster when holes were discovered in the ozone layer around the Earth. This showed the possibility of establishing strong international cooperation.
+The ultimate goal is to reach zero CO2 emissions within a few decades, and even then we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. 
+
+It is worth recalling that the global community has already succeeded in stopping a major environmental disaster: the destruction of the ozone layer. Through a united global effort and strong international cooperation, humanity helped prevent a global ecological catastrophe. If we managed it once, we can do it again and help save the climate.
 
 {id: climate-optimism-pessimism}
 ### Climate pessimism and climate optimism

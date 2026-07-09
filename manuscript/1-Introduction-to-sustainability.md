@@ -309,7 +309,7 @@ The *climate pessimists*, on the other hand, expect that society as we know it t
 
 Although we cannot predict the future with certainty, Bendell's "deep adaptation" scenario seems a plausible possibility. Whether Bendell's theory is pessimistic or realistic is debatable, but the implication is the same as that of climate optimists: *we need to create rapid, fundamental systemic changes in society and the way we live and work.*
 
-Perhaps it is less important to talk about optimism and pessimism than it is to find ways to connect the Danes' climate commitment with Bendell's concrete proposals. This linkage can broaden the scope for action and create the basis for more effective action. But there is still a gap between Bendell's call for profound change and the limited transition that people are willing to accept so far.
+Perhaps the distinction between optimism and pessimism is less important than finding ways to connect citizens' commitment to climate action with Bendell's concrete proposals. This linkage can broaden the scope for action and create the basis for more effective action. But there is still a gap between Bendell's call for profound change and the limited transition that people are willing to accept so far.
 
 Bendell's work also provides food for thought about digital development and the great risks associated with our dependence on digital systems. These systems are vulnerable to power outages, software failures and cyberattacks, and can be compromised during crises. Therefore, the theory calls for the development of more robust and less technology-dependent solutions, which can also guide the development of new digital technologies.
 
@@ -327,8 +327,6 @@ Whether you are a climate optimist or a climate pessimist, it is essential to ke
 - And more...
 
 These challenges can often fade into the background because climate is a top priority on a global scale, but responsible organisations should also address the environment in a broader sense. As we'll see in the coming chapters, *in cooperation between companies, organizations and citizens, we can effectively work together to reduce these problems*.
-
-****
 ## Organizations shape our sustainable future
 It's important to recognize that while sustainability clearly has activistic dimensions - such as Greta Thunberg's work for the climate - it is often the economy and companies that act as the primary driving force in our society. Activists shape our thoughts and the public discourse, but economic considerations shape the strategies and actions of organizations. Although other dimensions of sustainability - such as environmental, social, and cultural concerns - also play a role, they can be difficult to fully integrate into practice without the right economical and financial underpinning. How can organizations ensure that their financial sustainability is aligned with broader sustainability goals?
 

@@ -1,7 +1,7 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
 
-- [ ] TILFØJ ILLUsTRATION AF KAPITLER I KAPITEL 0
+- [ ] Tilføj illustration af bogens struktur
 - [ ] Måske afklare: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
 - [ ] ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
@@ -26,13 +26,13 @@ Digital technology is far from sustainable right now - and it won't become susta
 
 Design is key, sustainability must be built into digital products from their very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in increasingly sustainable ways?*
 ### Written by dedicated academics 
-This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on this subject. Literature that goes beyond superficial clichés and tired expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
+This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on digital sustainability, and  literature that goes beyond superficial clichés and tired expressions. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
 
 As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), some of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. 
 
 Digitalization and the fight against climate change is a rapidly evolving field, so the practical chapters of this book reflect the situation as of early 2026 - but the continuously developing nature of the field is the reason why we keep the book updated online.
 ## Chapter overview 
-_Bridging Sustainability and Digital Development_ is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can be read independently.
+The book is structured with a clear throughline connecting the chapters, making it suitable to read sequentially from start to finish. At the same time, each chapter can be read independently.
 
 In a teaching context, educators can combine various chapters to form the basis of a course or training program. No matter how you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
 ### From theory to practice and perspectives
@@ -60,7 +60,7 @@ The third and final part of the book discusses digital sustainability in society
   
 - **Chapter 9** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
   
-- **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [Link to the appendix on GitHub](https://andracs.github.io/Sustainable-Digital/). Here you will also find an overview of various online resources that support this book.
+- **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [https://andracs.github.io/Sustainable-Digital/](https://andracs.github.io/Sustainable-Digital/). 
 
-📖 We hope, that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
+We hope, that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
 ## Happy reading!

@@ -18,7 +18,7 @@ Let's go through some substantial theories that emphasize the urgency of taking 
 - [Your responsibility](#your-responsibility)
 
 {id: anthropocene}
-### 🛣️ This is the age of the Anthropocene
+### This is the age of the Anthropocene
 The Anthropocene is the name of an epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the global state of the Earth.  
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
@@ -28,20 +28,20 @@ This change is comparable to the major geological impacts on Earth in the past, 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
 
 {id: mass-extinction} 
-### 🦕 Sixth  mass extinction is on the horizon
+### Sixth  mass extinction is on the horizon
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
 The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the anthropocene age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
 
 {id: great-acceleration} 
-### 🏎️ We are part of the Great Acceleration 
+### We are part of the Great Acceleration 
 Some scientists theorize, that a global change began with industrialization in the 1800s, and accelerated rapidly after the 1950s. Global change is accelerating and we are accelerating the activities that are changing our planet, such as the release of greenhouse gases and the destruction of various biotopes ([Steffen et al. 2015](https://doi.org/10.1177/2053019614564785)).
 
 ![The Great Acceleration](resources/I_1.1.png "The Great Acceleration is the theory that we live in a time when many different global trends are accelerating at an unprecedented rate. Notice how development takes off after the 1950s. Source: Steffen et al. 2015.")
-This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in Figure 1. Over the past thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will veer out of balance if we continue to accelerate development.
+This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in the figure. Over the past thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will veer out of balance if we continue to accelerate development.
 
 {id: planetary-boundaries} 
-### We are pushing the planets boundaries 🌎 
+### We are pushing the planets boundaries 
 The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University, describing the nine major planetary subsystems that regulate Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
 
 Scientists have estimated limits for Earth's planetary subsystems in which humanity can continue to evolve and thrive for generations to come, without causing irreparable damage to Earth as we know it. If the limits are exceeded, the systems may become unbalanced, leading the planet to a new and different reality. 
@@ -49,7 +49,7 @@ Scientists have estimated limits for Earth's planetary subsystems in which human
 Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect the limits as soon as possible.
 
 {id: climate-change} 
-### We are the climate change 🌪️
+### We are the climate change
 Current global development is neither durable nor sustainable. In the coming decades, we must turn all industrial (and digital) development in a sustainable direction to enable people to live a good life. 
 
 We must be able to continuously improve and develop our world without fearing the long-term consequences of our actions in the form of droughts, floods, destruction of rainforests and landscapes, major political challenges, migration, and loss of life. We have an ethical obligation to protect nature, which is our origin and our future.
@@ -57,7 +57,7 @@ We must be able to continuously improve and develop our world without fearing th
 With the help of scientists who continuously monitor global climate change, a number of actions are underway globally that aim to change the trend to something more sustainable ([Science Based Targets initiative](https://sciencebasedtargets.org/)). But we will need every effort. That's why it's important that we incorporate sustainability into all our activities - including digital ones.
 
 {id: digital-transformation} 
-### People in information technology and digital services are both the villains and the heros 📡
+### People in information technology and digital services are both the villains and the heroes
 Information technology and digital transformation are phenomena that surprise us daily with its latest inventions, opportunities and challenges, shedding light on new aspects of our everyday lives - and our existence.
 
 Social media, virtual worlds, sensor networks, autonomous agents, artificial intelligence, generative AI, machine learning, Internet of Things (IoT), data science... All of these IT concepts have emerged in recent years and are still evolving as they change our world.
@@ -66,8 +66,8 @@ Modern IT is accelerating some dimensions of science and research, and the compu
 
 Information technology and digital transformation are two sides of the same coin. Digital transformation focuses on people, organizations and their processes, and information technology focuses on the digital technologies themselves.
 
-- Digital transformation is the use of information technology by people and organizations.
-- Information technology consists of hardware, software and networks: Electronics, algorithms and systems.
+- **Digital transformation** is the use of information technology by people and organizations.
+- **Information technology** consists of hardware, software and networks: Electronics, algorithms and systems.
 
 ![Technology and nature are opposites. But they shouldn't have to be.](resources/I_1.2.png "Technology and nature are opposites. But they shouldn't have to be.")
 
@@ -76,7 +76,7 @@ There is no digital transformation without technology, and technology also makes
 However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability should help create a fruitful balance and exchange between technology, people, nature and the environment.
 
 {id: your-responsibility} 
-### ⛑️ Accept, embrace and live up to your digital responsibility 
+### Accept, embrace and live up to your digital responsibility 
 As an information technology and digital professional, what is your role in this global equation? Can IT and digital development contribute to a better world and a more sustainable future if we use technology with long-term thinking?
 
 You may not be able to solve the sixth mass extinction event and balance nature in the Anthropocene era overnight, but *many small steps - including your professional contribution to the sustainability agenda - will contribute to positive changes in the world.*
@@ -165,7 +165,7 @@ Velux's plan is both forward-thinking and compassionate. There is no law requiri
 
 While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies could benefit from adopting. For example a digital hosting company could compensate for the greenhouse gas emissions they have emitted over time - since their startup.
 
-Are Velux’s initiatives genuinely producing an impact on a global scale, or are they merely symbolic gestures with limited effect? While their actions represent an ambitious step in the right direction, the contribution of a single company is insufficient to address the magnitude of the climate crisis. It is only through collective, large-scale efforts across industries and nations that meaningful progress can be achieved. In this regard, Vestas’s example may serve as an important point of inspiration, highlighting the potential for global solutions if all stakeholders contribute at a similar scale.
+Are Velux’s initiatives genuinely producing an impact on a global scale, or are they merely symbolic gestures with limited effect? While their actions represent an ambitious step in the right direction, the contribution of a single company is insufficient to address the magnitude of the climate crisis. It is only through collective, large-scale efforts across industries and nations that meaningful progress can be achieved. In this regard, Velux’s example may serve as an important point of inspiration, highlighting the potential for global solutions if all stakeholders contribute at a similar scale.
 
 If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a truly "sustainable company". In order to achieve that, the company needs to go full circular on their activities, and address other dimensions of sustainability before they can call themself truly sustainable.
 
@@ -219,9 +219,7 @@ But how could that be done? Let's identify some concepts about energy and materi
 
 ![Energy can be transformed but not disappear.](I_1.4.png "The sun's thermal energy is converted through a chain of processes - the wind's kinetic energy, the wind turbine's mechanical energy and then electrical energy - into calculations and output in the computer. The computer outputs the energy as thermal energy, which often requires additional energy to cool the electronic components. A circular approach to energy consumption can reduce energy waste and improve sustainability.")
 
-Energy cannot appear out of nothing, nor can it disappear on its own. However, the energy that exists in the world can be transformed from one form to another. This is one of the fundamental laws of physics: energy cannot disappear — it can only be transformed.
-
-See Figure 4, which illustrates how energy from the sun’s rays is transformed into different types of energy that eventually power your computer:
+Energy cannot appear out of nothing, nor can it disappear on its own. However, the energy that exists in the world can be transformed from one form to another. This is one of the fundamental laws of physics: energy cannot disappear — it can only be transformed. The figure illustrates how energy from the sun’s rays is transformed into different types of energy that eventually power your computer:
 
 1. The sun’s energy heats the air in the atmosphere.
 2. This thermal energy causes the air to move, creating wind (kinetic energy or motion energy)
@@ -249,7 +247,7 @@ The amount of water is essentially the same in the system - no new water is adde
 
  ![Data center](I_1.5.png "Data centers can operate sustainably by using renewable energy, reusing waste heat and ensuring hardware and materials are recycled. Circular solutions reduce resource consumption and contribute to a more sustainable future.")
  
-Life on Earth is based on circular processes, as shown in Figure 5. For thousands of years, our ancestors followed the rhythm of nature: planting, fertilizing, harvesting, and beginning the cycle again year after year. Not all production was circular, but with fewer people on the planet, natural resources such as water, forests, oil, and iron seemed inexhaustible. New supplies could always be found. Today, however, those supplies are under serious pressure. The human population has grown, and we are consuming more of the Earth's resources at a rate that is pushing us toward and past planetary boundaries.
+Life on Earth is based on circular and regenerative processes, as shown in the figure. For thousands of years, our ancestors followed the rhythm of nature: planting, fertilizing, harvesting, and beginning the cycle again year after year. Not all production was circular, but with fewer people on the planet, natural resources such as water, forests, oil, and iron seemed inexhaustible. New supplies could always be found. Today, however, those supplies are under serious pressure. The human population has grown, and we are consuming more of the Earth's resources at a rate that is pushing us toward and past planetary boundaries.
 
 We have good reason to assume that we will run out of more and more resources if we do not improve our ability to develop new technologies and business models based on circular processes, where energy and materials are reused and recycled from raw materials. In digital practice, this could be as simple as using renewable energy or ensuring that all e-waste is sent to companies that can effectively recycle it. In theory, the vast majority of e-waste can be recycled.
 
@@ -264,7 +262,7 @@ Unfortunately, despite these warnings, we continue to extract fossil fuels from 
 You may have noticed how water starts to swirl, bubble, and move when it boils. A similar phenomenon occurs in our atmosphere as it heats up-the air behaves differently, moving faster and more violently. The same is true of the oceans.
  ![Climate change](I_1.6.png "Climate change has far-reaching global consequences. The illustration from IPCC, the Intergovernmental Panel on Climate Change, shows some of the areas expected to be affected by climate change. ")
 
-Unfortunately, all the evidence points to global warming as a serious threat to the potential for a good life in the future - for everyone on the planet, including humans, plants and animals. Figure 6 illustrates the extent to which climate change is driven by human actions, and the consequences that these changes have already had or may have in the future.
+Unfortunately, all the evidence points to global warming as a serious threat to the potential for a good life in the future - for everyone on the planet, including humans, plants and animals. The figure illustrates the extent to which climate change is driven by human actions, and the consequences that these changes have already had or may have in the future.
 
 Global warming doesn't just mean higher average temperatures; it also means that weather is becoming more extreme, unpredictable, and unstable. We're already experiencing more frequent and intense weather events because of the excess CO2 we've already released into the atmosphere. If we are to prevent this from getting worse, we must drastically reduce emissions - ideally within the next decade ([IPCC, 2023](https://www.ipcc.ch/report/ar6/syr/)). This urgent goal must influence development in all sectors - including IT.
 

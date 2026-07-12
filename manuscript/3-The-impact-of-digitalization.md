@@ -8,12 +8,12 @@ This chapter discusses the tension between the negative impacts of digitalizatio
 
 The chapter first discusses sustainability in relation to hardware, then networks, and finally software's relationship to sustainability. As an introduction to the chapter, we invite you to consider a concrete example of how modern technology can cause pollution with unprecedented global consequences. Let's look at the story of how space technology has transformed Earth's orbit from a pristine area to an explosive dumping ground in just a few decades.
 
-## How earth's orbit became polluted so fast
+## How Earth's orbit became polluted so fast
 We are increasingly learning that when new technologies surge onto the global stage, the consequences of neglecting long-term thinking can manifest quickly. Consider the pollution of space around Earth – a potent illustration of how rapid technological growth, pursued without adequate environmental foresight, can breed global problems.
 
 For eons, the space above Earth was pristine. Then came the Space Age in the 1950s. Tragically, within just a few decades, human activity turned Earth's orbit into a dangerous dumping ground. From the late 1950s through the 1980s, satellites were launched with minimal consideration for end-of-life disposal or the orbital environment. Expired satellites and mission-related fragments were left adrift, creating a growing cloud of hazardous "space junk."
 
-Currently, more than 8,000 satellites circle our planet, enabling modern communication, observation, and navigation, and this number is rapidly increasing. At the same time, this orbital infrastructure, along with future space endeavors, is increasingly endangered by debris from past missions. Hurtling around Earth at immense speeds, even small pieces of debris can cause devastating collisions.
+Currently, more than 11,000 active satellites circle our planet ([ESA 2025](https://www.esa.int/Space_Safety/Space_Debris)), enabling modern communication, observation, and navigation, and this number is rapidly increasing. At the same time, this orbital infrastructure, along with future space endeavors, is increasingly endangered by debris from past missions. Hurtling around Earth at immense speeds, even small pieces of debris can cause devastating collisions.
 
 The most alarming possibility is a runaway chain reaction: collisions creating more debris, leading to more collisions, and so on. Such a cascade could potentially cripple essential services like GPS and global communications, and close off access to space for future generations ([Kelvey 2024](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)). Yet, hope remains that a shift towards more sustainable, long-view practices can help us manage this orbital challenge.
 
@@ -22,9 +22,9 @@ Recognizing the threat posed by space debris, the space industry has increasingl
 
 Several different initiatives are underway to address this challenge and secure the future availability of satellite technologies:
 
-* _Lifecycle management_: Satellites are now being designed with their entire lifecycle in mind. The satellites are now designed to prevent them from ending up as space debris at the end of their mission.
+* _Lifecycle management_: Satellites are now being designed with their entire lifecycle in mind, ensuring that they do not end up as space debris at the end of their mission.
 
-* _Downsizing_: We use smaller and cheaper micro- and nanosatellites, which are small and compact, use fewer resources overall, and are generally easier to manage.
+* _Downsizing_: We increasingly use micro- and nanosatellites, which are small, compact and cheaper, use fewer resources overall, and are generally easier to manage.
 
 * _Iterative Development_: Historically, satellites often had long development cycles (10-15 years) followed by equally long service lives (10-15 years), resulting in operational technology potentially being decades old. Given the rapid pace of technological advancement, the industry is moving towards shorter lifecycles. This approach allows deployed satellites to incorporate more current and efficient technologies, improving performance and potentially reducing mission duration.
 
@@ -33,7 +33,7 @@ But what is the connection between satellites and sustainable IT? Satellites are
 ### What can we learn from the recent developments in satellite technology?
 The story of satellite pollution powerfully illustrates how rapidly new technologies can generate problems on a planetary scale. Yet, it also offers a crucial lesson: sustainable pathways become possible when we commit to addressing the long-term consequences of innovation. Core sustainability principles highlighted by the space debris challenge – including *Lifecycle Management*, *Downsizing*, and *Iterative Development* – offer valuable frameworks applicable across the entire information technology landscape.
 
-Space industry can inspire us in informatics to integrate these (and similar other) principles into the design and management of product lifecycles. Research and development must be grounded in sustainable, holistic and long term goals, emphasizing circular economy approaches like cradle-to-cradle recycling.  Ultimately, we must actively mitigate the unintended negative consequences of IT by designing solutions with lifecycles, that deliver lasting benefits for users, the environment, and society.
+The space industry can inspire us in informatics to integrate these (and similar other) principles into the design and management of product lifecycles. Research and development must be grounded in sustainable, holistic and long-term goals, emphasizing circular economy approaches like cradle-to-cradle recycling. Ultimately, we must actively mitigate the unintended negative consequences of IT by designing solutions with lifecycles that deliver lasting benefits for users, the environment, and society.
 
 Fundamentally, all IT systems consist of three core components: hardware, software, and network infrastructure. Crucially, there is also the human factor, the users, who interact with these systems. As depicted in the following figure, data flows and transforms within this ecosystem of components, ultimately facilitating information exchange with the user.
 
@@ -41,14 +41,13 @@ Fundamentally, all IT systems consist of three core components: hardware, softwa
 
 All three parts have a crucial role to play in the impact of digital solutions. Digital systems work in the interaction between hardware, network, software and users, but sustainability can also be assessed for each component individually. The next sections review the sustainability aspects of hardware, network and software separately.
 
----
 ## The physical side of information technology
 
 Hardware and electronics form the physical foundation of all digital solutions. Devices such as computers, smartphones, and networking gear are built from many different parts like printed circuit boards, microchips, plastics, and integrated circuits, each with its own manufacturing footprint.
 
 The production of this hardware requires advanced manufacturing lines and a wide variety of materials, including plastics, metals, and critical rare earth elements. Global trade and cooperation are essential for creating cutting-edge systems, resulting in complex, planet-spanning supply chains.
 
-Let's look at a concrete example of such a global supply network, which is required for manufacturing a smartphone. The figure below shows, how a smartphone sold in Europe is built from minerals and raw materials extracted in several parts of the world, which are then processed and assembled in China. 
+Let's look at a concrete example of such a global supply network, which is required for manufacturing a smartphone. The figure below shows how a smartphone sold in Europe is built from minerals and raw materials extracted in several parts of the world, which are then processed and assembled in China. 
 
 
 ![Fairphone's global supply chain](resources/I_3.2.png "From responsible raw material extraction to production and distribution: Fairphone's global supply chains visualized. By focusing on the entire chain, Fairphone promotes fairer and more environmentally conscious production.")
@@ -78,11 +77,11 @@ These four elements – materials, labor, expertise, and energy – are inextric
 Optimizing one area, such as energy efficiency through advanced expertise, may still be undermined by unsustainable raw material sourcing or poor labor practices. Therefore, a comprehensive view acknowledging the interdependence of these inputs is necessary to foster genuinely sustainable hardware development, and addressing digital sustainability requires a holistic approach that considers the impact of each factor.
 ### Electronic waste and recycling
 
-A holistic and circular approach to hardware begins with sourcing and producing raw materials and components as sustainably as possible, preferaly from recycled sources. When hardware reaches the end of its initial use phase, extending its life through direct reuse via refurbishment (cleaning, refreshing, repairing) should be a priority.
+A holistic and circular approach to hardware begins with sourcing and producing raw materials and components as sustainably as possible, preferably from recycled sources. When hardware reaches the end of its initial use phase, extending its life through direct reuse via refurbishment (cleaning, refreshing, repairing) should be a priority.
 
 Materials from devices that cannot be refurbished should then enter responsible recycling streams. The aim is maximum material recovery, ideally reclaiming close to 100% of raw materials for reintegration into manufacturing cycles, either for new hardware or other products. Manufacturers can foster this circularity by encouraging product returns and guaranteeing effective disassembly and material recovery processes.
 
-The potential for circularity in computing hardware is high – most materials are technically recoverable through component reuse or raw material recycling. However, current practices lag significantly behind this potential. Globally, a mere 17.4% of e-waste is estimated to be collected and appropriately recycled. This stark figure underscores the urgent need for action: improving collection and recycling infrastructure for electronics and minimizing the generation of electronic waste are critical steps toward a more sustainable digital world ([United Nations University 2024](https://unu.edu/press-release/global-e-waste-surging-21-5-years)).
+The potential for circularity in computing hardware is high – most materials are technically recoverable through component reuse or raw material recycling. However, current practices lag significantly behind this potential. Globally, a mere 22.3% of e-waste is estimated to be collected and appropriately recycled. This stark figure underscores the urgent need for action: improving collection and recycling infrastructure for electronics and minimizing the generation of electronic waste are critical steps toward a more sustainable digital world ([United Nations University 2024](https://unu.edu/press-release/global-e-waste-surging-21-5-years)).
 
 ### Longevity: extended lifespan
 
@@ -90,7 +89,7 @@ The amount of electronic waste can be reduced by extending the lifetime of the h
 
 In this context, the fact that microchips are getting faster every year is a problem. While it's generally a good idea to keep a computer alive for longer by repairing it, this is not necessarily the case for all types of computers. For example, it can be more sustainable to scrap old power-hungry servers for a newer model that is significantly more efficient.
 
-In terms of energy consumption, hardware manufacturing should strive to reduce energy consumption and use renewable energy in all stages of both production and recycling to eliminate the use of fossil fuels (and thus reduce greenhouse gas emissions). It should be remembered that water and air used in production must also be cleaned before it is released from the factory.
+In terms of energy consumption, hardware manufacturing should strive to reduce energy consumption and use renewable energy in all stages of both production and recycling to eliminate the use of fossil fuels (and thus reduce greenhouse gas emissions). It should be remembered that water and air used in production must also be cleaned before they are released from the factory.
 
 Proactive design choices also offer substantial opportunities for improving hardware sustainability. Leveraging the latest knowledge and integrating sustainable design principles can yield significant environmental benefits. Processor technology provides a compelling example. Different processor architectures can perform equivalent calculations with varying energy demands. Notably, _ARM processors_ are designed for high energy efficiency, consuming less power for their computations compared to many traditional processor types. This hardware efficiency can, in turn, enable software running on these devices to operate more sustainably.
 
@@ -105,7 +104,7 @@ Beyond direct labor concerns, companies should also assess and manage the impact
 
 - *By focusing on recycled and renewable materials, clean electricity, and low-carbon shipping, we’re working to bring our net emissions to zero across our entire carbon footprint.* ([Apple 2024](https://www.apple.com/environment/))
 
-- *We consider energy efficiency and resource circularity for our products throughout their entire life cycle. This involves implementing various measures during the stages of sourcing, production, distribution, use, and recycling to reduce our impact on the environment.* ([Samsung 2024]())
+- *We consider energy efficiency and resource circularity for our products throughout their entire life cycle. This involves implementing various measures during the stages of sourcing, production, distribution, use, and recycling to reduce our impact on the environment.* ([Samsung 2024](https://www.samsung.com/global/sustainability/))
   
 - *For ourselves, we have a bold goal to reach net-zero emissions across all of our operations and value chain, which includes running on 24/7 carbon-free energy (CFE) on every grid where we operate. A sustainable future requires systems-level change, strong government policies, and new technologies. We know that AI has the potential to help solve some of climate’s biggest challenges.* ([Google 2025](https://sustainability.google/))
 
@@ -119,7 +118,6 @@ As long as new minerals have to be mined for every product, we'll continue to pu
 
 While it is unfortunately impossible with our current technology to develop completely sustainable hardware, you can still advance your organization's overall sustainability by considering the aforementioned hardware aspects in your IT projects. You can further the sustainability agenda in your practical work by asking questions about the hardware part of the projects you are involved in. The checklists in the book's appendix can help you with this.
 
----
 ## Network and cloud: Challenges and opportunities
 
 Modern digital technology consists not only of computers, smartphones and printers, but also of the (data) network itself, which forms a large part of the technology. After all, what can you do with a computer, smartphone, or server without a network connection? You can't share information with others or get data from other devices. That's why it's important to consider the network when talking about sustainability and IT.
@@ -138,7 +136,7 @@ Central to this infrastructure are *data centers*, ranging from small facilities
 
 While large data centers and ISPs are economically motivated to pursue energy efficiency – as lower energy use directly reduces operational costs – understanding the true environmental impact of data networks is complex. As a rule of thumb, every dollar saved on electricity improves profitability, driving investment in efficiency measures.
 
-Technological upgrades, such as the gradual replacement of copper cables with more energy-efficient fiber optics (now increasingly common, see [Europacapable 2022](https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/)), contribute to reducing energy per bit transferred. However, the distributed and heterogeneous nature of the internet – with data flowing through countless nodes, diverse hardware, and geographically dispersed services – makes calculating the precise environmental cost of any given data transfer extremely difficult.
+Technological upgrades, such as the gradual replacement of copper cables with more energy-efficient fiber optics (now increasingly common, see [Europacable 2022](https://europacable.eu/news/europacable-whitepaper-on-energy-efficiency/)), contribute to reducing energy per bit transferred. However, the distributed and heterogeneous nature of the internet – with data flowing through countless nodes, diverse hardware, and geographically dispersed services – makes calculating the precise environmental cost of any given data transfer extremely difficult.
 
 Recognizing this challenge, researchers and engineers are developing methods to estimate the energy consumption and carbon footprint attributable to specific online activities and software services. A notable example is the proposal by French innovator Bertrand Martin for a new HTTP Response Header ("Carbon-Emissions-Scope-2"). This mechanism is designed to enable web services to communicate an estimated CO2 emission value for data transfers they handle ([Martin 2023](https://datatracker.ietf.org/doc/draft-martin-http-carbon-emissions-scope-2/00/)). While not widely accepted or implemented, Martin's proposal highlights a growing push for greater transparency and accountability regarding the environmental impact of digital services.
 
@@ -172,18 +170,17 @@ But networks are also vulnerable. Denial of service attacks are very common. Thi
 
 Areas without internet connectivity can suffer from being cut off from the global information highway, while others seek the same off-grid areas where they can be cut off from the connected world. So the very development and deployment of networking technologies can have knock-on effects that affect both society and individuals.
 
-Finally, it should be mentioned, that computer networks are also built on hardware, and therefore we should also consider a network's own hardware-related sustainability issues, as discussed earlier in the chapter.
+Finally, it should be mentioned that computer networks are also built on hardware, and therefore we should also consider a network's own hardware-related sustainability issues, as discussed earlier in the chapter.
 
----
 ## Software: Key sustainability aspects 
 
 Software refers collectively to the programs and applications that operate on computer hardware, ranging from common applications like word processors, websites, and smartphone apps, to specialized systems including databases, AI, machine learning, server management, electric car controls, and factory automation software.
 
 As the critical layer controlling the interactions between hardware and network elements, software is fundamental to every digital project. The quality of software is paramount: effective and efficient programs deliver substantial advantages, while inefficient or flawed software can directly undermine digitalization goals.
 
-Specifically, high-quality software streamlines work processes, improves user interactions, increases productivity and creates value on different level. Poorly developed software, however, can result in system malfunctions, security breaches, and wasted resources, thereby impeding progress and innovation. Therefore, a dedicated focus on software quality is indispensable for successful digitalization.
+Specifically, high-quality software streamlines work processes, improves user interactions, increases productivity and creates value on different levels. Poorly developed software, however, can result in system malfunctions, security breaches, and wasted resources, thereby impeding progress and innovation. Therefore, a dedicated focus on software quality is indispensable for successful digitalization.
 
-### The software has some impact on power consumption and emissions
+### Software has a direct impact on power consumption and emissions
 
 The software running on hardware significantly influences the overall electricity consumption of IT systems. Efficient, well-designed software utilizes only the necessary computing resources, whereas poorly optimized software can demand excessive processing power, directly increasing a device's energy use.
 
@@ -191,11 +188,18 @@ Globally, researchers are actively developing methods to measure and optimize so
 
 This baseline consumption complicates efforts to precisely measure the energy attributed solely to a specific software application. Furthermore, as mentioned in Chapter 2, many common digital activities involve hidden, distributed energy use. Streaming an online video, for example, consumes energy not just on the user's device, but also on the server hosting the video and across the network infrastructure transmitting it.
 
-Artificial intelligence (AI) provides another example of software-driven energy demand. Training large AI models, which involves processing vast datasets using potentially thousands of GPUs concurrently, is extremely energy-intensive (Olifent 2024). Even AI inference – using a trained model – has a notable cost; Raghavendra Selvan (DTU) estimated that a single ChatGPT prompt uses approximately 0.1938 kWh, comparable to charging a smartphone about 40 times ([Kristensen 2024](https://di.ku.dk/english/news/2023/what-can-we-do-about-the-increasing-carbon-footprint-of-ai/)).
+Artificial intelligence (AI) provides another example of software-driven energy demand. Training large AI models, which involves processing vast datasets using potentially thousands of GPUs concurrently, is extremely energy-intensive (Olifent 2024). Even AI inference – using a trained model – has a cost. Recent measurements put a typical chatbot prompt at roughly 0.3 watt-hours ([Epoch AI 2025](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use)) – modest for a single query, but multiplied by billions of prompts every day it adds up to a substantial and fast-growing load.
 
 Looking ahead, there are concerns that emerging complex algorithms could become even more energy-intensive. Technologies like blockchain and large-scale AI debuted with substantial energy demands, sometimes compared to the consumption of entire medium-sized European nations. While subsequent optimization often improves the energy efficiency per operation for such technologies, the "rebound effect" remains a critical factor: increased adoption and usage, driven by improved performance or new applications, can lead to a rise in *total* energy consumption despite unit efficiencies.
 
 Finally, the tools used for software development also matter. Research indicates that the choice of programming language and associated frameworks can significantly impact resource usage. Generally, minimalist, specialized languages and frameworks tend to require fewer computational resources compared to large, generic ones, influencing the final software's energy profile.
+
+
+### AI and sustainability: footprint and potential
+
+No technology illustrates the double-edged nature of digitalization better than artificial intelligence. On the footprint side, the rapid adoption of generative AI is driving a boom in data center construction: the International Energy Agency estimates that data centers consumed around 1.5% of the world's electricity in 2024, and that this could more than double by 2030, with AI as the most important driver ([IEA 2025](https://www.iea.org/reports/energy-and-ai)). Beyond electricity, AI adds pressure on water resources for cooling and on supply chains for specialized chips - embodied impacts that follow the hardware lifecycle described earlier in this chapter.
+
+On the potential side, AI can accelerate sustainability work: optimizing energy grids, buildings and logistics, improving climate and weather models, discovering new battery and solar-cell materials, and automating the kind of sustainability monitoring and reporting described later in this chapter. Whether AI ends up as a net positive or a net negative for sustainability depends on choices that practitioners like you make: choosing appropriately sized models for the task (a small model is often enough), running workloads in regions with clean energy, questioning whether an AI feature is needed at all (remember the 7 R's: rethink and refuse), and staying alert to the rebound effect - efficiency gains that fuel ever-greater consumption.
 
 ### Technical debt and code optimization
 
@@ -205,7 +209,7 @@ Consider an example in software development where an algorithm must process larg
 
 Conversely, the same algorithm, developed with due diligence and applying sound knowledge of algorithmic efficiency, employing refactoring techniques, and conducting thorough testing, could be programmed for far more efficiency, requiring only a fraction of the computational resources. Developers can leverage various analysis and profiling tools to identify bottlenecks and further optimize code according to the best practices of the chosen programming language. The advent of AI-powered development environments brings promises towards software development pipelines, where AI is being capable of automatically optimizing code in order to counter technical debt. 
 
-An example from reallife evolves around a company managing large fleets of connected vehicles, transmitting vast amounts of real-time data to central servers. This data transfer incurs significant costs based on volume (paying per gigabyte). The development team implemented standard compression to reduce data size and lower costs. However, this standard compression wasn't optimal for their specific data type. Analysis revealed that developing a customized data compression algorithm, tailored to car data, could drastically improve efficiency. 
+A real-life example revolves around a company managing large fleets of connected vehicles, transmitting vast amounts of real-time data to central servers. This data transfer incurs significant costs based on volume (paying per gigabyte). The development team implemented standard compression to reduce data size and lower costs. However, this standard compression wasn't optimal for their specific data type. Analysis revealed that developing a customized data compression algorithm, tailored to car data, could drastically improve efficiency. 
 
 By investing in this more efficient software solution, the company could not only save millions annually in data transfer fees but also significantly reduce the network bandwidth and associated energy consumption required for transmission. Implementing the optimized compression would effectively eliminate this specific instance of technical debt, yielding both economic and environmental benefits.
 
@@ -217,9 +221,9 @@ WordPress is renowned for its ease of setup, often marketed with a "five-minute 
 
 Challenges typically emerge when a project's requirements evolve beyond the platform's core design, effectively "outgrowing WordPress." Custom functionalities or high-performance demands might require optimizations that are difficult to achieve within the generalized architecture of WordPress and its plugin ecosystem. While adept at many common tasks, WordPress, like most generic platforms, may struggle with performance and efficiency when pushed towards highly specific use cases it wasn't originally built for. Generic systems inherently face difficulties achieving peak optimization for specialized, demanding operations.
 
-Similar challenges can be observed with AI-assisted software development tools or vibe coding. As the AI-assisted coding helpers get better and better all the time, but these not always generate the most efficient or suitable code for a given problem. If the developers chose the right context and right prompts for the projects, AI can yield high quality code - but if not used properly, it can also create sustainable technical debt as  resource-hungry or ill structured solutions. On the other hand, AI-assisted coded is also for the rescue: AI can assist in optimizing and / or migrating legacy solutions. 
+Similar challenges can be observed with AI-assisted software development tools and "vibe coding". AI coding assistants are getting better all the time, but they do not always generate the most efficient or suitable code for a given problem. If developers choose the right context and prompts, AI can yield high-quality code - but used carelessly, it can also create lasting technical debt in the form of resource-hungry or ill-structured solutions. On the other hand, AI can also come to the rescue: it can assist in optimizing and migrating legacy solutions.
 
-When driving digital development, we must keep in mind, that technical debt can accumulate when foundational systems, frameworks, libraries or IDE's are not well-suited or optimized for the specific tasks they are ultimately required to perform. Consequently, selecting software components with careful consideration of performance requirements, scalability, and long-term sustainability is a crucial early decision.
+When driving digital development, we must keep in mind that technical debt can accumulate when foundational systems, frameworks, libraries or IDEs are not well-suited or optimized for the specific tasks they are ultimately required to perform. Consequently, selecting software components with careful consideration of performance requirements, scalability, and long-term sustainability is a crucial early decision.
 
 For systems already burdened with significant technical debt, remediation often involves optimizing existing code and architecture – essentially "paying down" the debt. However, sometimes the *symptoms* of technical debt, like poor performance, can be mitigated through external tools. Varnish Cache is one such tool; it's a web accelerator that can dramatically improve the response time of web solutions (potentially by orders of magnitude, though specific gains vary greatly depending on architecture and workload) by caching content.
 
@@ -237,19 +241,19 @@ Beyond the environmental dimensions, software profoundly impacts the people and 
 
 Critically, software design itself carries ethical weight, as it can incorporate persuasive or manipulative techniques (dark patterns) intended to influence user behavior – sometimes for beneficial ends, but often purely for commercial gain or other motives.
 
-![A sustainable hardware lifecycle](resources/I_3.5.png "Manipulative design can influence user decisions by highlighting certain choices as the 'right' or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.")
+![Design that guides user choices](resources/I_3.5.png "Manipulative design can influence user decisions by highlighting certain choices as the 'right' or most attractive. On the left screen, subscription options for a fitness platform are presented, with some subscriptions appearing as better choices than the others, while the free version is toned down linguistically and visually. On the right is an example of how a computer store's design emphasizes the sustainable choices.")
 
-A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ([Sobolev & Lesic 2022](https://www.pymnts.com/cpi-posts/online-choice-architecture-the-good-the-bad-and-the-complicated/)). The figure shows, how this trick both can be used to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design both can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
+A trick often used in web design is to present options in a way that emphasizes the desired choice - also called _visual weighting_ or _choice architecture_ ([Sobolev & Lesic 2022](https://www.pymnts.com/cpi-posts/online-choice-architecture-the-good-the-bad-and-the-complicated/)). The figure shows how this trick can be used both to get users to either buy more (where the cheap alternatives appear less appealing) or choose a sustainable option (which seems like the obvious right choice compared to pure consumption). This illustrates how design both can be used to highlight the most profitable choices for the business, but also to promote sustainable choices.
 
 So, it is possible to build sustainability aspects into existing software and it is also possible to develop various new software solutions that can help advance the sustainability agenda. Examples could be:
 
 - Apps that help shift electricity consumption from fossil fuel power plants to renewable energy sources by predicting when green power is available (from wind or sun).
 
-- Calculators, that can compare products or solutions from a sustainability perspective.
+- Calculators that can compare products or solutions from a sustainability perspective.
 
-- Interactive soliutions, which nudge the users in sustainable directions.
+- Interactive solutions that nudge users in sustainable directions.
 
-- Solutions, that optimize processes to reduce resource consumption (e.g., food waste or energy waste).
+- Solutions that optimize processes to reduce resource consumption (e.g., food waste or energy waste).
 
 A further opportunity presented by digitalization and software lies in continuously monitoring sustainability performance. Organizations can implement systems to track specific *performance indicators* in near real-time, visualizing this data through dashboards (as shown in the figure below) for ongoing assessment.
 
@@ -294,7 +298,6 @@ Dictatorial governments increasingly exploit advanced technologies such as surve
 
 Most major global powers now possess sophisticated cyber defense systems and offensive capabilities, capable of executing destructive cyberattacks worldwide. Consequently, the internet is evolving beyond an information resource, becoming a key battlefield in global hybrid warfare. Sustainable information systems must therefore prioritize digital resilience, effectively safeguarding against misuse and cyber threats. Information security thus emerges as a fundamental pillar of digital sustainability efforts.
 
----
 ## How can we make information technology more sustainable?
 
 We outline two fundamental strategies for driving sustainability improvements: the reactive and the proactive approaches. Reactive strategies focus on optimizing what already exists, whereas proactive measures aim to embed sustainability into new developments from the outset.
@@ -311,8 +314,7 @@ In essence, reactive strategies address the negative impacts of current technolo
 
 Balancing these complementary approaches allows organizations to tackle today's challenges effectively while building a more sustainable foundation for the future.
 
----
-## Chapter summary: Software, hardware, and the way forward
+## Bringing it together: Key insights from this chapter
 
 This chapter explored the multifaceted impacts of information technology – hardware, networks, and software – on our environment, society, and individual well-being. We examined how digitalization presents both significant sustainability challenges and also powerful opportunities for positive change. Through examples like satellite pollution, we illustrated the potential long-term consequences of unchecked technological expansion, while also discussing strategies like lifecycle management and circular processes that foster more sustainable IT practices.
 
@@ -324,7 +326,7 @@ Key takeaways include:
   
 * Software: Efficient software minimizes resource demands on hardware and networks. Furthermore, software can be a tool for sustainability by optimizing processes, guiding user behavior, and requiring design that prioritizes both environmental performance and user well-being, mitigating issues like digital addiction.
 
-While the goal of achieving fully sustainable digitalization is desirable, with the current technology and practices it is impossible to achieve 100% sustainable information technology. This journey requires ongoing effort on multiple fronts, transforming technologies laden with environmental and social side effects into "greener," more just and more responsible alternatives. There is significant progress being made, and a  substantial amount of work is ahead of us.
+While the goal of achieving fully sustainable digitalization is desirable, with the current technology and practices it is impossible to achieve 100% sustainable information technology. This journey requires ongoing effort on multiple fronts, transforming technologies laden with environmental and social side effects into "greener," more just and more responsible alternatives. There is significant progress being made, and a substantial amount of work is ahead of us.
 
 Moving forward requires embracing both reactive and proactive sustainability strategies. We must address the impacts of existing systems (reactive) while simultaneously embedding sustainability principles into the design of new technologies, processes, and products (proactive). As highlighted in the previous figure, these approaches are complementary and essential for building a coherent path towards sustainability.
 

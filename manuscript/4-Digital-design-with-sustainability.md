@@ -11,13 +11,13 @@ This chapter explores how to design digital solutions that effectively fulfill t
 
 Digital projects typically originate from an idea, evolving through design, engineering, and innovation into tangible solutions or products. 
 
-The design phase offers a unique opportunity to establish many of a product's fundamental characteristics and lay out the groundwork for a digital product's entire lifecycle. 
+The design phase offers a unique opportunity to establish many of a product's fundamental characteristics and lay the groundwork for a digital product's entire lifecycle. 
 
 Consequently, integrating sustainability considerations, framed here by the Karlskrona Manifesto's five dimensions, during this early stage is essential. (The five dimensions are: environment, economy, technology, society and individual.)
 
 We have to ensure that sustainability is an inherent, deeply embedded quality, not merely a superficial layer added retrospectively. It's also often cheaper and more efficient to design a digital product with sustainability built in from the start, than trying to rebuild and retrofit the product with sustainability add-ons later.
 
-When designing and developing new digital products, it is easy to be lost in the technology and be fascinated by the technical possibilities that the project is based, but digital projects are ultimately created for people and with people!
+When designing and developing new digital products, it is easy to be lost in the technology and be fascinated by the technical possibilities that the project is based on, but digital projects are ultimately created for people and with people!
 
 Therefore, the design phase must remain focused on the intended users and their experiences. 
 
@@ -38,17 +38,17 @@ To explore how we can expand our approach beyond user-centric thinking, let's ex
 
 In the first chapter of the book, you could read about the planetary boundaries that human activities are feared to exceed. As a response to this threat, designer Ida Engholm in her book _Design for the New World_ has defined a sustainable approach to design that can change the way we design products - analog and digital (Engholm 2023).
 
-Engholm's sustainable design approach adds an extra, planetary dimension  to the design work, taking into account the earth's ecosystems and future generations. The design approach can lead the way for more sustainable digital development projects, projects that help bring planetary systems into balance. 
+Engholm's sustainable design approach adds an extra, planetary dimension to the design work, taking into account the earth's ecosystems and future generations. The design approach can lead the way for more sustainable digital development projects, projects that help bring planetary systems into balance. 
 
 However, thinking on a planetary scale can seem overwhelming for us humans, when our task is simply to develop new digital solutions for a company. Nevertheless, it is the way forward, says Engholm. The following figure shows how simple design decisions on a micro level can contribute to the bigger, planetary perspective, with the overall aim of looking after the planet.
 
-![Design for a New World](resources/I_4.1.png "Micro-level actions can contribute to results on a planetary level through complex processes. Local and concrete efforts, such as the development of degradable polymers, can help solve global problems like plastic pollution in the oceans. Source: Reproduced from Ida Engholm's book Design for a New World (licensed under CC BY-NC-ND 4.0) with permission from Ida Engholm.")
+![Design for the New World](resources/I_4.1.png "Micro-level actions can contribute to results on a planetary level through complex processes. Local and concrete efforts, such as the development of degradable polymers, can help solve global problems like plastic pollution in the oceans. Source: Reproduced from Ida Engholm's book Design for the New World (licensed under CC BY-NC-ND 4.0) with permission from Ida Engholm.")
 
 In this case, it's a single person (maybe you?) or an organization that replaces a non-degradable plastic component in a product with a degradable one. The difference this single action makes is not easy to understand in the big picture - but it still contributes to "global sustainability" because this plastic component does not end up as waste like many others, but biodegrades and re-enters nature's own cycle. 
 
 The figure makes it possible to understand both the overall context of the planet (e.g. that plastic does not belong in the ocean, as it does not just magically disappear from the oceans), and it is also possible to understand sustainability on a micro level (that we need to use plastic components that can be degraded).
 
-If you think back to the Brundtland Report's definition of sustainability, it is about acting in a way that does not compromise the opportunities of future generations. This mindset is found in Engholm's work, where she is inspired by Native Americans, who have a tradition of considering decisions from a seven-generation perspective. Engholm believes that we should do the same: design products from a long-term perspective. By zooming out in time and space, we can better understand our product lifecycle and create more circular designs.
+If you think back to the Brundtland Report's definition of sustainability, it is about acting in a way that does not compromise the opportunities of future generations. This mindset is found in Engholm's work, where she is inspired by Indigenous peoples of North America, who have a tradition of considering decisions from a seven-generation perspective. Engholm believes that we should do the same: design products from a long-term perspective. By zooming out in time and space, we can better understand our product lifecycle and create more circular designs.
 
 While Engholm's comprehensive design approach involves many details beyond the scope of this chapter, several core principles offer valuable guidance for sustainable digital design:
 
@@ -112,7 +112,7 @@ Applying these principles in the digital realm requires innovative thinking beyo
     
 - **Platforms for community resilience:** Digital platforms that strengthen local resilience through sharing economies, mutual aid networks, and preservation of vital indigenous knowledge.
   
-- **Regenerative digital architecture:** Explores how architects can use advanced digital tools to embed regenerative principles, creating holistically sustainable buildings ([Naboni & Havinga 2019](https://kglakademi.dk/da/regenerative-design-digital-practice)).
+- **Regenerative digital architecture:** Explores how architects can use advanced digital tools to embed regenerative principles, creating holistically sustainable buildings ([Naboni & Havinga 2019](https://www.researchgate.net/publication/336121907_Regenerative_Design_In_Digital_Practice_A_Handbook_for_the_Built_Environment), open access).
 
 Understanding this potential for digital solutions to actively contribute to regeneration sets a high ambition. With this broader context of potential system impacts in mind, we can now turn to examine how the crucial interface between users and these digital solutions is shaped through User Experience (UX) design.
 ## User experience (UX) design
@@ -121,13 +121,13 @@ User experience (UX) design focuses on creating digital products that provide me
 
 The goal of UX is to make product experiences intuitive, efficient, and satisfying on a technological, economic, and individual level. UX is an effective method for increasing user satisfaction, but it also has the inherent weakness that it can focus one-sidedly on the (selfish) needs of the individual and downplay the sustainability dimensions (e.g. social, economic, or technical) of the product.
 
-UX design uses tools such as *wireframes, prototypes, user testing, personas, user journeys* and other similar tools to understand and improve the users experience. These tools are used to try to predict and model what experiences users expects and appreciates from a product or product portfolio.
+UX design uses tools such as *wireframes, prototypes, user testing, personas, user journeys* and other similar tools to understand and improve the user's experience. These tools are used to try to predict and model what experiences users expect and appreciate from a product or product portfolio.
 ![Personas](resources/I_4.2.png "An example of a persona, a tool for the empathic part of the design process. Source of illustrations: colourbox.com.")
-"Personas" are fictional characters, that represent typical users and their needs, goals and behavioral patterns, as shown in the left side of above figure. The creation of personas is based on user research and data. These fictional people are described very specifically with name, age, occupation, hobbies and preferences, with the goal of giving the designer an indication of who will interact with the products. Decisions in the design process are continuously weighed up against these personas to assess how the different design initiatives will affect the customers' user experiences.
+"Personas" are fictional characters that represent typical users and their needs, goals and behavioral patterns, as shown on the left side of the figure above. The creation of personas is based on user research and data. These fictional people are described very specifically with name, age, occupation, hobbies and preferences, with the goal of giving the designer an indication of who will interact with the products. Decisions in the design process are continuously weighed up against these personas to assess how the different design initiatives will affect the customers' user experiences.
 
-According to UX designer Sandy Dähnert from the company Green the Web, the basic work with personas can be extended by creating non-human and non-user personas that can represent the sustainability aspects of the product (as exemplified on the right side of the previous figure).  Dähnert has added Mother Earth, a metaphor for the globe, as a persona in his design process ([Dähnert 2021a](https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/)). The purpose of the exercise is for the designer to test the impact of their design ideas on nature. 
+According to UX designer Sandy Dähnert from the company Green the Web, the basic work with personas can be extended by creating non-human and non-user personas that can represent the sustainability aspects of the product (as exemplified on the right side of the previous figure). Dähnert has added Mother Earth, a metaphor for the globe, as a persona in her design process ([Dähnert 2021a](https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/)). The purpose of the exercise is for the designer to test the impact of their design ideas on nature. 
 
-Lutz provides further examples of non-human personas, such as the bees (in danger of extinction), the trees or a child laborer from the third world, exemplified by the persona of Poonam, a 12-year-old child worker ([Lifecentred.org](https://lifecentred.design/non-human-personas/non-human-and-non-user-personas/)).
+Lutz provides further examples of non-human personas, such as the bees (in danger of extinction), the trees or a child laborer, exemplified by the persona of Poonam, a 12-year-old child worker from the Global South ([Lifecentred.org](https://lifecentred.design/non-human-personas/non-human-and-non-user-personas/)).
 
 ### Sustainable user journeys
 Both Dähnert and Lutz are working to develop, apply and disseminate eco-centered UX methods, another example being sustainable user journeys. The "user journey" is a common tool in the UX designer's toolbox, because it helps to view user behavior from a more holistic perspective and helps to understand how the user interacts with a digital product or a brand through many different touchpoints.
@@ -138,7 +138,7 @@ By mapping the user journey through the digital and also analog landscape, desig
 
 UX design is about creating meaningful and engaging experiences by deeply understanding user needs and behavior. Sustainable UX design goes a step further and focuses not only on the user, but also on the sustainability aspects of the digital product. 
 
-By extending the UX designer's tools such as personas and user journeys to include sustainability aspects, we open up for a more holistic design process. Although we have only presented sustainable versions of personas and user journeys in this context, the other tools in the designer's toolbox can also have sustainability aspects. These could be wireframes and templates that have inclusive and energy-saving defaults, or user testing that takes into account the entire product lifecycle from cradle to cradle.
+By extending the UX designer's tools such as personas and user journeys to include sustainability aspects, we open up a more holistic design process. Although we have only presented sustainable versions of personas and user journeys in this context, the other tools in the designer's toolbox can also have sustainability aspects. These could be wireframes and templates that have inclusive and energy-saving defaults, or user testing that takes into account the entire product lifecycle from cradle to cradle.
 
 These innovative UX approaches show how common UX tools can be extended to drive user-friendly and eco-friendly solutions and inspire the creation of products that make a difference for both people and the planet.
 ### Designing with data
@@ -151,15 +151,15 @@ In some contexts, a designer can draw on enormous data sources, which with advan
 
 - _Data integration_, involving different data sources to get a holistic picture of user behavior and preferences, as well as sustainability aspects of the product.
 
-- _Data wishlist_, describing wishes for new data sources, that can improve the digital product.
+- _Data wishlist_, describing wishes for new data sources that can improve the digital product.
 
 - _Data collection_, building mechanisms into the product for continuous (but of course ethical) data collection to continuously improve the product.
 
-- _Internet of Things (IoT_) , which allows large amounts of data to be collected with various digital sensors to improve the product.
+- _Internet of Things (IoT)_, which allows large amounts of data to be collected with various digital sensors to improve the product.
 
 Keep in mind that data collection inherently involves sensitive ethical and practical considerations that demand careful attention in any digital project. Compliance with relevant legislation, such as the EU's General Data Protection Regulation (GDPR) which governs the use of collected personal data, is an important aspect. 
 
-Beyond legal requirements, designers and organizations should adhere to the principle of data minimization, ensuring that only data strictly necessary for the project's goals is collected.  In addition, the ethical dimensions of data handling must be a priority, with the aim of using data for the benefit of present and future generations, while actively preventing negative consequences. While data analysis is a specialized field, all UX designers have a role to play. They should critically consider how both new and existing data sources can be leveraged responsibly to enhance user experience and advance sustainability outcomes.
+Beyond legal requirements, designers and organizations should adhere to the principle of data minimization, ensuring that only data strictly necessary for the project's goals is collected. In addition, the ethical dimensions of data handling must be a priority, with the aim of using data for the benefit of present and future generations, while actively preventing negative consequences. While data analysis is a specialized field, all UX designers have a role to play. They should critically consider how both new and existing data sources can be leveraged responsibly to enhance user experience and advance sustainability outcomes.
 ## User interfaces and interaction design 
 
 While UX is about understanding user behavior and creating good user experiences, interaction design is about designing good and effective user interfaces (UI). A good user interface makes the experience of a digital product intuitive, useful and engaging. Interaction design incorporates elements of graphic design and adds interaction techniques such as nudging to guide users towards desired actions. 
@@ -168,7 +168,7 @@ UX and UI are disciplines that together can create coherent and effective user e
 
 It's not just about reducing energy consumption or waste, but also about creating systems that support long-term responsible use, promote positive behavioral patterns and contribute to a more sustainable future. What these approaches have in common is that they examine the interaction between people, software and hardware and try to make the interaction as sustainable as possible. 
 
-An example of thinking about sustainable HCI can be found in Eli Blevis' article ([Blevis 2007](https://dl.acm.org/doi/10.1145/1240624.1240705)), in which he discusses sustainable interaction design with a focus on the development, disposal, renewal and reuse of technology. For Blevis, sustainable interaction design must take responsibility for the full life cycle of products , from creation to disposal. This approach is though most relevant if the interaction has a materiality, such as a technological gadget or a touchscreen, that needs to be disposed of, and the approach can only be applied to pure software products to a limited extent.
+An example of thinking about sustainable HCI can be found in Eli Blevis' article ([Blevis 2007](https://dl.acm.org/doi/10.1145/1240624.1240705)), in which he discusses sustainable interaction design with a focus on the development, disposal, renewal and reuse of technology. For Blevis, sustainable interaction design must take responsibility for the full life cycle of products, from creation to disposal. This approach is, however, most relevant if the interaction has a materiality, such as a technological gadget or a touchscreen, that needs to be disposed of, and the approach can only be applied to pure software products to a limited extent.
 ### Design patterns for web solutions and apps
 It's not immediately obvious how graphical user interface design can be made more sustainable, but this is certainly an area that can benefit from sustainability initiatives. 
 
@@ -176,9 +176,9 @@ First and foremost, designers must be aware of the existence of "dark patterns",
 
 Dark patterns, or deceptive patterns, are design patterns that have been developed and reused in many digital products over the years to coerce or incite users into certain situations with certain psychological tricks. Many of these techniques are described in the book _Evil by design_ ([Nodder 2013](https://evilbydesign.info/book/)), which contains a series of dark patterns that can effectively influence user behavior "in the dark", i.e. without the user realizing that he or she is being manipulated. We know many of these sales tricks from the commercial world, but digital products can make the deception even stronger. In the name of sustainability, we must avoid dark patterns - or at least use them ethically.
 
-A concrete example of (sometimes) deceptive design is *infinity scrolling*, which is when a webpage or an app keeps loading more content elements as a user scrolls on the screen. This way, the user can keep scrolling forever - never reaching the end or end of a web page. This can create additional consumption of the given media. That said, the same function can also be used ethically. For example, if you need to browse through many products in a webshop, it's a good feature that you don't have to click "Show more" after every tenth product. It will also make the process clearer if you make the user aware of how many items there are in the feed in total.
+A concrete example of (sometimes) deceptive design is *infinity scrolling*, which is when a webpage or an app keeps loading more content elements as a user scrolls on the screen. This way, the user can keep scrolling forever - never reaching the end of the web page. This can create additional consumption of the given media. That said, the same function can also be used ethically. For example, if you need to browse through many products in a webshop, it's a good feature that you don't have to click "Show more" after every tenth product. It will also make the process clearer if you make the user aware of how many items there are in the feed in total.
 
-Another dark pattern you may have come across in (e.g. in chapter 3) is visual weighting or choice architecture , which many websites use, when the user has to accept their cookies. Here, the website often has an interest in imposing more cookies on the user than is strictly necessary because it serves the company's interests. Therefore, accepting cookies is often graphically designed in such a way that it is cognitively "cheap" to choose the dominant, color-saturated "Allow all" button, while the "Only necessary cookies" option appears as a weaker choice - with smaller font size and less contrast between text and background. However, the same graphical trick can be used sustainably, for example by making the sustainable choice the most visually appealing and easiest option, designers can effectively nudge users towards better decisions for the environment or society.
+Another dark pattern you may have come across (e.g. in chapter 3) is visual weighting or choice architecture, which many websites use when the user has to accept their cookies. Here, the website often has an interest in imposing more cookies on the user than is strictly necessary because it serves the company's interests. Therefore, accepting cookies is often graphically designed in such a way that it is cognitively "cheap" to choose the dominant, color-saturated "Allow all" button, while the "Only necessary cookies" option appears as a weaker choice - with smaller font size and less contrast between text and background. However, the same graphical trick can be used sustainably: by making the sustainable choice the most visually appealing and easiest option, designers can effectively nudge users towards better decisions for the environment or society.
 ### Web design and greenhouse gas emissions
 Many digital designers are actively exploring how to make their web design more sustainable. It's a significant challenge, and much industry focus centers on reducing the greenhouse gas emissions associated with digital products and services.
 
@@ -193,7 +193,7 @@ A large portion of the energy consumed during a web request stems from the *back
 #### Web Sustainability Guidelines (WSG)
 The interconnections between design, development, infrastructure, and sustainability are detailed comprehensively in the [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) developed by the World Wide Web Consortium (W3C)[^WSG]. 
 
-[^WSG]: Version 1.0 of this document is still only a draft in 2025 , but the draft already shows good examples of work on sustainability and web design. Find a link to the document at https://github.com/andracs/Sustainable-Digital.
+[^WSG]: As of 2026, version 1.0 of this document remains a W3C draft, but it already shows good examples of work on sustainability and web design. Find a link to the document at https://github.com/andracs/Sustainable-Digital.
 
 The WSG provides extensive advice and best practices for creating web solutions that are both environmentally sound and socially responsible, aiming to minimize carbon footprints, optimize resource use, and ensure the long-term sustainability of web projects (W3C WSG). 
 
@@ -228,14 +228,14 @@ The specification (still in draft) includes over 90 distinct guidelines covering
 * Apply ethical principles rigorously to data handling and emerging technologies like AI.
 * Cultivate an inclusive workplace culture and consider contributing back to open source or relevant causes.
 
-The WSG elaborates extensively on guidelines like these, offering concrete techniques to reduce energy consumption and adopt more sustainable web practices. As web technologies and best practices evolve rapidly, staying informed about current developments is crucial for anyone aiming to make a positive difference through sustainable web design and development. This need for ongoing learning also applies to the topic of the next section: "Tools for optimizing user interfaces".
+The WSG elaborates extensively on guidelines like these, offering concrete techniques to reduce energy consumption and adopt more sustainable web practices. As web technologies and best practices evolve rapidly, staying informed about current developments is crucial for anyone aiming to make a positive difference through sustainable web design and development. This need for ongoing learning also applies to the topic of the next section: "Tools for optimizing web design".
 
-### Tools for optimizing webdesign
+### Tools for optimizing web design
 A growing number of online tools allow digital designers and developers to estimate the environmental impact of web designs ([climateaction.tech 2021](https://climateaction.tech/actions/reduce-the-carbon-emissions-of-your-website/)). These tools typically provide automated calculations of factors like CO2 emissions per visit, but it's crucial to understand their limitations: Because standardized methodologies are still emerging, different tools often yield conflicting results for the same website. 
 
 They rely on varying assumptions, data sources (like grid carbon intensity), and proxy metrics (such as data transfer size) which may not perfectly capture real-world energy consumption across servers, networks, and end-user devices. Despite these inconsistencies, several tools offer valuable insights and benchmarks. Some notable examples include:
 
-* [Website Carbon Calculator](https://www.websitecarbon.com/): Estimates CO2 emissions per page view based on data transfer, grid intensity, and hosting type (see Figure 4.3). Useful for quick comparisons and raising awareness.
+* [Website Carbon Calculator](https://www.websitecarbon.com/): Estimates CO2 emissions per page view based on data transfer, grid intensity, and hosting type (see the figure below). Useful for quick comparisons and raising awareness.
   
 * [Ecograder](https://ecograder.com/): Provides an overall score based on performance (using Google Lighthouse metrics), page weight, user experience factors, and green hosting verification (using CO2.js).
   
@@ -243,11 +243,11 @@ They rely on varying assumptions, data sources (like grid carbon intensity), and
   
 * [The Green Web Foundation](https://www.thegreenwebfoundation.org/green-web-check/): Maintains a widely used database to verify if websites are hosted on servers powered by renewable energy.
   
-* [Greenspector](greenspector.com): A French solution offering detailed measurement and analysis focused on reducing the energy and resource consumption of web and mobile applications.
+* [Greenspector](https://greenspector.com/): A French solution offering detailed measurement and analysis focused on reducing the energy and resource consumption of web and mobile applications.
   
 * [Are my third parties green?](https://aremythirdpartiesgreen.com/): Specifically checks if third-party resources loaded by a page (scripts, fonts, images) are hosted greenly.
 
-![Figure 4.3](resources/I_4.3.png "Websitecarbon.com is an example of a service that estimates CO₂ emissions from a website. This and similar services can be used for comparative analysis and identifying areas for reducing digital carbon footprints.")
+![Website carbon estimation](resources/I_4.3.png "Websitecarbon.com is an example of a service that estimates CO₂ emissions from a website. This and similar services can be used for comparative analysis and identifying areas for reducing digital carbon footprints.")
 
 Given that these tools employ different methodologies and scopes, their outputs should be seen as *estimates and conversation starters rather than precise measurements* (which we will discuss further in the next chapter). The same website will likely receive different scores depending on the tool used. However, familiarizing oneself with these tools remains valuable for digital professionals. They help cultivate an *optimization mindset* and *identify potential performance bottlenecks or resource-heavy components*, encouraging more sustainable design and development practices.
 
@@ -255,7 +255,7 @@ Some projects take these principles further by implementing carbon-aware design,
 
 While exploring these tools and techniques, it's vital to maintain perspective on proportionality. Digital products are complex systems. While optimizing the frontend user interface (UI/UX) is important for user experience, performance, device battery life, and reducing data transfer, its impact on the *total* system-wide energy consumption (including servers, networks, manufacturing) is often proportionally smaller than optimizations made to backend architecture, infrastructure choices, or data management strategies. 
 
-So optimizing UX, UI and web design is part of the green digitalization puzzle, even if it's not where we find the biggest energy savings. However, every small change can contribute to an overall more sustainable digital future. Website accessibility can also be considered as a sustainability metric, and there are also useful online tools, which can help improving the UI for accessibility, such as:
+So optimizing UX, UI and web design is part of the green digitalization puzzle, even if it's not where we find the biggest energy savings. However, every small change can contribute to an overall more sustainable digital future. Website accessibility can also be considered as a sustainability metric, and there are also useful online tools that can help improve the UI for accessibility, such as:
 
 * [WAVE (WAVE Web Accessibility Evaluation Tools)](https://wave.webaim.org/): Scan a website for making it more accessible to individuals with disabilities
   
@@ -275,14 +275,14 @@ Despite its potential for misuse, nudging can be an ethically justifiable tool w
 
 Nudging is a powerful design technique that steers user behavior. Like dark patterns, it can be manipulative, but it can also be used ethically to promote sustainability by making good choices appealing. This means designers have a responsibility to use nudging wisely for positive results.
 
-## Chapter summary: Expanding the scope of digital design
+## Bringing it together: Key insights from this chapter
 
 This chapter investigated the crucial role digital design plays in forging a more responsible and sustainable technological future. 
 
-We reviewed innovative design frameworks, including Design for a New World and Life-centered Design, which challenge designers to embed sustainability considerations into the core of their work. Discussions extended to specific applications in UI design, data-driven design ethics, and sustainable web practices.
+We reviewed innovative design frameworks, including Design for the New World and Life-centered Design, which challenge designers to embed sustainability considerations into the core of their work. Discussions extended to specific applications in UI design, data-driven design ethics, and sustainable web practices.
 
-A central argument throughout the chapter was that sustainable digital design demands more than surface-level efficiencies; it requires adopting a *long-term perspective and embracing full lifecycle thinking*. The examples demonstrated, that conscious design decisions, even at a small scale, can yield significant differences in the environmental performance of digital solutions.
+A central argument throughout the chapter was that sustainable digital design demands more than surface-level efficiencies; it requires adopting a *long-term perspective and embracing full lifecycle thinking*. The examples demonstrated that conscious design decisions, even at a small scale, can yield significant differences in the environmental performance of digital solutions.
 
-Moreover, the chapter underscored the importance of ethical design choices, contrasting manipulative "dark patterns" with transparent, sustainable design patterns that respect user agency. This contributes to a critical reflection on conventional user-centered design, acknowledging its tendency to prioritize immediate user needs while potentially overlooking wider environmental and societal impacts. The presented frameworks and tools is to equip designers to expand their practice, moving towards a more comprehensive and genuinely sustainable approach to UX/UI development, rather than just "polishing the surface" of the digital products.
+Moreover, the chapter underscored the importance of ethical design choices, contrasting manipulative "dark patterns" with transparent, sustainable design patterns that respect user agency. This contributes to a critical reflection on conventional user-centered design, acknowledging its tendency to prioritize immediate user needs while potentially overlooking wider environmental and societal impacts. The frameworks and tools presented here aim to equip designers to expand their practice, moving towards a more comprehensive and genuinely sustainable approach to UX/UI development, rather than just "polishing the surface" of the digital products.
 
 *As we close this chapter, we encourage you to make a difference with digital design pixel by pixel, by making responsible choices in the present to achieve a bright future.*

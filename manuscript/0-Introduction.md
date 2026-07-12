@@ -8,11 +8,11 @@
 {book: true, sample: true} 
 # 0. Introduction
 
-**Our society has been sustainable for centuries, but this is not guaranteed to continue in the future. The future development of our society has come under considerable pressure.**
+**For most of human history, societies lived within the planet's means - but our current way of life does not, and the future development of our society has come under considerable pressure.**
 
 We are consuming earthly resources beyond our means and beyond the planet's limits. It is now up to us to change the way we live and work, both in real life and in the digital space. 
 
-***This book is about how we can change our digital practices and habits in order to drive positive change in the world.***
+*This book is about how we can change our digital practices and habits in order to drive positive change in the world.*
 
 If you work with digital technologies and you are ready to expand your knowledge about digital practices and sustainability, then this book is for you.  
 
@@ -26,7 +26,7 @@ Digital technology is far from sustainable right now - and it won't become susta
 
 Design is key, sustainability must be built into digital products from their very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in increasingly sustainable ways?*
 ### Written by dedicated academics 
-This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on digital sustainability, that goes beyond superficial clichés. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
+This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on digital sustainability that goes beyond superficial clichés. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
 
 As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), some of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. 
 
@@ -36,7 +36,7 @@ The book is structured with a clear throughline connecting the chapters, making 
 
 In a teaching context, educators can combine various chapters to form the basis of a course or training program. No matter how you choose to engage with the book, we hope it will be an enriching, thought-provoking, engaging - and perhaps even provocative - experience.
 ### From theory to practice and perspectives
-The book is divided into three main parts and a practical appendix. The first part of the book consists of three chapters that together form a theoretical foundation for sustainability work. This part introduces a number of key concepts in both information sustainability and technology.
+The book is divided into three main parts and a practical appendix. The first part of the book consists of three chapters that together form a theoretical foundation for sustainability work. This part introduces a number of key concepts in both sustainability and information technology.
 
 - **Chapter 1** focuses particularly on definitions - not only of the concept of sustainability, but also of terms related to green and digital transformation.
     
@@ -62,5 +62,5 @@ The third and final part of the book discusses digital sustainability in society
   
 - **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [https://andracs.github.io/Sustainable-Digital/](https://andracs.github.io/Sustainable-Digital/). 
 
-We hope, that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all share living on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
+We hope that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all live on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
 ## Happy reading!

@@ -19,19 +19,19 @@ Let's go through some substantial theories that emphasize the urgency of taking 
 
 {id: anthropocene}
 ### This is the age of the Anthropocene
-The Anthropocene is the name of an epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the global state of the Earth.  
+The Anthropocene is the name of a proposed epoch, beginning in the 20th century, in which human activities are affecting life on Earth to an extent that they are causing both local and global changes in the state of the planet. In 2024, the international geological community formally decided not to adopt the Anthropocene as an official epoch on the geological time scale ([Witze 2024](https://doi.org/10.1038/d41586-024-00675-8)) — but the concept remains widely used across the sciences, because it captures something real: humanity has become a planet-shaping force.  
 
 In the past, geological processes had the greatest influence on life on Earth and the properties of the planet surface, but our agriculture, buildings, roads, wars, excavations and other activities are changing the landscape. 
 
-This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The anthropocene age heralds new times where humanity is not only responsible for its own future, but also holds the future of a livable planet in its hands.
+This change is comparable to the major geological impacts on Earth in the past, such as major volcanic eruptions and meteor impacts. The Anthropocene heralds new times where humanity is not only responsible for its own future, but also holds the future of a livable planet in its hands.
 
 The human emission of greenhouse gases is one example, and the consequences for soil, plant and animal life, and thus for human life, are enormous.
 
 {id: mass-extinction} 
-### Sixth  mass extinction is on the horizon
+### The sixth mass extinction is on the horizon
 In biology and ecology, we are also witnessing a historic and global event that scientists describe as the sixth great mass extinction, a process in which a great part of the Earth's different animal species become extinct within decades or centuries. The time we live in can be compared to the time when the dinosaurs went from being the dominant species on Earth to mass extinction.
 
-The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the anthropocene age, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
+The sixth mass extinction is expected to be as pervasive for nature as the dinosaur extinction was, with the risk that a third of all animal species could disappear ([Urban 2024](https://www.science.org/doi/10.1126/science.adp4461)). As with the Anthropocene, human activity is also the cause of the sixth great mass extinction. This too is happening right now.
 
 {id: great-acceleration} 
 ### We are part of the Great Acceleration 
@@ -41,15 +41,15 @@ Some scientists theorize, that a global change began with industrialization in t
 This theory is called the Great Acceleration, and the researchers behind the theory see the Earth as a system where everything is interconnected and one change escalates another, as shown in the figure. Over the past thousands of years, the Earth's systems have been able to balance between states that have been mostly favorable to life on Earth, but many fear that the Earth's systems will veer out of balance if we continue to accelerate development.
 
 {id: planetary-boundaries} 
-### We are pushing the planets boundaries 
-The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers from Stockholm University, describing the nine major planetary subsystems that regulate Earth's systemic stability and resilience ([Stockholm Resilience Centre 2012](https://www.stockholmresilience.org/research/planetary-boundaries.html)).
+### We are pushing the planet's boundaries
+The world's population is growing, our industrial activity and consumption is growing, and economies are also growing year after year - but the planet's size and resources limit this perpetual growth. Planetary boundaries is a concept developed by researchers at the Stockholm Resilience Centre, describing nine major planetary subsystems that regulate Earth's systemic stability and resilience ([Rockström et al. 2009](https://doi.org/10.1038/461472a)).
 
 Scientists have estimated limits for Earth's planetary subsystems in which humanity can continue to evolve and thrive for generations to come, without causing irreparable damage to Earth as we know it. If the limits are exceeded, the systems may become unbalanced, leading the planet to a new and different reality. 
 
-Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development, and that there is a risk of serious global consequences if we do not begin to respect the limits as soon as possible.
+Developments in recent decades show that, unfortunately, we are increasingly exceeding these limits for sustainable global development: the most recent scientific assessment found that six of the nine boundaries have already been transgressed ([Richardson et al. 2023](https://doi.org/10.1126/sciadv.adh2458)). There is a risk of serious global consequences if we do not begin to respect the limits as soon as possible.
 
 {id: climate-change} 
-### We are the climate change
+### We are driving climate change
 Current global development is neither durable nor sustainable. In the coming decades, we must turn all industrial (and digital) development in a sustainable direction to enable people to live a good life. 
 
 We must be able to continuously improve and develop our world without fearing the long-term consequences of our actions in the form of droughts, floods, destruction of rainforests and landscapes, major political challenges, migration, and loss of life. We have an ethical obligation to protect nature, which is our origin and our future.
@@ -69,9 +69,9 @@ Information technology and digital transformation are two sides of the same coin
 - **Digital transformation** is the use of information technology by people and organizations.
 - **Information technology** consists of hardware, software and networks: Electronics, algorithms and systems.
 
-![Technology and nature are opposites. But they shouldn't have to be.](resources/I_1.2.png "Technology and nature are opposites. But they shouldn't have to be.")
+![Technology and nature are often seen as opposites. But they don't have to be.](resources/I_1.2.png "Technology and nature are often seen as opposites. But they don't have to be.")
 
-There is no digital transformation without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such is in direct opposition to nature and the environment.
+There is no digital transformation without technology, and technology also makes the most sense when viewed in the context of the people and organizations that use it. IT (like all technology) is artificial and man-made, and as such is often seen as standing in opposition to nature and the environment.
 
 However, technology and nature must be able to coexist in mutual and positive interaction. And this is where sustainability should help create a fruitful balance and exchange between technology, people, nature and the environment.
 
@@ -97,13 +97,13 @@ Let's continue by reviewing some key concepts that form the basis for working wi
 
 Sustainable development helps us avoid major disasters in the future by addressing problems in the present. That's why sustainability requires action from us today, both for the future, for ourselves and for the world around us.
 
-There are different definitions of sustainability, but one of the newer and more recognized definitions comes from the UN, which in 1983 established a World Commission on Environment and Development headed by the then Norwegian Prime Minister Gro Harlem Brundtland. The Commission's work resulted in a publication entitled Our Common Future - The Brundtland Commission Report on Environment and Development. 
+There are different definitions of sustainability, but the most widely cited one comes from the UN, which in 1983 established a World Commission on Environment and Development headed by the then Norwegian Prime Minister Gro Harlem Brundtland. The Commission's work resulted in a publication from 1987 entitled *Our Common Future* - the Brundtland Commission's report on environment and development. 
 
 The report defines sustainable development as *development that meets the needs of the present without compromising the ability of future generations to meet their own needs*. This definition is a good starting point for our work, but in the following we will also look at sustainable development from other angles. If sustainability is something that protects the possibilities of future generations, what is the opposite? Let's take a look at "unsustainability".
 
 {id: unsustainability}
 ### Unsustainability
-Unsustainable products and services are defined by the fact that, despite their useful value in many contexts,  often have serious, unintended and far-reaching negative impacts in the long term.
+Unsustainable products and services are defined by the fact that, despite their useful value in many contexts, they often have serious, unintended and far-reaching negative impacts in the long term.
 
 |                                      | **Short-term (here and now) gain**                       | **Serious problems in the long term**                                                                                   |
 | ------------------------------------ | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -115,9 +115,9 @@ Unsustainable products and services are defined by the fact that, despite their 
 
 The table above provides some examples of unsustainable products that may create great value in the short term, but have serious negative consequences in the long term, i.e. they are unsustainable (as for now).
 
-For example, herbicides are effective in controlling weeds, but over the years they can leak into the groundwater and poison our drinking water. It may not happen immediately, but over decades they can poison the water we depend on as people and as a society (Faartoft 2024).
+For example, herbicides are effective in controlling weeds, but over the years they can leak into the groundwater and poison our drinking water. It may not happen immediately, but over decades they can contaminate the water we depend on as people and as a society: monitoring across Europe finds pesticide levels above the quality standard in 11–18% of groundwater bodies ([European Environment Agency 2024](https://www.eea.europa.eu/en/analysis/indicators/pesticides-in-rivers-lakes-and)).
 
-The use of fossil fuels is another example of an unsustainable product, partly because we will run out of them at some point in the future, and also because their use contributes to climate change. Climate change does not happen immediately, but over many decades. We may already be feeling the effects, not least as we experience record high temperatures, record rainfall and record wind speeds (Jungersen & Stiesdal 2024). Other examples of unsustainable practices are:
+The use of fossil fuels is another example of an unsustainable product, partly because we will run out of them at some point in the future, and also because their use contributes to climate change. Climate change does not happen immediately, but over many decades. We may already be feeling the effects, not least as we experience record high temperatures and increasingly intense rainfall, storms and heatwaves ([WMO 2026](https://wmo.int/publication-series/state-of-global-climate/state-of-global-climate-2025)). Other examples of unsustainable practices are:
 
 - Using more energy than necessary
 - Consuming the earth's resources such as water and minerals without considering alternatives
@@ -144,7 +144,7 @@ Let's look at an example from the digital world where these problems can be obse
 
 The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on its users. But this is not something we often think about. Because owning a smartphone has become commonplace, it's hard to think about the long-term and global consequences, because it's relatively vague and far removed from our own reality. So it's easier not to think about it.
 
-In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting their suppliers cobalt mines and actively improving working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the mineworkers and their environment, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively more expensive compared to the competition.
+In an ideal world, manufacturers and legislators would try to make the resulting problems explicit and do something about them. The Dutch smartphone manufacturer Fairphone, for example, does this by visiting their suppliers' cobalt mines and actively improving working conditions in the mines based on their experiences during the visit ([Angela 2023](https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/)). Are they obligated to do this? No, they are not. They are doing it first and foremost for the mineworkers and their environment, and in return Fairphone can position its smartphone as a greener and fairer phone. However, these actions do not come for free and their phones are therefore relatively more expensive compared to the competition.
 
 {id: uncertainty}
 ### Embracing uncertainty for a sustainable future
@@ -156,19 +156,19 @@ We must be able to live with the realization that the world around us can be inf
 
 {id: green-sustainability}
 ### Green sustainability
-Sustainability has many facets, e.g technical, economical, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
+Sustainability has many facets, e.g. technical, economic, social, individual or environmental. Environmental sustainability can also be referred to as *green sustainability*, and because of the climate crisis, this is clearly the most urgent dimension of the overall sustainability field.
 
 It is also the most visible aspect of sustainability at the moment, as climate change is on the agenda in many parts of the world. An example of a company actively working with green sustainability is the Danish window manufacturer Velux. Like most responsible companies, Velux is focused on making its operations greener and more sustainable in the long term. 
 
 They announced in 2023 that they will fund forestry projects to capture carbon equivalent to its emissions from its founding in 1941 until 2041 ([Petersson 2023](https://sustainability.velux.com/Governance-and-reporting/Sustainability-reporting)). The company also plans to reduce its operational carbon emissions by 100% by improving energy efficiency and switching to renewable energy.
 
-Velux's plan is both forward-thinking and compassionate. There is no law requiring companies to compensate for their past emissions or to become carbon neutral by 2031, but Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and offset equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
+Velux's plan is both forward-thinking and compassionate. There is no law requiring companies to compensate for their past emissions or to become carbon neutral by 2041, but Velux is devoting resources to support this development. Velux is working with external partners to estimate past greenhouse gas emissions and offset equivalent amounts of CO2 in forests in countries such as Uganda, Madagascar and Vietnam.
 
 While the Velux example is not directly related to IT and digital development, the company demonstrates an action that digital companies could benefit from adopting. For example a digital hosting company could compensate for the greenhouse gas emissions they have emitted over time - since their startup.
 
 Are Velux’s initiatives genuinely producing an impact on a global scale, or are they merely symbolic gestures with limited effect? While their actions represent an ambitious step in the right direction, the contribution of a single company is insufficient to address the magnitude of the climate crisis. It is only through collective, large-scale efforts across industries and nations that meaningful progress can be achieved. In this regard, Velux’s example may serve as an important point of inspiration, highlighting the potential for global solutions if all stakeholders contribute at a similar scale.
 
-If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a truly "sustainable company". In order to achieve that, the company needs to go full circular on their activities, and address other dimensions of sustainability before they can call themself truly sustainable.
+If Velux really succeeds in eliminating 100% of its future greenhouse gas emissions, then the window manufacturer is definitely a climate-friendly company. But that doesn't mean it has become a truly "sustainable company". In order to achieve that, the company needs to go full circular on their activities, and address other dimensions of sustainability before it can call itself truly sustainable.
 
 {id: greenwashing-greenhushing}
 ### Greenwashing and greenhushing
@@ -176,19 +176,19 @@ When a company sends out marketing communications about its green initiatives, t
 
 In the case of Velux, is this a genuine environmental initiative with significant impact, or is it greenwashing? We can hope for the first, but only time will tell.
 
-There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The European Comission is working on regulation to  hinder companies from making misleading claims about environmental merits of their products and services ([Green Claims 2025](https://environment.ec.europa.eu/topics/circular-economy/green-claims_en)). There are also companies that deliberately avoid talking about their environmental improvement activities in common terms for fear of being perceived as greenwashers, instead they use synonyms that create positive connotatons in consumers' minds. This behavior is called greenhushing.
+There is no clear line between greenwashing and green marketing, and it can be difficult to tell the difference in practice. The EU has, however, adopted binding rules against misleading claims: the Empowering Consumers for the Green Transition Directive ([Directive (EU) 2024/825](https://eur-lex.europa.eu/eli/dir/2024/825/oj)) applies from September 2026 and bans generic environmental claims such as "green" or "climate friendly" unless they can be substantiated, as well as product claims of climate neutrality based on carbon offsetting. A stricter, complementary proposal — the Green Claims Directive — was put on hold in 2025, when the European Commission announced its intention to withdraw it. There are also companies that deliberately avoid talking about their environmental improvement activities in common terms for fear of being perceived as greenwashers, instead they use synonyms that create positive connotations in consumers' minds. This behavior is called greenhushing.
 #### How to avoid greenwashing?
 Fortunately, there are established benchmarks that help determine whether a company or product is genuinely sustainable or merely engaging in “greenwashing.” One such benchmark is the company’s documentation of its environmental and social practices, commonly referred to as an ESG report (Environmental, Social, and Governance).
 
-More and more companies embrace ESG reporting, and publish information on how they apply up-to-date (and not outdated) sustainability measures in their operations and development. We have to be critical when reading these ESG reports. It's essential to examine whether the company's environmental actions are in proportion to its activities or products. *Does the scale of the company's sustainability initiatives match the environmental problems caused by the company's operations?* If the initiatives are too vague, frivolous and disproportionate, than the claims can be considered as greenwashing.
+More and more companies embrace ESG reporting, and publish information on how they apply up-to-date (and not outdated) sustainability measures in their operations and development. We have to be critical when reading these ESG reports. It's essential to examine whether the company's environmental actions are in proportion to its activities or products. *Does the scale of the company's sustainability initiatives match the environmental problems caused by the company's operations?* If the initiatives are too vague, frivolous and disproportionate, then the claims can be considered greenwashing.
 
-A good example of greenwashing is "biofuel ", which you can buy at several gas stations. Here, 5% or 10% ethanol (alcohol) is mixed into the gasoline and called "biogasoline" (biodiesel), even though it is still 90-95% fossil, black gasoline. There is a lack of proportionality between the measure (mixing gasoline with ethanol) and the claim the product makes (i.e. that it is "bio", better than regular, black basoline). "Biofuel" sounds like some kind of environmentally friendly gasoline, but it's not. In reality, it's black, fossil gasoline that has been "masked" with the addition of ethanol.
+A good example of greenwashing is "biofuel", which you can buy at several gas stations. Here, 5% or 10% ethanol (alcohol) is mixed into the gasoline and called "biogasoline", even though it is still 90-95% fossil, black gasoline. There is a lack of proportionality between the measure (mixing gasoline with ethanol) and the claim the product makes (i.e. that it is "bio", better than regular, black gasoline). "Biofuel" sounds like some kind of environmentally friendly gasoline, but it's not. In reality, it's black, fossil gasoline that has been "masked" with the addition of ethanol.
 
-Detecting and avoiding greenwashing is not easy, and the beforementioned proposals at EU level will hopefully be instrumental in succesfully regulating green marketing. We hope that by the time you read this book, this work will have progressed so that greenwashing becomes less of a problem when consumers want to choose green products over "black" ones.
+Detecting and avoiding greenwashing is not easy, but the aforementioned EU rules should make it harder for companies to make empty green claims — and easier for consumers who want to choose green products over "black" ones.
 
 {id: ecology-ecosystems}
 ### Ecology and ecosystems
-One of the most important concepts in sustainability is ***ecology*** and ***ecosystems***. The word ecology denotes a branch of science that studies "the relationships between living organisms and their environment" (Madsen 2021). Ecology is concerned with systems of living organisms, their interplay, and their surroundings, called *ecosystems*.
+One of the most important concepts in sustainability is *ecology* and *ecosystems*. The word ecology denotes a branch of science that studies the relationships between living organisms and their environment ([Britannica 2024](https://www.britannica.com/science/ecology)). Ecology is concerned with systems of living organisms, their interplay, and their surroundings, called *ecosystems*.
 
 Ecosystems are the basis of all life on Earth, and without them we as humans cannot survive. We are part of the ecosystem whether we like it or not. Without the biosphere we cannot exist as humans. Every place on earth has its more or less unique ecosystem, and we have an obligation to protect it for future generations. 
 
@@ -209,7 +209,7 @@ As nothing is infinite on earth, we have to innovate circular uses of energy and
 - [Circular processes](#circular-processes)
 - [Greenhouse gases](#greenhouse-gases)
 - [Emissions (scope 1-3)](#emissions)
-- [Climate optimisim and pessimism](#climate-optimisim-pessimism)
+- [Climate optimism and pessimism](#climate-optimism-pessimism)
 - [Environmental challenges](#environmental-challenges)
 
 {id: energy-and-materials}
@@ -244,7 +244,7 @@ Therefore, when working with sustainability, it is important to remember that th
 ### Circularity and regenerative, circular processes
 Nature teaches us that sustainable systems are built on different cycles: cycles of water, cycles of energy and cycles of different elements and materials. One of the most familiar and simple cycles in nature is the water cycle. Water falls from the sky as precipitation and hits the ground. Here it collects in rivers and lakes and organisms absorb the water - and later release it in the form of vapor. Some of the water also seeps underground, only to emerge later in rivers, lakes or the sea. 
 
-The amount of water is essentially the same in the system - no new water is added and no water is lost from the system, as vapor forms solid crystals in the cold, higher layers of the atmosphere and falls back to the earth's surface as rain. There is a continuous flow in the global cycle. So when we experience more water in one location than we are used to (e.g. flooding), then there is correspondingly less water elsewhere in the world.
+The amount of water is essentially the same in the system - no new water is added and no water is lost from the system, as vapor forms solid crystals in the cold, higher layers of the atmosphere and falls back to the earth's surface as rain. There is a continuous flow in the global cycle. Climate change does not add water to this system, but it intensifies and redistributes the cycle — which is why some regions are experiencing more flooding while others face more drought.
 
  ![Data center](I_1.5.png "Data centers can operate sustainably by using renewable energy, reusing waste heat and ensuring hardware and materials are recycled. Circular solutions reduce resource consumption and contribute to a more sustainable future.")
  
@@ -267,7 +267,7 @@ Unfortunately, all the evidence points to global warming as a serious threat to 
 
 Global warming doesn't just mean higher average temperatures; it also means that weather is becoming more extreme, unpredictable, and unstable. We're already experiencing more frequent and intense weather events because of the excess CO2 we've already released into the atmosphere. If we are to prevent this from getting worse, we must drastically reduce emissions - ideally within the next decade ([IPCC, 2023](https://www.ipcc.ch/report/ar6/syr/)). This urgent goal must influence development in all sectors - including IT.
 
-**Fortunately, there is hope and progress on the horizon.** Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly, and the UN in 2023 formally recognized greenhouse gas emissions as a global problem requiring global solutions.
+**Fortunately, there is hope and progress on the horizon.** Many countries have recognized the problem, and governments and organizations from around the world meet annually under the umbrella of the United Nations at the COP conferences to address climate issues. Work is progressing, albeit slowly: at COP28 in 2023, the world's nations for the first time formally agreed to transition away from fossil fuels ([UNFCCC 2023](https://unfccc.int/news/cop28-agreement-signals-beginning-of-the-end-of-the-fossil-fuel-era)).
 
 {id: emissions}
 ### Direct and indirect emissions (scope 1, 2 and 3.)
@@ -279,7 +279,7 @@ Take a gasoline-powered car as an example. We can easily observe its direct emis
 
 When calculating the CO2 emissions of a product, service, or company, we can categorize the emissions using the Greenhouse Gas Protocol (GHG Protocol). This framework helps quantify both direct and indirect emissions resulting from a company's activities. The GHG Protocol distinguishes between three types of CO2 emissions (Confederation of Danish Industry, 2022), as shown in the figure: 
 
-- **Scope 1** refers to direct operational emissions that occur at the organization's site. Examples include emissions from buildings, vehicles and machinery.
+- *Scope 1* refers to direct operational emissions that occur at the organization's site. Examples include emissions from buildings, vehicles and machinery.
 
 - **Scope 2** covers indirect emissions that result from the organization's consumption of energy resources such as electricity and heat. Although these emissions are not directly produced by the organization, the organization can influence them by managing its energy consumption.
 
@@ -287,7 +287,7 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 
 The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in the figure, there should be a steady decline in emissions year after year.
 
-![EU reductions](I_1.8.png "Figure 1.8. The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
+![EU reductions](I_1.8.png "The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
 The ultimate goal is to reach zero CO2 emissions within a few decades, and even then we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. 
 
 It is worth recalling that the global community has already succeeded in stopping a major environmental disaster: the destruction of the ozone layer. Through a united global effort and strong international cooperation, humanity helped prevent a global ecological catastrophe. If we managed it once, we can do it again and help save the climate.
@@ -296,11 +296,11 @@ It is worth recalling that the global community has already succeeded in stoppin
 ### Climate pessimism and climate optimism
 More and more people perceive climate change as a significant threat, but at the same time, most of us find it difficult to assess how much the climate change will affect our own lives and everyday life, and what role we should play in the green transition.
 
-Most of us want to maintain and develop our standard of living as much as possible despite the climate crisis, but we are also happy to support climate-friendly and environmentally friendly initiatives. According to a study by behavioral economist Peter Andre and his colleagues, *"69 percent of the world's population is willing to sacrifice one percent of their income for climate action"* [(Andre et al. 2024](https://doi.org/10.1038/s41558-024-01925-3)), and Myanmar tops the list with 92.80%. Most people are willing to act to combat climate change, but there is uncertainty about what to do.
+Most of us want to maintain and develop our standard of living as much as possible despite the climate crisis, but we are also happy to support climate-friendly and environmentally friendly initiatives. According to a study by behavioral economist Peter Andre and his colleagues, *"69 percent of the world's population is willing to sacrifice one percent of their income for climate action"* [(Andre et al. 2024](https://doi.org/10.1038/s41558-024-01925-3)), and Myanmar tops the list at about 93%. Most people are willing to act to combat climate change, but there is uncertainty about what to do.
 
 It is also difficult to point to single actions that can combat the climate crisis, but *climate optimists* would say that it is possible to change the world and implement the green transition for the benefit of most people (Kirkegaard 2024). This would involve phasing out fossil fuels in favor of renewable energy sources and reducing greenhouse gases in the atmosphere to an acceptable level.
 
-The *climate pessimists*, on the other hand, expect that society as we know it today will collapse within a few decades, and that radical global changes will be needed to best weather the catastrophe. Jem Bendell has presented a theory about this scenario, which he calls *deep adaptation* ([Bendell 2017](https://jembendell.com/2019/05/15/deep-adaptation-versions/)). He believes that the global response to climate change is insufficient and that we are heading towards a collapse of society as we know it today. The theory of deep adaptation describes how we ought to manage the transition from our current society to the one that follows. He points to four key themes:
+The *climate pessimists*, on the other hand, expect that society as we know it today will collapse within a few decades, and that radical global changes will be needed to best weather the catastrophe. Jem Bendell has presented a theory about this scenario, which he calls *deep adaptation* ([Bendell 2018](https://jembendell.com/2019/05/15/deep-adaptation-versions/)). He believes that the global response to climate change is insufficient and that we are heading towards a collapse of society as we know it today. The theory of deep adaptation describes how we ought to manage the transition from our current society to the one that follows. He points to four key themes:
 
 - **Resilience:** Focusing on preserving what we value despite climate change; developing communities that are self-sufficient in energy, food and health.
 - **Relinquishment:** Encouragement to give up aspects of our lives that are unsustainable. For example, giving up fossil fuel-dependent lifestyles, abandoning vulnerable coastal infrastructure.
@@ -346,7 +346,7 @@ Most countries' economic policies aim for the highest possible economic growth y
 
 It could be said that the traditional understanding of economic growth stands in the way of sustainable development in society. In a 2021 briefing, the European Environment Agency writes that: *"It is unlikely that a long-lasting, absolute decoupling of economic growth from environmental pressures and impacts can be achieved at the global scale; therefore, societies need to rethink what is meant by growth and progress and their meaning for global sustainability".* ([European Environment Agency 2021](https://www.eea.europa.eu/highlights/sustainability-what-are-the-alternatives))
 
-In recent years, digital companies have shown that they can generate huge economic growth. In a relatively short time, software companies like Google, Facebook, and Microsoft were able to grow into some of the world’s largest companies by developing powerful software once and generating enormous profits of selling it millions of times over, with minimal additional cost. 
+In recent years, digital companies have shown that they can generate huge economic growth. In a relatively short time, software companies like Google, Facebook, and Microsoft were able to grow into some of the world’s largest companies by developing powerful software once and generating enormous profits by selling it millions of times over, with minimal additional cost. 
 
 It’s interesting to consider that people (including the authors) are willing to pay for software licenses for Microsoft Office, even though similar open-source alternatives are freely available. This illustrates a powerful business opportunity: once a company manages to create software with a high perceived value, it can sell the same product repeatedly at virtually no additional production costs, generating enormous profits. The success of companies like Microsoft shows how perceived value, rather than actual cost or uniqueness, often drives successful software and digital solutions.
 
@@ -354,15 +354,15 @@ However, this also highlights the important role that open source software can p
 
 {id: financial-non-financial-indicators}
 ### Financial and non-financial indicators: The triple bottom line
-In a holistic approach to business, it's not enough to focus solely on financial metrics; business operations also need to be viewed through broader sustainability lens and in longer terms. *How does the company interact with the environment and society? How will its activities affect future generations?*
+In a holistic approach to business, it's not enough to focus solely on financial metrics; business operations also need to be viewed through a broader sustainability lens and in longer terms. *How does the company interact with the environment and society? How will its activities affect future generations?*
 
 In order to promote more sustainable practices, companies would be wise to adopt a comprehensive approach to their operations, one that integrates financial performance with broader sustainability objectives. Some organizations are required to summarize their key financial figures and produce an annual report once a year, which outlines the year's financial performance, including revenues, expenses, and the overall performance of the business. Conventionally, the narrative in an annual report is based on financial figures such as profit, return, solvency, liquidity, and employment. The vast majority of data in these reports are financial figures, describing how capital and financial values flow in and out of the company.
 
-It is imperative for companies to shift their focus beyond **profit** to prioritize **people** and the **planet**. Consequently, sustainable business must consider metrics that cannot be *directly* measured in money. The non-financial indicators provide insight into how energy, materials and human resources flow in and out of a company. These indicators offer insights into aspects of value creation that are not fully captured by traditional financial metrics. Such aspects include, but are not limited to, customer satisfaction, employee well-being, energy efficiency, waste recycling, speed of innovation, and carbon emissions.
+It is imperative for companies to shift their focus beyond *profit* to prioritize *people* and the *planet*. Consequently, sustainable business must consider metrics that cannot be *directly* measured in money. The non-financial indicators provide insight into how energy, materials and human resources flow in and out of a company. These indicators offer insights into aspects of value creation that are not fully captured by traditional financial metrics. Such aspects include, but are not limited to, customer satisfaction, employee well-being, energy efficiency, waste recycling, speed of innovation, and carbon emissions.
 
 As companies endeavor to accentuate the sustainability facets of their operations and disclose information regarding their environmental and social impacts, non-financial indicators assume particular significance. 
 
-The concept of the **triple bottom line** refers to a business practice in which performance is evaluated not only in *financial* terms, but also in terms of *social* and *environmental* outcomes. This approach underscores the significance of exerting a beneficial influence on people, the planet, and the bottom line. The triple bottom line can function as a management instrument and is closely aligned with the principles of ESG (Environmental, Social, Governance).
+The concept of the *triple bottom line* refers to a business practice in which performance is evaluated not only in *financial* terms, but also in terms of *social* and *environmental* outcomes. This approach underscores the significance of exerting a beneficial influence on people, the planet, and the bottom line. The triple bottom line can function as a management instrument and is closely aligned with the principles of ESG (Environmental, Social, Governance).
 
 {id: esg-csr}
 ### ESG and CSR
@@ -370,7 +370,7 @@ Modern companies can no longer focus solely on financial performance; they must 
 
 The table below illustrates a number of examples of themes which can be included in ESG reports to document the development of sustainability practices in a company's activities. The reports should year after year contain comparable indicators which make it possible to monitor and analyze development over time.
 
-| **Environment**                                     | **Social**                                                                        | **Business Management**                                |
+| **Environment**                                     | **Social**                                                                        | **Governance**                                |
 | --------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------ |
 | Climate action                                      | Fair working conditions (health, wages, psychological work environment, training) | Business ethics and code of conduct                    |
 | Responsible sourcing, use and disposal of materials | Equality (e.g. in relation to gender, ethnicity and age)                          | Composition and independence of the Board of Directors |
@@ -379,31 +379,45 @@ The table below illustrates a number of examples of themes which can be included
 | Waste, pollution and circular economy               | Derived societal effects                                                          | Lobbying and political activity                        |
 | Interaction with ecosystems                         | Human rights                                                                      | Risk management                                        |
 | Biodiversity effects                                | User influence                                                                    | Collaboration with suppliers and buyers                |
-These non-financial indicators measure the "soft" values of a company, which are often put under the umbrella term ESG (Environment, Social, Governance). The concept of ESG has gained traction as society increasingly acknowledges that companies carry responsibilities extending beyond profit, growth, and employment. Companies are increasingly being held accountable for their direct and indirect climate and environmental impact, their efforts in relation to working conditions, gender equality and community relations. Not only are their customers making stricter demands, but there is also more and more sustainability regulation both nationally, from the EU and globally. A company's ESG efforts can ensure, that the company can live up to the expectations of the outside world in relation to the environment, society and corporate governance.
+These non-financial indicators measure the "soft" values of a company, which are often put under the umbrella term ESG (Environment, Social, Governance). The concept of ESG has gained traction as society increasingly acknowledges that companies carry responsibilities extending beyond profit, growth, and employment. Companies are increasingly being held accountable for their direct and indirect climate and environmental impact, their efforts in relation to working conditions, gender equality and community relations. Not only are their customers making stricter demands, but there is also more and more sustainability regulation both nationally, from the EU and globally. A company's ESG efforts can ensure that the company can live up to the expectations of the outside world in relation to the environment, society and corporate governance.
 
 - **Environment** covers the company's actions in relation to the environment and climate.
-- **Social** refers to social aspects such as gender equality, working conditions and human rights.
-- **Governance** refers to responsible, legal and ethical corporate governance, where the company's top management must demonstrate that they can not only manage the company's finances, but also its business ethics, risk management and benefit to society.
+- *Social* refers to social aspects such as gender equality, working conditions and human rights.
+- *Governance* refers to responsible, legal and ethical corporate governance, where the company's top management must demonstrate that they can not only manage the company's finances, but also its business ethics, risk management and benefit to society.
 
 Another term that often comes into play in this context is CSR (corporate social responsibility). The term CSR can be used to describe how a company takes responsibility for the society it is part of. It is not only legislation or economic interests that guide a company's actions, and companies can also be motivated by ethical or philanthropic considerations. Interestingly, CSR is a kind of self-regulation of the company, because it is the company itself that identifies the areas it wants to take responsibility for. What ESG and CSR have in common is that they are often part of the company's overall management and operations, and as such these sustainability initiatives are reported annually.
 
 {id: circular-economy}
-### Circular economy: from cradle to grave cradle
-As you read earlier in this chapter, sustainability is often linked to various cycles of materials and energy, for example. If we want sustainable organizations, it is necessary to view organizational processes as circular processes. As shown on the figure below, the traditional linear business model for industry and services takes resources from nature and use them in production, and the resources will eventually end up as waste. Unfortunately, this business model is responsible for many of the environmental problems we see today. We can no longer afford A "use-and-throw-away' mentality, but must instead aim for a circular economy.
+### Circular economy: from cradle-to-grave to cradle-to-cradle
+As you read earlier in this chapter, sustainability is often linked to various cycles of materials and energy, for example. If we want sustainable organizations, it is necessary to view organizational processes as circular processes. As shown in the figure below, the traditional linear business model for industry and services takes resources from nature and uses them in production, and the resources will eventually end up as waste. Unfortunately, this business model is responsible for many of the environmental problems we see today. We can no longer afford a "use-and-throw-away" mentality, but must instead aim for a circular economy.
 
 ![Circular economy](I_1.9.png "Linear economy creates waste through a 'use and throw away' model, while circular economy focuses on the life cycle of resources. By prioritizing design that considers the entire product lifecycle, reuse and recycling, we can reduce environmental impact and make production and consumption more sustainable.")
 
-According to the Ellen MacArthur Foundation, circular economy can be defined as a system where *"materials never become waste and nature is regenerated"*. In a circular economy, products and materials are kept in circulation through processes such as maintenance, reuse, refurbishment, remanufacturing, recycling and composting. The circular economy tackles climate change and other global challenges, such as biodiversity loss, waste and pollution, by decoupling economic activity from the consumption of finite resources. ([Ellen MacArthur Foundation 2024](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview))
+According to the Ellen MacArthur Foundation, circular economy can be defined as a system where *"materials never become waste and nature is regenerated"*. In a circular economy, products and materials are kept in circulation through processes such as maintenance, reuse, refurbishment, remanufacturing, recycling and composting. The circular economy tackles climate change and other global challenges, such as biodiversity loss, waste and pollution, by decoupling economic activity from the consumption of finite resources. ([Ellen MacArthur Foundation 2024](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview)) Note the word *regenerated* in this definition: an ambitious circular economy is not only about minimizing harm, but about regenerative practices that leave ecosystems and communities in a better state than we found them - a theme we will return to throughout the book.
 
-In the coming decades, the production of information technology must become so circular that, in an ideal scenario, the acquisition or disposal of a mobile phone has no greater environmental impact than picking a fruit from a tree or letting it fall to the ground. The life cycle of our IT equipment must be deliberately designed to follow the **cradle-to-cradle** principle. This concept holds that end-of-life products should serve as the foundation for new ones without becoming waste (Hauschild, 2021). Whereas a traditional life cycle refers to a cradle-to-grave process, the cradle-to-cradle model eliminates the “grave”: the end of one product becomes the beginning of another. In other words, the materials used to produce our digital hardware must be recaptured and reused all the way into the creation of new products—closing the loop and eliminating waste.
+#### The 7 R's of the circular economy
+A practical way to bring circular thinking into your daily work is the hierarchy known as the *7 R's*, roughly ordered from greatest to smallest impact:
+
+1. **Rethink** - question whether a product, purchase or feature is needed at all, and consider service or sharing models instead of ownership.
+2. **Refuse** - say no to unnecessary devices, gadgets, features and materials.
+3. **Reduce** - use less: less hardware, less energy, less data.
+4. **Reuse** - give equipment a second life, for example by redeploying older laptops or servers for lighter tasks.
+5. **Repair** - fix devices instead of replacing them, and choose repairable hardware in the first place.
+6. **Refurbish** - restore used equipment to near-new condition, or buy professionally refurbished hardware.
+7. **Recycle** - as the last resort, recover the materials so they can become part of new products.
+
+Notice that recycling - often the first thing we associate with circularity - is in fact the *last* step in the hierarchy. The greatest sustainability gains come from rethinking, refusing and reducing, so that fewer resources ever need to be recycled.
+
+
+In the coming decades, the production of information technology must become so circular that, in an ideal scenario, the acquisition or disposal of a mobile phone has no greater environmental impact than picking a fruit from a tree or letting it fall to the ground. The life cycle of our IT equipment must be deliberately designed to follow the *cradle-to-cradle* principle. This concept holds that end-of-life products should serve as the foundation for new ones without becoming waste (Hauschild, 2021). Whereas a traditional life cycle refers to a cradle-to-grave process, the cradle-to-cradle model eliminates the “grave”: the end of one product becomes the beginning of another. In other words, the materials used to produce our digital hardware must be recaptured and reused all the way into the creation of new products—closing the loop and eliminating waste.
 
 {id: rebound-effect}
 ### Beware of the rebound effect
-The **rebound effect** refers to the phenomenon where efficiency improvements not only lower the cost of products but also lead to increased consumption. In other words, making a technology more efficient is not necessarily sustainable, as the gains in efficiency often encourage greater use.
+The *rebound effect* refers to the phenomenon where efficiency improvements not only lower the cost of products but also lead to increased consumption. In other words, making a technology more efficient is not necessarily sustainable, as the gains in efficiency often encourage greater use.
 
 Digital development creates tremendous value by streamlining processes. Tasks that once took hours to complete manually can now be accomplished in seconds with the right IT solutions. However, not all optimisations deliver sustainability benefits. A clear example is storage: the dramatic increase in available capacity of storage and cheaper storage options has not reduced our demand for storage space. On the contrary, it has encouraged us to take higher-resolution photos, record more videos, and save more data, ultimately driving up consumption.
 
-The rebound effect is also known as **Jevon's Paradox**. William Stanley Jevon (1835-82) studied energy economics during his time and it was with the increasing availability of coal that he observed that the presence of coal increased energy consumption - instead of replacing previously inefficient energy sources (fires). *"It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."* he wrote in The Coal Question in 1865. It's a somewhat frustrating fact that our prowess in developing new sustainable forms of energy has added our consumption instead of replacing less sustainable energy sources. Jevon's paradox or the rebound effect can be a powerful key to interpreting the lack of sustainability effects, even when witnessing impressive digital innovations.
+The rebound effect is also known as *the Jevons paradox*. William Stanley Jevons (1835-82) studied energy economics during his time and it was with the increasing availability of coal that he observed that the presence of coal increased energy consumption - instead of replacing previously inefficient energy sources (fires). *"It is a confusion of ideas to suppose that the economical use of fuel is equivalent to diminished consumption. The very contrary is the truth."* he wrote in The Coal Question in 1865. It's a somewhat frustrating fact that our prowess in developing new sustainable forms of energy has added to our consumption instead of replacing less sustainable energy sources. The Jevons paradox or the rebound effect can be a powerful key to interpreting the lack of sustainability effects, even when witnessing impressive digital innovations.
 
 ## Societal - and individual - aspects of sustainability
 We have now covered a wide range of sustainability concepts and explored various aspects of sustainable development. We have examined the foundation for sustainability in terms of energy and material cycles, and we have discussed the role of companies and organizations through frameworks like ESG and CSR. Now, we turn our attention to the societal and individual dimensions of sustainability. 
@@ -435,14 +449,14 @@ In 2015, the UN adopted the 17 Sustainable Development Goals (SDGs), which commi
 13. Climate action
 14. Life below water
 15. Life on land
-16. Peace, justice and strong Institutions
+16. Peace, justice and strong institutions
 17. Partnerships for the goals (from [UN Sustainable Development Goals](https://sdgs.un.org/goals))
 
-National governments and their authorities are basically responsible for providing the framework for achieving the SDGs, but both companies, NGO's and individuals are also invited also work towards these specific goals. The motivation for companies to work with the SDGs can be ethical, for example if they want to work for a better future, but working with the SDGs can also benefit the company: It can give the company a better reputation and a more solid ESG foundation, if selected and relevant specific goals and targets are included in the company's operations and development.
+National governments and their authorities are basically responsible for providing the framework for achieving the SDGs, but companies, NGOs and individuals are also invited to work towards these specific goals. The motivation for companies to work with the SDGs can be ethical, for example if they want to work for a better future, but working with the SDGs can also benefit the company: It can give the company a better reputation and a more solid ESG foundation, if selected and relevant specific goals and targets are included in the company's operations and development.
 
 It is probably impossible for most companies to work towards all the SDGs at once, but it is a good sustainability practice to *identify one or a few selected SDGs* and specific targets where the company can make a real difference. Here, the company can examine which specific and measurable targets are relevant to the company's sustainability strategy and focus on these targets.
 
-The latest evaluations of the achievement of the UN 's SDGs unfortunately show that, although many have started working with the SDGs, there is still a long way to go to achieve them globally. ([SDG Progress Report 2024](https://unstats.un.org/sdgs/files/report/2024/SG-SDG-Progress-Report-2024-advanced-unedited-version.pdf)) Nevertheless, the SDGs provide a guideline for what is meant by sustainable development on a global level, and hence they can be used as guidelines in the digital field as well. 
+The latest evaluations of the achievement of the UN's SDGs unfortunately show that, although many have started working with the SDGs, there is still a long way to go to achieve them globally. ([The Sustainable Development Goals Report 2025](https://unstats.un.org/sdgs/report/2025/)) Nevertheless, the SDGs provide a guideline for what is meant by sustainable development on a global level, and hence they can be used as guidelines in the digital field as well. 
 
 {id: policy-legislation-regulation}
 ### Policy, legislation and regulation
@@ -452,7 +466,7 @@ A notable example of policies advancing the sustainability agenda is the growing
 
 Despite these evident benefits, resistance to waste sorting still exists. This highlights both the challenge of achieving widespread acceptance of sustainable practices and the difficulty of persuading everyone to consistently “do the right thing.” 
 
-Scandinavia has a long history of leading the way in soft sustainability values like education, health, decent working conditions, and food safety. The EU also has a wide range of regulations that promote sustainable development (Erhvervsstyrelsen 2024 b). For example, all major EU companies will have to comply with the CSRD (Corporate Sustainability Reporting Directive). This is a set of rules on corporate sustainability reporting. The point of these regulations is to show how companies are doing with their environmental, social, and governance (ESG) commitments and how they are making positive changes. Other EU-level regulations include EcoDesign (Dansk Standard 2024), which sets requirements for environmentally friendly product design, and the Green Claims Directive, which aims to standardize what can be marketed as green products to help companies and consumers avoid greenwashing.
+Scandinavia has a long history of leading the way in soft sustainability values like education, health, decent working conditions, and food safety. The EU also has a wide range of regulations that promote sustainable development. For example, the largest EU companies must comply with the CSRD ([Corporate Sustainability Reporting Directive](https://finance.ec.europa.eu/capital-markets-and-esg/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en)), a set of rules on corporate sustainability reporting - although the EU's "Omnibus" simplification package narrowed its scope considerably and postponed its deadlines in 2025. The point of these regulations is to show how companies are doing with their environmental, social, and governance (ESG) commitments and how they are making positive changes. Other EU-level rules include the Ecodesign for Sustainable Products Regulation ([Regulation (EU) 2024/1781](https://eur-lex.europa.eu/eli/reg/2024/1781/oj)), which sets requirements for environmentally friendly product design, and the Empowering Consumers for the Green Transition Directive which, as described earlier in this chapter, bans unsubstantiated green marketing claims from September 2026.
 
 The introduction of sustainability regulation at both national and EU level is positive, because it provides certain guidelines and creates incentives for all companies to adopt more sustainable practices. On the other hand, regulation can feel slow and cumbersome because of the increased bureaucracy and time it takes to comply.
 
@@ -504,16 +518,16 @@ This belief is reflected in three key ideas that shape our approach-and the foun
 
 The Karlskrona Manifesto is a collaboration between researchers and practitioners to inspire both academics and practitioners to integrate sustainability into information technology development processes. The Karlskrona Manifesto's sustainable system design guidelines set out five different dimensions of sustainability ([Becker et al. 2015](https://arxiv.org/abs/1410.6968)):
 
-- ***Individual sustainability** refers to maintaining individual human capital (e.g., health, education, skills, knowledge, leadership, and access to services)*
-- ***Social sustainability** aims at preserving the societal communities in their solidarity and services.* 
-- ***Economic sustainability** aims at maintaining capital and added value.* 
-- ***Environmental sustainability** refers to improving human welfare by protecting the natural resources: water, land, air, minerals and ecosystem services.*
-- ***Technical sustainability** refers to longevity of information, systems, and infrastructure and their adequate evolution with changing surrounding conditions.*
+- *Individual sustainability* refers to maintaining individual human capital (e.g., health, education, skills, knowledge, leadership, and access to services).
+- *Social sustainability* aims at preserving the societal communities in their solidarity and services.
+- *Economic sustainability* aims at maintaining capital and added value.
+- *Environmental sustainability* refers to improving human welfare by protecting the natural resources: water, land, air, minerals and ecosystem services.
+- *Technical sustainability* refers to longevity of information, systems, and infrastructure and their adequate evolution with changing surrounding conditions.
 
 The Karlskrona Manifesto defines sustainable information technology as IT solutions that create value for many people and contribute to long-term positive development in areas such as the environment, climate, society, working conditions, and the well-being of individual users.
 In short: Sustainable digital solutions should not pollute the soil, water, or air, and they must respect and support both the people involved in the design and production, and also those who use the technology. The manifesto ([available in full online](https://arxiv.org/pdf/1410.6968)) presents a set of sustainable design principles intended for software developers, researchers, users, and purchasers.
 
-The ESG criteria and the Karlskrona Manifesto dimensions overlap in their focus on environmental sustainability and social issues, but the Karlskrona Manifesto broadens the ESG perspective by including technical and individual sustainability. The ESG "Governance" element of ESG relates in part to the Karlskrona dimension "Economic Sustainability," especially in relation to responsible governance and long-term economic viability. 
+The ESG criteria and the Karlskrona Manifesto dimensions overlap in their focus on environmental sustainability and social issues, but the Karlskrona Manifesto broadens the ESG perspective by including technical and individual sustainability. The "Governance" element of ESG relates in part to the Karlskrona dimension "Economic Sustainability," especially in relation to responsible governance and long-term economic viability. 
 
 Developing, procuring, and operating sustainable IT solutions is essential, but also challenging, because we still lack a clear and widely accepted understanding of how to define and measure sustainability within the IT industry. The Karlskrona Manifesto is broader and is more applicable in digital contexts as it focuses on both technological implications and individual accountability - concepts not directly addressed by the ESG criteria. While the ESG concept targets all kinds of organizations regardless of what they do, the Karlskrona Manifesto guidelines are specifically aimed at the development of digital systems. You can see a comparison between the focus areas of the two concepts in the table below. 
 
@@ -528,11 +542,11 @@ Throughout the whole book, we base much of our discussion on the Karlskrona Mani
 
 {id: twin-transition}
 ### Twin transition
-The relationship between sustainability and information technology is captured by the concept of the **twin transition** - the simultaneous move towards digitalization and environmental sustainability. Born out of the EU's ambition to achieve climate neutrality by 2050, the twin transition highlights the close interplay between our transition to a data-driven, connected society and global efforts to address environmental issues such as climate change, biodiversity loss, and resource depletion.
+The relationship between sustainability and information technology is captured by the concept of the *twin transition*. Born out of the EU's ambition to achieve climate neutrality by 2050, the term refers to two great shifts happening at once: the *green transition* - the global effort to address climate change, biodiversity loss and resource depletion - and the *digital transition* - the ongoing shift to a more data-driven, automated and connected society.
 
-At the same time, the digital transition refers to the ongoing global shift to a more data-driven, automated, and connected society. These two transitions are occurring in parallel and are increasingly influencing each other. An integrated approach is essential to take full advantage of the benefits and potential synergies of both transitions and to mitigate the risks of addressing the two agendas separately (Müller, 2024).
+These two transitions are occurring in parallel and increasingly influence each other. An integrated approach is essential to take full advantage of the benefits and potential synergies of both transitions and to mitigate the risks of addressing the two agendas separately (Müller, 2024).
 
-The idea that digital development can help us solve our sustainability challenges in a simultaneous and dual transition is gaining traction both in the EU and internationally. "Twin transition" is thought to have the potential to create positive synergies between digital and green development. For example, a district heating plant can retrieve automatic forecasts for weather, energy prices and heat consumption and can, through digital control, optimize the operation of production so that district heating can be produced in the most efficient way (Dansk Fjernvarme 2023).
+The idea that digital development can help us solve our sustainability challenges in a simultaneous and dual transition is gaining traction both in the EU and internationally. "Twin transition" is thought to have the potential to create positive synergies between digital and green development. For example, a district heating plant can retrieve automatic forecasts for weather, energy prices and heat consumption and can, through digital control, optimize the operation of production so that district heating can be produced in the most efficient way ([IEA 2017](https://www.iea.org/reports/digitalisation-and-energy)).
 
 The challenge with the twin transition is that all digital development also has a negative climate footprint from the hardware and energy used. So in digital projects with a positive sustainability aim, the positive impact of the project must be significantly greater than the negative effects of the technology used. In the case of the district heating plant, the optimization gains must be significantly greater than the derived negative environmental effects of the new digital control system. In addition, it is also important to take into account the rebound effect and make it likely that increased efficiency will not ultimately lead to even higher consumption.
 
@@ -540,13 +554,13 @@ The challenge with the twin transition is that all digital development also has 
 ### Digitainability
 While twin transition focuses on exploring the connection between green and digital development, the concept of digitainability goes further by presenting the idea that we can combine the development of sustainability and digital development in practice and, in this way, contribute to a more sustainable future.
 
-The term **digitainability** is a contraction of the words digital development and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN 's Sustainable Development Goals with digital tools ([Gupta et al. 2020](https://doi.org/10.3390/su12219283)). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
+The term *digitainability* is a contraction of the words digital development and sustainability. The concept was developed by Shivam Gupta et al. in order to support the UN's Sustainable Development Goals with digital tools ([Gupta et al. 2020](https://doi.org/10.3390/su12219283)). The concept of digitainability combines digital innovation and sustainability principles as a tool to create technological solutions that not only promote economic growth, but also protect the environment and support social responsibility.
 
-Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He and his teams proposes a tool called DSM ( Digitalization–Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios.
-## Chapter summary: Your role in the transformation
+Gupta is also a climate optimist, arguing, among other things, that the "cross-fertilization" of digital and sustainability strategies can revolutionize the way we develop and use technology. He and his team propose a tool called the DSM ( Digitalization–Sustainability Matrix) that can be used by interdisciplinary groups to explore the digitainability potential of different development scenarios.
+## Bringing it together: Key insights from this chapter
 You've reached the end of the first chapter, take a moment to appreciate your progress! You've explored the fundamental principles of sustainable digital development, learned new concepts, and refreshed your understanding of others.
 
-Hopefully, you've gained an appreciation for the many dimensions of sustainability, spanning  from geology and ecology to economics and social sciences. Adopting a holistic perspective is essential if you wish to contribute meaningfully to sustainability.
+Hopefully, you've gained an appreciation for the many dimensions of sustainability, spanning from geology and ecology to economics and social sciences. Adopting a holistic perspective is essential if you wish to contribute meaningfully to sustainability.
 
 ### Your role in the green digital transformation
 No single individual can grasp every aspect of the complex digital and sustainable transformations taking place. Fortunately, through international collaboration, many skilled professionals and experts continually develop guidelines and recommendations that we all can incorporate into our own practices.

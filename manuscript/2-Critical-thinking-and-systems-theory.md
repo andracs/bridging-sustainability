@@ -8,7 +8,7 @@
 ## In this chapter
 In this chapter, we will spend time with systems thinking and network theory. Both information technology and sustainability theories are based on systems thinking, which is why we want to prepare you a bit more for working with systems. 
 
-Systems thinking and network theory help us to think holistically and include the most important sustainability aspects when developing digital technologies. Critical thinking helps us reducing noise and validating the details in our work, and finding essential relationhsips between cause and effect in the systems.
+Systems thinking and network theory help us to think holistically and include the most important sustainability aspects when developing digital technologies. Critical thinking helps us reduce noise, validate the details in our work, and find essential relationships between cause and effect in the systems.
 
 Let's go through some selected and general aspects of both systems theory and network theory to give you tools that you can use in your work with digital sustainability. At the same time, we invite you to bring your intellect into play by thinking critically, analytically and systemically in relation to your practice with digital and sustainability issues.
 ## Systems theory
@@ -19,7 +19,7 @@ Let's go through some selected and general aspects of both systems theory and ne
 
 - weather and climate systems  
 - ecosystems  
-- social systems as political systems  
+- social systems such as political systems  
 - biological systems such as the human nervous system  
 - digital systems such as operating systems, web systems, social media  
 - design systems  
@@ -32,7 +32,7 @@ Decades ago, systems modeling was limited by the fact that we could only model w
 
 These approaches help analyze and understand everything from natural ecosystems to multifaceted social and digital networks, where the relationships between parts and wholes are crucial. By understanding how these relationships work, we can gain deeper insights into both simple and complex contexts.
 
-*Systems thinking* focuses on the connection and interaction between parts of a system and its environment. Systems thinking can zoom in and out to understand a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between software development, energy consumption and environmental impact. By considering the involved systems and the interplay of their elements, we can analyse, how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
+*Systems thinking* focuses on the connection and interaction between parts of a system and its environment. Systems thinking can zoom in and out to understand a given problem. For example, within the context of this book, systems thinking can be used to analyze the complex relationships between software development, energy consumption and environmental impact. By considering the involved systems and the interplay of their elements, we can analyse how software can be optimized to reduce the energy consumption of the IT system and thereby reduce the environmental impact of the technology.
 
 Systems thinking is a scientific approach that is particularly well suited to working with both IT and sustainability because it sees the world as a mosaic of interconnected systems that constantly interact and influence each other over time.
 
@@ -40,7 +40,7 @@ Systems thinking is a scientific approach that is particularly well suited to wo
 
 ![System interactions](resources/I_2.1.png "While it seems easy to click and watch a cat video online, it's only possible thanks to a very complex and well-coordinated collaboration between many designed systems.")
 
-When we click on a link and play a video, we set off a chain reaction and thus an interaction between the many subsystems that together make it possible to watch the video. As shown in the figure below, a streaming video connects to different websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals. If a single subsystem is missing, you probably wouldn't be able to watch the video.
+When we click on a link and play a video, we set off a chain reaction and thus an interaction between the many subsystems that together make it possible to watch the video. As shown in the figure, a streaming video connects to different websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals. If a single subsystem is missing, you probably wouldn't be able to watch the video.
 
 At the same time, each view of the video has concrete and measurable consequences for the environment, society and individuals, such as:
 
@@ -49,10 +49,10 @@ At the same time, each view of the video has concrete and measurable consequence
 - The algorithms that control a video feed can contribute to problematic social media overuse and related mental health issues for its users.  
 - The content in the video may be created with hidden intentions, for example as propaganda that can be spread on social media.  
 - Content can influence users' moods and actions.  
-- If the video is free, it's likely that the user himself / herself is the product. That is, the user's data or attention is sold to the highest bidder to fund the playback.
-- User information can be exploited by hackers or threat actors to make harm. 
+- If the video is free, it's likely that the user is the product. That is, the user's data or attention is sold to the highest bidder to fund the playback.
+- User information can be exploited by hackers or threat actors to cause harm. 
 
-These connections are not always obvious, but through a systemic analysis we can discover them by holding the systems behind the streaming against the five dimensions of the Karlskrona Manifesto. In the following figure, you can  see how different things *flow* from one system to another:
+These connections are not always obvious, but through a systemic analysis we can discover them by holding the systems behind the streaming against the five dimensions of the Karlskrona Manifesto. The figure also illustrates how different things *flow* from one system to another:
 
 - The user's user data is sent all the way to the advertisers  
 - The algorithm targets and sends the message content back to the user  
@@ -93,14 +93,14 @@ Think of a social media platform, for example: although it is designed with spec
 ## Designed systems
 Designed systems are man-made, they often have a specific purpose, and we know the components of the system and the relationship between them. Engineering can create technological systems such as a spaceship, but it is also possible to create organizational systems such as a company.
 
-Designed systems are often easier to understand if we only know the thinking behind them, but they can also have a certain emergence over time. For example, a company founded with a specific business plan may change its activities over time as the market changes. The systems in an unmanned spaceship sent on a specific space mission will rarely change, but there are examples where, during a mission, the space operation center have to improvise and let the systems work in new and different ways to fulfill the mission.
+Designed systems are often easier to understand if we only know the thinking behind them, but they can also have a certain emergence over time. For example, a company founded with a specific business plan may change its activities over time as the market changes. The systems in an unmanned spaceship sent on a specific space mission will rarely change, but there are examples where, during a mission, the space operation center has to improvise and let the systems work in new and different ways to fulfill the mission.
 
-In the digital world, we often see a mix of designed and emergent systems. Consider a social media platform, where the developers have designed the underlying infrastructure, but users decide what topics emerge and how the debate unfolds. In some cases, organic development can go off the rails - such as when comment sections are flooded with hateful or harassing posts. In these situations, the platform can chose to change the system's design by introducing stricter moderation rules, improved reporting features and the ability to ban users or close problematic forums. In this way, the emergent developments could be kept within designed certain limits.
+In the digital world, we often see a mix of designed and emergent systems. Consider a social media platform, where the developers have designed the underlying infrastructure, but users decide what topics emerge and how the debate unfolds. In some cases, organic development can go off the rails - such as when comment sections are flooded with hateful or harassing posts. In these situations, the platform can choose to change the system's design by introducing stricter moderation rules, improved reporting features and the ability to ban users or close problematic forums. In this way, the emergent developments could be kept within certain designed limits.
 
 ## Digital twins
-There are also examples of digital systems mirroring physical systems one-to-one. Digital twins is an approach to digitization where physical systems have a digital counterpart.
+There are also examples of digital systems mirroring physical systems one-to-one. Digital twins are an approach to digitization where physical systems have a digital counterpart.
 
-Imagine a cargo ship that has a digital twin. The real ship is sailing on the sea, and it's digital twin is a real time simulation of the ships current properties. This digital version can, through thousands of data points, provide an accurate and real time picture of the ship:
+Imagine a cargo ship that has a digital twin. The real ship is sailing on the sea, and its digital twin is a real-time simulation of the ship's current properties. This digital version can, through thousands of data points, provide an accurate and real time picture of the ship:
 
 - where it is sailing  
 - the captain's view  
@@ -110,16 +110,16 @@ Imagine a cargo ship that has a digital twin. The real ship is sailing on the se
 - CAD drawings and part numbers for easy replacement of spare parts  
 - and more... 
 
-Digital twins represent applied systems theory. A digital twin is an accurate and real time updated digital system model of a given physical system, which can be used for modeling, analysis and prediction.
+Digital twins represent applied systems theory. A digital twin is an accurate and real-time updated digital system model of a given physical system, which can be used for modeling, analysis and prediction.
 ## Systems thinking and critical thinking
 *Systems thinking* is a valuable tool for grasping the complexity of digital projects. These projects involve various digital systems, such as operating systems, versioning systems, design systems, and a range of associated roles, including system developers, system integrators, system owners, and system administrators. If you work on the technical side of information technology, you are likely already familiar with systems, as modern IT is built on networks of interconnected systems.
 
 Most information technology programs include system development and design in their curricula, where students learn to model systems using diagrams to better understand their structure and behavior. This foundation is especially crucial for promoting sustainable information technology. Because sustainability itself is inherently systemic, applying systems thinking is essential to effectively address its challenges within the IT field.
 
-System thinking is often supported by handdrawn nodes and whiteboard sketches, as drawing system elements, it's boundaries and environment, and the connections and interactions between elements is a good way of thinking about and communicating systems. 
+Systems thinking is often supported by hand-drawn nodes and whiteboard sketches, as drawing system elements, its boundaries and environment, and the connections and interactions between elements is a good way of thinking about and communicating systems. 
 
 ### Systems thinking: understanding the big picture
-Systems thinking can help us to think sustainably,  because it enables us to think systemically and view systems from multiple angles. We can analyze a system on different levels, focusing on one level at a time while temporarily ignoring the underlying layers.
+Systems thinking can help us to think sustainably, because it enables us to think systemically and view systems from multiple angles. We can analyze a system on different levels, focusing on one level at a time while temporarily ignoring the underlying layers.
 
 It's a bit like looking at a new car. A buyer might examine the layout, the engine, or the level of equipment, but rarely considers how the different sub-components interact, such as how the brakes are constructed or how the electrical components are wired.
 
@@ -161,10 +161,10 @@ This involves not only understanding the direct consequences of our actions, but
 ### Good intentions, less good results
 There are numerous examples where eco-friendly initiatives have had the opposite effect and resulted in greenwashing instead of real sustainability, and this is where critical thinking could avert the problems. For example, reusing clean packaging from everyday products may seem environmentally friendly, but if it requires disproportionate amounts of energy and water to reuse the packaging, the net effect is negative. Therefore, it is essential to look critically at the different recycling options and look systemically at the environmental costs and benefits of the different scenarios. 
 
-An example from the digital world could be recycling systems for used electronics, such as a trade-in program. Here, the producer takes the back old products and offers gift cards for the return. The electronics contain plastic, metal and more or less recyclable materials, and it makes sense, that a manufacturer has a program for recycling electronics. From a more critical angle, it is important to ask whether the consumers  really have the incentive and opportunity to return the products? 
+An example from the digital world could be recycling systems for used electronics, such as a trade-in program. Here, the producer takes back old products and offers gift cards in return. The electronics contain plastic, metal and more or less recyclable materials, and it makes sense that a manufacturer has a program for recycling electronics. From a more critical angle, it is important to ask whether consumers really have the incentive and opportunity to return the products? 
 
-- Is it easy and feasable to return the electronics?  
-- Is there a chance, that users won't return the electronics and it will end up as e-waste anyway?  
+- Is it easy and feasible to return the electronics?  
+- Is there a chance that users won't return the electronics and it will end up as e-waste anyway?  
 - Is the trade-in program a marketing act, or does the company actually manage to recycle the electronics properly?
 
 By asking critical questions about the recycling subsystems in the trade-in domain and its context, we can be more precise in our estimations of the environmental benefits of the trade-in program.
@@ -176,9 +176,9 @@ A critical approach to digitalization is also about assessing the benefits and r
 ## Digital systems vs. ecosystems: Differences, similarities and synergies
 We can consider all digital solutions as systems. For example, a smartphone is also a system, composed of screen, processor, camera, battery and many other components. These components receive input in the form of energy (electricity) and information (software, data from the internet and data from the phone's sensors), and produce output such as calls or messages to other phones or heat from the battery.
 
-As digital solution developers, we can see the system as a whole – turning on the phone and using its apps – but we can also zoom in on individual subsystems. For example, we can focus on the phones camera system and develop software to optimize its functions in new ways. The context or environment of the system is the usage situation in which the phone is used. Zooming out to a broader perspective, the smartphone can contribute to societal systems by spreading messages on social media. Systems thinking helps us to zoom in and out of systems to understand information technology at different levels.
+As digital solution developers, we can see the system as a whole – turning on the phone and using its apps – but we can also zoom in on individual subsystems. For example, we can focus on the phone's camera system and develop software to optimize its functions in new ways. The context or environment of the system is the usage situation in which the phone is used. Zooming out to a broader perspective, the smartphone can contribute to societal systems by spreading messages on social media. Systems thinking helps us to zoom in and out of systems to understand information technology at different levels.
 
-![Digital and ecological systems](resources/I_2.4.png "Both a lake and a data center are systems where complex interactions create the whole – but their nature is very different. The lake acts as a natural, self-regulating ecosystem, while the data center requires constant control and resources. The smartphone is also a system, it  brings the personal perspective into systems thinking, by  connecting data from global networks with the user's daily life. While not obvious, there can be a systemic connection between the smartphone and the lake, if the smartphone connects to a data center which uses the lakes water for cooling.")
+![Digital and ecological systems](resources/I_2.4.png "Both a lake and a data center are systems where complex interactions create the whole – but their nature is very different. The lake acts as a natural, self-regulating ecosystem, while the data center requires constant control and resources. The smartphone is also a system, it brings the personal perspective into systems thinking, by connecting data from global networks with the user's daily life. While not obvious, there can be a systemic connection between the smartphone and the lake, if the smartphone connects to a data center which uses the lake's water for cooling.")
 
 From a sustainability perspective, there are many non-digital systems that also need to be considered. For example, a lake can also be considered as a system, an ecosystem, which is affected if the lake water is used to cool a data center. The lake as a system consists not only of water, but also of organisms that live in and around the water. In addition, the lake is part of various cycles of energy and materials and has an impact on other systems through them. Without systems thinking, ill-considered use of freshwater can lead to environmental problems in the lake and thus sustainability issues.
 
@@ -195,20 +195,20 @@ We can think of this webshop as a system with inputs and outputs. In the system 
 
 In addition to developing a webshop and the processes that make it work, we also need to look at the five sustainability dimensions of the system that we know from the Karlskrona Manifesto.
 
- **1\. Financial sustainability**
+ **1\. Economic sustainability**
 Most (if not all) online stores are designed to generate profit through sales. In many cases, the store earns revenue day after day, month after month, and year after year, a form of cyclical value creation. This ongoing profitability makes the store financially sustainable, as it can continuously support its operations and growth. Without financial sustainability, the store would eventually go bankrupt and cease to exist. It is therefore clear that the company actively makes decisions to maintain and strengthen its financial sustainability. However, other dimensions of sustainability, such as environmental and social responsibility, are far less obvious. These require different kinds of reflection and consideration that go beyond profit and business continuity.
 
 **2\. Technical sustainability**  
 On the technical side, we want to build a solution with up-to-date technology that will last for many years and not become obsolete too quickly (we don't want to get into technical debt at the start of the project). It's a tough nut to crack because technology is developing so fast that we can only guess what e-commerce will look like in 5–10–15 years. Nevertheless, we need to make educated and informed assumptions about the future and build the store so that the technology can be expanded and upgraded for many years to come. Can we design elements into the store that promote sustainable behavior among users, such as recycling or downsizing?
 
 **3\. Environmental sustainability** 
-The environmental aspect requires us to develop the webshop, which is first and foremost climate neutral and secondly that it has the least possible environmental impact, in terms of both direct and indirect environmental effects from the hardware and facilities used. The IT systems must run on renewable energy, and the derived emissions from goods and transportation must be also as close to climate neutral as possible. Likewise, we must consider how the environmental impacts of the trade process can be minimized.
+The environmental aspect requires us to develop a webshop that is first and foremost climate neutral and, secondly, has the least possible environmental impact, in terms of both direct and indirect environmental effects from the hardware and facilities used. The IT systems must run on renewable energy, and the derived emissions from goods and transportation must also be as close to climate neutral as possible. Likewise, we must consider how the environmental impacts of the trade process can be minimized.
 
 **4\. Social sustainability**  
 Social sustainability can be brought into play in the webshop in several ways. As you can see, people and labor hours are inputs to the system. Here, it is primarily the skills and work of employees that are transformed into output in the webshop system, but secondarily it is also the webshop customers who provide input to the system (orders, payments).
 
 **5\. Individual sustainability**  
-It is important to identify the stakeholders that come into contact with the webshop and find out how to ensure that they have a long-lasting and good relationship with the webshop. The webshop may want to retain their good employees and they also want their customers to return. The project can aim to develop or cultivate fruitful communities at multiple levels of the system, taking into account both the individuals and the communities connected to the system.
+It is important to identify the stakeholders that come into contact with the webshop and find out how to ensure that they have a long-lasting and good relationship with the webshop. The webshop may want to retain its good employees, and it also wants its customers to return. The project can aim to develop or cultivate fruitful communities at multiple levels of the system, taking into account both the individuals and the communities connected to the system.
 ### Feedback loops: The system is fed with its own output
 In the previous figure you can see that user data, sales data and environmental data are fed back into the system as a feedback loop. This gives us a unique opportunity to learn how the system (store) is actually performing and make adjustments along the way to make the system better. In addition to optimizing revenue, you can also detect if you are selling too much of an environmentally harmful product and change the shop layout to highlight and suggest environmentally friendly alternatives instead.
 
@@ -223,18 +223,18 @@ As with all IT projects, there is always a risk that development will fail. But 
 
 Here again, we can analyze the system to get good insights – especially in relation to the boundaries of the system.
 ## Network theory can complement systems theory
-In recent times, with access to vast amounts of data and increased computational capacity, researchers have analyzed systems of unprecedented size and discovered new, universal relationships in the networks that connect systems and their components. Physicist Barabási (2016) and his colleagues have proposed, that many things int he world can be seen as networks and can be modeled as networks of connected elements. By examining the properties of the network, such as size, density and connectedness, we can better understand complex systems. In other words, systems can also be seen as networks that are connected by different parts.
+In recent times, with access to vast amounts of data and increased computational capacity, researchers have analyzed systems of unprecedented size and discovered new, universal relationships in the networks that connect systems and their components. Physicist Albert-László Barabási (2016) and his colleagues have proposed that many things in the world can be seen as networks and can be modeled as networks of connected elements. By examining the properties of the network, such as size, density and connectedness, we can better understand complex systems. In other words, systems can also be seen as networks that are connected by different parts.
 
-Network theory describes the whole world as a network, where the *connections between elements* are as important as the *quality of the elements*. A good example of this is "being in the right place at the right time and doing the right thing", as was the case with the global succes of Facebook. Social media had existed in many forms before Facebook was born, but Facebook was the first company which made the right  connections in terms of technology, content and capital.
+Network theory describes the whole world as a network, where the *connections between elements* are as important as the *quality of the elements*. A good example of this is "being in the right place at the right time and doing the right thing", as was the case with the global success of Facebook. Social media had existed in many forms before Facebook was born, but Facebook was the first company which made the right connections in terms of technology, content and capital.
 
-There were plenty of social media sites with better design and better functionality before Facebook, but Facebook ended to be winner on a global scale because they built a network that connected people, technology and business. Facebook's success is not only due to its objective technical qualities, but also to the contexts in which it was born (good university, growing needs, technological know-how, good timing, good investment). From a network theory perspective, it is the interaction between Facebook, its users, investors and competitors that has contributed to its success, not only the technical system.
+There were plenty of social media sites with better design and better functionality before Facebook, but Facebook ended up being the winner on a global scale because it built a network that connected people, technology and business. Facebook's success is not only due to its objective technical qualities, but also to the contexts in which it was born (good university, growing needs, technological know-how, good timing, good investment). From a network theory perspective, it is the interaction between Facebook, its users, investors and competitors that has contributed to its success, not only the technical system.
 ## Systems were traditionally compared to machines
-Thinkers of the last century, inspired by the ideas of Frederick Winslow Taylor (1856–1915), often compared systems to the machines of the time (known as Taylorism). In this way, systems were understood as entities with well-defined components, fixed frameworks, clear purposes and unambiguous contexts, while today, network theory gives us different perspectives on how the world can be understood. An industrial machine had to be fueled, and through its' work, the machine could use the fuel to produce concrete outputs with various concrete well-defined purposes. 
+Thinkers of the last century, inspired by the ideas of Frederick Winslow Taylor (1856–1915), often compared systems to the machines of the time (known as Taylorism). In this way, systems were understood as entities with well-defined components, fixed frameworks, clear purposes and unambiguous contexts, while today, network theory gives us different perspectives on how the world can be understood. An industrial machine had to be fueled, and through its work, the machine could use the fuel to produce concrete outputs with various concrete well-defined purposes. 
 
 A car has an engine, wheels, steering, etc. and it can drive from A to B if we simply add fuel and steer it. This thinking provides a good starting point for understanding systems. Parallels could also be drawn to other kinds of systems, both biological and societal: A bee is a honey production system, and a government is a system that produces the laws of a country. While the simplicity of these analogies is appealing and provides a quick shortcut to understanding some of the overall relationships, this kind of thinking is insufficient to understand the complexity of systems.
 
 ### Today, systems can also be viewed as complex networks
-*Network science* is not about the individual parts of a system. Instead, it focuses on understanding the network of systems themselves, the connections between the elements of the systems and their interaction with the outside world. Network sciences advances as computers grow faster, and recent advancements in computing enables network science to seek general rules and relationships that are common to all kinds of networks, such as social media, financial networks or ecological systems. 
+*Network science* is not about the individual parts of a system. Instead, it focuses on understanding the network of systems themselves, the connections between the elements of the systems and their interaction with the outside world. Network science advances as computers grow faster, and recent advancements in computing enable it to seek general rules and relationships that are common to all kinds of networks, such as social media, financial networks or ecological systems. 
 
 Network science can be used to investigate how, for example, information spreads in a network or how the structure of the network affects the properties of the system. Today, this is possible because we are able to collect huge amounts of data, analyze it with advanced statistical analysis, and perform calculations and simulations with high-speed computers. 
 
@@ -247,8 +247,8 @@ Similarly, by mapping the connections between companies, industries and markets,
 
 In economics and supply chains, a missing component can disrupt entire production, affecting both prices and jobs. In ecology, changes in populations of a single species can disrupt established food chains and affect people's food base. A power outage paralyzes communication and emergency response systems, which can lead to further effects throughout society. In the digital sphere, propaganda, misinformation and disinformation can change consumption patterns, influence political priorities and reshape information flows.
 
-## Chapter summary: Systems thinking and network understanding are key 
-We will often need to apply systems thinking to your work with digital sustainability. When a company prepares ESG or CSRD reports or calculates scope 3 emissions, it is crucial to understand how the company's activities affect other systems.
+## Bringing it together: Key insights from this chapter
+You will often need to apply systems thinking in your work with digital sustainability. When a company prepares ESG or CSRD reports or calculates scope 3 emissions, it is crucial to understand how the company's activities affect other systems.
 
 For example, we can analyze how a company's energy consumption affects the climate and contributes to global temperature increases. We can develop models of the company's supply chains to better understand scope 3 emissions or the sourcing of components for the company's digital activities. And it may also be relevant to analyze the organization's effects on a local community or on users to demonstrate social responsibility. In all cases, critical and analytical system thinking is necessary. By bringing system models or network diagrams into play, we can better understand the complex relationships that shape your organization. 
 

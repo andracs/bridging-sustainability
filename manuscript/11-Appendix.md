@@ -28,9 +28,8 @@ This list can serve as inspiration for _overarching_ sustainability consideratio
 11. **Use storytelling, but avoid greenwashing** Base your work on widely recognized and scientifically supported sustainability principles to avoid greenwashing.
     
 
----
 
-## B. Sustainability principles for the use of ***hardware***
+## B. Sustainability principles for the use of *hardware*
 
 This checklist helps you assess hardware solutions with a focus on sustainability. Use it as a practical tool to ask the right questions and make informed choices that benefit the environment, society, and your organization.
 
@@ -71,9 +70,8 @@ Investigate whether the hardware can be upgraded or repurposed for future needs.
 
 Prioritize suppliers who are working on innovative solutions to reduce environmental impact.
 
----
 
-## C. Sustainability principles for **network and cloud**
+## C. Sustainability principles for *network and cloud*
 
 Use the questions below to set the right requirements for suppliers and solutions – from energy-efficient hardware to the use of renewable energy and intelligent systems. The goal is to ensure eco-friendly operations without compromising security and quality.
 
@@ -101,9 +99,8 @@ Is it possible to automatically power down resources when they are not in use? A
 
 Do the network and cloud meet the best possible security standards and applicable legislation such as GDPR or NIS2?
 
----
 
-## D. Sustainability principles for **software**
+## D. Sustainability principles for *software*
 
 This checklist guides you in developing or purchasing software solutions with a focus on sustainability in a broad sense.
 
@@ -170,6 +167,6 @@ The history of information technology is a loooooong chain of optimization and i
     
 8. **Consider optimizing for older hardware**, because in some cases, backward compatibility can pay off.
 
-## Summary
+## Key takeaways
 
 Use these lists not merely as a measure of compliance, but as a compass to navigate the complexities of responsible digital innovation. Also, sustainability is a collective effort and a living practice; we invite you to adapt these lists to your context and contribute your own insights back to the authors of this book.

@@ -24,7 +24,9 @@ A warm thank you to **[Samfundslitteratur](https://samfundslitteratur.dk/bog/bae
 
 ## 🗺️ How the book is built
 
-This repository holds the manuscript - and also out todo lists. Below is an overview of how each chapter is structured and the line of thought running through it.
+This repository holds the manuscript - and also out todo lists. If you rather not read the markdown files, please consider buying a copy. Also, you are very welcone to contribute, if you feel like helping with the todo-lists or improving the book other ways.
+
+Below is an overview of how each chapter is structured and the line of thought running through it.
 
 ### 🌍 Chapter 1 — Setting the stage
 

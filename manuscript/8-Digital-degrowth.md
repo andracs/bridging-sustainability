@@ -19,7 +19,7 @@ Critics of green growth, however, point to a problem with this approach: by alwa
 
 In this chapter, we discuss different directions in IT and computer science that focus on the sustainability of IT itself. There are many terms for movements that have this focus - these are what we call lo-fi directions. But before we delve into the different approaches that don't rely on optimistic projections of developments observed in the past, let's take a look at two incredibly influential models that are often used to interpret IT development: *Moore's Law* and *Gartner's Hype Cycle*.
 
- ![Moore's Law](resources/I_8.1.png "Illustration of "Moore's Law", the exponential development of processing power since the 1960s. Source: Encyclopædia Britannica 2024.")
+![Moore's Law](resources/I_8.1.png "Illustration of "Moore's Law", the exponential development of processing power since the 1960s. Source: Encyclopædia Britannica 2024.")
  
 Moore's law, shown in the figure above, stems from Gordon Moore's 1965 observation that the number of transistors in microchips doubles at a regular pace - roughly every two years in the commonly cited version ([Britannica 2024](https://www.britannica.com/technology/Moores-law)). Moore's law is therefore often summarized as computing power doubling every couple of years. This leads many to assume that the current trend of ever-increasing production and consumption will continue. This assumption is perhaps not surprising as computers as we know them have only been around for 80 years, during a period of remarkable industrial and technological development. But humanity has already crossed some boundaries on a planetary level. 
 

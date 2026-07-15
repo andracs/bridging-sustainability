@@ -20,7 +20,7 @@ Every factual claim is checked against the current state of the art, every chapt
 
 ## 🙏 Thanks
 
-A warm thank you to **[Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)**, the original Danish publisher of *Bæredygtighed i digital praksis*, whose belief in the book made this English edition possible. 
+A warm thank you to **[Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)**, the original Danish publisher of *Bæredygtighed i digital praksis*, whose belief in the book made this English edition possible, by awarding the book a special mention at the Lærebogsprisen (Textbook Prize). Their initial support and recognition have been instrumental in bringing these critical insights on digital sustainability to an international audience. We are deeply grateful for their continued partnership.
 
 ## 🗺️ How the book is built
 

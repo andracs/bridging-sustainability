@@ -65,4 +65,3 @@ The third and final part of the book discusses digital sustainability in society
 - **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [https://andracs.github.io/Sustainable-Digital/](https://andracs.github.io/Sustainable-Digital/). 
 
 We hope that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all live on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
-## Happy reading!

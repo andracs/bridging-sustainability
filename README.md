@@ -64,6 +64,12 @@ The book's counter-narrative chapter. It questions the growth story that frames 
 
 Back to the world most readers work in: organizations that must earn their keep. The premise is that individual good intentions evaporate without structures, so the chapter builds them: governance (accountability, measurement, incentives), the *by IT / of IT* distinction, storytelling as the vehicle that carries strategy through a culture, and sustainable digital entrepreneurship — business model innovation, funding routes, and value chains — illustrated with European twin-transition cases, leadership principles, and honest pitfalls like the Infarm collapse.
 
+# View the narrative of the book 
+
+[![Digital sustainability - Principles and practices](https://github.com/andracs/Digital-sustainability-Principles-and-practices/blob/71e999210cf720063db2eced8b4df25c7f24b989/manuscript/resources/%F0%9F%8C%8D%20Digital%20sustainability%20-%20Principles%20and%20practices.png?raw=true)](https://link.excalidraw.com/p/readonly/VO0zcn4agdKgURMXNcJX)
+
+Click on the image to view the narrative of the book. 
+
 # Contact 
 
 Contact us with comments or requests for coffe ☕️ or 🤖 online meetings:

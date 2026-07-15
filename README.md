@@ -3,7 +3,7 @@
 by András Ács Pedersen and Jesper Balslev.
 
 [![Leanpub](https://img.shields.io/badge/Leanpub-DRM--free_ebook,_free_updates-2ea44f?logo=leanpub&logoColor=white)](https://leanpub.com/sustainable-digital)
-[![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)]([https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0GTJM33D5/))
+[![Amazon](https://img.shields.io/badge/Amazon-Kindle%20&%20Soft%20&%20Hardcover-ff9900)](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0GTJM33D5/)
 [![Samfundslitteratur](https://img.shields.io/badge/Samfundslitteratur-Dansk_udgave_📖-cc0000)](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)
 
 ## 📗 Get the book
@@ -15,7 +15,7 @@ This book turns that leverage into practice. 🌱 It is not a manifesto and not 
 Every factual claim is checked against the current state of the art, every chapter ends with reflection questions, and the whole book is written to one purpose: helping you practice your digital profession more sustainably, starting now.
 
 - 🛒 **[Buy on Leanpub](https://leanpub.com/sustainable-digital)** — DRM-free ebook with **free updates forever**: buy once and receive every future revision as the book evolves.
-- 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/)** — prefer Kindle? The book is there too.
+- 📱 **[Buy on Amazon](https://www.amazon.com/Digital-sustainability-Andr%C3%A1s-%C3%81cs-Pedersen-ebook/dp/B0GTJM33D5/)** — prefer Kindle? The book is there too.
 - 🇩🇰 **[Køb den danske udgave hos Samfundslitteratur](https://samfundslitteratur.dk/bog/baeredygtighed-i-digital-praksis)** — *Bæredygtighed i digital praksis*, den originale danske udgave.
 
 ## 🙏 Thanks

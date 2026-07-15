@@ -58,7 +58,9 @@ The third and final part of the book discusses digital sustainability in society
 
 - **Chapter 8** describes "digital degrowth" as an alternative to traditional growth thinking and reviews examples of it.
   
-- **Chapter 9** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
+- **Chapter 9** is a short, practical introduction to the business-side of digital sustainability.
+
+- **Chapter 10** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
   
 - **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software and hardware as well as networks. You can also access the appendix on the book's Git page: [https://andracs.github.io/Sustainable-Digital/](https://andracs.github.io/Sustainable-Digital/). 
 

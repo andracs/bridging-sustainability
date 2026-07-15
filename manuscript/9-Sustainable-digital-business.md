@@ -1,4 +1,4 @@
-{book: false, sample: false} 
+{book: true, sample: false} 
 # 9. Governing sustainability in digital projects
 
 In the previous chapter we explored movements that question the growth narrative of IT. In this chapter we return to the world most readers work in: companies, organizations and projects that must earn their keep. How do you *govern* digital work so that sustainability is not a poster on the wall but a property of the decisions being made? We look at governance, business models, entrepreneurship and leadership - and at European companies that are trying to make sustainability and digitalization pull in the same direction.

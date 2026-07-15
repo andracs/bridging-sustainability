@@ -1,4 +1,4 @@
-# 🌍 Sustainability in Digital Practice
+# 🌍 Digital sustainability - Principles and practices
 
 by András Ács Pedersen and Jesper Balslev.
 

@@ -5,7 +5,7 @@
 - [ ] Linje 33 x pages
 
 {book: true, sample: true} 
-# 9. Towards a greener, healthier and brighter digital future
+# 10. Towards a greener, healthier and brighter digital future
 
 *"Old ideas got us here"* - from a street-art poster in Copenhagen
 

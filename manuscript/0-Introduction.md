@@ -1,8 +1,8 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
 
-- [ ] Tilføj illustration af bogens struktur
-- [ ] Måske afklare: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
+- [ ] Add an illustration of the structure of the book.
+- [ ] Maybe clarify: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
 - [ ] ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 {book: true, sample: true} 

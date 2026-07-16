@@ -36,9 +36,9 @@ These approaches help analyze and understand everything from natural ecosystems 
 
 Systems thinking is a scientific approach that is particularly well suited to working with both IT and sustainability because it sees the world as a mosaic of interconnected systems that constantly interact and influence each other over time.
 
-## System interactions: video streaming as an example
+## System interactions: Video streaming as an example
 
-![System interactions](resources/I_2.1.png "While it seems easy to click and watch a cat video online, it's only possible thanks to a very complex and well-coordinated collaboration between many designed systems.")
+![System interactions](resources/I_2.1.png "While it seems easy to click and watch a video online, it's only possible thanks to a very complex and well-coordinated collaboration between many designed systems.")
 
 When we click on a link and play a video, we set off a chain reaction and thus an interaction between the many subsystems that together make it possible to watch the video. As shown in the figure, a streaming video connects to different websites, APIs, algorithms, hardware systems, data centers, operating systems, energy systems, supply chains, organizations and individuals. If a single subsystem is missing, you probably wouldn't be able to watch the video.
 

@@ -72,7 +72,7 @@ Europe has seen a wave of tech startups combining digital innovation with green 
 
 No digital product exists alone. Chapter 1 introduced digital ecosystems, and chapter 3 mapped the physical supply chains behind hardware; the entrepreneurial task is to know your own position in these chains. A typical industrial-digital value chain runs from a *device layer* (sensors on equipment), through a *connectivity layer* (networks transmitting data) and a *platform layer* (cloud services storing and organizing it), to an *analytics layer* (models detecting patterns) and an *application layer* (dashboards and feedback to operators). Each layer has its own sustainability profile - and its own dependency risks, which is where the digital sovereignty perspective from chapter 8 re-enters: open standards, open source and lifecycle assessment tools such as openLCA (chapter 5) keep your options open. Stakeholder mapping completes the picture: who, human and non-human, is affected at each layer?
 
-## Sustainability by IT: cases from the European twin transition
+## Sustainability by IT: Cases from the European twin transition
 
 Digital technologies such as AI, IoT and data analytics can help other industries cut their emissions; analyses suggest that digitalization could enable reductions of up to 20% of global emissions by 2030 ([DigitalEurope](https://www.digitaleurope.org/resources/digital-action-climate-action-8-ideas-to-accelerate-the-twin-transition/)). Treat that figure with chapter 2's critical toolkit - reported savings are claims to be examined, not verdicts - but even a fraction of it makes tech entrepreneurs key players in the green transition. Consider what European companies are already doing.
 

@@ -1,4 +1,4 @@
-# Part Two: How to Work with Digital Sustainability?
+# Part two: How to work with digital sustainability?
 
 *Moving from analysis to action, the second part of this book (Chapters 4 through 7) focuses on practical strategies for embedding and advancing sustainability in digital projects. We explore actionable approaches and key questions confronting practitioners today, including:*
 

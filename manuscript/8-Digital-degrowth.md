@@ -112,7 +112,7 @@ The concept of junkyard computing ([Switzer et al. 2023](https://dl.acm.org/doi/
 
 At the University of California, San Diego, researchers are working on junkyard computing in a project that aims to recycle unwanted smartphones ([Switzer et al. 2023](https://dl.acm.org/doi/10.1145/3575693.3575710)). The data warehouse of unused smartphones represents enormous potential. The group's research focus is to find out how to transform a user-optimized, interactive device into a reliable device capable of long-term, unattended operation, for example in the form of web servers, wildlife monitoring sensors or small mobile data centers. The group is developing methods to measure production and operational costs, linking these to economic models and creating a roadmap with old electronic devices. The project tests the ideas on a large scale to empirically establish how to use phones as computers and phones as sensors.
 
-## European alternatives: open source and digital sovereignty
+## European alternatives: Open source and digital sovereignty
 
 Degrowth thinking in IT is not only about hardware and energy - it is also about who controls the digital infrastructure we depend on. Most of the services that dominate European digital life are operated by a handful of non-European hyperscalers, whose business models are built on the growth logic and attention economy criticized throughout this book. In recent years, *digital sovereignty* - the ability of individuals, organizations and states to control their own digital destiny - has therefore become a sustainability argument in its own right: dependencies are fragile, and fragile systems are not sustainable.
 

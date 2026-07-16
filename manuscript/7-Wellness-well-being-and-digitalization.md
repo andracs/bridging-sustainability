@@ -53,7 +53,7 @@ Is the Center for Humane Technology alone with this focus? No, and most readers 
 
 You might think about digital development in the same way as the cars in the post-war era: they became wildly popular and widespread - but they caused many accidents, pollution and environmental disruption. This created the need for a lot of what one might call "negative innovations" (particle filters, noise reduction measures, ABS brakes, parking assistance-technologies), that have to do with the opposite of getting from point A to B quickly.
 
-## The flip side of digitalization: examples of unhappiness in a technological world
+## The flip side of digitalization: Examples of unhappiness in a technological world
 We must acknowledge the growing body of research on potential harms, increase our collective understanding of the risks associated with social media use, and take urgent steps to create safe and healthy digital environments that minimize harm and protect the mental health and well-being of children and youth during their critical developmental stages. ([U.S. Surgeon General 2023](https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf))
 
 In Denmark, the Ministry of Business and Industry has been at the forefront of a showdown with "Big Tech", and the ministry addresses some of the same themes as the American Surgeon General does in the quote above. In 2023, an expert group's recommendations were published in the report "Democratic control of tech giants' business models". 
@@ -86,7 +86,7 @@ It creates distinctions that signal to your peers that you belong to the same se
 The cultural and social capital in the form of educational, cultural and social institutions and the resources they provide must also be available for the next generations.
 But what is the role of digitalization in relation to these SDGs? In what follows, we will share some of the criticisms of IT practices that are thought to directly undermine the SDGs, and we review a number of solutions that attempt to address or prevent the problems digitalization is thought to create in the areas of well-being and health, education, gender equality, economic equality and peace. Some of the solutions are software-based, some rely on individual strategies, while others work on a more systemic level through legislation, developing management models or regulating the networks themselves.
 
-## CSRD: requirements for documentation of sustainability efforts
+## CSRD: Requirements for documentation of sustainability efforts
 In the section above, we highlight the political appetite to regulate in favor of social sustainability, which social media, among other things, has eroded. In the following, we look at how the regulation translates into a very concrete legislative package that will be rolled out in the coming years, namely CSRD - [Corporate Sustainability Reporting Directive](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en). CSRD prescribes that companies must continuously document their ESG efforts. (As noted in chapter 1, the EU's 2025 "Omnibus" simplification package narrowed the directive's scope to the largest companies and postponed its deadlines - but the reporting logic described here remains.) In addition to the environment, ESG reporting focuses on diversity, well-being and health and on social sustainability.
 
 Specifically, this means that large companies must document how they fulfill their social responsibility. They must do this in a transparent and understandable way that makes it easy for investors to assess the company's ability to work with the ESG criteria. This should be done on four levels: in its own workforce, among workers in the value chain, in the communities it touches, and finally among customers and end users.
@@ -156,7 +156,7 @@ Achieving digital well-being is a complex task where it's not just the individua
 
 Before we examine the 'big policy' framework for introducing socially sustainable regulation, we must first address the social problems that have been created by over-digitisation. There is certainly no shortage of issues to address!
 
-## AI and well-being: companions, content and care
+## AI and well-being: Companions, content and care
 
 No recent development changes the well-being landscape faster than generative AI. Where the previous sections dealt with attention-grabbing feeds and manipulative interfaces, AI adds a new layer: systems that talk back. AI companions and chatbots can feel personal, patient and always available, and for some users they provide real support - a low-threshold space to practice conversations or sort through thoughts. But the same qualities create new risks: parasocial relationships with systems optimized for engagement, emotional dependency, and - especially for children and young people - a substitute for, rather than a supplement to, human contact. The design questions raised throughout this chapter apply with full force: is the system loyal to the user's intentions, or to the provider's engagement metrics?
 

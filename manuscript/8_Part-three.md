@@ -1,3 +1,3 @@
-# Part three
+# Part Three
 
-The third and final part of the book discusses sustainability and digitalization from an economic and societal perspective, and summarizes the book with a call for a sustainable digital future. 
+The third and final part of the book examines sustainability and digitalization from economic and societal perspectives. It concludes with a call for a sustainable digital future.

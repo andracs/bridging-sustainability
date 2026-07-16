@@ -1,13 +1,13 @@
-{book: false, sample: false} 
-# 9. Governing sustainability in digital projects
+{book: true, sample: false} 
+# 9. Sustainable digital business
 
-In the previous chapter we explored movements that question the growth narrative of IT. In this chapter we return to the world most readers work in: companies, organizations and projects that must earn their keep. How do you *govern* digital work so that sustainability is not a poster on the wall but a property of the decisions being made? We look at governance, business models, entrepreneurship and leadership - and at European companies that are trying to make sustainability and digitalization pull in the same direction.
+In the previous chapter we explored movements that question the growth narrative of IT. In this chapter we return to the world most readers work in: companies, organizations, and projects that must remain economically viable. How do you *govern* digital work so that sustainability is not a poster on the wall but a property of the decisions being made? We look at governance, business models, entrepreneurship, and leadership, and at European companies that are trying to make sustainability and digitalization pull in the same direction.
 
 ## Why governance matters in digital sustainability
 
 Every chapter so far has ended with things *you* can do: choose efficient languages, repairable hardware, loyal patterns. But individual good intentions evaporate in organizations that measure and reward something else. Governance is the connective tissue between values and behavior: the structures, incentives, policies and decision rights that determine what actually gets built.
 
-The starting question of any digital governance discussion should be disarmingly simple: *What is information technology good for?* If the honest answer for a given project is "engagement", "growth" or "because our competitors have it", the sustainability analysis from chapters 2-4 has not yet been done. Governance for sustainability begins by moving the question from compliance ("what must we document?") to strategy ("what long-term value do we want to create, and for whom?").
+The starting question of any digital governance discussion should be deceptively simple: *What is information technology good for?* If the honest answer for a given project is "engagement", "growth", or "because our competitors have it", the sustainability analysis from chapters 2-4 has not yet been done. Governance for sustainability begins by moving the question from compliance ("what must we document?") to strategy ("what long-term value do we want to create, and for whom?").
 
 This mirrors a broader shift in how companies are evaluated: from short-term profits to long-term value creation. As we saw in chapter 1, the triple bottom line and ESG frameworks extend the definition of performance to people and planet; as we saw in chapter 7, the CSRD makes parts of that reporting mandatory for the largest EU companies. Governance is how an organization turns those external expectations into internal practice.
 
@@ -40,7 +40,7 @@ The distinction matters because organizations love to talk about the first while
 
 Numbers govern budgets, but stories govern attention. Throughout this book we have seen companies - Fairphone, Framework, Velux - use *sustainability stories* to align employees, customers and investors around a direction. Stories are how strategy travels through an organization: "the sustainability journey" is retold in onboarding, sales meetings and investor decks until it becomes culture.
 
-Storytelling is also where governance meets the greenwashing risks of chapter 1. A story that runs ahead of the data is a liability - legally, after the EmpCo directive, and reputationally. The governance task is to keep story and substance coupled: every claim in the narrative should trace back to a measured indicator. Or as one might put it: stories are important, but value propositions are importanter.
+Storytelling is also where governance meets the greenwashing risks of chapter 1. A story that runs ahead of the data is a liability, legally after the EmpCo directive and reputationally as well. The governance task is to keep story and substance coupled: every claim in the narrative should trace back to a measured indicator. Or as one might put it: stories are important, but value propositions matter more.
 
 ### Case story: Combining heating and electrical energy storage in one solution
 
@@ -134,4 +134,4 @@ Sustainability in digital projects does not happen by itself; it requires intent
 
 The distinction between sustainability *by* IT and *of* IT keeps organizations honest: celebrate the emissions your platform saves, but account for the footprint it costs. The European cases show that the twin transition is a genuine business landscape, and the Lancey and Infarm stories show it is an unforgiving one: resilience and operational discipline decide who survives to deliver impact.
 
-Leadership sets direction; governance builds structure; entrepreneurship delivers impact. Whichever of the three is yours to give, the preceding chapters have supplied the tools - and the next, final chapter looks at where the road leads.
+Leadership sets direction; governance builds structure; entrepreneurship delivers impact. Whichever role is yours, the preceding chapters have supplied the tools, and the next, final chapter looks at where the road leads.

@@ -1,13 +1,13 @@
-# Appendix: Best practices for sustainable IT and digitalization 
+# Appendix: Best practices for sustainable IT and digitalization
 
-Designed to support a holistic approach to sustainable IT, these checklists offer a foundation for your organization's digital journey. While not exhaustive, these research-based guidelines are meant to inspire and evolve alongside your work. They address four key areas: overarching design principles, hardware, networks, and software.
-## A. Overarching design principles for sustainable digital solutions 
+Designed to support a holistic approach to sustainable IT, these checklists provide a practical foundation for your organization's digital transition. While not exhaustive, these research-based guidelines are meant to inspire and evolve alongside your work. They address four key areas: overarching design principles, hardware, networks, and software.
+## A. Overarching design principles for sustainable digital solutions
 
 This list can serve as inspiration for _overarching_ sustainability considerations when developing digital solutions.
 
-1. **Sustainability encompasses environment, technology, economy, individual, and society** In addition to being environmentally and climate-friendly, the production and operation of digital products should have positive societal effects and a positive impact on individual users. (See also: [The Karlskrona Manifesto](https://arxiv.org/abs/1410.6968).)
+1. **Sustainability encompasses the environment, technology, the economy, individuals, and society** In addition to being environmentally and climate-friendly, the production and operation of digital products should have positive societal effects and a positive impact on individual users. (See also: [The Karlskrona Manifesto](https://arxiv.org/abs/1410.6968).)
     
-2. **Design circular processes** The "use and throw away" culture is rarely sustainable; a circular economy is a better approach. Digital products should have a "cradle-to-cradle" lifecycle with a goal of close to 0% waste.
+2. **Design circular processes** The "use and throw away" culture is rarely sustainable; a circular economy is a better approach. Digital products should have a "cradle-to-cradle" lifecycle with a goal of getting as close to zero waste as possible.
     
 3. **Use renewable energy** Digital solutions should be based on renewable energy to the greatest extent possible. Explore opportunities for suppliers and customers to also use renewable energy.
     
@@ -15,7 +15,7 @@ This list can serve as inspiration for _overarching_ sustainability consideratio
     
 5. **Take responsibility for the product's full lifecycle** Companies should take responsibility for how their products are produced, used, and disposed of, and how they affect users, the environment, and society. This applies to both physical and digital products.
     
-6. **Follow recognized standards and certifications** There are a number of sustainability standards for software, hardware, and networks, and even more are under development. Consider obtaining certifications that support the organization's goals. This can promote your market position in markets where sustainability is in demand.
+6. **Follow recognized standards and certifications** There are a number of sustainability standards for software, hardware, and networks, and even more are under development. Consider obtaining certifications that support the organization's goals. This can strengthen your position where sustainability is a market priority.
     
 7. **Give users sustainable choices** Software should be designed to inspire and help users make increasingly sustainable choices.
     
@@ -33,7 +33,7 @@ This list can serve as inspiration for _overarching_ sustainability consideratio
 
 This checklist helps you assess hardware solutions with a focus on sustainability. Use it as a practical tool to ask the right questions and make informed choices that benefit the environment, society, and your organization.
 
- **1. Which sustainability standards does the hardware meet, and what certifications does it have?**
+**1. Which sustainability standards does the hardware meet, and what certifications does it have?**
 
 Choose hardware that is certified according to standards that ensure responsible production.
 
@@ -50,7 +50,7 @@ Choose hardware that is certified according to standards that ensure responsible
 
 Compare energy consumption and performance across different products and choose the most effective one.
 
- **4. What is the hardware's expected lifespan?**
+**4. What is the hardware's expected lifespan?**
 
 Prioritize hardware with a long lifespan, but consider technological improvements that might justify upgrades.
 
@@ -58,11 +58,11 @@ Prioritize hardware with a long lifespan, but consider technological improvement
 
 Ensure that spare parts are available and that hardware can be upgraded and repaired to extend its lifespan.
 
-**6. How is 100% recycling of obsolete hardware ensured?**
+**6. How is responsible recycling of obsolete hardware ensured?**
 
 Choose suppliers who offer responsible disposal and recycling of end-of-life products.
 
- **7. Future aspects of the hardware**
+**7. Future aspects of the hardware**
 
 Investigate whether the hardware can be upgraded or repurposed for future needs.
 
@@ -73,7 +73,7 @@ Prioritize suppliers who are working on innovative solutions to reduce environme
 
 ## C. Sustainability principles for *network and cloud*
 
-Use the questions below to set the right requirements for suppliers and solutions – from energy-efficient hardware to the use of renewable energy and intelligent systems. The goal is to ensure eco-friendly operations without compromising security and quality.
+Use the questions below to set the right requirements for suppliers and solutions, from energy-efficient hardware to the use of renewable energy and intelligent systems. The goal is to ensure environmentally responsible operations without compromising security and quality.
 
 **1. What sustainability standards and certifications does the solution have?**
 
@@ -95,7 +95,7 @@ Prioritize data centers that use free cooling or other energy-saving cooling sys
 
 Is it possible to automatically power down resources when they are not in use? Automated systems that optimize resource consumption are preferable.
 
- **6. Is the cybersecurity of the network appropriate?**
+**6. Is the cybersecurity of the network appropriate?**
 
 Do the network and cloud meet the best possible security standards and applicable legislation such as GDPR or NIS2?
 
@@ -123,9 +123,9 @@ We don't need to reinvent the wheel, as we can base our work on established stan
 - [B Corp Certification](https://www.bcorporation.net/).
     
 
- **3. Avoid unsustainable practices**
+**3. Avoid unsustainable practices**
 
-The software should benefit both the individual and the organizations. Avoid "dark patterns" that can be harmful to the software's users. Also, avoid incurring _technical debt_ by using technology that is not durable. Instead, use components that are open for development and future-proof.
+The software should benefit both individuals and organizations. Avoid "dark patterns" that can be harmful to users. Also, avoid incurring _technical debt_ by using technology that is not durable. Instead, use components that are maintainable, extensible, and likely to remain viable over time.
 
 **4. Automate sustainability analyses**
 
@@ -135,13 +135,13 @@ Ensure that automatic measurements benchmark the software's efficiency continuou
     
 - [Green Software Tools on GitHub](https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/)
     
- **5. Guide users towards sustainability**
+**5. Guide users towards sustainability**
 
-Help users make more sustainable choices that benefit both themselves and the future. Have sustainable default settings and use nudging to change user behavior in more sustainable directions. Ensure that users are happy—also in the long run.
+Help users make more sustainable choices that benefit both themselves and the future. Have sustainable default settings and use nudging to change user behavior in more sustainable directions. Ensure that users benefit not only immediately, but also in the long term.
 
 **6. Handle data energy-efficiently**
 
-Build facilities into the software that promote energy-efficient data handling. Be frugal and thrifty regarding the computational resources required.
+Build features into the software that promote energy-efficient data handling. Use computational resources sparingly.
 
 **7. Educate developers continuously in sustainable practices**
 
@@ -149,7 +149,7 @@ All employees should have a basic understanding of the importance of sustainabil
 
 **8. Follow the good old virtues from the long history of software development**
 
-The history of information technology is a loooooong chain of optimization and improvement processes that can contribute to more sustainable software practices. For example:
+The history of information technology is a long chain of optimization and improvement processes that can contribute to more sustainable software practices. For example:
 
 1. **Reduce unnecessary data processing**, because frugal solutions require less energy, and less electronics need to be produced to run them.
     
@@ -163,7 +163,7 @@ The history of information technology is a loooooong chain of optimization and i
     
 6. **Have a plan for continuous updates**, both because it is essential for the security of the software, but also because it can create a better business.
     
-7. **Make the software easy to debug and provide appropriate documentation**; it pays off in the long run.
+7. **Make the software easy to debug and provide appropriate documentation**; this supports long-term maintainability.
     
 8. **Consider optimizing for older hardware**, because in some cases, backward compatibility can pay off.
 

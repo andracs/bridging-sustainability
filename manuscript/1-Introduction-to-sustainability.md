@@ -140,7 +140,7 @@ But why aren't we all working sustainably if it's so sensible? There are several
    
 Let's look at an example from the digital world where these problems can be observed: a smartphone. Using a smartphone has become an everyday occurrence for most people, but this simple everyday device has far-reaching global consequences. Smartphones are made from naturally occurring minerals from different distant places and its parts are manufactured all around the world.
 
-![Smartphones are made of stone](I_1.3.png "It's fascinating to think that a smartphone is made up of refined stones (minerals) extracted from nature and powered by energy from nature. Ultimately, all technology is a collection of minerals and energy. The more circular the production and use of technology becomes, the more sustainable the future can be.")
+![Smartphones are made of stone](resources/I_1.3.png "It's fascinating to think that a smartphone is made up of refined stones (minerals) extracted from nature and powered by energy from nature. Ultimately, all technology is a collection of minerals and energy. The more circular the production and use of technology becomes, the more sustainable the future can be.")
 
 The extraction of minerals used in smartphones involves pollution, child labor, deforestation, and health problems associated with working in mines in Africa. Assembly line work in Asia may involve poor working conditions. Last but not least, the applications that run on smartphones can have a bad impact on its users. But this is not something we often think about. Because owning a smartphone has become commonplace, it's hard to think about the long-term and global consequences, because it's relatively vague and far removed from our own reality. So it's easier not to think about it.
 
@@ -218,7 +218,7 @@ Although our society has access to plenty of energy and materials from many diff
 
 But how could that be done? Let's identify some concepts about energy and materials that are essential to our approach to sustainable digital.
 
-![Energy can be transformed but not disappear.](I_1.4.png "The sun's thermal energy is converted through a chain of processes - the wind's kinetic energy, the wind turbine's mechanical energy and then electrical energy - into calculations and output in the computer. The computer outputs the energy as thermal energy, which often requires additional energy to cool the electronic components. A circular approach to energy consumption can reduce energy waste and improve sustainability.")
+![Energy can be transformed but not disappear.](resources/I_1.4.png "The sun's thermal energy is converted through a chain of processes - the wind's kinetic energy, the wind turbine's mechanical energy and then electrical energy - into calculations and output in the computer. The computer outputs the energy as thermal energy, which often requires additional energy to cool the electronic components. A circular approach to energy consumption can reduce energy waste and improve sustainability.")
 
 Energy cannot appear out of nothing, nor can it disappear on its own. However, the energy that exists in the world can be transformed from one form to another. This is one of the fundamental laws of physics: energy cannot disappear — it can only be transformed. The figure illustrates how energy from the sun’s rays is transformed into different types of energy that eventually power your computer:
 
@@ -246,7 +246,7 @@ Nature teaches us that sustainable systems are built on different cycles: cycles
 
 The amount of water is essentially the same in the system - no new water is added and no water is lost from the system, as vapor forms solid crystals in the cold, higher layers of the atmosphere and falls back to the earth's surface as rain. There is a continuous flow in the global cycle. Climate change does not add water to this system, but it intensifies and redistributes the cycle — which is why some regions are experiencing more flooding while others face more drought.
 
- ![Data center](I_1.5.png "Data centers can operate sustainably by using renewable energy, reusing waste heat and ensuring hardware and materials are recycled. Circular solutions reduce resource consumption and contribute to a more sustainable future.")
+ ![Data center](resources/I_1.5.png "Data centers can operate sustainably by using renewable energy, reusing waste heat and ensuring hardware and materials are recycled. Circular solutions reduce resource consumption and contribute to a more sustainable future.")
  
 Life on Earth is based on circular and regenerative processes, as shown in the figure. For thousands of years, our ancestors followed the rhythm of nature: planting, fertilizing, harvesting, and beginning the cycle again year after year. Not all production was circular, but with fewer people on the planet, natural resources such as water, forests, oil, and iron seemed inexhaustible. New supplies could always be found. Today, however, those supplies are under serious pressure. The human population has grown, and we are consuming more of the Earth's resources at a rate that is pushing us toward and past planetary boundaries.
 
@@ -261,7 +261,7 @@ Fossil fuels (coal, oil, and gas) cannot be considered sustainable energy source
 Unfortunately, despite these warnings, we continue to extract fossil fuels from the Earth's crust and burn them for energy. This process releases CO2 and other greenhouse gases as a kind of waste that we leave behind in nature. More specifically, we leave CO2 in the air, where it will remain for millennia, forming a kind of "blanket" that warms the Earth. CO2 itself is not toxic - the problem is the increasing volume of emissions that are heating up the planet. If we could simply recycle greenhouse gases and store them underground, we wouldn't be facing the climate crisis we are today (but we may face new problems underground.) 
 
 You may have noticed how water starts to swirl, bubble, and move when it boils. A similar phenomenon occurs in our atmosphere as it heats up-the air behaves differently, moving faster and more violently. The same is true of the oceans.
- ![Climate change](I_1.6.png "Climate change has far-reaching global consequences. The illustration from IPCC, the Intergovernmental Panel on Climate Change, shows some of the areas expected to be affected by climate change. ")
+ ![Climate change](resources/I_1.6.png "Climate change has far-reaching global consequences. The illustration from IPCC, the Intergovernmental Panel on Climate Change, shows some of the areas expected to be affected by climate change. ")
 
 Unfortunately, all the evidence points to global warming as a serious threat to the potential for a good life in the future - for everyone on the planet, including humans, plants and animals. The figure illustrates the extent to which climate change is driven by human actions, and the consequences that these changes have already had or may have in the future.
 
@@ -275,7 +275,7 @@ Eliminating the use of fossil fuels and the resulting greenhouse gas emissions i
 
 Take a gasoline-powered car as an example. We can easily observe its direct emissions: we fill the car with fossil fuel, it burns, and CO2 is released along with other gases through the exhaust pipe. But the car is responsible for far more emissions than just those from combustion. Its indirect emissions include those generated during the production, transportation and eventual disposal of the vehicle. In fact, these indirect emissions can account for a significant portion of the car's total environmental impact.
 
-![Scopes](I_1.7.png "Overview of scope 1, 2 and 3 emissions: direct and indirect greenhouse gas emissions in the company's value chain, as defined by the GHG Protocol. Source: Reproduced with permission from Climaider.com.")
+![Scopes](resources/I_1.7.png "Overview of scope 1, 2 and 3 emissions: direct and indirect greenhouse gas emissions in the company's value chain, as defined by the GHG Protocol. Source: Reproduced with permission from Climaider.com.")
 
 When calculating the CO2 emissions of a product, service, or company, we can categorize the emissions using the Greenhouse Gas Protocol (GHG Protocol). This framework helps quantify both direct and indirect emissions resulting from a company's activities. The GHG Protocol distinguishes between three types of CO2 emissions (Confederation of Danish Industry, 2022), as shown in the figure: 
 
@@ -287,7 +287,7 @@ When calculating the CO2 emissions of a product, service, or company, we can cat
 
 The three scopes of the GHG Protocol are used by organizations and companies to assess and report their direct and indirect contributions to greenhouse gas emissions. These emissions can be tracked over time, and ideally, as shown in the figure, there should be a steady decline in emissions year after year.
 
-![EU reductions](I_1.8.png "The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
+![EU reductions](resources/I_1.8.png "The EU must reduce its climate impact by 55% by 2030, and reductions must continue in the future. In 2024, the EU countries' adopted climate policy was four percentage points too low. Source: dr.dk.")
 The ultimate goal is to reach zero CO2 emissions within a few decades, and even then we might have to bind additional CO2 from the atmosphere. Europe's growth strategy, the European Green Deal has a goal of becoming climate neutral by 2050 ([European Commission 2024b](https://reform-support.ec.europa.eu/what-we-do/green-transition_en)), but global ambitions are generally lower. 
 
 It is worth recalling that the global community has already succeeded in stopping a major environmental disaster: the destruction of the ozone layer. Through a united global effort and strong international cooperation, humanity helped prevent a global ecological catastrophe. If we managed it once, we can do it again and help save the climate.
@@ -391,7 +391,7 @@ Another term that often comes into play in this context is CSR (corporate social
 ### Circular economy: from cradle-to-grave to cradle-to-cradle
 As you read earlier in this chapter, sustainability is often linked to various cycles of materials and energy, for example. If we want sustainable organizations, it is necessary to view organizational processes as circular processes. As shown in the figure below, the traditional linear business model for industry and services takes resources from nature and uses them in production, and the resources will eventually end up as waste. Unfortunately, this business model is responsible for many of the environmental problems we see today. We can no longer afford a "use-and-throw-away" mentality, but must instead aim for a circular economy.
 
-![Circular economy](I_1.9.png "Linear economy creates waste through a 'use and throw away' model, while circular economy focuses on the life cycle of resources. By prioritizing design that considers the entire product lifecycle, reuse and recycling, we can reduce environmental impact and make production and consumption more sustainable.")
+![Circular economy](resources/I_1.9.png "Linear economy creates waste through a 'use and throw away' model, while circular economy focuses on the life cycle of resources. By prioritizing design that considers the entire product lifecycle, reuse and recycling, we can reduce environmental impact and make production and consumption more sustainable.")
 
 According to the Ellen MacArthur Foundation, circular economy can be defined as a system where *"materials never become waste and nature is regenerated"*. In a circular economy, products and materials are kept in circulation through processes such as maintenance, reuse, refurbishment, remanufacturing, recycling and composting. The circular economy tackles climate change and other global challenges, such as biodiversity loss, waste and pollution, by decoupling economic activity from the consumption of finite resources. ([Ellen MacArthur Foundation 2024](https://www.ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview)) Note the word *regenerated* in this definition: an ambitious circular economy is not only about minimizing harm, but about regenerative practices that leave ecosystems and communities in a better state than we found them - a theme we will return to throughout the book.
 

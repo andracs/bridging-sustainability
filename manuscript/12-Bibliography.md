@@ -108,7 +108,7 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **European Commission** (2024b). Green Transition. https://reform-support.ec.europa.eu/what-we-do/green-transition_en
 
-- **European Commission** (2024c). Corporate sustainability reporting. https://finance.ec.europa.eu/financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en
+- **European Commission** (2024c). Corporate sustainability reporting. https://perma.cc/N888-WJXA 
 
 - **European Commission** (n.d.). Europe's Digital Decade: digital targets for 2030. https://perma.cc/6V5M-R9WB
 

@@ -210,7 +210,7 @@ You can make a difference in the system development process, if you manage to se
 
 - What stories can we tell that show that software is good for the world in the long run?
 
-### Green coding , programming and prompting
+### Green coding, programming and prompting
 After the initial stages of the SDLC, the practical development work, where the solution is programmed, also involves a number of considerations that can promote sustainable digital development. For example, which programming languages to use.
 
 ![Energy efficiency of programming languages](resources/I_5.3.png "Using charts like this (Gordillo et al. 2024), developers can make more sustainable programming language choices based on energy consumption. Low-level languages like C and C++ are the most energy efficient, while higher-level languages like Ruby and Python consume more energy and therefore require extra focus on optimization. Note: Overviews like this are based on estimates and performance can vary significantly depending on language versions and specific implementations.")

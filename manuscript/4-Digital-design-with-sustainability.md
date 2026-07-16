@@ -81,9 +81,9 @@ Finally, the _Sustainable and Regenerative_ pillar pushes beyond merely minimizi
 
 Achieving this broad perspective, Lutz suggests, requires designers to continuously shift their focus — zooming in and out — across three critical scales:
 
-* Local impacts ←→ Global systems
-* Immediate user experience ←→ Full product lifecycle
-* Historical context ←→ Future consequences
+* Local impacts - Global systems
+* Immediate user experience - Full product lifecycle
+* Historical context - Future consequences
 
 Effective Life-centered design involves balancing these perspectives. It seeks solutions that function appropriately within their local context while considering global implications. Similarly, it requires navigating the potential trade-offs between optimizing immediate user experience and ensuring long-term sustainability across the product's entire lifecycle. This also involves learning from past precedents while explicitly designing for future resilience and adaptation.
 
@@ -122,7 +122,7 @@ User experience (UX) design focuses on creating digital products that provide me
 The goal of UX is to make product experiences intuitive, efficient, and satisfying on a technological, economic, and individual level. UX is an effective method for increasing user satisfaction, but it also has the inherent weakness that it can focus one-sidedly on the (selfish) needs of the individual and downplay the sustainability dimensions (e.g. social, economic, or technical) of the product.
 
 UX design uses tools such as *wireframes, prototypes, user testing, personas, user journeys* and other similar tools to understand and improve the user's experience. These tools are used to try to predict and model what experiences users expect and appreciate from a product or product portfolio.
-![Personas](resources/I_4.2.png "An example of a persona, a tool for the empathic part of the design process. Source of illustrations: colourbox.com.")
+![Personas](resources/I_4.2.png "An example of a persona, a tool for the empathic part of the design process.")
 "Personas" are fictional characters that represent typical users and their needs, goals and behavioral patterns, as shown on the left side of the figure above. The creation of personas is based on user research and data. These fictional people are described very specifically with name, age, occupation, hobbies and preferences, with the goal of giving the designer an indication of who will interact with the products. Decisions in the design process are continuously weighed up against these personas to assess how the different design initiatives will affect the customers' user experiences.
 
 According to UX designer Sandy Dähnert from the company Green the Web, the basic work with personas can be extended by creating non-human and non-user personas that can represent the sustainability aspects of the product (as exemplified on the right side of the previous figure). Dähnert has added Mother Earth, a metaphor for the globe, as a persona in her design process ([Dähnert 2021a](https://greentheweb.com/mother-nature-as-a-persona-for-more-sustainability-in-user-research-incl-template/)). The purpose of the exercise is for the designer to test the impact of their design ideas on nature. 
@@ -191,13 +191,12 @@ Consider visiting a website: data is retrieved from a server, which consumes sub
 A large portion of the energy consumed during a web request stems from the *backend infrastructure*, network transfer, and device operation – factors largely independent of the frontend's visual design or interactive elements. This means that while optimizing frontend performance and data transfer is valuable, it likely influences only a minor portion of the total system-wide energy consumption. Understanding the energy consumption in complex systems is key to prioritizing sustainability efforts effectively. 
 
 #### Web Sustainability Guidelines (WSG)
-The interconnections between design, development, infrastructure, and sustainability are detailed comprehensively in the [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) developed by the World Wide Web Consortium (W3C)[^WSG]. 
-
-[^WSG]: As of 2026, version 1.0 of this document remains a W3C draft, but it already shows good examples of work on sustainability and web design. Find a link to the document at https://github.com/andracs/Sustainable-Digital.
+The interconnections between design, development, infrastructure, and sustainability are detailed comprehensively in the [Web Sustainability Guidelines (WSG)](https://w3c.github.io/sustainableweb-wsg/) developed by the World Wide Web Consortium (W3C). 
 
 The WSG provides extensive advice and best practices for creating web solutions that are both environmentally sound and socially responsible, aiming to minimize carbon footprints, optimize resource use, and ensure the long-term sustainability of web projects (W3C WSG). 
 
 The specification (still in draft) includes over 90 distinct guidelines covering user experience, web development, hosting, and business practices. While many align with the principles discussed throughout this book, space permits highlighting only key areas addressed by the WSG:
+
 
 **UX Design**
 * Prioritize lightweight designs and concise, well-crafted content.

@@ -1,9 +1,9 @@
 {book: false, sample: false} 
 # TODO THIS CHAPTER 
 
-- [ ] Tilføj illustration af bogens struktur
-- [ ] Måske afklare: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
-- [ ] The book is open for comment, discussion, and revision on Codeberg. We invite readers to contribute to the book's development and to help improve these best practices through the repository.
+- [ ] Add an illustration of the structure of the book.
+- [ ] Maybe clarify: Digital transformation Digital transition Digitalization Digitzation Digital development Holistic approach
+- [ ] ... and the hence the book is commentable, debatable and editable on Codeberg. We would like to invite you to contribute to the book's development and further improvements of the best practices on the above link. The content of the book and the appendix is open to discussion and editing on GitHub, and readers are invited to submit feedback and comments to the repository.
 
 {book: true, sample: true} 
 # 0. Introduction
@@ -61,11 +61,10 @@ The third and final part of the book discusses digital sustainability in society
 
 - **Chapter 8** describes "digital degrowth" as an alternative to traditional growth thinking and reviews examples of it.
   
-- **Chapter 9** discusses sustainable digital business, governance, and entrepreneurship in the context of the twin transition.
+- **Chapter 9** is a short, practical introduction to the business-side of digital sustainability.
 
-- **Chapter 10** summarizes the book and hands over the baton to the reader with the goal of putting what you have learned into practice.
+- **Chapter 10** summarizes the book and hands over the baton to the reader with the goal of putting what you've learned into practice.
   
 - **The appendix** contains checklists and best practices that can be applied directly to digital development projects for software, hardware, and networks. You can also access the appendix on the book's project page: [https://andracs.github.io/Sustainable-Digital/](https://andracs.github.io/Sustainable-Digital/).
 
 We hope that the following chapters will inspire and motivate you to embrace or invent digital practices that promote a sustainable future for us all, because we all live on the same planet and we all have the potential to make the future better for ourselves and each other with digital technologies. 
-## Happy reading!

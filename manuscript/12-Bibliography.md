@@ -14,7 +14,8 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **Andre**, P., Boneva, T., Chopra, F. et al. (2024). Globally representative evidence on the actual and perceived support for climate action. Nature Climate Change, 14(3), 253-259. https://doi.org/10.1038/s41558-024-01925-3
 
-- **Angela** (2023). Sticking with Cobalt Blue. Fairphone, March 2. https://www.fairphone.com/en/2023/03/02/sticking-with-cobalt-blue/
+- **Angela** (2023). Sticking with Cobalt Blue. Fairphone, March 2.
+https://perma.cc/D2QZ-65DD 
 
 - **Apple** (2024). Apple 2030 - A plan as innovative as our products. https://www.apple.com/environment/
 
@@ -116,7 +117,8 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **European Environment Agency** (2021/2023). Growth without economic growth. https://perma.cc/3M86-4KEC
 
-- **European Environment Agency** (2024). Pesticides in rivers, lakes and groundwater in Europe. https://www.eea.europa.eu/en/analysis/indicators/pesticides-in-rivers-lakes-and
+- **European Environment Agency** (2024). Pesticides in rivers, lakes and groundwater in Europe.
+
 
 - **European Urology Focus** (2023). Telemedicine and carbon savings: a systematic review. https://www.eu-focus.europeanurology.com/article/S2405-4569(23)00272-9/abstract
 
@@ -124,19 +126,23 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **Flyverbom**, M. (2023). "Foreword". In Democratic control of tech giants' business models. Ministry of Business and Industry: 4-5. https://em.dk/Media/638259804674509194/anbefalinger-fra-tech-ekspertgruppe.pdf
 
-- **Forskningsportal.dk** (2025). https://forskningsportal.dk/green-research/
+- **Forskningsportal.dk** (2025).
+https://forskningsportal.dk/green-research/
 
-- **Foxconn suicides** (2024). In Wikipedia. https://perma.cc/3F9L-JKFW
+- **Foxconn suicides** (2024). In Wikipedia. 
+https://perma.cc/3F9L-JKFW
 
 - **Framework** (n.d.). Website. https://frame.work/sustainability (accessed 23.01.25).
 
-- **Frank**, L. (2023). Truslen fra rummet (27/02/2023). 24 spørgsmål til professoren (Podcast). https://www.weekendavisen.dk/podcast/24sporgsmaal
+- **Frank**, L. (2023). Truslen fra rummet (27/02/2023). 24 spørgsmål til professoren (Podcast).
+https://www.weekendavisen.dk/podcast/24sporgsmaal
 
 - **Franklin**, U. (1998). The Real World of Technology (5th edition). Canadian Broadcasting Corporation.
 
-- **Freewheeling Apps** (n.d.). Website. http://akkartik.name/freewheeling-apps (accessed 24.06.24).
+- **Freewheeling Apps** (n.d.). Website.
+http://akkartik.name/freewheeling-apps (accessed 24.06.24).
 
-- **Gartner** (2024). Gartner Hype Cycle Research Methodology. https://www.gartner.com/en/research/methodologies/gartner-hype-cycle (accessed 03.11.24).
+- **Gartner** (2024). Gartner Hype Cycle Research Methodology.
 
 - **Georgiou**, S., Kechagia, M., Louridas, P. and others (2018). What are Your Programming Language's Energy-Delay Implications? 2018 IEEE/ACM 15th International Conference on Mining Software Repositories (MSR), 303-313. https://doi.org/10.1145/3196398.3196414
 
@@ -146,7 +152,8 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **Gordillo**, A., Calero, C., Moraga, M.Á. et al. (2024). Programming languages ranking based on energy measurements. Software Quality Journal, 1-42.
 
-- **Green claims** (2025). European Commission. https://perma.cc/D2W3-ZCR2 (accessed 03.03.25).
+- **Green claims** (2025). European Commission.
+https://perma.cc/D2W3-ZCR2 (accessed 03.03.25).
 
 - **Green Software Foundation** (2024a). SCI Specification Achieves ISO Standard Status. https://perma.cc/6ZCJ-S473
 
@@ -206,7 +213,8 @@ Several online sources are included in the bibliography. Unless otherwise stated
 
 - **Life-Centred Design Lab** (2024). Our Framework. A Life-centred Design Framework to Design a Healthier World and Future for All Life. https://lifecentred.design/framework/
 
-- **Low-tech Magazine** (n.d.). About. https://solar.lowtechmagazine.com/about/
+- **Low-tech Magazine** (n.d.). About.
+https://solar.lowtechmagazine.com/about/
 
 - **Lowe, D**. (2012). Eroom's Law. Science, March 8. https://www.science.org/content/blog-post/eroom-s-law
 

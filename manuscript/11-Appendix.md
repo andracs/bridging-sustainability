@@ -100,7 +100,7 @@ Is it possible to automatically power down resources when they are not in use? A
 
 **6. Is the cybersecurity of the network appropriate?**
 
-Do the network and cloud meet the best possible security standards and applicable legislation such as GDPR or NIS2?
+Do the network and cloud meet the best possible security standards and applicable legislation such as the GDPR or NIS2 in the EU, or their local equivalents?
 
 
 ## D. Sustainability principles for *software*

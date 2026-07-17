@@ -28,7 +28,9 @@ Digital technology is far from sustainable right now, and it will not become sus
 Design is key: sustainability must be built into digital products from the very beginning. It cannot be retrofitted. So the question becomes: *How can we develop digital products and solutions in increasingly sustainable ways?*
 
 ### Written by dedicated academics 
-This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on digital sustainability that goes beyond superficial clichés. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms.
+This book is written by two dedicated academics from Denmark who are active in research and teaching in the fields of IT and digital communication. Jesper Balslev and András Ács Pedersen identified a pressing need for literature on digital sustainability that goes beyond superficial clichés. Their goal is to provide a methodical and thorough review of how digital actors can engage with sustainability and how they can approach this work in concrete terms. 
+
+This international edition of the book is written from a European vantage point — where much of today's sustainability regulation originates — but its concepts, methods and reflections apply to digital practice anywhere in the world.
 
 As the book was originally written in Danish for the publisher [Samfundslitteratur](https://samfundslitteratur.dk/), some of the references are in languages other than English. References that are not in English are not linked directly from the text, but can be found in the bibliography. 
 

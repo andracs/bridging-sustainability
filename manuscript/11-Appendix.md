@@ -1,3 +1,5 @@
+{book: true, sample: true} 
+
 # Appendix: Best practices for sustainable IT and digitalization
 
 Designed to support a holistic approach to sustainable IT, these checklists provide a practical foundation for your organization's digital transition. While not exhaustive, these research-based guidelines are meant to inspire and evolve alongside your work. They address four key areas: overarching design principles, hardware, networks, and software.

@@ -1,3 +1,4 @@
+{book: true, sample: true} 
 # Part three: Sustainability in digitalized organisations
 
 The third and final part of the book examines sustainability and digitalization from economic and societal perspectives. 
